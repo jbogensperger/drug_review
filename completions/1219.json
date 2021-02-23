@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1219001,
-   "lead_time": 10.0,
+   "lead_time": 1908.835,
    "result": [
     {
      "from_name": "label",
@@ -31,6 +31,48 @@
       ],
       "start": 115,
       "text": "ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "O6hFhQ7WSZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "KETAMINE S-ISOMER."
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_N7KiYFMAX",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "SPECIAL K"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Ndpb3E6Q_N",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 68,
+      "text": "S-KET"
      }
     }
    ]

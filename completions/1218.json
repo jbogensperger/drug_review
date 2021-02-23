@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1218001,
-   "lead_time": 10.0,
+   "lead_time": 1878.638,
    "result": [
     {
      "from_name": "label",
@@ -73,6 +73,76 @@
       ],
       "start": 564,
       "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "sIDosvVgTT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 229,
+      "labels": [
+       "Drug"
+      ],
+      "start": 224,
+      "text": "Thai "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "UwoSSf5N56",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 242,
+      "labels": [
+       "Drug"
+      ],
+      "start": 231,
+      "text": "Pure Afghan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "B8e9BG_FxE",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 596,
+      "labels": [
+       "Drug"
+      ],
+      "start": 585,
+      "text": "Pure Afghan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "xVkN8vsFFm",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 583,
+      "labels": [
+       "Drug"
+      ],
+      "start": 578,
+      "text": "Thai "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "wetMrAyKsp",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 555,
+      "labels": [
+       "Drug"
+      ],
+      "start": 548,
+      "text": "Hybrid "
      }
     }
    ]

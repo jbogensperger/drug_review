@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1159001,
-   "lead_time": 10.0,
+   "lead_time": 764.645,
    "result": [
     {
      "from_name": "label",
@@ -17,20 +17,6 @@
       ],
       "start": 17,
       "text": "Hash"
-     }
-    },
-    {
-     "from_name": "label",
-     "id": "79afa356-495e-4a49-8572-ac40df77d7c7",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 104,
-      "labels": [
-       "Drug"
-      ],
-      "start": 94,
-      "text": "Greenhouse"
      }
     }
    ]

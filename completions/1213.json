@@ -3,20 +3,62 @@
   {
    "created_at": 1614084099,
    "id": 1213001,
-   "lead_time": 10.0,
+   "lead_time": 1800.349,
    "result": [
     {
      "from_name": "label",
-     "id": "1bf9c0ac-0874-4a8e-8883-a1a730054aa9",
+     "id": "hy_d3Xt2r3",
      "to_name": "text",
      "type": "labels",
      "value": {
-      "end": 15,
+      "end": 69,
       "labels": [
        "Drug"
       ],
-      "start": 8,
-      "text": "Dinafem"
+      "start": 62,
+      "text": "Indica "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bULAXfEUfQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 145,
+      "labels": [
+       "Drug"
+      ],
+      "start": 135,
+      "text": "Remo Chemo"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "P_SMB5YJbZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 160,
+      "labels": [
+       "Drug"
+      ],
+      "start": 150,
+      "text": "Remo Chemo"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "SzEkpIIn7e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "Remo. Chemo"
      }
     }
    ]

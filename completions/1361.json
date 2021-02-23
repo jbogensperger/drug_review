@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1361001,
-   "lead_time": 10.0,
+   "lead_time": 585.065,
    "result": [
     {
      "from_name": "label",
@@ -31,6 +31,20 @@
       ],
       "start": 348,
       "text": "Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "NcktPU6imz",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 56,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "Fentayl freebase"
      }
     }
    ]

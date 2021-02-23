@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1379001,
-   "lead_time": 10.0,
+   "lead_time": 728.746,
    "result": [
     {
      "from_name": "label",
@@ -17,6 +17,34 @@
       ],
       "start": 264,
       "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ulKp2q-1FO",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 667,
+      "labels": [
+       "Drug"
+      ],
+      "start": 655,
+      "text": "Cannabutter "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "yL5gyS_bN4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 691,
+      "labels": [
+       "Drug"
+      ],
+      "start": 681,
+      "text": "WTF Hybrid"
      }
     }
    ]

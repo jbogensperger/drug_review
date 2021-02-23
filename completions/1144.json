@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1144001,
-   "lead_time": 10.0,
+   "lead_time": 681.474,
    "result": [
     {
      "from_name": "label",
@@ -31,6 +31,20 @@
       ],
       "start": 115,
       "text": "alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "WQUgu-Er6x",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "GG249 "
      }
     }
    ]

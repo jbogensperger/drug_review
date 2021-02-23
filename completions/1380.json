@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1380001,
-   "lead_time": 10.0,
+   "lead_time": 765.588,
    "result": [
     {
      "from_name": "label",
@@ -73,6 +73,62 @@
       ],
       "start": 272,
       "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "qYqOLSezoH",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 228,
+      "labels": [
+       "Drug"
+      ],
+      "start": 222,
+      "text": "Hybrid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "rcA40Jo7nq",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 257,
+      "labels": [
+       "Drug"
+      ],
+      "start": 245,
+      "text": "Skywalker OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5pFtO8a4SN",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 271,
+      "labels": [
+       "Drug"
+      ],
+      "start": 259,
+      "text": " Platinum OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2qJgInqpS3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 470,
+      "labels": [
+       "Drug"
+      ],
+      "start": 464,
+      "text": "Skunk "
      }
     }
    ]

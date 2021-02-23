@@ -3,9 +3,36 @@
   {
    "created_at": 1614084099,
    "id": 1333001,
-   "lead_time": 10.0,
+   "lead_time": 277.619,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "0vwJQnmFz6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "2 c - B"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "J0WPvXP15F",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 81,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "2 c - B"
+     }
+    }
    ]
   }
  ],

@@ -3,9 +3,22 @@
   {
    "created_at": 1614084099,
    "id": 1155001,
-   "lead_time": 10.0,
+   "lead_time": 745.701,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "xEVeV6bhyn",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Ketamine hcl"
+     }
+    }
    ]
   }
  ],

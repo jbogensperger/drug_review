@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1229001,
-   "lead_time": 10.0,
+   "lead_time": 2099.894,
    "result": [
     {
      "from_name": "label",
@@ -59,6 +59,20 @@
       ],
       "start": 98,
       "text": "benzodiazepine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "SkztxC4jQK",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "ANTENEX "
      }
     }
    ]

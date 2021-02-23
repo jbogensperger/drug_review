@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1272001,
-   "lead_time": 10.0,
+   "lead_time": 2730.715,
    "result": [
     {
      "from_name": "label",
@@ -115,6 +115,34 @@
       ],
       "start": 740,
       "text": "SPEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "49HMG8HsFF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "coffeine "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c0YfHApJnN",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 85,
+      "labels": [
+       "Drug"
+      ],
+      "start": 75,
+      "text": "ephedrine "
      }
     }
    ]

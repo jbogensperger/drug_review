@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1255001,
-   "lead_time": 10.0,
+   "lead_time": 2420.372,
    "result": [
     {
      "from_name": "label",
@@ -17,6 +17,20 @@
       ],
       "start": 221,
       "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Xz2_qU01nf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "BLOWs "
      }
     }
    ]

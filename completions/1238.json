@@ -3,9 +3,22 @@
   {
    "created_at": 1614084099,
    "id": 1238001,
-   "lead_time": 10.0,
+   "lead_time": 2204.954,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "5RpVeTWKJj",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Mandy "
+     }
+    }
    ]
   }
  ],

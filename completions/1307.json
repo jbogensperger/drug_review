@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1307001,
-   "lead_time": 10.0,
+   "lead_time": 40.68,
    "result": [
     {
      "from_name": "label",
@@ -45,6 +45,20 @@
       ],
       "start": 707,
       "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "42x13Z5-0o",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Orange Krush"
      }
     }
    ]

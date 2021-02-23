@@ -3,9 +3,22 @@
   {
    "created_at": 1614084099,
    "id": 1256001,
-   "lead_time": 10.0,
+   "lead_time": 2431.46,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "RPSVfTiNeT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Larry OG"
+     }
+    }
    ]
   }
  ],

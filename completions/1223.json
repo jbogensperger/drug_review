@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1223001,
-   "lead_time": 10.0,
+   "lead_time": 2004.213,
    "result": [
     {
      "from_name": "label",
@@ -17,6 +17,48 @@
       ],
       "start": 12,
       "text": "HYDROCODONE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "zIIRWQ_HHz",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "NORCO "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "t5A6Hyl4RX",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "10 -325"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "YM-HsuX-9C",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "10-325"
      }
     }
    ]

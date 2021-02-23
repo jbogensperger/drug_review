@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1206001,
-   "lead_time": 10.0,
+   "lead_time": 1719.812,
    "result": [
     {
      "from_name": "label",
@@ -17,6 +17,20 @@
       ],
       "start": 57,
       "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "mbY6Y-scwC",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": " ORION OG"
      }
     }
    ]

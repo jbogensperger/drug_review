@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1383001,
-   "lead_time": 10.0,
+   "lead_time": 806.071,
    "result": [
     {
      "from_name": "label",
@@ -101,6 +101,20 @@
       ],
       "start": 380,
       "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "J4akM92lvt",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 240,
+      "labels": [
+       "Drug"
+      ],
+      "start": 227,
+      "text": "Cannabinoids "
      }
     }
    ]

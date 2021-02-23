@@ -3,9 +3,22 @@
   {
    "created_at": 1614084099,
    "id": 1312001,
-   "lead_time": 10.0,
+   "lead_time": 143.729,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "-ENnzZWTu7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "crystal methamphetamine"
+     }
+    }
    ]
   }
  ],

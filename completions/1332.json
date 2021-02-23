@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1332001,
-   "lead_time": 10.0,
+   "lead_time": 269.519,
    "result": [
     {
      "from_name": "label",
@@ -17,20 +17,6 @@
       ],
       "start": 5,
       "text": "amesia haze"
-     }
-    },
-    {
-     "from_name": "label",
-     "id": "dc029646-7a54-4f40-91bf-324cbc472def",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 40,
-      "labels": [
-       "Drug"
-      ],
-      "start": 25,
-      "text": "Blue Volkswagen"
      }
     },
     {

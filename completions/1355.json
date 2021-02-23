@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1355001,
-   "lead_time": 10.0,
+   "lead_time": 526.594,
    "result": [
     {
      "from_name": "label",
@@ -17,6 +17,20 @@
       ],
       "start": 51,
       "text": "mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "JHMnMKqOtv",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "molly "
      }
     }
    ]

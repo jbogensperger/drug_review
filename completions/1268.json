@@ -3,36 +3,8 @@
   {
    "created_at": 1614084099,
    "id": 1268001,
-   "lead_time": 10.0,
+   "lead_time": 2694.104,
    "result": [
-    {
-     "from_name": "label",
-     "id": "614be83e-4eb0-4337-ac95-3b4a73af6167",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 79,
-      "labels": [
-       "Drug"
-      ],
-      "start": 64,
-      "text": "Methylphenidate"
-     }
-    },
-    {
-     "from_name": "label",
-     "id": "e9edc11e-52d9-4a8d-858e-eca2ff2f5366",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 99,
-      "labels": [
-       "Drug"
-      ],
-      "start": 81,
-      "text": "isopropylphenidate"
-     }
-    },
     {
      "from_name": "label",
      "id": "b4c1b26e-a8e6-4410-9b06-e4de3cfa1727",
@@ -171,6 +143,20 @@
       ],
       "start": 559,
       "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8tXC4vNRPg",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 99,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "Methylphenidate. isopropylphenidate"
      }
     }
    ]

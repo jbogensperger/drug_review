@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1211001,
-   "lead_time": 10.0,
+   "lead_time": 1759.787,
    "result": [
     {
      "from_name": "label",
@@ -31,6 +31,20 @@
       ],
       "start": 141,
       "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "I7cGGnF5qs",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 122,
+      "text": "girl scout cookies"
      }
     }
    ]

@@ -3,9 +3,22 @@
   {
    "created_at": 1614084099,
    "id": 1182001,
-   "lead_time": 10.0,
+   "lead_time": 1043.073,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "ttNYTNnjwr",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "Grape Cookies Gelato 33"
+     }
+    }
    ]
   }
  ],

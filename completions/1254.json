@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1254001,
-   "lead_time": 10.0,
+   "lead_time": 2401.191,
    "result": [
     {
      "from_name": "label",
@@ -87,6 +87,20 @@
       ],
       "start": 71,
       "text": "NYCD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ZBGInfAFQl",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "White Widow"
      }
     }
    ]

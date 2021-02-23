@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1231001,
-   "lead_time": 10.0,
+   "lead_time": 2134.527,
    "result": [
     {
      "from_name": "label",
@@ -73,6 +73,20 @@
       ],
       "start": 132,
       "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "hMrfZsmZYZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "K - 56"
      }
     }
    ]

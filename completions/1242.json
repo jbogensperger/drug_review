@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1242001,
-   "lead_time": 10.0,
+   "lead_time": 2246.491,
    "result": [
     {
      "from_name": "label",
@@ -45,6 +45,34 @@
       ],
       "start": 102,
       "text": "Norco"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "afYSUXVb7V",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 84,
+      "labels": [
+       "Drug"
+      ],
+      "start": 78,
+      "text": "325\/10"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "FbWy0AL_4U",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "3601 "
      }
     }
    ]

@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1308001,
-   "lead_time": 10.0,
+   "lead_time": 54.975,
    "result": [
     {
      "from_name": "label",
@@ -185,6 +185,20 @@
       ],
       "start": 726,
       "text": "Neobes"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "n7BrTzr7cQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 622,
+      "labels": [
+       "Drug"
+      ],
+      "start": 598,
+      "text": "Anfepromona amfepramonum"
      }
     }
    ]

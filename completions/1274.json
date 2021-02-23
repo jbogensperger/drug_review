@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1274001,
-   "lead_time": 10.0,
+   "lead_time": 2772.013,
    "result": [
     {
      "from_name": "label",
@@ -31,6 +31,48 @@
       ],
       "start": 417,
       "text": "Durban Poison"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ZDGu8MW9GU",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "Platinum Girl Scout Cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "45J2SC0NFh",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 72,
+      "text": "indica "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-QtEYon--_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 677,
+      "labels": [
+       "Drug"
+      ],
+      "start": 650,
+      "text": "Platinum Girl Scout Cookies"
      }
     }
    ]

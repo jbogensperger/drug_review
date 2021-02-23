@@ -3,9 +3,22 @@
   {
    "created_at": 1614084099,
    "id": 1261001,
-   "lead_time": 10.0,
+   "lead_time": 2610.647,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "9O7v5hXT3k",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "opioids "
+     }
+    }
    ]
   }
  ],

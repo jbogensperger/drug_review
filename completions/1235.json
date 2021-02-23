@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1235001,
-   "lead_time": 10.0,
+   "lead_time": 2184.15,
    "result": [
     {
      "from_name": "label",
@@ -59,6 +59,20 @@
       ],
       "start": 28,
       "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "QBHDV1OoL4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "hybrid "
      }
     }
    ]

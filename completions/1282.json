@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1282001,
-   "lead_time": 10.0,
+   "lead_time": 3039.032,
    "result": [
     {
      "from_name": "label",
@@ -17,20 +17,6 @@
       ],
       "start": 40,
       "text": "Winstrol"
-     }
-    },
-    {
-     "from_name": "label",
-     "id": "566b356e-4623-437b-baf9-708d08494b3b",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 97,
-      "labels": [
-       "Drug"
-      ],
-      "start": 87,
-      "text": "Stanozolol"
      }
     },
     {
@@ -87,6 +73,48 @@
       ],
       "start": 557,
       "text": "Winstrol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Jq2Aihc846",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 83,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "Winstrol Depot"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "j8VQDnwK7v",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "Stanozolol Depot"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "opNH00etQZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 227,
+      "labels": [
+       "Drug"
+      ],
+      "start": 218,
+      "text": "Winstrol "
      }
     }
    ]

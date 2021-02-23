@@ -3,22 +3,8 @@
   {
    "created_at": 1614084099,
    "id": 1171001,
-   "lead_time": 10.0,
+   "lead_time": 921.672,
    "result": [
-    {
-     "from_name": "label",
-     "id": "079829bc-d6fc-4234-ab48-46936d2d8400",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 314,
-      "labels": [
-       "Drug"
-      ],
-      "start": 290,
-      "text": "trimethoxyphenethylamine"
-     }
-    },
     {
      "from_name": "label",
      "id": "74b8e173-6539-40be-b44f-6dda43d9d698",
@@ -31,6 +17,48 @@
       ],
       "start": 8,
       "text": "peyote"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "vbsIBDbLjT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 278,
+      "labels": [
+       "Drug"
+      ],
+      "start": 268,
+      "text": "mescaline "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4FSLxKQ1dZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 314,
+      "labels": [
+       "Drug"
+      ],
+      "start": 278,
+      "text": "3 , 4 , 5 - trimethoxyphenethylamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "D4luyspKxN",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 391,
+      "labels": [
+       "Drug"
+      ],
+      "start": 384,
+      "text": "peyote "
      }
     }
    ]

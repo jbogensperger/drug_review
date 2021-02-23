@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1111001,
-   "lead_time": 10.0,
+   "lead_time": 299.994,
    "result": [
     {
      "from_name": "label",
@@ -45,6 +45,34 @@
       ],
       "start": 482,
       "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "TTc-7ey8NH",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 85,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "G3722 "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "IUxx42B_ch",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 500,
+      "labels": [
+       "Drug"
+      ],
+      "start": 494,
+      "text": "benzo "
      }
     }
    ]

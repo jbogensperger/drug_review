@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1214001,
-   "lead_time": 10.0,
+   "lead_time": 1814.324,
    "result": [
     {
      "from_name": "label",
@@ -87,6 +87,34 @@
       ],
       "start": 358,
       "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "xdCzaE3yRZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 215,
+      "labels": [
+       "Drug"
+      ],
+      "start": 209,
+      "text": "benzos"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2dhAi2b7Z9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 409,
+      "labels": [
+       "Drug"
+      ],
+      "start": 400,
+      "text": "Aprazolam"
      }
     }
    ]

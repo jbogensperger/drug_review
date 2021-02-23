@@ -3,9 +3,36 @@
   {
    "created_at": 1614084099,
    "id": 1176001,
-   "lead_time": 10.0,
+   "lead_time": 996.604,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "3sPseeBxJU",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "Methylphenidate Hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "XI1fWp7xd2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 161,
+      "labels": [
+       "Drug"
+      ],
+      "start": 153,
+      "text": "Rubifen "
+     }
+    }
    ]
   }
  ],

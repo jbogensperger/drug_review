@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1286001,
-   "lead_time": 10.0,
+   "lead_time": 3079.822,
    "result": [
     {
      "from_name": "label",
@@ -17,20 +17,6 @@
       ],
       "start": 37,
       "text": "Lorazepam"
-     }
-    },
-    {
-     "from_name": "label",
-     "id": "921de3df-90ae-4038-af68-ec581384394e",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 57,
-      "labels": [
-       "Drug"
-      ],
-      "start": 51,
-      "text": "Ativan"
      }
     },
     {
@@ -59,6 +45,20 @@
       ],
       "start": 328,
       "text": "Lorazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ABHwdUmTo2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "Ativan "
      }
     }
    ]

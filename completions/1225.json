@@ -3,34 +3,20 @@
   {
    "created_at": 1614084099,
    "id": 1225001,
-   "lead_time": 10.0,
+   "lead_time": 2024.971,
    "result": [
     {
      "from_name": "label",
-     "id": "ffa4f67a-352b-4cc3-83e0-7bb919aeee1f",
+     "id": "mAGli31EU_",
      "to_name": "text",
      "type": "labels",
      "value": {
-      "end": 71,
+      "end": 3,
       "labels": [
-       "Drug"
+       "None"
       ],
-      "start": 65,
-      "text": "Ativan"
-     }
-    },
-    {
-     "from_name": "label",
-     "id": "a9fd5dbb-63b0-4397-90e7-58d75ca3b690",
-     "to_name": "text",
-     "type": "labels",
-     "value": {
-      "end": 151,
-      "labels": [
-       "Drug"
-      ],
-      "start": 145,
-      "text": "Ativan"
+      "start": 0,
+      "text": "We "
      }
     }
    ]

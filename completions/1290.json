@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1290001,
-   "lead_time": 10.0,
+   "lead_time": 3134.831,
    "result": [
     {
      "from_name": "label",
@@ -31,6 +31,20 @@
       ],
       "start": 108,
       "text": "meth"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0BCir03nzB",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 137,
+      "labels": [
+       "Drug"
+      ],
+      "start": 132,
+      "text": "meth "
      }
     }
    ]

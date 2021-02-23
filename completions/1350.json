@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1350001,
-   "lead_time": 10.0,
+   "lead_time": 466.955,
    "result": [
     {
      "from_name": "label",
@@ -115,6 +115,20 @@
       ],
       "start": 499,
       "text": "FENTANYL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5PW9PwhALb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 206,
+      "labels": [
+       "Drug"
+      ],
+      "start": 198,
+      "text": "ADDERAL "
      }
     }
    ]

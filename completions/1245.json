@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1245001,
-   "lead_time": 10.0,
+   "lead_time": 2308.676,
    "result": [
     {
      "from_name": "label",
@@ -45,6 +45,34 @@
       ],
       "start": 69,
       "text": "Acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "O54gPPepG3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 110,
+      "labels": [
+       "Drug"
+      ],
+      "start": 106,
+      "text": "512 "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8k4SzkhJro",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 142,
+      "labels": [
+       "Drug"
+      ],
+      "start": 138,
+      "text": "4839"
      }
     }
    ]

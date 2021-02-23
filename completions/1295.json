@@ -3,9 +3,22 @@
   {
    "created_at": 1614084099,
    "id": 1295001,
-   "lead_time": 10.0,
+   "lead_time": 3232.07,
    "result": [
-
+    {
+     "from_name": "label",
+     "id": "5ss5BiiIFY",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Chem Dog"
+     }
+    }
    ]
   }
  ],

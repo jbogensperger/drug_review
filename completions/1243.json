@@ -3,7 +3,7 @@
   {
    "created_at": 1614084099,
    "id": 1243001,
-   "lead_time": 10.0,
+   "lead_time": 2273.207,
    "result": [
     {
      "from_name": "label",
@@ -255,6 +255,76 @@
       ],
       "start": 484,
       "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "OpHcFGpVOr",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 484,
+      "labels": [
+       "Drug"
+      ],
+      "start": 473,
+      "text": "Canabidiol "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e7mjMkv4QD",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 361,
+      "labels": [
+       "Drug"
+      ],
+      "start": 350,
+      "text": "Canabidiol "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "mv3mOdeRqj",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 213,
+      "labels": [
+       "Drug"
+      ],
+      "start": 202,
+      "text": "Canabidiol "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "wjAwnTlcVo",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 502,
+      "labels": [
+       "Drug"
+      ],
+      "start": 499,
+      "text": "CBG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "KdLeW7n9E1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 91,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "THCV "
      }
     }
    ]
