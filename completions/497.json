@@ -1,0 +1,159 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 497001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cb9cbd25-8536-40e8-8a3d-316b9ecf122a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 266,
+      "labels": [
+       "Drug"
+      ],
+      "start": 224,
+      "text": "C17 phenylpropionate ester of testosterone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b62c78c5-b5db-4aef-a184-41152fdcdfc5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Testosterone phenylpropionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "532df810-9c41-4e5f-89e4-69773b590836",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 87,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "testosterone phenpropionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c3d25746-2adb-4b60-bec4-70a04232c07a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 131,
+      "labels": [
+       "Drug"
+      ],
+      "start": 104,
+      "text": "testosterone hydrocinnamate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7ecb1b3e-f722-400a-90cc-abfe345a0eea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 204,
+      "labels": [
+       "Drug"
+      ],
+      "start": 190,
+      "text": "androgen ester"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "365ae7c3-f358-4f53-8671-4ef23fdb882e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 490,
+      "labels": [
+       "Drug"
+      ],
+      "start": 461,
+      "text": "Testosterone phenylpropionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "61e2c2f6-1a36-464c-9c3c-6f58a922c81d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "Testolent"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c9fccd87-f8a5-49b6-ae60-b3fdb119ef43",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 178,
+      "labels": [
+       "Drug"
+      ],
+      "start": 171,
+      "text": "steroid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3cf69a31-f6ed-41d4-b35b-55e1ef3ef769",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 531,
+      "labels": [
+       "Drug"
+      ],
+      "start": 523,
+      "text": "Sustanon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "78323110-bd98-48d1-9df6-4ab65694d622",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 544,
+      "labels": [
+       "Drug"
+      ],
+      "start": 536,
+      "text": "Omnadren"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Testosterone phenylpropionate BAN brand name Testolent , or testosterone phenpropionate , also known as testosterone hydrocinnamate , is a synthetic anabolic - androgenic steroid AAS and an androgen ester specifically , the C17 phenylpropionate ester of testosterone which was formerly marketed in Romania. It was first reported in the scientific literature in 1955 and was an ingredient of several isolated AAS commercial products , but was never widely used. Testosterone phenylpropionate was also notably a component of Sustanon and Omnadren. We guaranteed reship 100 if we lost parcel during shipping but we need evidences. Almost 999 are received safe in EU.",
+  "dream_id": 239566,
+  "golden": true,
+  "name": "Testosterone Phenylpropionate EU 1000g",
+  "p_id": 2513
+ },
+ "id": 497
+}

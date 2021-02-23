@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 58001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d0d1b351-589e-4bcd-be02-81159665de75",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 75,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fb10172f-90d5-4664-b4b1-0ec5351e4136",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "Levamisole"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d704dcb3-6e23-4167-840b-86c5c3a8c238",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 157,
+      "labels": [
+       "Drug"
+      ],
+      "start": 148,
+      "text": "ephedrine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "NEW BATCH IN. THE BEST EVER. 35 g 8 ball Colombian pure uncut shiny flakes cocaine with no active cuts. Good for IV use and cooking. Levamisole and ephedrine free.",
+  "dream_id": 198471,
+  "golden": false,
+  "name": "3.5g (8ball) shiny flakes UNCUT 100% PURE COCAINE",
+  "p_id": 70
+ },
+ "id": 58
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 496001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0162d258-a823-4656-b3fd-002f332ffe9c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 112,
+      "labels": [
+       "Drug"
+      ],
+      "start": 104,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 1 \/ 2 oz 142 g \/ half ounce of AAAA grade , medicinal - quality , organically grown cannabis. The images shown are of the exact product you wil receive. Check. for more images to drool over. Shipping notes. Most packages ship on the day of purchase or the day after. Delays beyond this will be relayed to the buyer ASAP. Larger orders always ship first. Tracking numbers are not provided by default , but an ETA should always be provided. We retain tracking for all packages but prefer not to reveal it as it is a minor OPSEC breach.",
+  "dream_id": 215518,
+  "golden": true,
+  "name": "Gorilla Glue 1\/2 oz (14.2g)",
+  "p_id": 245
+ },
+ "id": 496
+}

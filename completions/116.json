@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 116001,
+   "lead_time": 580.79,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "Xpnab9mWtv",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "WHITE RHINO"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Ql1UeL1blC",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "KUSH "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "WHITE RHINO INDOOR KUSH TOP QUALITY. WHAT DO WE PROVIDE. 1 The Best Prices Available ,. We will match or beat any other domestic price. 2 Perfect Customer Service ,. We will respond to ALL messages within 24 hours. 3 We always test our products before we offer it. 4 We ship orders in the most of the time on the Same day. 5 Packages will fit through any standard letter box. NOTE Presently buyers are requested to FE all orders with us and we offer tracking for all bulk orders. Email JocelynRichardsairorgKIK. ID alfaninja. Wickr alphaninja.",
+  "dream_id": 431668,
+  "golden": false,
+  "name": "1LB WHITE RHINO INDOOR KUSH (TOP QUALITY)",
+  "p_id": 4525
+ },
+ "id": 116
+}

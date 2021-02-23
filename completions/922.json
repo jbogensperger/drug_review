@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 922001,
+   "lead_time": 2157.512,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fcd4afb8-db49-4185-a30d-8489cbf7f1f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9a9c18f5-d3f3-48e3-a0a7-19af01ce0c07",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "Diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d531bdaf-567c-47ef-a298-05dcf5b1c894",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 111,
+      "labels": [
+       "Drug"
+      ],
+      "start": 105,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "adaecd3e-6e8c-4de4-80ff-92688d545e07",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 353,
+      "labels": [
+       "Drug"
+      ],
+      "start": 338,
+      "text": "benzodiazepines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "67b87011-b44f-4900-ba17-09a21a31aa46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 480,
+      "labels": [
+       "Drug"
+      ],
+      "start": 474,
+      "text": "benzos"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7KOPon3b0o",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 167,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "benzo "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "gDKp97zgng",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 237,
+      "labels": [
+       "Drug"
+      ],
+      "start": 230,
+      "text": "benzos "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Valium 10 mg x 15 Blistered strip of 15 high quality European Diazepam. Wo nt find better strength 10 mg Valium anywhere else. Once the most commonly prescribed benzo possibly still is. It tends to last the longest out of all the benzos , 6 - 8 hours or more with a half life up to over 200 hours. It has a bioavaiability of 90 like most benzodiazepines. It is typically prescribed by doctors for use in long term anxiety support and is also used to taper people from other benzos.",
+  "dream_id": 21624,
+  "golden": false,
+  "name": "15 x Valium 10mg Galenika",
+  "p_id": 514
+ },
+ "id": 922
+}

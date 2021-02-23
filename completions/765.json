@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 765001,
+   "lead_time": 158.054,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1cabf576-8c36-47d6-b731-8f9657bfdcae",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7cddb11-1bf8-4d14-a174-d7376fb14935",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "df8cf783-a923-49ac-96f4-845c4cb82d6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 93,
+      "labels": [
+       "Drug"
+      ],
+      "start": 88,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cb0d2d1c-19f8-4f0f-9133-783ebf54ef5f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 197,
+      "labels": [
+       "Drug"
+      ],
+      "start": 192,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3c0a2261-3c10-43f3-86d9-0d7172dabc41",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 670,
+      "labels": [
+       "Drug"
+      ],
+      "start": 665,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c4900012-5700-4eed-bb79-ab5eca06f9f6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 735,
+      "labels": [
+       "Drug"
+      ],
+      "start": 725,
+      "text": "Alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PrNZ_-6kcu",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 141,
+      "labels": [
+       "Drug"
+      ],
+      "start": 126,
+      "text": "benzodiazepines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "WTwT5n7Dsm",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 825,
+      "labels": [
+       "Drug"
+      ],
+      "start": 820,
+      "text": "PU 66"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Alprazolam Xanax is a prescription medicine that slows down the central nervous system. Xanax is as well recognized among the benzodiazepines. It is an anti-panic and anti-anxiety medication. Xanax is helpful to ease tenseness , nervousness , and worry related with nervousness disorders. It works by affecting the part of the brain that controls the emotions , thereby slowing down the nervous system. It has a fast onset of action and symptomatic relief and is mostly used as an anxiolytic drug commonly used to treat anxiety , panic attacks and insomnia. These are slow release tablets , which makes the effect last for a longer period. Produced by Pfizer Brand Xanax Blue Pentagons XR Extended release. Active ingredient Alprazolam Strength 2mg \/ tablet. Appearance. Blue pentagon shaped hard tablet , film - coated PU 66 imprint on one side , no imprint on other side. These are in lose packing , and comes as 50 tabs with 2 mg \/ tab.",
+  "dream_id": 402519,
+  "golden": false,
+  "name": "Xanax, Pentagons XR from Pfizer, 2mg\/tab - 50 tabs",
+  "p_id": 196
+ },
+ "id": 765
+}

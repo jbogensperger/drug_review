@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 819001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "79556f1b-305b-48aa-ac3e-6cdf21cfb394",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7a858b6a-a0f5-4757-81fe-4d302877ec8e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 148,
+      "labels": [
+       "Drug"
+      ],
+      "start": 140,
+      "text": "diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9bcb5c1b-b9e7-4c89-ba2b-5b11968f10a6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 100,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "GG249s"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2 mg alprazolam x 50 Press is not quite to the standard of press of our previous offering the GG249s but they do the job nicely. 2 mg 40 mg diazepam.",
+  "dream_id": 349929,
+  "golden": false,
+  "name": "\"XANAX 2mg alprazolam bars \"\"R039\"\" x50\"",
+  "p_id": 342
+ },
+ "id": 819
+}

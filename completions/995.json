@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 995001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "528fdaa1-862a-4647-aa17-47afddda277b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Delysid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Delysid The Original - Bay - Area Needlepoint 110ug 25 Hits.",
+  "dream_id": 315102,
+  "golden": false,
+  "name": "\"\"\"Delysid: The Original\"\" - 110ug x25\"",
+  "p_id": 606
+ },
+ "id": 995
+}

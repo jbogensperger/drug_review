@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 332001,
+   "lead_time": 1179.421,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "SeDmfvEWim",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 257,
+      "labels": [
+       "Drug"
+      ],
+      "start": 251,
+      "text": "speed "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aoqlWI5wJO",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 214,
+      "labels": [
+       "Drug"
+      ],
+      "start": 208,
+      "text": "speed "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Produced with Chinese A oil , high standards in regarding purity and made by Dutch Labs. Take half the dosage which you are used to before consuming normal dose , it s very strong. Here we have a very potent speed with a very strong smell to it. This speed is very clean and will keep you going for a long time. Very good for study , work , party , or even household chores. You will lose 20 - 25 of the weight if you dry it.",
+  "dream_id": 113454,
+  "golden": false,
+  "name": "2.5 Gram Speed Paste Amphetamine 74% Pure ",
+  "p_id": 117
+ },
+ "id": 332
+}

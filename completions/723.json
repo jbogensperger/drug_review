@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 723001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "921064ea-d3af-48d0-a84c-304beb48d6fc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d6f3baa3-55c1-45a3-83bc-07300316a2b2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fca05541-66f4-4d1f-ab2d-3bcc4148090a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 65,
+      "labels": [
+       "Drug"
+      ],
+      "start": 61,
+      "text": "Dope"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "421864a9-2b7b-47f7-a31f-9b95dddceadd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 91,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "Weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 Gramm. Amnesia Haze NL Import. Coffeshop Weed. Very nice. Dope. Very big Buds. BEST Weed from NL BEST QUALITY BEST SERVICE FAST SHIPPING 1 DAY IN GERMANY. Please send your address in the following order. Name Street Postal code \/ City. Country.",
+  "dream_id": 285671,
+  "golden": false,
+  "name": "10gr Amnesia Haze NL Import CoffeshopWeed",
+  "p_id": 403
+ },
+ "id": 723
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1210001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ec1ee47c-73b7-4b4b-ae23-376b9bcf1bb2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Clenbuterol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cerberus Pharma Clenbuterol 40 mcg x 50 tablets.",
+  "dream_id": 179510,
+  "golden": false,
+  "name": "Cerberus Pharma Clenbuterol 40mcg x 50 tablets",
+  "p_id": 855
+ },
+ "id": 1210
+}

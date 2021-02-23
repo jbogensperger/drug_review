@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 650001,
+   "lead_time": 5097.346,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "377e48ed-b61e-4cee-bd43-51d4568f9161",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "Subosxone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cfa57969-3814-4a0f-bab3-a7daae406633",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "Buphenorphine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "EB1iiaHuoX",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "155 "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "u9dLKiRySW",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 189,
+      "labels": [
+       "Drug"
+      ],
+      "start": 185,
+      "text": "155 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing a Subosxone Tablet Actavis 155 10 - Tablets Buphenorphine 8mg \/ 2mg. Tablet is White Round. 1st side of tablet has an actavis symbol , the opposite side has the numbers 155 imprinted on it.",
+  "dream_id": 285804,
+  "golden": false,
+  "name": "Suboxone 8mg (10 -Tablets) 155 Actavis Buprenorphi",
+  "p_id": 321
+ },
+ "id": 650
+}

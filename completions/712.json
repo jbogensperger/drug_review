@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 712001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "99d7ea94-7568-48b2-b72e-3a493feec5a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7874f64b-bd42-4094-82db-17615f885c08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 105,
+      "labels": [
+       "Drug"
+      ],
+      "start": 101,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f06228e0-d49a-46db-b445-f9bba688c3b8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 127,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "de56557c-9777-4caa-9c23-791984528fd7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 348,
+      "labels": [
+       "Drug"
+      ],
+      "start": 340,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3319ecf0-01f5-4fe7-80a9-02ec35d7c845",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 392,
+      "labels": [
+       "Drug"
+      ],
+      "start": 388,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9bc76247-1a9c-4155-92bf-15464d8883bd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 528,
+      "labels": [
+       "Drug"
+      ],
+      "start": 524,
+      "text": "kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Indoor , best Coffeeshop quality. Vanilla Kush brings out creamy vanilla flavors in this pure indica Kush. The mother is a hash plant from Kashmir , a valley in the Himalayas of the northwestern Indian subcontinent. This region is a traditional hashmaking region , and the mother plant is a landrace variety of high quality coming from the cannabis motherlands. The cross is with a Hindu Kush father , a landrace strain of Afghanistan origin. When combined , these two heritage strains created a flavorful and highly potent kush. This offer is for 7 gramm. Need more information. Just write a message.",
+  "dream_id": 111103,
+  "golden": false,
+  "name": "Vanilla Kush 7g",
+  "p_id": 391
+ },
+ "id": 712
+}

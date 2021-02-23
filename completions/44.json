@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 44001,
+   "lead_time": 1203.567,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dd2c9b05-fec1-4268-ae1f-23f94264347b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "Oxymetholone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Z6bEQ2Cwp4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "ANADROL "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pharmaceutical name ANADROL ANDROLIC Raw Material. Oxymetholone Manufacturer. BRITISH DISPENSARY. Pack 100 x 50 mg tabs.",
+  "dream_id": 385595,
+  "golden": false,
+  "name": "ANADROL (ANDROLIC)",
+  "p_id": 55
+ },
+ "id": 44
+}

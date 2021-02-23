@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1095001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "82651db1-ef2f-40b8-bd8b-271f6d36fccd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Clomid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Clomid 50 mg \/ 50 caps. New Zealand domestic. Free shipping. Any questions feel free to contact me on wickr genxnz.",
+  "dream_id": 319259,
+  "golden": false,
+  "name": "Gen-Pharma Clomid 50mg \/ 50 caps (free shippin",
+  "p_id": 726
+ },
+ "id": 1095
+}

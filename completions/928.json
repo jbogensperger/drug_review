@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 928001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "82124486-6398-46cc-84ae-a9fe113501db",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 493,
+      "labels": [
+       "Drug"
+      ],
+      "start": 490,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "068fad2a-c3b2-4958-8ad4-d1246ed56b9b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 759,
+      "labels": [
+       "Drug"
+      ],
+      "start": 754,
+      "text": "Canna"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "New Organic Double Medicated Snickerdoodle Cookies 100 mg each. Only 250 for 12 packs of 5 cookies YourMomsBox favorite Organic Double Medicated Snickerdoodle Cookies. Our expert Master Culinary experts in medicated edibles put lots of love and years of experience into each and every one of these delicious , heavily medicated cookies. A favorite at the office , our kitchens is pumping these out on a 24 \/ 7 365 day a year rotation. We design our cookies for people that consume a lot of THC. We first started making our edibles for cancer patients to deal with their pain. All of our edibles are made with love. We use all high end kosher ingredients. A lot of are edibles are gluten free. We hope you enjoy what we have to offer. Ingredients Organic Canna - butter made from WTF strain , Organic cane sugar , organic eggs , Organic vanilla extract , Organic Flour , Cream of tarter , Baking soda , Salt , Organic cinnamon and Lots of love.",
+  "dream_id": 322992,
+  "golden": false,
+  "name": "Snickerdoodle Cookies.Only$250 (x12 (5pks))",
+  "p_id": 521
+ },
+ "id": 928
+}

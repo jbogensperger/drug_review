@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 990001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bdf6e7ab-416b-4289-b828-10d5dff34418",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pharmacy grade 100 original. 10,000 x Xanax bars 2 mg. Picture is random.",
+  "dream_id": 221020,
+  "golden": false,
+  "name": "Private UX",
+  "p_id": 601
+ },
+ "id": 990
+}

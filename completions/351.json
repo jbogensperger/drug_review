@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 351001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0cba0508-ce37-4241-adbc-1262770f21a6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "hashish"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2g top quality hand pressed King Hassain hashish 10 Free uk post.",
+  "dream_id": 19905,
+  "golden": false,
+  "name": "2g hand pressed King Hassain hash+10% Free uk post",
+  "p_id": 140
+ },
+ "id": 351
+}

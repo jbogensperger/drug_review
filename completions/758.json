@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 758001,
+   "lead_time": 496.89,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "96ca31db-7015-4150-be2b-f0a8ef6479ab",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Morphine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "SZMbcTe9Qc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "opioid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Morphine is an very strong opioid used for xtreme pain.",
+  "dream_id": 335350,
+  "golden": false,
+  "name": " 60mg Morphine Sulfate   (2 Pills)",
+  "p_id": 170
+ },
+ "id": 758
+}

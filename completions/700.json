@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 700001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ac8bafb9-e7d1-4b1a-90e6-7d650ed4395c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "18g High Quality Meth Imported from USA. Same high quality product thats legendary across all markets in USA and Australia. Order with confidence knowing your order will be sent out same day and will arrive safely with no delays. Promotion Includes free Express Shipping StarTrack Express.",
+  "dream_id": 428698,
+  "golden": false,
+  "name": "18g Meth Ice Glass Shards Austalia Domestic Import",
+  "p_id": 378
+ },
+ "id": 700
+}

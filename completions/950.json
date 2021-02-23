@@ -1,0 +1,145 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 950001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3b59d592-cac3-44b4-923a-98f74baab177",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "oxycodone hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "06b044f3-3ff2-474e-a313-dd7eab6ba268",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 156,
+      "text": "Oxycodone Hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fd53efbd-52e7-4594-964f-5c57d1b4cb08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 317,
+      "labels": [
+       "Drug"
+      ],
+      "start": 294,
+      "text": "oxycodone hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f6c25561-5f7f-4df2-82ac-86e514dcba6e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "13afe7df-58ed-4c98-8760-56975489858c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "Percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c94c26a8-5d58-4297-981e-782e700d1ab8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 101,
+      "text": "acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "740475eb-6237-4938-9a1f-d67fe8ddfc8d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 135,
+      "text": "Percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "48f978e0-595b-4829-ac0e-42436dfcf696",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 197,
+      "labels": [
+       "Drug"
+      ],
+      "start": 184,
+      "text": "Acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "41a4a78d-18c1-4d2a-ab6d-3e6f6704e615",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 335,
+      "labels": [
+       "Drug"
+      ],
+      "start": 322,
+      "text": "acetaminophen"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Percocet \/ 10 m g Pressed. Percocet Prescribing Information Generic Name oxycodone hydrochloride and acetaminophen. Dosage Form tablet Percocet Description Oxycodone Hydrochloride and Acetaminophen is available in tablets for oral administration. Each tablet for oral administration , contains oxycodone hydrochloride and acetaminophen in the following strengths. Prescribing Information FDA.",
+  "dream_id": 256779,
+  "golden": false,
+  "name": "1 Percocet \/ 10 mg) Pressed",
+  "p_id": 548
+ },
+ "id": 950
+}

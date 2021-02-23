@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1318001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fba0af4c-9b1e-4fa9-91ea-297125603c92",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 136,
+      "labels": [
+       "Drug"
+      ],
+      "start": 129,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "his product from Costa Rica has a high quality. we have tested at 90 quality. it shines like a diamond and has a strong odor and cocaine much oil precentage. the stunned tasty well and gives you a nice feeling what you were looking for. we break this stuff straight off the block nice and fresh. order quickly with us so that you become a regular customer for us because nowhere else will you find this quality. escobar shop.",
+  "dream_id": 265198,
+  "golden": false,
+  "name": "0,5 gr Crystal Cocain 90% + Escobar-Shop AAA+++",
+  "p_id": 976
+ },
+ "id": 1318
+}

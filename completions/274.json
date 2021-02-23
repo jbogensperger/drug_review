@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 274001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dd1e1157-1684-4fa1-94e5-bc2f37e7a39a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ab2e33ec-b8c1-49c6-98c4-2679607df8a8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 158,
+      "labels": [
+       "Drug"
+      ],
+      "start": 152,
+      "text": "Valium"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We are back Offering TOP Generics. This listing is for 60 Counts Valium 10 mg Generic Fresh Product Imported from India. Sealed Stuff Best Price. Roche Valium or Any Quality. Generic will be shipped. We Source Best available product. We do nt get same brands all times , It depends on availability.",
+  "dream_id": 383606,
+  "golden": true,
+  "name": "Valium 10mg (Diazepam) x 60 Pills USA-USA Domesti",
+  "p_id": 1560
+ },
+ "id": 274
+}

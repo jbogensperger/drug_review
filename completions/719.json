@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 719001,
+   "lead_time": 527.575,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "abf9dc2b-2ad5-4513-a3e6-d48bd3acf261",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OxyContin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7LrDt6cjH3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 126,
+      "labels": [
+       "Drug"
+      ],
+      "start": 121,
+      "text": "OP 40"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OxyContin is used in treatment of chronic pain this pill can be swallowed , snorted , or shot up by needle. PILL IMPRINT OP 40.",
+  "dream_id": 56665,
+  "golden": false,
+  "name": "(3)   15mg _____OxyContin______ out of stock",
+  "p_id": 398
+ },
+ "id": 719
+}

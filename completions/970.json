@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 970001,
+   "lead_time": 585.017,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c2362f05-65e5-4f06-83d6-74456765d6d4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "o6GnAy4TW3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 107,
+      "labels": [
+       "Drug"
+      ],
+      "start": 103,
+      "text": "30 M"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Oxycodone is used in the treatment of chronic pain and belongs to the drug class narcotic. pill imrint 30 M schedule 2 controlled substance.",
+  "dream_id": 259444,
+  "golden": false,
+  "name": "OUT OF STOCK 1 x 3   Oxycodone Hydrochloride 30mg ",
+  "p_id": 572
+ },
+ "id": 970
+}

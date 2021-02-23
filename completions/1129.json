@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1129001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "598c239d-fc12-444b-abca-0ffe51bfcec1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 x 50 MILLIGRAM THC INFUSED LOLLIPOPS PICK YOUR FLAVOR DEFAULT IS 25 CHERRY , 25 GRAPE , 25 ORANGE , 25 BUBBLEGUM. USING THE BEST SOUR DIESEL EXTRACT. HANDS DOWN THE BEST TASTING EATABLES ON THE DARKNET. TAKE 45 - 120 MINS TO KICK IN. LIGHT SMOKERS SHOULD START WITH HALF.",
+  "dream_id": 371790,
+  "golden": false,
+  "name": "100x THC LOLLIPOPS, PICK YOUR FLAVOR  ",
+  "p_id": 752
+ },
+ "id": 1129
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 23001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c376a5ea-8353-4bda-a32e-b7e1f9c6ff68",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "DMT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bc4b3fd5-b271-4603-b318-7c30bca5a5e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 197,
+      "labels": [
+       "Drug"
+      ],
+      "start": 194,
+      "text": "DMT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6287fdb9-dc07-4146-81b4-75705bd8e214",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 248,
+      "labels": [
+       "Drug"
+      ],
+      "start": 245,
+      "text": "DMT"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "My DMT is PURE white with no yellow coloring sometimes with some yellow coloring. I get a lower yield than I would normally get because I keep my quality at the highest possible. This is why my DMT demands such a premium price. This is the same DMT that I sold on SR. That same high quality purity and cleanliness. All of my old customers know what I am talking about. Feel free to place your orders. I will update all information and add pictures later. Please read my profile for more information.",
+  "dream_id": 34237,
+  "golden": false,
+  "name": "3.5g N,N DMT - Highest Quality on the Darknet!",
+  "p_id": 30
+ },
+ "id": 23
+}

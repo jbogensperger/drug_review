@@ -1,0 +1,173 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 662001,
+   "lead_time": 996.682,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9edf8e22-1020-4ccf-9689-1ab763fb80de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "BIOSIRA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8beb9d9e-10ae-4099-9ddf-c6d3138c6b25",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "DecateX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "68e1c209-7e26-4bc0-9864-47bdbaded8b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "Nandrolone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5bc8d154-3964-4d8d-9b8f-77878f899f32",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 93,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "Durabolin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "af30d83d-975a-424f-bf4a-b75fe208ea6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 96,
+      "text": "Eubolin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bd15de85-7ac1-4514-b58b-2ca89cbf507e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 115,
+      "labels": [
+       "Drug"
+      ],
+      "start": 106,
+      "text": "Retabolil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "93c1bfce-7d2e-47e6-aae0-b1a986fa2fab",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 127,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "Durabolin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f71ac198-f68c-416c-9e80-b7946c56d6ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 139,
+      "labels": [
+       "Drug"
+      ],
+      "start": 130,
+      "text": "Fenobolin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3c3e6d52-cea8-45f0-83f9-66abb4440a92",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 261,
+      "labels": [
+       "Drug"
+      ],
+      "start": 253,
+      "text": "steroids"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "z89SiDYVr_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "nandrolone decanoate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "kOZraKlfGH",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 77,
+      "text": "Deca "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BIOSIRA 1x10 ml DecateX nandrolone decanoate 300 mg \/ ml. names Nandrolone , Deca - Durabolin , Eubolin , Retabolil , Durabolin , Fenobolin. 100 positive feedback on Alphabay. 3000 sales EU shipping with tracking. Unbeatable prices. Wholesale prices on steroids without resellers - EU shipping avoid all borders. Become Big or Build your own steroid empire localy. Even more discounts on volume 1000 orders contact in pm.",
+  "dream_id": 311158,
+  "golden": false,
+  "name": "BIOSIRA - nandrolone decanoate - 300 mg\/ml ",
+  "p_id": 335
+ },
+ "id": 662
+}

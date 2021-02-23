@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1223001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3a538c27-76e3-4e26-a4f6-0bb557a00cf8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "HYDROCODONE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "NORCO 10 MG HYDROCODONE 10 -325 STRAIGHT FROM A LEGIT PHARMACY 10-325 7 PER PILL. BULK DEALS OF 2500 PILLS WILL GO FOR 5000. download kik or wickr app from your phone and add me for a fast and more personal chat. My kik userdonald L50 My Wickr userdonald50.",
+  "dream_id": 422430,
+  "golden": false,
+  "name": "NORCO 10MG(HYDROCODONE) 10-325 ",
+  "p_id": 871
+ },
+ "id": 1223
+}

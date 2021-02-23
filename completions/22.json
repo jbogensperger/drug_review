@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 22001,
+   "lead_time": 1314.402,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f14c0bd3-27e3-4d60-aca1-917d4c2c7a29",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c33562e2-3a75-4064-b04c-dcc82d977d1f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 83,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1988d4ce-b714-4095-831f-26bf4fd79cc2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 277,
+      "labels": [
+       "Drug"
+      ],
+      "start": 270,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5dfb26b4-77bc-4f54-b5db-92ba0eabc904",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 734,
+      "labels": [
+       "Drug"
+      ],
+      "start": 719,
+      "text": "cynnamilcocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7017a759-06a4-4b46-95aa-2702a885da26",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 754,
+      "labels": [
+       "Drug"
+      ],
+      "start": 747,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0d7ca6f9-f7e8-41b8-85d2-ace679ea2c53",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 819,
+      "labels": [
+       "Drug"
+      ],
+      "start": 812,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4666c24f-d7b7-4fda-b3bc-ed6a6105bc12",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 854,
+      "labels": [
+       "Drug"
+      ],
+      "start": 847,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "XE487tsA7s",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 769,
+      "labels": [
+       "Drug"
+      ],
+      "start": 758,
+      "text": "Levamisole "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "EC. Results August Sample Code ZFFF5964. Substance Cocaine Lab Code 105573. Result Cocaine 70 no adulterants were found. 8\/11 all shipping issues fixed. Packages going out normally. Cheaper Pricing on Trade Route FE Only. My Ref Link. Hey guys , check out my ultra pure cocaine. This is some of the most smoothest and most potent stuff on the market. Unlike most other vendors , my product is EC tested , so the percentage given is actually real , unlike others that say 95 pure and refuse to test it. I m the same GMS that was on AB , i m currently on Hanza now also. Product has been EC tested. Last 3 results are have 2 more pending results , will update as I get them. YUTQ7211 GMS sample june unwashed 69 no cut , cynnamilcocaine. ZMNX 5104. Cocaine 83 Levamisole 8. YSOX3490 results May 5 , 2017 Substance Cocaine , Lab Code 103805 , Result Cocaine 81. GiveMeSleep.",
+  "dream_id": 314375,
+  "golden": false,
+  "name": "81%+ EC Tested Cocaine Levaminsole Free 1g",
+  "p_id": 29
+ },
+ "id": 22
+}

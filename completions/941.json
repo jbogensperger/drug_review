@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 941001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e3f8823e-0a87-45cb-9916-bcb32035b9bf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 130,
+      "text": "Amnesia . Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6b9b479d-6afd-497d-aad2-fdb832299f4f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "AMNESIA HAZE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "be32951d-24d9-423f-a6b7-b5a40232e355",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "42f67a8e-bef5-4652-beae-99557c8afd3c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 677,
+      "labels": [
+       "Drug"
+      ],
+      "start": 665,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "20f3192f-324d-4454-8de8-d1b224631f86",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 121,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "efbfab51-56b6-4398-aaec-48d2c608dc22",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 347,
+      "labels": [
+       "Drug"
+      ],
+      "start": 339,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b30ca94c-82b4-4a82-86ad-679326306127",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 658,
+      "labels": [
+       "Drug"
+      ],
+      "start": 651,
+      "text": "Sativas"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "AMNESIA HAZE 10 g. Amnesia Haze 100 Coffee Shop Qualitt. Starkes und Intensives High 100 sauber und nicht berdngt. Sativa - heavy Amnesia. Haze comes from two specific sets of genetics bred by Soma Seeds and First Medical Seeds. Both produce powerful cerebral effects. The Soma Seeds line is almost psychedelic. It won the 2004 High Times Cannabis Cup. Neither strain is recommended for amateur users. They impart intense feelings of euphoria , which causes users to feel very happy. The Soma. Seeds line can make users feel lazy , but both strains can spark creativity. These strains treat similar ailments and are good for daytime use. As with most Sativas , the Amnesia Haze strain is often recommended for people dealing with depression , anxiety and stress - related disorders. To a lesser degree , it may also alleviate nausea , migraines , inflammation and other minor aches and pains.",
+  "dream_id": 269183,
+  "golden": false,
+  "name": "Amnesia Haze 10g",
+  "p_id": 536
+ },
+ "id": 941
+}

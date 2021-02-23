@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1322001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a453d017-3432-407e-9b0a-57e750906b71",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 89,
+      "labels": [
+       "Drug"
+      ],
+      "start": 80,
+      "text": "ephedrine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4eb05aae-8393-4e17-9cc0-ebefb0c6fdea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 48,
+      "text": "Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 1 kg of highest quality Ice Meth made oldschool method from ephedrine , very strong. Fresh and fire stuff guaranteed. For bulk orders feel free to contact. Also we provide special logistic services. Satisfaction guaranteed.",
+  "dream_id": 400827,
+  "golden": false,
+  "name": "1kg Ice Methamphetamine Oldschool fire stuff 1000g",
+  "p_id": 980
+ },
+ "id": 1322
+}

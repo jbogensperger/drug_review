@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1122001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3c8a30f8-ece8-4882-aa47-3dda89fa71d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hard Pressed Yellow Xanax from Canadian Superlabs.",
+  "dream_id": 245583,
+  "golden": false,
+  "name": "100x Xanax - Yellow Busses",
+  "p_id": 745
+ },
+ "id": 1122
+}

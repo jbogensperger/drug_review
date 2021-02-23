@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1360001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1b5421e3-f479-424f-87e0-44ebff68d5c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 172,
+      "labels": [
+       "Drug"
+      ],
+      "start": 164,
+      "text": "Dilaudid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Back in stock and ready to ship. I am the fastest shipper on the market. Come and test me out. Stock is in and ready to ship. This listing is for ten 10 tablets of Dilaudid 8 MG , made by Roxan. I pride myself on having the fastest shipping. I ship up to twice daily , meaning if you order on a Monday morning and select overnight shipping , chances are good that it will be there the next day. If not , I will message you. I was on Abraxas before the market died , but I am here full - time now.",
+  "dream_id": 20394,
+  "golden": false,
+  "name": "10 Dilaudid 8MG-Ships Fast LOWER PRICES!",
+  "p_id": 1034
+ },
+ "id": 1360
+}

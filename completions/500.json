@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 500001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cf05adfd-1536-43b5-a447-76afa8e5d810",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Strawberry Cough"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c0791099-8206-4db0-817f-c965131196a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "96227ebf-4771-4dea-9f40-dfa6216cc253",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "Sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "7g Strawberry Cough Medical Grade Sativa 75 7g Power Plant Medical Grade Sativa 75 _. TOTAL 15000.",
+  "dream_id": 394892,
+  "golden": true,
+  "name": "Custom Requested Listing",
+  "p_id": 3382
+ },
+ "id": 500
+}

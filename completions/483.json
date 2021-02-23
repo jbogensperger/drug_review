@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 483001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "403d3fdd-9e80-4c0e-8394-58ce4ac910c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3413c23f-caf9-46ea-8f2a-4f2c5b2d1626",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 101,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "It s real tasteless and clean LSD. 4 different blotter s give you 4 , every time stronger trip. It s LSD starter pack. European Orders range from 6 - 14 days. Rest of the world shipments range from 14 - 22 days.",
+  "dream_id": 418821,
+  "golden": true,
+  "name": "LSD, 4 different tabs 80+105+155+200g sample",
+  "p_id": 5771
+ },
+ "id": 483
+}

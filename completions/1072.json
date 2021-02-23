@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1072001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4c987dbc-eddb-49d4-a41c-b6686e6f3e24",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1d44c735-3bcf-4d67-a336-26ff77ef9e19",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5f69e7bc-1b60-4704-a178-208000f80299",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "Ganesha"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9be7ebf5-86f6-4f77-96ab-3e243d33b1de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 KG of weed 1 KG of Hash. Additional. 200 x Ganesha s 1 KG of Amphetamine.",
+  "dream_id": 102088,
+  "golden": false,
+  "name": "CUSTOM LISTING FOR MRSLONE",
+  "p_id": 698
+ },
+ "id": 1072
+}

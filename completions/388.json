@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 388001,
+   "lead_time": 149.079,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f779eb19-6c1b-4ffd-b72a-c5431f29f662",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Suboxone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3c3f5a7d-8de4-47db-86b9-a52c615687dd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Buprenorphine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "97df0858-cef2-4b86-a29b-02b091f6cc56",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "Naloxone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PfPimBYwi7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 162,
+      "labels": [
+       "Drug"
+      ],
+      "start": 156,
+      "text": "54-375"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing 10 Tablets 54-375 Suboxone 8 mg tablet. Buprenorphine and Naloxone. Tablet is Peach in color Round. Numbers make up the imprint on one side 54-375. The opposite side is smooth with no imprint.",
+  "dream_id": 395685,
+  "golden": false,
+  "name": "Suboxone 8mg (10-Tablets) 54-375 Buprenorphine",
+  "p_id": 189
+ },
+ "id": 388
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 4001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "03fa67b4-6b9c-460b-acc1-8cd015ff71ac",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Listing is for 1 bar 2 mg alprazolam. Order whatever quantity you want. I ask you please order 5 minimum unless you want to add any amount to another order you already have or will place. I ship everyday except sunday if order is in by 1 pm.",
+  "dream_id": 419147,
+  "golden": false,
+  "name": "Xanax 2mg Alprazolam Green Bars Hulks USA-USA",
+  "p_id": 4
+ },
+ "id": 4
+}

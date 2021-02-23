@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1007001,
+   "lead_time": 4022.847,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "aa123a51-0c41-498f-ba5a-0c7e3555d104",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Gorilla glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8be34a5a-15b8-47ce-b7c8-e38877371c6b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 48,
+      "text": "Marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c-nqt1EqRB",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "Hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Gorilla glue. 4 Private reserve quality Medical Marijuana. Indoor Hybrid , hydroponically grown. All product comes from the top growers in LA. Indoor Half OZ 15 g Free gram joint with every order.",
+  "dream_id": 371710,
+  "golden": false,
+  "name": "Gorilla glue #4 AAA+++ 15g(Top Shelf)",
+  "p_id": 622
+ },
+ "id": 1007
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 463001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ad9f1caa-f725-479e-95d9-ac69e7b7f4b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "XANAX"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "XANAX 100 tabs of 05 mg in original blister - original from PFIZER. Attention - product may have addictive features. PLEASE take some time and look at the other Listings i have for you.",
+  "dream_id": 319338,
+  "golden": true,
+  "name": "XANAX 100 tabs of 0.5mg in original blister",
+  "p_id": 10752
+ },
+ "id": 463
+}

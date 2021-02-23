@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1248001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "befe8fa4-3d9a-4ca2-b72e-39455e17c61a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "56060d84-680b-494a-b107-16ff93fb7afb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "tobacco"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3909f9ec-32eb-4d52-9562-a2b40eb1b3d7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 93,
+      "labels": [
+       "Drug"
+      ],
+      "start": 88,
+      "text": "skunk"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Delicious maroccan hash mixed with finely toasted tobacco and a variety of high quality skunk. Rolled the danish way. Rolling papers used are with natural gum and no bleech. This little beast wont couchlock you , it s brilliant for daytime smokes , brings that pleasant sensation that brings a big smile to your face through out the day.",
+  "dream_id": 220828,
+  "golden": false,
+  "name": "\"1 x Pre-Rolled Joint, \"\"The Wizard\"\", 50\/50 Skunk Ha\"",
+  "p_id": 898
+ },
+ "id": 1248
+}

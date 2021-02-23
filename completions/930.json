@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 930001,
+   "lead_time": 1886.434,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "52ac0ab2-556d-421f-9dae-15caf36f0f10",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "Gorilla Glue 4"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "63aaaf13-b76f-4ac2-b57e-742d5c80e8f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 265,
+      "labels": [
+       "Drug"
+      ],
+      "start": 256,
+      "text": "Sour Dubb"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3eddf2d-96a8-4f02-9588-258f80b72e22",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 288,
+      "labels": [
+       "Drug"
+      ],
+      "start": 272,
+      "text": "Chocolate Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "73727238-cc96-483f-9046-9be8aadb55c1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 141,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ed7e9913-be3a-414e-8b4b-e6f3e68b9dea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 253,
+      "labels": [
+       "Drug"
+      ],
+      "start": 246,
+      "text": "Chemsis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "RSb9a1s1Cn",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 83,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "As always we ship vacuum sealed with zero smell. Gorilla Glue 4 is a potent hybrid strain that won 1st place in the 2014 Los Angeles Cannabis Cup. This chunky , conic , crystal - covered strain flowers in 56 to 60 days , and is said to come from Chemsis , Sour Dubb , and Chocolate Diesel.",
+  "dream_id": 47594,
+  "golden": false,
+  "name": "4g Gorilla Glue Medical Grade Hybrid",
+  "p_id": 523
+ },
+ "id": 930
+}

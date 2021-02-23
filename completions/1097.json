@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1097001,
+   "lead_time": 1169.097,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "25b49767-d809-4ab0-bac3-0765785930f9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1a53fa9f-4b30-4a17-930f-a8f228f519f5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 226,
+      "labels": [
+       "Drug"
+      ],
+      "start": 218,
+      "text": "adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "n45i5CYlo1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "Teva "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "EMIoiJK2fJ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 77,
+      "text": "Barr "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5x Adderall XR As pictured. NEVER PRESSED. REAL DEAL FROM A PHARMACY. Teva \/ Barr brand. Read my profile to see what is in stock. Items ship same day if ordered before 1 PM EST. First 2 orders get 1 extra FREE for any adderall product \/ amount.",
+  "dream_id": 417769,
+  "golden": false,
+  "name": "5x 20mg XR Adderall (barr\/teva)*ExpressAvail",
+  "p_id": 728
+ },
+ "id": 1097
+}

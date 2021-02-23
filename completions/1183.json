@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1183001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2a5420a5-8e23-442f-bddc-c71e3a397882",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 96,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0b98b1ec-3b8c-4650-9794-c9e80ba8dfd9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 301,
+      "labels": [
+       "Drug"
+      ],
+      "start": 289,
+      "text": "Mendo Breath"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "367c590f-ae6c-429f-b534-f8672f744283",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 203,
+      "labels": [
+       "Drug"
+      ],
+      "start": 200,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Mendo Breath is a super rare indica dominant hybrid strain created through crossing the classic OG Kush Breath with the rare Mendo Montage strain. This hard to find bud brings on the potency , with a THC level that bottoms out at about 20 - 27 on average and dazzling full bodied effects. Mendo Breath comes on pretty quickly after your first few hits , filling your mind and body with a happy tingly effect. This tingle quickly turns into a full on buzz , washing over you physically and pulling you down into a heavy couch - locked body high.",
+  "dream_id": 322593,
+  "golden": false,
+  "name": "14 grams of  Mendo Breath hydro",
+  "p_id": 825
+ },
+ "id": 1183
+}

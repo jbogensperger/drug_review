@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 586001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9d62d3c7-9fd3-488c-ad5d-a446881f783c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "Blue Dream"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0e759958-25c9-4110-a9fa-69bbd8d44f7f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "Marijuana"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 Pound of Blue Dream AAA. We offer Medical Marijuana AAA. Dispensary grade Actual picture. This is high quality product above a 9\/10. I repeat , These are INDOOR dispensary quality straight from the dispensary. We are based in California BULK BUYER DISCOUNT.",
+  "dream_id": 249290,
+  "golden": false,
+  "name": "5 Pound of Blue Dream INDOOR Marijuana",
+  "p_id": 240
+ },
+ "id": 586
+}

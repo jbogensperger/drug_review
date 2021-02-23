@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1342001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c42ccb94-3f86-47a7-ab5f-d5916d8ea788",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Our refined meth is now coming in from Mexico as a result of restrictions in the US. This research chemical has no unwanted side effects during and after the action. Smoking gives stronger effects. Despite the best efforts of the Authorities , the purest form of crystal meth available - known as the blue stuff - can now be purchased on the web. This crystal meth rock candy is perfect for fans of Breaking. Dose Oral. light 2 - 4 mg Common 4 - 6 mg Strong 6-10 mg. Duration 10 - 16 hours. Onset 60 - 180 minutes. After Effect 6 - 24 hours. Price list Minimum Order Quantity MOQ. 10 grams. Crystal Meth 10 g 300 Crystal Meth 20 g 450 Crystal Meth 50 g 650 Crystal Meth 100 g 950 Crystal Meth 500 g 3000 Crystal Meth 1 kg 5000. CONTACT INFORMATION BELOW WICKR ID jerrystam KIK ID jerrystam.",
+  "dream_id": 413174,
+  "golden": false,
+  "name": "Buy Crystal Meth now",
+  "p_id": 1010
+ },
+ "id": 1342
+}

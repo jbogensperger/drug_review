@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 641001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "851733b6-b7a9-487c-b9fe-6a6c20adf8e8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "29053bc0-ad69-49d1-b4f0-a135f4c4aea9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "Weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Listing is for 3 ounce of super sour mix cannabis. Weed has been vegged inside and put outside for bud , might be couple seeds per ounce but they might even be worth keeping ti germinate.",
+  "dream_id": 393714,
+  "golden": false,
+  "name": "3 Oz SUPER SOUR FREE EUROPE SHIPPING",
+  "p_id": 309
+ },
+ "id": 641
+}

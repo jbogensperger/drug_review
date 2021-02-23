@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 884001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "69da1cb9-0593-423b-9a05-382c77460020",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 177,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "PURPLE URKEL THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d212e863-c85e-45f9-854a-c76ed1282067",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 230,
+      "labels": [
+       "Drug"
+      ],
+      "start": 218,
+      "text": "PURPLE URKEL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "UPDATES - Because of it being Summer time here in California there will be no Purple so it will be replaced by white urkel. Same quality. 1 Pound of High Grade. PURPLE URKEL THC Content around 29. More info at Leafly. PURPLE URKEL. Quantities available Up to 50 Pounds.",
+  "dream_id": 312429,
+  "golden": false,
+  "name": "1 Pound PURPLE URKEL *FRESH BATCH* [INDOOR]",
+  "p_id": 462
+ },
+ "id": 884
+}

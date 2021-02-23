@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1103001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "10ffedd2-6d3c-4183-8405-b8f189ea9303",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a listing for 5 Grams of Fishscale Cocaine. No cut powder just rocks and chunks right off the brick.",
+  "dream_id": 368640,
+  "golden": false,
+  "name": "5 Grams of Fishscale Cocaine",
+  "p_id": 9122
+ },
+ "id": 1103
+}

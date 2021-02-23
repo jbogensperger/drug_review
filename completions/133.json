@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 133001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2994ccec-2638-4e7e-874d-104387126d2b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Ambien"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d30413e4-0ec2-4270-8cfb-596efdbd309c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "Viagra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bbd8a18f-9784-424b-ae3f-7c3993553787",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b5da9a79-d6fc-4af7-aec6-587552c87200",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Viagra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "51de73d4-5c27-4411-800b-267fc39b6fc4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 208,
+      "labels": [
+       "Drug"
+      ],
+      "start": 202,
+      "text": "Ambien"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2c0467c5-7d02-4ac3-acd1-fd1679ca4005",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 219,
+      "labels": [
+       "Drug"
+      ],
+      "start": 213,
+      "text": "Viagra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e723edbc-2f85-40f0-a0fd-2571d93b91a3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 234,
+      "labels": [
+       "Drug"
+      ],
+      "start": 229,
+      "text": "xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "300 Ambien 100 Viagra 100 1 mg xanax. Unfortunately the Viagra comes from different country and there is 2 shipping costs 25 and 22. We however will give you a great deal to make up the difference. 300 Ambien 100 Viagra 100 1 mg xanax. Total 281. Total with 2 x shipping 330.",
+  "dream_id": 249631,
+  "golden": true,
+  "name": "Custom BFT",
+  "p_id": 8015
+ },
+ "id": 133
+}

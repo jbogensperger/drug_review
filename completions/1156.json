@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1156001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a0441b72-fc65-4fa0-a168-f2daf4ee0a43",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "You"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "You will not find a better price on here or in real life.",
+  "dream_id": 339377,
+  "golden": false,
+  "name": "1 oz Good Quality Cocaine - free shipping",
+  "p_id": 788
+ },
+ "id": 1156
+}

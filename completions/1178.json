@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1178001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "26154c55-e3da-4b4c-aab7-57084f98e3d9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "bromazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f9f79187-008f-4c5c-aad4-8a17a703b924",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 100,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "LEXILIUM"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75e9ea07-8e3c-41c5-b3a6-73a6da1437f3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "LEXOTANIL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1e43a204-b8fd-4a14-9c82-a759f8d2150e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 199,
+      "labels": [
+       "Drug"
+      ],
+      "start": 185,
+      "text": "Benzodiazepine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a08ef35c-b0bd-4c50-89fe-bdc8c5715929",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 242,
+      "labels": [
+       "Drug"
+      ],
+      "start": 232,
+      "text": "Bromazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0745d654-0c77-4b58-aa69-b5217322bbdb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 320,
+      "labels": [
+       "Drug"
+      ],
+      "start": 312,
+      "text": "Lexilium"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Extremely high - quality bromazepam produced under licence from Roche. Many people consider LEXILIUM to be superior to Roche s own LEXOTANIL brand , myself included. Source pharmerorg. Benzodiazepine Equivalency Table. Generic Name Bromazepam Strength 6 mg Manufacturer Alkaloid , Skopje , Macedonia. Trade Name Lexilium Type Antianxiety Comment Image courtesy of gaucho.",
+  "dream_id": 185994,
+  "golden": false,
+  "name": "Lexilium >BROMAZEPAM< (6mg) x 80 pills (Blisters)",
+  "p_id": 820
+ },
+ "id": 1178
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1030001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eeefcb16-3916-43b8-a693-9f1a27e0b95c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2221b519-8309-476b-8f22-ffb77d0e9a1d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "GDF"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 hits of LSD 25 on sugar cube or similar GDF 110ug each.",
+  "dream_id": 399210,
+  "golden": false,
+  "name": "QTY 5 LSD 25 on SUGAR CUBE OR SIMILAR 110ug FLUFF",
+  "p_id": 648
+ },
+ "id": 1030
+}

@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1200001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5b74f1be-9999-4857-bc9e-25b046feeb7a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 285,
+      "labels": [
+       "Drug"
+      ],
+      "start": 268,
+      "text": "Clomifene Citrate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b4094935-27c6-4f78-ab0e-2d292df3d93d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 563,
+      "labels": [
+       "Drug"
+      ],
+      "start": 546,
+      "text": "Clomifene Citrate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "005cee41-2149-451a-ae6f-a49d46ce8670",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 67,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "Clomifene Citrate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a8f458bc-bcfa-4e06-8569-65457f029adc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 194,
+      "labels": [
+       "Drug"
+      ],
+      "start": 186,
+      "text": "Terpafen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "128abd78-0187-4dcb-bd5c-5bc76195ed2b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Terpafen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e7f2a357-dfda-4278-abad-203912d01869",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 435,
+      "labels": [
+       "Drug"
+      ],
+      "start": 427,
+      "text": "Terpafen"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Terpafen 50 mg is having the active ingredient as Clomifene Citrate which is selective estrogen receptor modulator. It stimulates the release of hormones needed to cause of ovulation so Terpafen 50 mg can be used for women who faces trouble in ovulating on their own. Clomifene Citrate is a non-steroid anti-estrogen which is only invented for treatment of infertility in female who are facing problems of having pregnancy and Terpafen tablet can also increase the chances of twins. Shree Venkatesh international is the only manufacturer of this Clomifene Citrate ingredient Terpafen 50 mg. We drop- ship as well as bulk ship the products for online Pharmacies.",
+  "dream_id": 318062,
+  "golden": false,
+  "name": "Terpafen - Clomifene Citrate 50mg\/tab [20 tabs]",
+  "p_id": 845
+ },
+ "id": 1200
+}

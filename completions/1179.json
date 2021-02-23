@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1179001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "52f6c204-c163-411b-b00f-79444dccf761",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d81e5577-1d29-4884-9592-b391b0e04ffa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 10 counterfeit 2 mg Xanax Bars , dosed closer to 3 mg Xanax. They are custom made and decently pressed. FE ONLY. Although they are not professionally pressed , you should have no problem passing them off as the standard Pfizer 2 mg Bars shown in the image above. 4 per pill. Only about 30 left.",
+  "dream_id": 147849,
+  "golden": false,
+  "name": "Xanax 10x2mg Bars dosed at 3mg",
+  "p_id": 821
+ },
+ "id": 1179
+}

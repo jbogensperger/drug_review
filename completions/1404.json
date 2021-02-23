@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1404001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2cc2538e-7d69-4d6f-9796-e5c6093b675d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "HEROIN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "A GRADE 4 HEROIN. PREMIUM GEAR THAT IS NO JOKE. IV USERS PLEASE USE CAUTION. Please check the Profile page for shipping cut off time as it is subject to change , Thank you.",
+  "dream_id": 310793,
+  "golden": false,
+  "name": " 0.1 GRAMS OF A GRADE #4 HEROIN ",
+  "p_id": 1087
+ },
+ "id": 1404
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 797001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "485e03ab-65dd-418e-9daa-b49897383739",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "28 ml of bottle with a 100 drops of The original Dr Hoffman LSD formula California Sunshine. Clear and wavey visuals. 125 mg feels like 150 mg. Very very clear molecule. Delivery Days Mond Tues Wed Thur Fri Sat No| Tracking numbers. Sending to UK to UK only at the moment Rest of the world soon. For any questions , please contact me on Wicker Johnsnow007.",
+  "dream_id": 407769,
+  "golden": false,
+  "name": "x100 LSD drops acid Dr Hoffman California sunshine",
+  "p_id": 279
+ },
+ "id": 797
+}

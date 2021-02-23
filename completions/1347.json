@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1347001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b4571243-0e63-4b4e-9b27-729428499950",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "30 mg adderall straight from the arm. Express shipping offered. As always the finest service and product from the arm VDS. Discount express shipping for fe. AS OF 9 - 20 we have teva and cor 30s. In stock.",
+  "dream_id": 270123,
+  "golden": false,
+  "name": "30 mg adderall ir EXPRESS SHIPPING BACK!!!!",
+  "p_id": 1017
+ },
+ "id": 1347
+}

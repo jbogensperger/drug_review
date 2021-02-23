@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1069001,
+   "lead_time": 4318.037,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7a5bca78-3daa-4a93-9399-021de9f5c11b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "Tadalafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e7c5ac2f-0f65-44c5-bdbc-b8a831211fed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 126,
+      "labels": [
+       "Drug"
+      ],
+      "start": 117,
+      "text": "Tadalafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "97883119-3801-4590-8948-f3dba8f83fe7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 269,
+      "labels": [
+       "Drug"
+      ],
+      "start": 261,
+      "text": "Sildalis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6c97c680-8685-4b42-8436-ab6b305b9614",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 599,
+      "labels": [
+       "Drug"
+      ],
+      "start": 589,
+      "text": "Sildenafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bcffd8de-7f70-4ade-8b1d-728e09a77b20",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 620,
+      "labels": [
+       "Drug"
+      ],
+      "start": 611,
+      "text": "Tadalafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "TnnoY3HBvt",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 149,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "Sildenafil citrate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1bCn6nIa0G",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Sildalist Sildenafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "TSj37Ui3dS",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 91,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "Sildalis Sildenafil Tadalafil"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sildalist Sildenafil 100mg 20 mg Tadalafil 6 pills \/ blister. Sildalis Sildenafil Tadalafil is a drug combination of Tadalafil and Sildenafil citrate. It allows the users to achieve a powerful and constant erection and at the same time prolongs the sexual act. Sildalis is an exclusive medical solution that has become a real breakthrough in the sphere of erectile dysfunction treatments. The medication has been approved as a leading remedy to improve the symptoms of erectile dysfunction and provide a man with new strength and endurance to perform sexual activities. The combination of Sildenafil 100 mg and Tadalafil 20 mg guarantees an impressive double effect achieved with the help of two most powerful ingredients. Write me pm for reseller prices.",
+  "dream_id": 327139,
+  "golden": false,
+  "name": "Sildalist Sildenafil 100mg+20mg Tadalafil 6pills\/b",
+  "p_id": 695
+ },
+ "id": 1069
+}

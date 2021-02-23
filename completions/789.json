@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 789001,
+   "lead_time": 87.824,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5b0433e6-e44a-44eb-a595-822011953799",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 90,
+      "text": "Power Plant"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5b68a8fb-fb73-45b4-8491-f4dd8b76ea8c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 189,
+      "labels": [
+       "Drug"
+      ],
+      "start": 183,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "71f6d95f-6b2a-43e5-9e1c-042eea7fa4b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 313,
+      "labels": [
+       "Drug"
+      ],
+      "start": 306,
+      "text": "sativas"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4fdf90c5-88e0-4a7e-af2e-fed11936ab9a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 367,
+      "labels": [
+       "Drug"
+      ],
+      "start": 361,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "GH03wueKnq",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Power plant"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "27qCflC9fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 723,
+      "labels": [
+       "Drug"
+      ],
+      "start": 712,
+      "text": "Power Plant"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "NR29vDFM7H",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 744,
+      "labels": [
+       "Drug"
+      ],
+      "start": 737,
+      "text": "sativa "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "25g outdoor. Power plant. A classic strain found in almost every coffeeshop in Amsterdam. Power Plant comes from Dutch Passion Seed Company and is derived from powerful South African sativa strains. This batch of outdoor powerplant is of medium quality , small to medium sized darkgreen buds ,. This power sativas smells sweet and earthy with an peppery smoke. Sativa highs are known for a good wake and bake buzz that could even help some through a productive day at work , but Power Plant may be a bit too strong for that type of high think tripping on videogames , or getting creative. She can also be rocket fuel to launch you into a social , cerebral kind of night , with an uplifting , mostly mental high. Power Plant comes from a sativa dominant strain , but can get a bit trippy.",
+  "dream_id": 395118,
+  "golden": false,
+  "name": "  25g outdoor Power Plant - SALE",
+  "p_id": 258
+ },
+ "id": 789
+}

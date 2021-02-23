@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1054001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "20cea9df-2a10-4dfa-96ba-8f49211fb9a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Adderall XR 20 mg capsules , str 8 from pharm , express shipping.",
+  "dream_id": 325997,
+  "golden": false,
+  "name": "Adderall XR 20mg capsules, x30 express shipping",
+  "p_id": 680
+ },
+ "id": 1054
+}

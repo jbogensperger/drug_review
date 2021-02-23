@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1288001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ce860c1b-942b-45f3-9a84-704e8f39834f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 167,
+      "text": "GHOST WALKER"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7fd134c6-ec91-409b-a5dc-592d77b8e63f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 193,
+      "labels": [
+       "Drug"
+      ],
+      "start": 184,
+      "text": "BLUE GLUE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "152e4aba-1190-471b-b75d-bb6d7a7df297",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 225,
+      "labels": [
+       "Drug"
+      ],
+      "start": 213,
+      "text": "CRITCAL KUSH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ffd94cd6-23f8-44ff-891c-1924821b42a4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 238,
+      "labels": [
+       "Drug"
+      ],
+      "start": 230,
+      "text": "LUCKY 13"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d7dc9bae-127b-4fbd-a3b4-c0b14b4e022a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 255,
+      "labels": [
+       "Drug"
+      ],
+      "start": 243,
+      "text": "SPACE ODDITY"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1f17ab8a-8f1a-4130-9933-8f33d036ebb0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 209,
+      "labels": [
+       "Drug"
+      ],
+      "start": 198,
+      "text": "INTERSTELLA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ALPHABAYS NO1 UK CONCENTRATE VENDOR. LISTING IS FOR 35G OF ANY FLAV IN STOCK WAX \/ CRUMBLE CO2 EXTRACTED CONCENTRATE - Quailty Concentrates. Brand - - KEYSER SOZE - - GHOST WALKER - - BLUE GLUE - - INTERSTELLA - -CRITCAL KUSH - - LUCKY 13 - - SPACE ODDITY -. these 35s are split from packaging shown and do not come labeled buy 7g to get the pack shown. 6\/5 QUAILTY YOU WILL NOT FIND ANY BETTER. UK - UK NDD. WHAT YOU SEE IS WHAT YOU GET. 500 POSTIVE FEEDBACK VENDOR FROM ALPHABAY.",
+  "dream_id": 311011,
+  "golden": false,
+  "name": "(3.5g) 7 CRAZY CRUMBLE  FLAVOURS (UK)",
+  "p_id": 941
+ },
+ "id": 1288
+}

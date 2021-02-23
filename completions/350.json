@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 350001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b051eec9-20f6-47ea-a67f-621f67eec406",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Amphetamines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "17f5f448-fea9-4eb9-afd5-0fb1a44122a4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 118,
+      "labels": [
+       "Drug"
+      ],
+      "start": 106,
+      "text": "amphetamines"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Amphetamines have many adverse effects on the brain , the central nervous system and the users body. When amphetamines are used , the neurotransmitters dopamine and norepinephrine are released from nerve endings within the brain and the ability for the neurotransmitters to reuptake is inhibited. This causes an influx of the neurotransmitters at the nerve endings or synapses of the brain which can lead to various problems and side - effects.",
+  "dream_id": 396938,
+  "golden": false,
+  "name": "*** 2 GRAM WET SPEED PASTE *** SPECIAL PRICE",
+  "p_id": 139
+ },
+ "id": 350
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1280001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a15b3586-19d6-4530-8a3d-41fd381c1ad9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 51,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "Modafinal"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "NOTE Orders will be shipped 4 \/5 October. Modafinal 200 mg x 20 tablets. Brand Sun Pharma 5 quality. Called the Limitless pill - it s used by astronauts , fighter pilots and athletes to improve cognition. Order today and unleash your brain. Great for. Cognition Wakefulness Concentration Reaction time Fatigue Memory.",
+  "dream_id": 427623,
+  "golden": false,
+  "name": "MODAFINIL 200mg x 20 tablets - BEST PRICE!",
+  "p_id": 931
+ },
+ "id": 1280
+}

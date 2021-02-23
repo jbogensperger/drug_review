@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 979001,
+   "lead_time": 954.298,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "71482b77-b935-4256-8615-df359535f820",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4814702c-4acb-4350-a5cf-db336a7b2982",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "kD3z7_M6AV",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 91,
+      "labels": [
+       "Drug"
+      ],
+      "start": 83,
+      "text": "Ecstasy "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "-. How to Create MDMA WITH PICTURES. -. Complete Tutorial. How to make MDMA. Tags. Ecstasy , Safe , With Images. -. Thank you for watching. Yours , Cyberzen.",
+  "dream_id": 30153,
+  "golden": false,
+  "name": "How To Make MDMA [IMAGES INCLUDED]",
+  "p_id": 585
+ },
+ "id": 979
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 305001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "81cade17-d6e6-47e1-9ef2-213df72ce4e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "62c8a574-9613-4fd7-a88a-186c79c9c6bf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "240649bd-ab3a-4673-a5f3-1bc600adc46d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Incredible Bulk is Sativa 20 Indica 80 between 20 - 24 THC. A very strong high UK indoor grown. Very nice bud.",
+  "dream_id": 122479,
+  "golden": true,
+  "name": " 28g  Incredible Bulk  ",
+  "p_id": 3398
+ },
+ "id": 305
+}

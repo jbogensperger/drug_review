@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 865001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8a9f7dfe-d70a-4fa4-a8fa-a10583e017f0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Diazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Galenika Diazepam 10 mg x 100 Boxes 3000 tabs. Shipped from EU Tracked airmail.",
+  "dream_id": 206906,
+  "golden": false,
+  "name": "Diazepam 10mg x 100 Boxes",
+  "p_id": 440
+ },
+ "id": 865
+}

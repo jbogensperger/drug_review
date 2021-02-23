@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 923001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "46adc364-fd47-4f42-b048-26c79886bef1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Rolls Royce"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0a5616c5-86b1-47ff-b5f8-b9e558899784",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4ccc6071-477e-43b9-8443-0d2f358d99c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 Gr Cocaine 2500x Rolls Royce 220mg 1 KG Amphetamine 1000x Free Pills for Forgotten order.",
+  "dream_id": 195042,
+  "golden": false,
+  "name": "CUSTOM LISTING FOR IRAQLI",
+  "p_id": 515
+ },
+ "id": 923
+}

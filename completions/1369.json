@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1369001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "39933c0e-693d-4b8e-a3fc-9c6dba68925a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8e196109-dcfc-4424-9651-a840afdc6dc4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "coke"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "03c456e9-6d4d-42b8-bbcd-d272b89c18fc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 577,
+      "labels": [
+       "Drug"
+      ],
+      "start": 573,
+      "text": "coke"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "388253e5-57f9-4944-aa53-58c5ecb48f5a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 757,
+      "labels": [
+       "Drug"
+      ],
+      "start": 753,
+      "text": "coke"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "df66fac9-77f3-4aa8-865b-5fc482b7c7ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "35 Gram of shiny fishscale cocaine which if needed can be cooked into crack before being shipped. Use the different shipping option to specify which you would like. This coke is top notch and if you like to cook yourself then this will definitely be right up your alley because for every ounce of soft cooked up you can bring back 35 grams and that s straight dropping it. if you whip it you can get over 42 grams from the 28. This is really easy coke to cook because i give it to you the same way it was given to me , pure and uncut. so even a novice cooker can make this coke lock up in no time with no fuss. that s how you know good coke. Also the chunk from the pic does nt represent the product i will be sending i just used it for the pic but the coke ill be shipping will be super shiny flakes. you will definitely fall in love.",
+  "dream_id": 326505,
+  "golden": false,
+  "name": "3.5 Gram Cocaine Fishscale Powder or Crack",
+  "p_id": 1045
+ },
+ "id": 1369
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 558001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3eb6987e-271d-43d1-bbcd-ed98f09a3c14",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 GRAM of high quality MDMA one of the best out there gives a nice trip cheap prices and high Quality like all our products this listing will become higher priced soon , see it as a promotion deal for now. any questions feel free to PM us CHECK OUR PROFILE BEFORE ORDERING FOR MORE INFO.",
+  "dream_id": 158821,
+  "golden": false,
+  "name": "100 GRAM of high quality MDMA (80%+-)",
+  "p_id": 190
+ },
+ "id": 558
+}

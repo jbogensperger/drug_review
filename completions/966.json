@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 966001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9846e3a6-11e7-4a78-ae97-b02db9bafebb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Do"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Do you make fruit salads occasionally in an attempt to eat more fruits or improve your health. Do you want to partake of the marvelous benefits of fruits. Do you want to create mouthwatering fruit salads that keep your taste buds begging for more. Are you new to fruit salads and would like to learn how to make healthy salads that stay fresh and taste great. Are you looking for new , interesting fruit salads. Did you answer YES to any of the questions above. The salads in this book will not disappoint you.",
+  "dream_id": 350675,
+  "golden": false,
+  "name": "Fruit Salad Recipes",
+  "p_id": 567
+ },
+ "id": 966
+}

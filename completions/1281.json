@@ -1,0 +1,201 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1281001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ed092e05-9f54-4d51-8cc6-b0bd22a18d11",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Allen Wrench"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75b75fe7-1301-423b-a29b-551e801dd19e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 116,
+      "labels": [
+       "Drug"
+      ],
+      "start": 104,
+      "text": "Allen Wrench"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "acbd707a-01e8-475e-a811-6537538c7381",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 187,
+      "labels": [
+       "Drug"
+      ],
+      "start": 177,
+      "text": "NYC Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1a43ffe3-48e9-4398-95d3-04eda56cc644",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 325,
+      "labels": [
+       "Drug"
+      ],
+      "start": 313,
+      "text": "Allen Wrench"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9f254421-d66f-4c2c-9632-c8ee8594f247",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 534,
+      "labels": [
+       "Drug"
+      ],
+      "start": 522,
+      "text": "Allen Wrench"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "589c1bca-7479-4910-984c-b9b92aa8d685",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "Marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "72bda92a-19b7-4622-b5c0-87ff393632de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "660c1864-4dcd-4c50-9e20-25000f9619f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 605,
+      "labels": [
+       "Drug"
+      ],
+      "start": 602,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b592656f-eecd-439a-824a-f824da79d46b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 647,
+      "labels": [
+       "Drug"
+      ],
+      "start": 641,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2e442b55-c694-4838-bdd1-39fbf07310b5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 679,
+      "labels": [
+       "Drug"
+      ],
+      "start": 673,
+      "text": "Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7f9d5e43-febc-4912-85b9-277ccf610bb7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 684,
+      "labels": [
+       "Drug"
+      ],
+      "start": 681,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "01033d6f-2eea-4655-b52f-8f500c415fbd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 172,
+      "labels": [
+       "Drug"
+      ],
+      "start": 162,
+      "text": "Trainwreck"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2ff64d3f-c20e-4c86-ad4b-a1ad8f0cef08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 665,
+      "labels": [
+       "Drug"
+      ],
+      "start": 655,
+      "text": "Trainwreck"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This offer is for 1 OZ of Allen Wrench indoor Medical Marijuana. A popular strain for sativa - lovers , Allen Wrench presents the best qualities of its parents , Trainwreck and NYC Diesel with crisp flavors of sour fruit. Its aroma has been characterized as sour and flowery , leaving a lingering scent of fruit. Allen Wrench is known to provide users with a long - lasting cerebral high and fill an entire room with its strong essence. The buds have a dark - green color and dark foliage with orange pistils growing out. Allen Wrench also has a 10 - 11 week flowering time and medium to medium - high THC content. - Leafly. Variety Hybrid. Sativa Origin Trainwreck , NYC. Diesel. THC Range 12 - 15 percent Characteristics Effects Energetic , Uplifted , Happy , Creative , Euphoric Symptom Relief Stress , Depression , Pain , Nausea , Lack Of Appetite Flavors \/ Aromas Berry , Tropical , Mango. Shipping is free. Please message us for larger orders.",
+  "dream_id": 339584,
+  "golden": false,
+  "name": "1 OZ Allen Wrench A+ Indoor Weed *FREE SHIPPING*",
+  "p_id": 932
+ },
+ "id": 1281
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 845001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fded6879-fffd-4601-9162-b7526a870d42",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "84df2f41-f2b6-431c-acfb-9d135959d837",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7858e939-b0e3-441c-9b86-2ba42df1bed6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 166,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f03145cb-05cb-4f0d-9c2a-0ace7d801063",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 167,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "05d7cf78-bc16-48dd-857b-5fa049dd3107",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 217,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Up for sale is the strongest crack available ANYWHERE on the darknet. Tan in color and rock hard so the purity has been tested at 80 cocaine content. Buy others crack cocaine and you will most certainly get 25 cocaine , 50 baking soda , and 25 water. Norco. King will be a household name for anyone that uses the darknet within months because of my high quality products , excellent customer service , and very fast shipping.",
+  "dream_id": 76721,
+  "golden": false,
+  "name": ".5G SUPER FIRE CRACK COCAINE- STRONGEST ON DNM",
+  "p_id": 412
+ },
+ "id": 845
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1368001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "abdade6f-f48a-4a91-a2fb-34780ec59f63",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "COKE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ed0fa0c-b9c0-4728-a28e-5014511e656e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 156,
+      "labels": [
+       "Drug"
+      ],
+      "start": 152,
+      "text": "COKE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BEST QUALITY COKE YOU EVER SEEN 90 PURITY 1g BIG PROMOTION. Hi everybody I m very very glad to show you the listing make me very proud THE BEST QUALITY COKE YOU EVER SEEN. Images speaks for me. BIG PROMOTION.",
+  "dream_id": 283375,
+  "golden": false,
+  "name": "BEST QUALITY COKE YOU EVER SEEN 90%+ PURITY 1g ###",
+  "p_id": 1044
+ },
+ "id": 1368
+}

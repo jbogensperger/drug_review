@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 800001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "18123987-11ac-4a15-b00b-22e54bbd4d47",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 gram of cocaine straight from the brick. Highest of quality found in Australia. Nice clean but strong buzz. Strong smell and pearly. All products will be posted at the highest of stealth methods.",
+  "dream_id": 324268,
+  "golden": false,
+  "name": "SALE** TOP QUALITY PEARL COCAINE 1 gram",
+  "p_id": 285
+ },
+ "id": 800
+}

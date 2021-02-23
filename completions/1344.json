@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1344001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "46257d7e-b31d-443f-9532-15b687431c3b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Escrow"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Escrow it s 25 of the order price. 20g price is 89999 , so with escrow it will be more 2249975. TOTAL 11249875. CUSTOMER WILL GET FULL REFUND IF THE TRACKING NUMBER SHOW THAT ORDER IS CAUGHT BY CUSTOMS. Please include your shipping details for the order do nt forget to encrypt your message - Name Address City Country \/ State Zip Code Additional message for us optional.",
+  "dream_id": 418442,
+  "golden": false,
+  "name": "4-aco-dmt - 20g (ESCROW - FULL REFUND)",
+  "p_id": 1013
+ },
+ "id": 1344
+}

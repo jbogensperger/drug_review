@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1230001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6471d082-37ea-44b3-ac57-721d3778edc0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "Adderrall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e891c62a-c27f-4777-81b3-e78b84f14fff",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 89,
+      "text": "Adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "this listing is specifically for TEVA Brand 30 mg Adderrall Ten 10 30 MG Instant Release Adderall perfect for partying , studying , and concentrating easy to split up into halves 15 m g or quarters 75 mg. These prices wo nt last so get it while they re in stock. ONLY USE ESCROW.",
+  "dream_id": 416396,
+  "golden": false,
+  "name": "10X TEVA 30 MG Adderall",
+  "p_id": 879
+ },
+ "id": 1230
+}

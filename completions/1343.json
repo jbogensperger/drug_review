@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1343001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d0ab462f-3dbd-42e3-878c-7c56cb787798",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Tahoe OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9d348f1f-14c6-40fd-a78f-5b6e64a07646",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 262,
+      "labels": [
+       "Drug"
+      ],
+      "start": 254,
+      "text": "Tahoe OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "42280e74-3d78-4915-8fc1-87964d2e9947",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 423,
+      "labels": [
+       "Drug"
+      ],
+      "start": 415,
+      "text": "Tahoe OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8b5cc5e3-d068-4771-835d-369f346cc3e5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 588,
+      "labels": [
+       "Drug"
+      ],
+      "start": 581,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d8199d9c-c3d1-4c91-97d7-2a068f5db786",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 628,
+      "labels": [
+       "Drug"
+      ],
+      "start": 620,
+      "text": "Tahoe OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "71f842a2-4801-41b4-ade0-c48b7f3f7b4b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 458,
+      "labels": [
+       "Drug"
+      ],
+      "start": 452,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8de1ee63-30d7-4580-96ac-13672fb2e344",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 498,
+      "labels": [
+       "Drug"
+      ],
+      "start": 492,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We ship vacuum sealed with no smell. Tahoe OG is the perfect rainy day strain. Strong and fast - acting , you may not want to use this strain when you re planning to leave the house. Great for those suffering from insomnia , pain , or lack of appetite , Tahoe OG has made a name for itself among other indicas. A top nighttime strain , it provides an extremely lazy , heavy body sensation. Due to superb breeding , Tahoe OG embodies all of the typical indica effects with an added euphoric , sativa - like kick. This strain features an earthy , lemon taste , and is a phenotype of OG Kush. Maturing at around 10 weeks , Tahoe OG is a must - try for those looking for a great nights sleep.",
+  "dream_id": 47550,
+  "golden": false,
+  "name": "4g Tahoe OG Medical Grade Indica",
+  "p_id": 1012
+ },
+ "id": 1343
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1187001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8581ee13-f34f-44ac-a78b-250b6fb6b20a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d0b63096-0bd7-47f3-b51b-dd33f33758d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 111,
+      "labels": [
+       "Drug"
+      ],
+      "start": 103,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "62d8fe76-3bbe-4205-8ca7-318ec661c78f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 302,
+      "labels": [
+       "Drug"
+      ],
+      "start": 294,
+      "text": "adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3b16b4e-dea9-4e08-94a8-c2be56f4e204",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 419,
+      "labels": [
+       "Drug"
+      ],
+      "start": 411,
+      "text": "adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3454d83-5ad0-49fd-a77c-7d69d4b63d5f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 693,
+      "labels": [
+       "Drug"
+      ],
+      "start": 685,
+      "text": "ADDERALL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS IS FOR 100 PILLS , other adderall listing in my store or pm me for a specific amount. Shire brand Adderall 30 mg xr extended release , obtained straight from the local pharmacy. For domestic within canada orders of 100 will come in a sealed bottle. These are the real deal authentic Shire adderall. They are used for studying , test taking , assignments \/ projects and any other intellectual activity , as adderall increases focuses and boost brain preformence. DO NOT ACTUALLY MAKE YOU SMART , JUST BETTER YOUR ABILITY TO USE BRAI NS FULL POWER AND RESOURCES. PERSONALLY USED AND TESTED BY ME , I CAN VOUCH FOR THE USEFULNES AND AUTHENTICITY OF THE PRODUCT AS ACTUAL SHIRE BRAND ADDERALL 30 MG XR PILLS.",
+  "dream_id": 316822,
+  "golden": false,
+  "name": " 100 SHIRE ADDERALL 30MG XR(EXTENDED RELEASE)",
+  "p_id": 830
+ },
+ "id": 1187
+}

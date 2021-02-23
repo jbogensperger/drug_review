@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1174001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "81f1716b-8d3a-4253-9467-c78e43ed0605",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Super lemon haze"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Super lemon haze , 10 \/ 10 , just perfect. Grown in soil and organic.",
+  "dream_id": 300664,
+  "golden": false,
+  "name": "7g Super Lemon Haze (organic+soil) 10\/10",
+  "p_id": 815
+ },
+ "id": 1174
+}

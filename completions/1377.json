@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1377001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "00502cb3-f685-4da2-9385-323bea812d32",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "THIS"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS WILL ARRIVE TOO YOUR DOOR STEP IN ONE BOX IN 3 - 5 DAYS FROM ORDERING TOO DOORSTEP. YOU WILL RECEIVE ATLEAST 3 STRAINS. YOU WO NT BE DISSAPOINTED WITH THIS BUY. wcc.",
+  "dream_id": 311360,
+  "golden": false,
+  "name": "6 LB INDOOR MULTIPLE STRAINS ",
+  "p_id": 1054
+ },
+ "id": 1377
+}

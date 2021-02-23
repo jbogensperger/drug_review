@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1376001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ee05b67c-6fd3-4b7e-b510-f7bab6b5bc0b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Bromazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "6 MG per pill , 20 Pills 120 MG of Bromazepam. Please encrypt address for safety. Discover. Quick shipping , quality product. Tracking , great stealth.",
+  "dream_id": 22657,
+  "golden": false,
+  "name": "Bromazepam | 20x (6MG) Pills",
+  "p_id": 1053
+ },
+ "id": 1376
+}

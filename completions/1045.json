@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1045001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9909a34f-994d-44fa-bbdc-b75e0229d28d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "If you where looking for the best cocaine your money can buy. Well you came to the right place. Our product came directly from the source , and is broken off of the brick by our self. Lab tested with a purity of 94. NarcoState. NL is a team of experienced smugglers in the on - and offline scene. To ensure your and our safety we work clean and ship discretely.",
+  "dream_id": 320799,
+  "golden": false,
+  "name": "100G COLOMBIAN COCAINE 94% ",
+  "p_id": 667
+ },
+ "id": 1045
+}

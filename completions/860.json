@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 860001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f28ff61a-8178-48f5-8dba-0f409936f2ad",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "LISTING"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "LISTING FOR ONE 8MG Sublingual film. Add quantity for more.",
+  "dream_id": 292001,
+  "golden": false,
+  "name": "SUBOXONE 8MG FILM  UNOPENED",
+  "p_id": 434
+ },
+ "id": 860
+}

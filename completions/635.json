@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 635001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7ac3cc2f-8b74-48fc-9264-4f363e578690",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 151,
+      "labels": [
+       "Drug"
+      ],
+      "start": 148,
+      "text": "DMT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ca04729-6b31-4bf2-a530-d803148a8241",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 304,
+      "labels": [
+       "Drug"
+      ],
+      "start": 298,
+      "text": "CHANGA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "443380a6-c60d-44aa-9454-2a86a950c5df",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 324,
+      "labels": [
+       "Drug"
+      ],
+      "start": 321,
+      "text": "DMT"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dear Friend. Feel invited to the mystical meeting with your Self and your divine nature. While preparing this sacred substance I always request the DMT Spirit to guide us to infinite love , inner power , light and truth for welfare of our planet and whole universe. The special kit contains 05g of CHANGA and 05g of Pure DMT from mimosa hostilis.",
+  "dream_id": 28046,
+  "golden": false,
+  "name": "MIMOSA MEDICINE - SPECIAL KIT",
+  "p_id": 300
+ },
+ "id": 635
+}

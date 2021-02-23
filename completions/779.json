@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 779001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e9bd875d-89d1-42d9-8718-d6050a9b9bae",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "125d29f9-c72c-4572-ba1a-284e1687c7af",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 113,
+      "labels": [
+       "Drug"
+      ],
+      "start": 102,
+      "text": "amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "927b661b-e65a-432e-884f-e2bc181b7326",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "Speed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Amphetamine \/ Speed. Purity 76 AAA. Color White Structure Paste. Directly from the dutch kitchen. Our amphetamine is one of our high class products. Real fresh paste good smell and great effect. try out our free sample and give us some nice feedback when you recieve your order.",
+  "dream_id": 373546,
+  "golden": false,
+  "name": "5 gr Amphetamine\/Speed MADE IN HOLLAND",
+  "p_id": 225
+ },
+ "id": 779
+}

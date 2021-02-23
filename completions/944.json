@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 944001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7cca4b88-6f0e-4d25-befc-946104a07d25",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High quality fishscale cocaine. 35 gram. Very clean and retains over 90 of weight when cooked freebase. You may get it in solid fishscale chunks. no FE. I am new to Dream Market and am trying to build up a reputation so i will be selling it virtually at cost price. Enjoy.",
+  "dream_id": 56432,
+  "golden": false,
+  "name": "3.5 GR HIGH QUALITY FISHSCALE",
+  "p_id": 542
+ },
+ "id": 944
+}

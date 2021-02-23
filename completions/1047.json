@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1047001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f1c49ce2-4d69-4c90-9389-2af0b817f944",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 1 mg xanax blotters. Marked out so you can cut into smaller doses perfectly laid blotters. Feel free to order a few lots. Fast post envelope only available only if you FE or are a returning client. Otherwise standard courier please. Free courier for 30 or more blotters and 5 extra for free just select the free shipping option.",
+  "dream_id": 423006,
+  "golden": false,
+  "name": "10 X 1mg Xanax blotters",
+  "p_id": 669
+ },
+ "id": 1047
+}

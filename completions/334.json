@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 334001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d54b773a-3b07-46b5-aec4-88edc9d21602",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "SOUR DIESEL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b4af340a-c50d-477c-a704-c3feebeedeee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 295,
+      "labels": [
+       "Drug"
+      ],
+      "start": 291,
+      "text": "dope"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "3 POUNDS SOUR DIESEL HIGH QUALITY PRODUCT. i ve added escrow for new buyers to feel safe. Priority and bonuses are only given to customers who finalise early. 100 reship only after 4 weeks. tracking number will be given only to admins incase of dispute. super fast shipping. amazing quality dope. home grown and organic , no pesticides. all plants are fed well and with only premium ingredients. organic compost soil. bring a new smoke to your block now. 100 reship if order is not delivered. tracking shows up then no refund will be given. tracking only given to mods.",
+  "dream_id": 353572,
+  "golden": false,
+  "name": "3LB SOUR DIESEL | SUPER ORGANIC PRODUCT!!!",
+  "p_id": 120
+ },
+ "id": 334
+}

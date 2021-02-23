@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 581001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "03db2b5d-84c4-4940-ba33-e26eec0171ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Currently Out Of Stock. Adderall 20 mg Instant Release Pharma Grade. Stock is limited due to sources bein direct from pharmacy.",
+  "dream_id": 376181,
+  "golden": false,
+  "name": "Adderall 20mg IR Pharma, COR 135 (OOS)",
+  "p_id": 233
+ },
+ "id": 581
+}

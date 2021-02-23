@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1123001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c8bc12ee-68b9-4249-8088-75c88e41427b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 130,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a listing of non pharmaceutial pressed bars. please note , our policy is extremely strict when it comes to quality. These alprazolam bars have been tested and approved by Supreme team to be listed in our store. the from drop test , potency test , and even press test they pass in flying colors. they almost identical if not better than those from USA pharmacy. fresh batch , and for those who have ordered other pharmacy meds we carry , we can only encourage you sample them with confidence and save some from pharma prices.",
+  "dream_id": 368559,
+  "golden": false,
+  "name": "4$ Single bar hulks",
+  "p_id": 746
+ },
+ "id": 1123
+}

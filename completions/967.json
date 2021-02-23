@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 967001,
+   "lead_time": 3737.228,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0b165287-5924-4cb9-b30a-28e6728d0653",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "5F - PCN"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6aed1a3f-0aea-47d8-8d33-5f1da88c1e72",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 188,
+      "labels": [
+       "Drug"
+      ],
+      "start": 184,
+      "text": "NNE 1"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8f78b15f-e660-4fd5-a9b2-822bef50fbb5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "azaindole"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "l2K1Mbt7Ne",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "cannabinoid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5F - PCN is an azaindole - based synthetic cannabinoid that is presumed to be a potent agonist of the CB receptor and has been sold online as a designer drug. It is closely related to NNE1.",
+  "dream_id": 431766,
+  "golden": false,
+  "name": "5FPCN for sale 5g\/$100 sample to build trust",
+  "p_id": 569
+ },
+ "id": 967
+}

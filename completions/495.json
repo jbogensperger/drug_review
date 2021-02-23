@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 495001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5136eab1-364f-4efb-a588-0fa9b554099b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 2,
+      "text": "Blueberry strain"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- Blueberry strain 2g HIGH GRADE - Lovely strong odour. - Same day dispatch b 4 330 GMT - Free delivery.",
+  "dream_id": 288181,
+  "golden": true,
+  "name": "Blueberry Weed 2g Cannabis A+",
+  "p_id": 10148
+ },
+ "id": 495
+}

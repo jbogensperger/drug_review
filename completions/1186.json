@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1186001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4b1b0bcb-fb3e-4640-8c15-6337e3f5b217",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "35g. HQ Cheese skunk. A well - known indica dominant hybrid strain , known for its potency and smell. Lovely smelly nuggets with the characteristic cheese aroma and taste. 35g. SAME DAY SHIPPING.",
+  "dream_id": 143611,
+  "golden": false,
+  "name": "3.5g HQ Cheese (Same Day Shipping!)",
+  "p_id": 829
+ },
+ "id": 1186
+}

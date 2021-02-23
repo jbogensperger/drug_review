@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 987001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ebae2823-6772-4400-b919-c9b9dbb98301",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Modafinil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "46f075d5-739d-4dca-8edc-e949fd243b27",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 386,
+      "labels": [
+       "Drug"
+      ],
+      "start": 377,
+      "text": "Modavigil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d72b656b-6d40-44c3-aec8-c7d9250e8680",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 401,
+      "labels": [
+       "Drug"
+      ],
+      "start": 393,
+      "text": "Provigil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fd091362-1ad4-4904-9527-a568df9fb5dc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 433,
+      "labels": [
+       "Drug"
+      ],
+      "start": 424,
+      "text": "modafinil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a4162e7c-a56b-4e57-be35-a961466ac70e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 714,
+      "labels": [
+       "Drug"
+      ],
+      "start": 705,
+      "text": "modafinil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "28942a82-25a9-4fbb-beeb-ac31f5389328",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 374,
+      "labels": [
+       "Drug"
+      ],
+      "start": 367,
+      "text": "Alertec"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Modafinil is a wakefulness - promoting agent or eugeroic used for treatment of disorders such as narcolepsy , shift work sleep disorder , and excessive daytime sleepiness associated with obstructive sleep apnea. 7 It has also seen widespread off - label use as a purported cognition - enhancing agent. In English - speaking countries it is sold under the brand names Alertec , Modavigil , and Provigil. In the United States modafinil is classified as a schedule IV controlled substance and restricted in availability and usage , due to concerns about possible addiction potential. In most other countries it is a prescription drug but not otherwise legally restricted. Although the mechanism of action of modafinil was initially unknown , it now appears that the drug acts as a selective , relatively weak , atypical dopamine reuptake inhibitor. However , it appears that other additional mechanisms may also be at play.",
+  "dream_id": 344399,
+  "golden": false,
+  "name": "SUN PHARMA MODAFINIL 200MG x 50 TABLETS",
+  "p_id": 597
+ },
+ "id": 987
+}

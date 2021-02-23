@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1251001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2cd4e781-7256-4126-b1d6-30eb35cfa9c1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "frontin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "604b8006-34f6-4580-94e5-68530025f7fc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2a92861f-6941-4611-ab2c-6f04d08b08e8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "rivotril"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f176ff6f-33a7-4734-a57e-b1ff309928f3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "medazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "i ship - 20x frontin 1 mg - 20x xanax 05 mg - 25 x rivotril 2 mg - 1 x medazepam 10 mg usual stealth , usual pack. total listed price 53 EUR.",
+  "dream_id": 264633,
+  "golden": false,
+  "name": "MIXED: 20x frontin+20x xanax+25x rivo+free sample",
+  "p_id": 901
+ },
+ "id": 1251
+}

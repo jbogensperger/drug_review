@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 854001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "014872e7-50de-4dc1-8fd5-71d10981d399",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 51,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "OxyContin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a5faa6b0-1e26-4681-8902-2dfb7a7537bc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "Longtec"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "From manufacturers Napp , Qdem or Sandoz. OxyContin or Longtec. Original Formula. Please try to order a minimum of 2.",
+  "dream_id": 316475,
+  "golden": false,
+  "name": "60mg OxyContin",
+  "p_id": 424
+ },
+ "id": 854
+}

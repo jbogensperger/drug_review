@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1081001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e34112ca-d60b-466c-83bb-e5cdaf734fce",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Supreme quality hash directly brought from Morocco. Delicatessen.",
+  "dream_id": 389428,
+  "golden": false,
+  "name": "3 gr. of Royal Moroccan Cream AAA+++",
+  "p_id": 709
+ },
+ "id": 1081
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1133001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ebca3c7e-a216-49a5-94be-2277dd7270e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f23d2c34-c3b1-4b77-b2df-c20fd43e775f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 81,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FE. This listing is for 1,000 S903 stamped xanax pressed with 25 mg of alprazolam. Our Hulks are some of the best in the game from the coloring to the shape and the hardness of the pill they are almost identical to pharmaceuticals. Our customers that were on AB with us can tell you how much their cliental loved them they are currently our best seller. You can fully advertise these as real pharmas to your clients there is no doubt about it. b Address Format \/ b. Name Street Address. Apt \/ Unit Number. City , State , Zip. b Important Information b. - All orders placed after 8 am Est will go out the following day - Shipping time varries from 2 - 3 days - WE DO NOT OFFER EXPRESS - There is no guranteed extras EVER you will always receive atleast what you ordered and more than likely it ll be over. - We do not provide reships unless the package is seized \/ lost on shipments marked as undeliverable you are responsible. We appreciate all the continued support.",
+  "dream_id": 315427,
+  "golden": false,
+  "name": "1000 S903 Xanax 2.5mg Green Hulks SALE!!!",
+  "p_id": 759
+ },
+ "id": 1133
+}

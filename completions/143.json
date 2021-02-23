@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 143001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c9a49777-8663-4096-9b9b-22ba1b10c10f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "hydrocodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "hydrocodone. 539 STRAIGHT FROM HEALTH MEDICS CARE 6 PER PILL. BULK DEALS 400 PILLS FOR 2400 FOR MORE INFOR POR ANY CUSTOM ORDER , YOU CAN JUST DOWNLOAD KIK OR WICKR ON YOUR PHONE APP AND ADD ME FOR A FAST AND MORE DISCREET CHAT. MY WICK ID burpboob MY KIK ID burpboob.",
+  "dream_id": 423538,
+  "golden": true,
+  "name": "hydrocodone ",
+  "p_id": 1075
+ },
+ "id": 143
+}

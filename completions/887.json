@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 887001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "92215564-fc30-4f57-a50b-f4ccf767462a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Sustanon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fcea0452-190e-4104-8f2e-fda326fc29e8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 117,
+      "labels": [
+       "Drug"
+      ],
+      "start": 105,
+      "text": "testosterone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sustanon is a trade name owned by Organon Pharmaceuticals for oil - based injectable blends of esterized testosterone compounds. We guaranteed reship 100 if we lost parcel during shipping but we need evidences. Almost 999 are received safe in EU.",
+  "dream_id": 239552,
+  "golden": false,
+  "name": "Testosterone Sustanon EU 500g",
+  "p_id": 468
+ },
+ "id": 887
+}

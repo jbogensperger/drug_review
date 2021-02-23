@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 686001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "be86ed28-537b-4c3a-8acb-8658f0de0de6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 411,
+      "labels": [
+       "Drug"
+      ],
+      "start": 399,
+      "text": "Golden . Goat"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aa01df15-9a8e-4032-90db-263639775086",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "Golden goat"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "95c8eb63-0086-4f08-9e4a-8c2f3491fd01",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 325,
+      "labels": [
+       "Drug"
+      ],
+      "start": 314,
+      "text": "Golden Goat"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5cc1efc5-a3f6-4016-b8bd-99a5a5320b17",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Tangerine in color tests 89 THC. Golden goat , can get other kinds if requested. 3 individual glass professional grammed out dispensary containers. Says all the ingredients used to grow it and everything. Golden Barn. What you see in the picture is exactly what you get , except instead of cherry pie strain it is Golden Goat. I can get all strains though , just specify when you send your address. Golden. Goat is honestly the best right now , but it is up to you on strain.",
+  "dream_id": 210763,
+  "golden": false,
+  "name": "3g Co2 Golden Goat Dispo",
+  "p_id": 361
+ },
+ "id": 686
+}

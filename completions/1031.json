@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1031001,
+   "lead_time": 4504.089,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d7464101-2627-47e1-b19c-ca18948837e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Oxycodone hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "30980597-9f70-45d3-8486-013b3c909dab",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "oJqvCPRDtZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "V 48 12"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "gP5FrsiKHv",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 78,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "M30 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "potent Pressed with fentanyl. Oxycodone hydrochloride. Imprint V 48 12 or M30 Strength 30 mg Color Blue Size 600 mm. Shape. Round you will get whatever stamp is available bulk also available.",
+  "dream_id": 342611,
+  "golden": false,
+  "name": "10x 30mg Blue Roxicodone V48\/12 , M30 pressed",
+  "p_id": 649
+ },
+ "id": 1031
+}

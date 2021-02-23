@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1294001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4d11742e-e630-4a9a-9ad0-85db9351ab00",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "phenyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cbf857b1-47b2-44fe-a496-38cafa9df8b4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 102,
+      "labels": [
+       "Drug"
+      ],
+      "start": 90,
+      "text": "pyrrolidinyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "16aa9041-88af-4991-be54-99295df579c1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 118,
+      "labels": [
+       "Drug"
+      ],
+      "start": 109,
+      "text": "pentanone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d6fee70f-776e-4b5b-bb4f-3711123e718f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 138,
+      "labels": [
+       "Drug"
+      ],
+      "start": 121,
+      "text": "monohydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "241b1cae-ac05-454c-992e-ce35a0853e91",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "PVP"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Synonyms - PVP 2 - 1- pyrrolidinyl - Valerophenone O - 2387 Formal Name 1 - phenyl-2 - 1- pyrrolidinyl - 1 - pentanone , monohydrochloride CAS Number 5485 - 65 - 4 Molecular Formula C15H21 NO HCl Formula Weight 2678 Formulation. A crystalline solid Purity 98 Storage - 20C. CONTACT INFORMATION BELOW. WICKR ID babayeka06. KIK ID abbate06 10 g 200 50 g 400 100 g 700 250 g 1100 500 g 1700 1 kg 2600.",
+  "dream_id": 421702,
+  "golden": false,
+  "name": "A-PVP Crystal",
+  "p_id": 950
+ },
+ "id": 1294
+}

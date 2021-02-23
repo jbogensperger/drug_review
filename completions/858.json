@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 858001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b10f67cf-759f-4e5a-9ed2-c15ab6020c1a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 94,
+      "labels": [
+       "Drug"
+      ],
+      "start": 90,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "76ccbc44-f4df-439e-b444-a83bb79d4836",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 178,
+      "labels": [
+       "Drug"
+      ],
+      "start": 175,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d1ac09fb-b9b0-489c-9ba0-77affbc9e9f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 221,
+      "labels": [
+       "Drug"
+      ],
+      "start": 215,
+      "text": "SATIVA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "551350ef-bef2-4ed9-a0b9-9567d0f4b470",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 255,
+      "labels": [
+       "Drug"
+      ],
+      "start": 249,
+      "text": "INDICA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "694fa1c0-2a82-423a-8d4a-4ec49148aeb2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 391,
+      "labels": [
+       "Drug"
+      ],
+      "start": 387,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hi Everyone ,. Glad to bring our new product. Let me introduce the original Moroccan Heya Hash. This is very sticky with a gold \/ brown colour. Lovery and easy to pull apart. THC LEVEL. 22-26. I would say this is a SATIVA but people some say its an INDICA. I will let you lovely people decide. Do let us know what you think. I will also go on to say this product competes with any other hash on any DM and it will give the PP100 , PP200 and the Double zero a run for their money. If you have any questions please do not hestitate to ask. Our friendly staff are more than happy to assist you. Also for new customer check our feedback and the forums for peace of mind. Kind. Regards ,. Jnenfrancis.",
+  "dream_id": 94752,
+  "golden": false,
+  "name": "2G OF MOROCCAN HIA HASH **FREE UK DELIVERY**",
+  "p_id": 429
+ },
+ "id": 858
+}

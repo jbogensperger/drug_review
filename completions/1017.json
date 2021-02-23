@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1017001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f0e630fd-07fa-4e82-b088-fd4faef09f58",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "Indoor Trim"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hey we are offering 4 Pounds of Indoor Trim especially good for making edibles.",
+  "dream_id": 193102,
+  "golden": false,
+  "name": "4 Pounds Indoor Trim (Good for making edibles) FRE",
+  "p_id": 632
+ },
+ "id": 1017
+}

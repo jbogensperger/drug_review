@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1352001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5dffbb7d-aff4-4fed-883b-aa2287733d34",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Order"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Order as many times to get price we agreed. One listing is 10 , so if you order 2000 worth items , order 200x.",
+  "dream_id": 21670,
+  "golden": false,
+  "name": "Custom list ",
+  "p_id": 1024
+ },
+ "id": 1352
+}

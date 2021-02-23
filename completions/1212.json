@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1212001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c50d5f29-44cb-400e-8ecb-0533143e4813",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "Heroin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "By ordering you agree to finalize within 24 hours of receiving package. 3 Grams of Pure Black Tar Heroin. No cut added ever. This is the same product we have sold on other markets. Sometimes the product is glassy , but other times it is sticky \/ messy , due to different weather climates and temperature changes. If the product is messy , simply put it in the freezer until it is manageable.",
+  "dream_id": 263579,
+  "golden": false,
+  "name": "3 G Pure BTH (Sale Price) - Escrow",
+  "p_id": 857
+ },
+ "id": 1212
+}

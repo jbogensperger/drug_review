@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1115001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "48fbb927-a4ac-42a1-878e-adf5b00564db",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Malana hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Best quality Malana hash from the Mountains of himalayas.",
+  "dream_id": 17124,
+  "golden": false,
+  "name": "5 grams \/ Malana Hash",
+  "p_id": 737
+ },
+ "id": 1115
+}

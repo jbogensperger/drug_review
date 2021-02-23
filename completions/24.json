@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 24001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f013938d-50d0-4424-a724-c1cdb99da9bf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is our pure colombian cocaine straight from colombia our customers have waited a long time for this and finally we can guarantee the quality that our customers deserve.",
+  "dream_id": 332317,
+  "golden": false,
+  "name": "-2.5 GRAMS- Colombian Cocaine Flakes 91%",
+  "p_id": 32
+ },
+ "id": 24
+}

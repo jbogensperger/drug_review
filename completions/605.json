@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 605001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "15df0604-7c74-45c3-aca8-a905c1f7ffc2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7f00a364-2539-4bc7-8dfd-e6ef9d91a545",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This OG Kush comes from the Northern California region where the weed grows great and smokes awesome. Growers really took care of this harvest and it certainly shows. You will not regret your purchase.",
+  "dream_id": 332939,
+  "golden": false,
+  "name": "*** 28 grams - OG KUSH - Great Quality!! ***",
+  "p_id": 263
+ },
+ "id": 605
+}

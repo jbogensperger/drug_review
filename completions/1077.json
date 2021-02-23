@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1077001,
+   "lead_time": 5015.632,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "VtY3p8Ajap",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "Amphetamine "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_KSHh--XOx",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Speed "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "-. This is 73 Amphetamine Speed Dry -. Purity. 73 - No weightloss - Substance Powder.",
+  "dream_id": 346803,
+  "golden": false,
+  "name": "2g Amphetamin  Speed 73% (Dry)",
+  "p_id": 704
+ },
+ "id": 1077
+}

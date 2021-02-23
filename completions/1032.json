@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1032001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6b4fb4d2-7816-430d-933b-19afd6744ce7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 83,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8bfe1499-e20a-40b7-a58b-0f681bfb099e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 203,
+      "labels": [
+       "Drug"
+      ],
+      "start": 196,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Win thousand dollars with this advanced and sophisticated method to stealth cocaine and ship around the world. Made and tested by myself in this video you learn step - by - step how to impregnate cocaine in paper or paperboard , I indicate materials , tools and all necessary resources for this procedure , you do nt need nothing unusual all you can find in a store close of your home. If u have any question please do nt hesitate to write me.",
+  "dream_id": 330959,
+  "golden": false,
+  "name": "How to impregnate cocaine in Paper or Paperboard (",
+  "p_id": 650
+ },
+ "id": 1032
+}

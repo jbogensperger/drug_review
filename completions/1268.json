@@ -1,0 +1,187 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1268001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "614be83e-4eb0-4337-ac95-3b4a73af6167",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "Methylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e9edc11e-52d9-4a8d-858e-eca2ff2f5366",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 99,
+      "labels": [
+       "Drug"
+      ],
+      "start": 81,
+      "text": "isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b4c1b26e-a8e6-4410-9b06-e4de3cfa1727",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 135,
+      "labels": [
+       "Drug"
+      ],
+      "start": 120,
+      "text": "methylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "02e06662-a238-4da9-b942-7f32e33f9bed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 163,
+      "labels": [
+       "Drug"
+      ],
+      "start": 149,
+      "text": "Ethylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2457083e-89e1-435c-b887-48758a4a779f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 311,
+      "labels": [
+       "Drug"
+      ],
+      "start": 293,
+      "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "96fa2719-d657-4b9e-84f5-26714f65fa5b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 346,
+      "labels": [
+       "Drug"
+      ],
+      "start": 328,
+      "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "90996f56-510c-4057-bf55-036966f14e69",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 382,
+      "labels": [
+       "Drug"
+      ],
+      "start": 364,
+      "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "91438693-ac28-4799-86c7-06de0fefed97",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 419,
+      "labels": [
+       "Drug"
+      ],
+      "start": 401,
+      "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7132adb-c395-4a3b-b92e-93002577f550",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 457,
+      "labels": [
+       "Drug"
+      ],
+      "start": 439,
+      "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "90b76d8e-6e36-4f2c-901d-212de190d349",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 495,
+      "labels": [
+       "Drug"
+      ],
+      "start": 477,
+      "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cd3b8b4e-fdf6-4f4c-8c76-6a1e4dd8f327",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 535,
+      "labels": [
+       "Drug"
+      ],
+      "start": 517,
+      "text": "Isopropylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fad0ebb2-cdab-484e-b36c-f74b0ae1e336",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 577,
+      "labels": [
+       "Drug"
+      ],
+      "start": 559,
+      "text": "Isopropylphenidate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for Isopropylphenidate IPPH. Effects similar to Methylphenidate. isopropylphenidate is a drug analog to methylphenidate. It replaces Ethylphenidate which was banned earlier this year. Please check our vendor page for our policies regarding ordering , reships , etc. PRICING 1g Isopropylphenidate 35 - 35 \/ g 10g Isopropylphenidate 80 - 800 \/ g 25g Isopropylphenidate 160 - 640 \/ g 50g Isopropylphenidate 280 - 560 \/ g 100g Isopropylphenidate 500 - 500 \/ g 250g Isopropylphenidate 1,200 - 480 \/ g 500g Isopropylphenidate 2,100 - 420 \/ g 1,000g Isopropylphenidate 3,800 - 380 \/ g.",
+  "dream_id": 395625,
+  "golden": false,
+  "name": "1g Isopropylphenidate Crystal (Replaces EPH)",
+  "p_id": 919
+ },
+ "id": 1268
+}

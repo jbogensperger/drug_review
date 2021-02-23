@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1313001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "aeb6bb99-289c-49db-9ca5-7436410efd72",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "xtc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3abcfcc3-6a60-4ce5-bb9c-5aa669545df1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "mdma"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dutch xtc 160 mg mdma. Will be send in 2 package s.",
+  "dream_id": 293041,
+  "golden": false,
+  "name": "LIGHT BLUE dominos 160 MG MDMA ( 500 PIECES) ",
+  "p_id": 971
+ },
+ "id": 1313
+}

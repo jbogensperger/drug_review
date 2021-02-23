@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1195001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e14f770d-3f91-4135-80bd-856d95831bc3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "140g oily as marymurphy88gmaildePeruvian. Cocaine. Scott Purity. Tested between 88 - 94. The most potent product you ve ever had. One time only.",
+  "dream_id": 385054,
+  "golden": false,
+  "name": "CUSTOM 14g Jungle Batch - IceCreamMan",
+  "p_id": 840
+ },
+ "id": 1195
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1082001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ff2b2269-e8be-41ca-b937-6b2805e09b8d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "stanozolol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bffa98e0-d5d8-4c67-8e04-d7a10a6a6470",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "winstrol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 bottle of Helix Pharma stanozolol \/ winstrol 25 mg x 100 units.",
+  "dream_id": 74848,
+  "golden": false,
+  "name": "HELIX PHARMA STANOZOLOL\/WINSTROL 25MG X 100 UNITS",
+  "p_id": 710
+ },
+ "id": 1082
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1284001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "de9e7b21-e3c5-4b3e-ad88-2ec55693a6dc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This offer is for a set of 10 LSD gel tabs dosed at 150ug each. These needle point tabs are freshly laid and energy control tested at 99 and are straight from the family. Gel tabs are generally considered to hold their potency longer than paper blotters.",
+  "dream_id": 429641,
+  "golden": false,
+  "name": "10x | LSD 150ug | Gel Tabs",
+  "p_id": 937
+ },
+ "id": 1284
+}

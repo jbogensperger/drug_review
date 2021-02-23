@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 551001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7dc1dc17-df22-48d9-85e6-05bab17a6547",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "PERCS"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 MG PERCS , REAL DEAL TECS. PRICE IS PER 1 TAB. UNFORTUNATELY I CANNOT DO BULK DISCOUNTS AT ALL FOR THIS ITEM , PLEASE DO NOT ASK.",
+  "dream_id": 316884,
+  "golden": false,
+  "name": "**PERCOCET** 5MG TEC (MINIMUM 25 PER ORDER)",
+  "p_id": 182
+ },
+ "id": 551
+}

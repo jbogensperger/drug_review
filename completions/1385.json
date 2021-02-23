@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1385001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "53dba6cb-2f5b-45be-a2af-288ee676e65c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bf58e7bc-cd9e-47c6-809e-16c4e441922c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 91,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Welcome To Drugs Co This Listing Is For 01G Of Top Quality Cocaine Some of the best cocaine in the UK without a doubt. THIS IS FOR LIMITED TIME ONLY TO BUILD FEEDBACK.",
+  "dream_id": 416705,
+  "golden": false,
+  "name": " 0.1g PURE PERUVIAN COCAINE ",
+  "p_id": 1062
+ },
+ "id": 1385
+}

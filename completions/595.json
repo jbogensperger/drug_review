@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 595001,
+   "lead_time": 2139.831,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c4d8cd35-ff51-47a4-97f2-be367a8fc3df",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5b343180-3fa4-48cd-bef7-aff65b57cf23",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 201,
+      "labels": [
+       "Drug"
+      ],
+      "start": 197,
+      "text": "Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "27849c94-5799-4bf0-845e-d4215fbeb32a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 223,
+      "labels": [
+       "Drug"
+      ],
+      "start": 217,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ab46f995-3153-4e82-86b3-21f41299ab96",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 235,
+      "labels": [
+       "Drug"
+      ],
+      "start": 229,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Zz5BeGOYpu",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cheese X Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_GN0so8t92",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 129,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "Skunk "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cheese X Haze. This marijuana strain is said to be one of the most preferred strains today. The fruity taste of the mainly Skunk 1 in the Cheese crossed with the uplifiting strong high of the NL 5 Haze male. Genetics Sativa 50 \/ Indica 50 High Strong up high. The perfect cross between two plants. Enjoy. by ordering we expect you to have read and agreed with the terms on our profile.",
+  "dream_id": 263287,
+  "golden": false,
+  "name": "CHEESE X HAZE 25 GRAM   *SUMMERFEST*",
+  "p_id": 250
+ },
+ "id": 595
+}

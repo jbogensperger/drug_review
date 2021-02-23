@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1391001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c26972ce-8e09-43f5-a550-9fec7088d4e8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "speed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "custom listing for 500 grams of speed.",
+  "dream_id": 147641,
+  "golden": false,
+  "name": "custom listing for 500 grams of speed",
+  "p_id": 1071
+ },
+ "id": 1391
+}

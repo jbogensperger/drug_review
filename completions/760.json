@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 760001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "38bd10c0-f4c1-46a5-b62e-3033066adb80",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 53,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for a luxury chocolate bar made with cannabis mixed directly into the chocolate , giving it a subtle herbal taste. We use premium ingredients to make an extremely tasty and potent edible for when discretion is required or you simply do nt feel like smoking. Please see our profile for details on dosage , policies and conditions.",
+  "dream_id": 88157,
+  "golden": false,
+  "name": "Cannabis Dark Chocolate Bar (70% cocoa)",
+  "p_id": 185
+ },
+ "id": 760
+}

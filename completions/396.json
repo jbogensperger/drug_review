@@ -1,0 +1,173 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 396001,
+   "lead_time": 1028.867,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9b4ca71a-e4d0-47cc-83f7-97fe9e1e23f7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 451,
+      "labels": [
+       "Drug"
+      ],
+      "start": 448,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "27808dc7-bb0f-4f3f-9ae7-b26d8a18d588",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 487,
+      "labels": [
+       "Drug"
+      ],
+      "start": 481,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e83F_tiHEE",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 178,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "Chemdawg"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "yJwrx_6VF9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 190,
+      "labels": [
+       "Drug"
+      ],
+      "start": 180,
+      "text": "Alien Dawg"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6XX0sTQVZb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 298,
+      "labels": [
+       "Drug"
+      ],
+      "start": 282,
+      "text": "Alien Technology"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Q0RBRLQqKK",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Alien Dawg"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "qRMTjjGzXQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 127,
+      "labels": [
+       "Drug"
+      ],
+      "start": 111,
+      "text": "Alien Technology"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "F2EQZAPrfY",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 135,
+      "text": "Afghani "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "JqZoKzmB_O",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 360,
+      "labels": [
+       "Drug"
+      ],
+      "start": 351,
+      "text": "Chemdawg "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "i09U16fhrF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 389,
+      "labels": [
+       "Drug"
+      ],
+      "start": 379,
+      "text": "Alien Dawg"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "s7nXDnC4hb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 500,
+      "labels": [
+       "Drug"
+      ],
+      "start": 490,
+      "text": "Alien Dawg"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Bred by The Cali Connection , Alien Dawg hails from Northern California and Afghanistan. It is a cross between Alien Technology a pure Afghani strain , and the legendary Chemdawg. Alien Dawg borrows traits from both parents. The buds grow super frosty and covered with resin , like Alien Technology , with aromas ranging from pine and woodsy to truly Chemdawg - like fuel taste. Alien Dawg will have you feeling uplifted in no time with its potent THC content. Being almost purely indica , Alien Dawg delivers a sedating body effect that is makes for a great night - time smoke. This is a great medicinal strain used to treat a wide array of mental and physical conditions. - MMM.",
+  "dream_id": 227084,
+  "golden": false,
+  "name": "1g Alien Dawg (Indica)",
+  "p_id": 198
+ },
+ "id": 396
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1005001,
+   "lead_time": 3859.72,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c9f9c8e1-fc9d-4dd3-a140-5fc0e3213bf2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d1e448dd-f5ee-4876-a3a7-91d21d2744e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 172,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "neu9Khqoay",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 294,
+      "labels": [
+       "Drug"
+      ],
+      "start": 286,
+      "text": "Alcohol "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Each 15 ML Contains 43G of Hulk Weed. After many many long weeks our tincture is good to go and by gosh its good. Please store in a cool dark place as the sun destroys the THC in the bottles. These come in two flavors Citrus or Mixed Berry. These bottles contain 15 ml of 95 Everyclear Alcohol Extracted Hulk. Per 400 ml 28oz was used per batch so these are SUPER STRONG. Photos. UKEdibles.",
+  "dream_id": 390199,
+  "golden": false,
+  "name": "UKEdibles Mixed Berry Tincture 15ML SUPER STRONG 9",
+  "p_id": 619
+ },
+ "id": 1005
+}

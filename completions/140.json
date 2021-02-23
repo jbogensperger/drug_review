@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 140001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "64e71e08-aa00-4ebc-9965-8b82af578e18",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "Methoxyacetyl Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "049be633-b3ec-4191-951e-6b703a2a9710",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 122,
+      "labels": [
+       "Drug"
+      ],
+      "start": 119,
+      "text": "FUF"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "99 purity , 100 shipping warranty. genuine product. sales promotion in Sep. Methoxyacetyl Fentanyl is a replacement of FUF.",
+  "dream_id": 346746,
+  "golden": true,
+  "name": "Methoxyacetyl Fentanyl (MAF) 500g 99.8% purity (sa",
+  "p_id": 10381
+ },
+ "id": 140
+}

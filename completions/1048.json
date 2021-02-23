@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1048001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "13492ae8-2409-44fb-a6d0-9f103ef3493f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "loraxepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "loraxepam treats severe anxiety \/ insomia and taken before surgery.",
+  "dream_id": 381896,
+  "golden": false,
+  "name": "loraxepam (1mg) 28 tabs (1 box) uk only",
+  "p_id": 672
+ },
+ "id": 1048
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 977001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "973b9d52-2a22-4726-a8bc-9646953ed340",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "Coke"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9c4f9ec1-c1c3-4dac-a1a3-42880d1c0f04",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ed79e01e-cc12-4563-a857-4cf6d4532090",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 72,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ad0cf901-a54a-4966-b682-0a1965742d4b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 116,
+      "labels": [
+       "Drug"
+      ],
+      "start": 109,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dca6e607-6dcb-443c-8bc3-752a4db0aab5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "Coca"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 GR Colombian Crystal Coke Cocaine Streetware. This is Standard Cocaine from colombian. If you like HQ Pure Cocaine do nt buy it. This Coca is very fine to make party or for reselling. This price is very good. We send from Germany or Austria.",
+  "dream_id": 325795,
+  "golden": false,
+  "name": "\"5 GR Colombian Crystal Coke(Cocaine) \"\"Streetware\"\"\"",
+  "p_id": 581
+ },
+ "id": 977
+}

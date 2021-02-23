@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 827001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9eaffc4a-e00a-46f8-8f52-a7445447994c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 113,
+      "labels": [
+       "Drug"
+      ],
+      "start": 99,
+      "text": "Headbanger BHO"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4ac72934-1a1f-4c95-9e2d-56b5513e034c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 459,
+      "labels": [
+       "Drug"
+      ],
+      "start": 456,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "164f0d63-952c-45d1-9001-f9868ffbeea5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 546,
+      "labels": [
+       "Drug"
+      ],
+      "start": 543,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 20 vegetable glycerin vegan capsules , which contain 50 mg of our fully purged Headbanger BHO and 500 mg of Coconut oil each. We heat and mix the wax with organic coconut oil and transfer painstakingly to capsules. These capsules are for medicinal users and are offered at a reduced price. Good uses for these capsules include Cancer relief , anorexia , IBS , MS , epilepsy , parkinsons , rheumatism , arthritis , lupus , migraines. At THC Pharmer we are committed to helping medicinal users access safe medicine. One Love THC Pharmer.",
+  "dream_id": 335444,
+  "golden": false,
+  "name": "Coconut Cannabis capsules 50mg x 20 UK",
+  "p_id": 360
+ },
+ "id": 827
+}

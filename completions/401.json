@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 401001,
+   "lead_time": 887.839,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d5b44a8e-f6f6-4981-b554-c3daaf1cda97",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 384,
+      "labels": [
+       "Drug"
+      ],
+      "start": 380,
+      "text": "Mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d14813f1-e2a6-43d7-b52b-8e8a0c6cd52c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "Caffeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ezz3fimBU0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Speed "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "HQ Speed Powder Imported From Europe For You Enjoying Pleasures , Only A Small Quantity Needed For A Long Lasting Boost. None Of That Nasty Hard Caffeine Powder Hard Lumps With This Powder. A Nice Smooth , Clean Product With No Horrible Come Downs Try Me P You Know You Want To. Also For Sale. - Self Defense Knuckles - Self Defense Ring - Folding Card Knives. - Ring Blades - 80 Mdma.",
+  "dream_id": 323886,
+  "golden": false,
+  "name": "2g *Top Class * * Speed Powder *Best On The Market",
+  "p_id": 203
+ },
+ "id": 401
+}

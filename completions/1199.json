@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1199001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3cbcd0d0-93e5-4c0c-b8ff-81ceb2d1a186",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "suboxone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 sealed 8 \/ 2 mg suboxone strips. orders. Free Shipping included.",
+  "dream_id": 263848,
+  "golden": false,
+  "name": "10 Suboxone 8\/2 mg $150 ,Fresh from US Phamacy",
+  "p_id": 844
+ },
+ "id": 1199
+}

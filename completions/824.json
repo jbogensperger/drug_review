@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 824001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8ffddb73-17f1-4bad-be69-01b02cf70b8c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "oxazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "00146fd0-fa35-4c24-a7e1-44b01f60c10c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "oxazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "oxazepam from the Dutch pharmacy. 10 mg oxazepam.",
+  "dream_id": 162213,
+  "golden": false,
+  "name": "10X oxazepam 10mg",
+  "p_id": 355
+ },
+ "id": 824
+}

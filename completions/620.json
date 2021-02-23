@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 620001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3efb9c65-a4c0-4344-abd3-21f5214a59df",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 89,
+      "text": "XA NAX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ebb4083-2996-4a5e-9f33-ad043ee29495",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Alprazolam 3 mg per tablet. These are pressed but look great and have some kick to them. XA NAX on one side with the 2 on the other. 4000 delivered via first class. The filler in these makes them just alittle harder than original , but everyone I have dealt with on these love them. They are just alittle larger than the original Pfizer. Give them a try and I m sure you ll be more than happy with them. Thanks.",
+  "dream_id": 369393,
+  "golden": false,
+  "name": "Sample Xanax Bars 3mg Pfizer x10 Alprazolam",
+  "p_id": 282
+ },
+ "id": 620
+}

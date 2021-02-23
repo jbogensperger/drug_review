@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 424001,
+   "lead_time": 106.888,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ee8a0c5d-3a10-4a7d-9211-970e44d7ed27",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "Marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "badea053-9fe0-4794-a664-02a7b8991e22",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 278,
+      "labels": [
+       "Drug"
+      ],
+      "start": 272,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0ed07be6-a17c-4bf3-a2e3-b25f76bac1a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 396,
+      "labels": [
+       "Drug"
+      ],
+      "start": 390,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e6ji4GuvvE",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Power Plant"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ODcaMlAOFe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Power Plant"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High Quality. Marijuana Power Plant. Power Plant comes highly recommended for day - time use as it produces a significant head - rush with very little to no physical fatigue. It s a little stoney though so it wo nt be the most inspiring or clear - headed effect that some Sativa strains are known for. Although you could easily wake and bake with this , there are still many more uplifting Sativa strains that are probably better options. Still though very powerful medicine. The name suits itself perfectly. 1 Royal Mail 1st class Free UK Delivery 1 - 3 days 2 Royal Mail International 1 - 8 days.",
+  "dream_id": 389242,
+  "golden": false,
+  "name": "1g Power Plant (Strong)Fast and Free UK Delivery",
+  "p_id": 231
+ },
+ "id": 424
+}

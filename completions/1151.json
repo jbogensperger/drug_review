@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1151001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "28571d07-9257-4306-bddc-599aa8dd069f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Xanax bars from the good old ozsupplies. Verified as the same vendor from Alphabay.",
+  "dream_id": 330080,
+  "golden": false,
+  "name": "Xanax Bars 100 - VERIFIED ALPHABAY VENDOR",
+  "p_id": 781
+ },
+ "id": 1151
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 632001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a13b3076-0367-45a0-9ed0-35c71c2aac5a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cinex"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cinex is known for producing a very clear - headed and focused high with a comfortable body relaxation to boot. Save this strain to use during the day , or right after breakfast. Perfect for building a positive mindset and stimulating creative energy. Order Now. 2 LBS 3000 3 LBS 4500 6 LBS 9,000 NOTE 2LBs MINIMUM. Contact Us at. WhatsApp 60 953 5173 409. wickr tripwireadoptio.",
+  "dream_id": 393915,
+  "golden": false,
+  "name": "2lbs of Cinex A+++",
+  "p_id": 297
+ },
+ "id": 632
+}

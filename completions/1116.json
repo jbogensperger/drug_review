@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1116001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "288755c8-2bfd-41e7-a34d-2e5b3733674f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Purple sizzurp"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "15b5d46a-8549-4f93-9aa1-d5ec1ed17d48",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "codeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ef8e6dfb-3ac3-482a-8062-592d4a47d2a7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "promethazine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Purple sizzurp is codeine \/ promethazine that is put inside of a soda to get you feeling real good. This brand is made by Watson. Watson recently bought out Actavis brand that once cornered the market in the drank world. This is the next best thing when you drinking purple.",
+  "dream_id": 118999,
+  "golden": false,
+  "name": "\"1oz. \"\"Purple Sizzurp\"\" codeine\/promethazine\"",
+  "p_id": 738
+ },
+ "id": 1116
+}

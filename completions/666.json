@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 666001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c5b12736-6bb9-4624-8f66-adc3dcda2a2c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This Listing is for 100 Xanax Bars. The Strength is 2 mg. Recommended dose is between 1 - 5 bars. They really fuck you up so use cautious my friends. we are invoking a new policy that requires address encryption on every order for your safety either pgp or temppm url messages , it is as easy as clicking the checkbox under the shipping notes that says encrypt with vendors pgp. if you are unable to do this we can not accept your order but you can reorder to meet these requirements. we DO NOT accept privnote for security reasons as well as pgp version BCPG C v1610.",
+  "dream_id": 287514,
+  "golden": false,
+  "name": "100 HIGH QUALITY 2mg XANAX",
+  "p_id": 339
+ },
+ "id": 666
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 46001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4da8f155-144c-4cc7-bae3-7f6c51710f4a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Super Kamagra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Super Kamagra. 100 mg - 4 Pills. Welcome to my store. Generally the package arrived entre 4 and 6 days for Europe and France entre 2 and 4 days. thank you.",
+  "dream_id": 219031,
+  "golden": false,
+  "name": "Super Kamagra 100mg - 4 Pills ",
+  "p_id": 57
+ },
+ "id": 46
+}

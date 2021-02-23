@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 70001,
+   "lead_time": 914.245,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "gzbBjtmXCQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "testosterone cypionate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 vial Helix Pharma testosterone cypionate 250 mg \/ ml x 10 ml.",
+  "dream_id": 113060,
+  "golden": false,
+  "name": "HELIX PHARMA TESTOSTERONE CYPIONATE 250MG\/ML X 10M",
+  "p_id": 84
+ },
+ "id": 70
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 592001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "48a7e65d-2939-462e-94dc-d52af22f9977",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 392,
+      "labels": [
+       "Drug"
+      ],
+      "start": 389,
+      "text": "thc"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Mostly for. Cancer patients but if you want to get high ist also good for that. For Cancer patients. 3 drops per day , if you do nt like the psychoactive effect , just take it one hour before sleep. Be aware that this oil is EXTREMELY potent , you will get high if you take it while awake. It s difficult to say how much each patient need , depend on the patients weight and tolerance for thc.",
+  "dream_id": 432302,
+  "golden": false,
+  "name": " 3 ML. Pure Cannabis Oil THC",
+  "p_id": 246
+ },
+ "id": 592
+}

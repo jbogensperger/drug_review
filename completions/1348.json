@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1348001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1ce89d74-8b89-4647-aff8-e9c19a7ebe8e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 108,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "benzodiazepines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "29acb339-8c82-4219-8cfa-9e0214663451",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 285,
+      "labels": [
+       "Drug"
+      ],
+      "start": 275,
+      "text": "alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d283b7b9-85cd-4f7e-98ff-3f9a154da2cd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 331,
+      "labels": [
+       "Drug"
+      ],
+      "start": 316,
+      "text": "benzodiazepines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d7d62a59-9ff4-4218-bacf-77fd52a4271d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 139,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "triazole"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0d494ac4-4d63-43b1-86a8-cac7781ca65c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 156,
+      "labels": [
+       "Drug"
+      ],
+      "start": 142,
+      "text": "benzodiazepine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 original Pfizer blister. PRODUCT DESCRIPTION. Is an aniolytic belonging to the family of benzodiazepines , more specifically a triazole - benzodiazepine , short - term action that is used against panic attacks and various anxiety disorders. The therapeutic properties of alprazolam are similar to those of other benzodiazepines and include anxiolytic , hypnotic , anticonvulsant , muscular , sedative and amnesic activity. HALF - LIFE 13 hours. CONDITIONS. Refund or reship 30 day after the shipment only for priority mail international , why can I check if the letter was received. No priority , no refund or reship. Estimated time priority mail international. EU \/ CH \/ UK 3 work days USA \/ AMERICAS 6 work days. WW 9 work days. Estimated time mail international. EU \/ CH \/ UK. 6 work days USA \/ AMERICAS 12 work days WW 20 work days.",
+  "dream_id": 430957,
+  "golden": false,
+  "name": "1 tab Pfizer XANAX  1.20",
+  "p_id": 1018
+ },
+ "id": 1348
+}

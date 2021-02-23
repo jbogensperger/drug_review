@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 90001,
+   "lead_time": 982.293,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0pojLzKDB5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "thc "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "custom listing Jellyfish. 50 thc candies.",
+  "dream_id": 105606,
+  "golden": false,
+  "name": "custom listing Jellyfish",
+  "p_id": 106
+ },
+ "id": 90
+}

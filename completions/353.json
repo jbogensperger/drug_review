@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 353001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6f048f42-2a79-469e-aff1-1f6f47a8b024",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OXYCODONE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OXYCODONE 30 MG STRAIGHT FROM HEALTH MEDICS CARE 20 PER PILL. BULK DEALS 400 PILLS FOR 6000 FOR MORE INFOR POR ANY CUSTOM ORDER , YOU CAN JUST DOWNLOAD KIK OR WICKR ON YOUR PHONE APP AND ADD ME FOR A FAST AND MORE DISCREET CHAT. MY WICK ID burpboob MY KIK ID burpboob.",
+  "dream_id": 425371,
+  "golden": false,
+  "name": "OXYCODONE 30MG",
+  "p_id": 145
+ },
+ "id": 353
+}

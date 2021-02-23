@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1023001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c727dab9-281b-46f8-add9-870a20d2c9d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8695dc84-9efd-4582-9867-3673d6f50353",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 96,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2cf639ac-66a3-40c7-a475-15584dda296f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 221,
+      "labels": [
+       "Drug"
+      ],
+      "start": 214,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sociable Cocaine - 60 Purity. The pure stuff is too strong for your nose. just try our sociable cocaine. we mixed it up for you with a litlle sweetener that do nt harm your healthy and give you a more relax use of cocaine. 1 gram - 30 euro 2 gram - 60 euro 35 gram - 102 euro. 5 gram - 140 euro 7 gram - 196 euro. 10 gram - 260 euro 14 gram - 360 euro. 20 gram - 500 euro 25 gram - 625 euro. 50 gram - 1250 euro 100 gram - 2400 euro.",
+  "dream_id": 349221,
+  "golden": false,
+  "name": "1 gram Sociable Cocaine - 60% Purity",
+  "p_id": 640
+ },
+ "id": 1023
+}

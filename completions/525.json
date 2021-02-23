@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 525001,
+   "lead_time": 5377.841,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "003c3611-93d7-4de4-b578-96536669c6a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Fumaric Acid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "BXgsxnDxKd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "dmt freebase"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "zr7ZJh6qDE",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "dmt fumarate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d0iFjxX0wP",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 81,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "dmt Fumarate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "BLeGe-gseW",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 157,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "dmt freebase"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Fumaric Acid. For converting dmt freebase to dmt fumarate. A dose of dmt Fumarate will last hours compare that to 10 - 15 minuets with a dose of dmt freebase.",
+  "dream_id": 281646,
+  "golden": false,
+  "name": "15g Fumaric Acid For making DMT Fumarate :)",
+  "p_id": 136
+ },
+ "id": 525
+}

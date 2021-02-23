@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1037001,
+   "lead_time": 835.172,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0294ecf8-8662-4f91-b76a-3979f44c9fd7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Testosterone isocaproate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5272d53d-d797-4cee-aa89-17b661496859",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Sustanon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f26c89f1-9a8f-4f84-a0a2-fa8cc097cd7b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "Sustanon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "09b0bb4d-2559-496c-9466-834ecc658ca2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 88,
+      "labels": [
+       "Drug"
+      ],
+      "start": 80,
+      "text": "Omnadren"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6eaa9fe0-797c-4ba2-9bbb-09b133bdcc19",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 110,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "testosterone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eFyMI_zX3h",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 129,
+      "labels": [
+       "Drug"
+      ],
+      "start": 111,
+      "text": "4 - methylvalerate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "DNF1xQJz2T",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 168,
+      "labels": [
+       "Drug"
+      ],
+      "start": 160,
+      "text": "steroid "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "S6ZotYSGSA",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 192,
+      "labels": [
+       "Drug"
+      ],
+      "start": 174,
+      "text": "testosterone ester"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Testosterone isocaproate brand names Sustanon 100 discontinued , Sustanon 250 , Omnadren 250 , or testosterone 4 - methylvalerate , is an androgen and anabolic steroid and a testosterone ester. We guaranteed reship 100 if we lost parcel during shipping but we need evidences. Almost 999 are received safe in EU.",
+  "dream_id": 241553,
+  "golden": false,
+  "name": "Testosterone Isocaproate EU 500g",
+  "p_id": 656
+ },
+ "id": 1037
+}

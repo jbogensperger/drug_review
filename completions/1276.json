@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1276001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e1c97fc8-e381-4899-9625-33031e73adf8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 301,
+      "labels": [
+       "Drug"
+      ],
+      "start": 298,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Bruce Banner might be best known as the alter - ego of comic book hero. The Incredible Hulk , but maybe he would nt be such a stressed out ball of anger if he just had some of his namesake strain. This green monster also has hidden strength and features dense nugs that pack the power of very high THC content. It s a powerful strain whose effects come on quickly and strong and then tend to settle into a euphoric and creative buzz. The sativa effects of this strain are most evident and linger mostly in the head , but it does also provide body relaxation and pain relief that make it an appropriate daytime medication for some. Delta9. Labs bred this strain from OG Kush and Strawberry Diesel , and its heritage can be found in its diesel aroma with sweet undertones. Plants flower at 8 to 10 weeks. This strain does have three main phenotypes , one of which is Bruce Banner 3. Effects. Euphoric Happy Relaxed Uplifted Creative. Flavors. 1 Earthy. 2 Sweet. 3 Pungent.",
+  "dream_id": 287204,
+  "golden": false,
+  "name": "*** EXCLUSIVE **** 1G ****  BRUCE BANNER *** $$ IC",
+  "p_id": 927
+ },
+ "id": 1276
+}

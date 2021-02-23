@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 914001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1c21f531-d845-40f4-a1c8-02a3ef97747d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Vyvanse"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Grand opening sale. 60 mg Vyvanse 1300 ea. No fakes no tampering - straight from pharmacies to you.",
+  "dream_id": 408839,
+  "golden": false,
+  "name": "60mg Vyvanse super sale price ",
+  "p_id": 506
+ },
+ "id": 914
+}

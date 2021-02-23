@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1290001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3a0c61c6-9670-4a1a-bfc2-aa06219dd2c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Meth"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8db011bb-de2c-4b98-b0ca-b1ed49e5f71c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 112,
+      "labels": [
+       "Drug"
+      ],
+      "start": 108,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "7g. Value Meth. We have had the unfortunate pleasure of buying a decent amount of a pretty average batch of meth. Feedback for this meth is in between 4-6\/10. At this price , it does not need to be cut and can sell as is. Practically giving it away. Plenty to go around. Will upload actual photo ASAP.",
+  "dream_id": 327850,
+  "golden": false,
+  "name": "7G VALUE SHARD, WAY BELOW COST! \/\/ [FIRE SALE]",
+  "p_id": 943
+ },
+ "id": 1290
+}

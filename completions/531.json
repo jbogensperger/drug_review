@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 531001,
+   "lead_time": 1583.851,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "24dfaa2f-f68e-435e-9a13-7c71b2a0ac88",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 253,
+      "labels": [
+       "Drug"
+      ],
+      "start": 245,
+      "text": "FENTANYL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ey4SK7COje",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 218,
+      "labels": [
+       "Drug"
+      ],
+      "start": 206,
+      "text": "FENTANYLMIX "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "29Xhm9EUhM",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 368,
+      "labels": [
+       "Drug"
+      ],
+      "start": 361,
+      "text": "HEROIN "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "MPLAw7osDS",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 551,
+      "labels": [
+       "Drug"
+      ],
+      "start": 544,
+      "text": "OPIATE "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "XvMuALJEmr",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 196,
+      "labels": [
+       "Drug"
+      ],
+      "start": 184,
+      "text": "CHI NA WHITE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Ship from Canada to USA \/ Canada ONLY. Dosage. 1 Please start with 5 milligrams until you find your spot. 2 Product can be smoked , snorted or injected. Made in GERMANY or CANADA 1G 4 CHI NA WHITE THE BEST FENTANYLMIX FROM MEXICO I GET ORIGINAL FENTANYL VERY POTENT BRICKED UP BUT IM SUCH A GOODD CHEMIST THAT I DILUTE IT AND IT FEELS LIKE A 9 -10 STREET WHITE HEROIN NOT SPOTS U WO NT NDEE PPL THING BY JUST OUTTING IT IN A MAGIC AND BE LIKE HERE NAH MAN MI DILUTION MTHOD AND WHAT I USE US A SECRET U WILL GET ROCKS WHEN U ORDER FROM ME IM A OPIATE CHEMIST WORKING FOR MEXICAN CARTELS U WO NT BE DISSAPOINTED.",
+  "dream_id": 399529,
+  "golden": false,
+  "name": "1G #4 CHINA WHITE THE BEST FENTANYL MIX FROM MEXIC",
+  "p_id": 146
+ },
+ "id": 531
+}

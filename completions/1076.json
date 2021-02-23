@@ -1,0 +1,299 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1076001,
+   "lead_time": 1659.736,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2a26f1cb-4d86-4b02-99f8-dd98f8299c62",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bd3f5e83-932a-4e99-b18e-17a410c87a7f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3af4929-b5d5-4a13-925b-8715ca7e0a05",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 191,
+      "labels": [
+       "Drug"
+      ],
+      "start": 185,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "be96686d-bcba-4155-a0d2-a144da9a23b3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 258,
+      "labels": [
+       "Drug"
+      ],
+      "start": 252,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "242b1be3-63c2-4c1f-9037-e0c4a8ec8cf8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 376,
+      "labels": [
+       "Drug"
+      ],
+      "start": 373,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0f002654-c511-40ea-864d-70b5d4f700ce",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 579,
+      "labels": [
+       "Drug"
+      ],
+      "start": 576,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e16d7e26-017a-4abc-a67f-4552f1242201",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 606,
+      "labels": [
+       "Drug"
+      ],
+      "start": 603,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3100ae8e-3c68-40a9-a1fd-e696ebc2cbf3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 169,
+      "labels": [
+       "Drug"
+      ],
+      "start": 166,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Zhzv2aFNub",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 117,
+      "labels": [
+       "Drug"
+      ],
+      "start": 110,
+      "text": "Tangie "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "yCzxtTAcqw",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 130,
+      "labels": [
+       "Drug"
+      ],
+      "start": 119,
+      "text": "Dutch Treat"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "IKLH9arg-I",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 146,
+      "labels": [
+       "Drug"
+      ],
+      "start": 135,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8Z6gahcEG8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 417,
+      "labels": [
+       "Drug"
+      ],
+      "start": 406,
+      "text": "Underdog OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "SGC3982rga",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 454,
+      "labels": [
+       "Drug"
+      ],
+      "start": 447,
+      "text": "Hybrid "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "66cSQDKAqP",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 521,
+      "labels": [
+       "Drug"
+      ],
+      "start": 514,
+      "text": "Hybrid "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "lWdl848tU9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 306,
+      "labels": [
+       "Drug"
+      ],
+      "start": 295,
+      "text": "Underdog OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "HVtjnahSkT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 318,
+      "labels": [
+       "Drug"
+      ],
+      "start": 309,
+      "text": "Sherbert "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ZzMXEN_y6k",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 339,
+      "labels": [
+       "Drug"
+      ],
+      "start": 320,
+      "text": "Cherry Shishkaberry"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_eNMYY8526",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 359,
+      "labels": [
+       "Drug"
+      ],
+      "start": 344,
+      "text": "Purple Cadillac"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PlxBU30fJV",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 597,
+      "labels": [
+       "Drug"
+      ],
+      "start": 587,
+      "text": "God s Gift"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "J9S-72ZWUr",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 572,
+      "labels": [
+       "Drug"
+      ],
+      "start": 560,
+      "text": "Key Lime Pie"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sativa - Exclusively from our Summer harvest at Lowell Farms. This Sativa blend includes a curated mixture of Tangie , Dutch Treat and Sour Diesel. It has an average THC content of 22. Indica - Exclusively from our Summer harvest at Lowell Farms. This Indica blend includes a curated mixture of Underdog OG , Sherbert , Cherry Shishkaberry and Purple Cadillac. The average THC content in this blend is 22. Underdog OG sourced from beijaflorfarms. Hybrid - Exclusively from our Summer harvest at Lowell Farms. This Hybrid blend includes a curated mixture of 65 Key Lime Pie 22 THC and 35 God s Gift 4 26 THC. Amorous blend which has notes of lime and chocolate , enhances senses and dulls pain.",
+  "dream_id": 386617,
+  "golden": false,
+  "name": "Lowell Farms Pre Rolls - 10 joint\/6 grams total",
+  "p_id": 703
+ },
+ "id": 1076
+}

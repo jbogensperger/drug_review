@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1000001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9edba8f6-e7d9-4670-9913-a880ea05ceda",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High quality fishscale cocaine. 4 oz. Very clean and retains over 90 of weight when cooked freebase. You may get it in solid fishscale chunks. Due to the recent issues with Dream Market and the large fluctuations in bitcoin prices this listing requires FE.",
+  "dream_id": 309652,
+  "golden": false,
+  "name": "4oz HIGH QUALITY FISHSCALE ",
+  "p_id": 612
+ },
+ "id": 1000
+}

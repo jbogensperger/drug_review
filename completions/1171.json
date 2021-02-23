@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1171001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "079829bc-d6fc-4234-ab48-46936d2d8400",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 314,
+      "labels": [
+       "Drug"
+      ],
+      "start": 290,
+      "text": "trimethoxyphenethylamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "74b8e173-6539-40be-b44f-6dda43d9d698",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "peyote"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 fresh peyote seeds to start your garden with. The seeds are very small , simply lay them on cactus soil or sand , cover with a seeds thickness of soil , water and watch them grow. Peyote is a small , spineless cactus , Lophophora williams ii , with the hallucinogen mescaline 3 , 4 , 5 - trimethoxyphenethylamine being the principal active ingredient. From earliest recorded time , peyote has been used by natives in northern Mexico and the south - western United States as a part of their religious rites. Order 3 packs and get an extra free. 20 seeds for the price of 15. USA buyers with at least 3 completed orders may stay in escrow until the order arrives. Only 5 for first class postage. Orders will be sent out within 1 business day. A simple grow guide will be sent by pm on request with each order. Shipments outside usa must FE. Orders from outside usa must FE or mark it received before sending overseas.",
+  "dream_id": 24286,
+  "golden": false,
+  "name": "Peyote seeds, grow your own. 5 fresh seeds",
+  "p_id": 812
+ },
+ "id": 1171
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1299001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6c064550-e450-4101-bb2d-5e07d923cb2f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 119,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "The garden , as it is commonly known in Andalusia and some areas of Spain , is one of the best types of commercial hash produced by Morocco. Also called hardala , jurdala or jardula. Normally it usually has these type of characteristics a bright black or yellow color , with a sticky and moldable texture Similar to that of a gum , intense smell of grass with touches of afgani. It can reach a more oily texture , on more than one occasion I have smoked it in the bubbler without problem , as if it were oil.",
+  "dream_id": 296856,
+  "golden": false,
+  "name": "2.5 g The best types of commercial hash produced ",
+  "p_id": 956
+ },
+ "id": 1299
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 638001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8d496746-d206-4688-9634-3d5fc5060673",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 72,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "One of the best pills in town , a very nice quality. PILLS CONTAIN ONLY MDMA NO OTHER CONTENT AND NOT MIXED WITH OTHER INGREDIENTS.",
+  "dream_id": 387519,
+  "golden": false,
+  "name": "100x XTC 240MG pills",
+  "p_id": 303
+ },
+ "id": 638
+}

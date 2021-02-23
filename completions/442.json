@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 442001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9ecec3d0-df1d-48ca-9a1e-37e689fc8c63",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Viagra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2 x blister strip. S of Viagra.",
+  "dream_id": 29737,
+  "golden": true,
+  "name": "Viagra 20 x 100mg SILDAMAX BRAND",
+  "p_id": 4531
+ },
+ "id": 442
+}

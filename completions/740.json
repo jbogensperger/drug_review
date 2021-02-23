@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 740001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a18b9cbb-b9bf-4289-a2a1-be5969c4c931",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10gr Champagne MDMA 84 Purity Lab Tested.",
+  "dream_id": 327897,
+  "golden": false,
+  "name": "10gr Champagne MDMA 84% Purity Lab Tested",
+  "p_id": 127
+ },
+ "id": 740
+}

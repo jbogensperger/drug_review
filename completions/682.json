@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 682001,
+   "lead_time": 1424.147,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5qsqm46qt3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Ketamine HCl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 x Ketamine HCl - S 25 mg \/ ml in 10 ml Phial Pharma sealed product. Minimum - Durability - Date over 1 year. Do you have any questions. Feel free to write a message. Pls do download telegram or wickr app messenger from your phone and add me using my id below for instant and more discrete chatting about this product. Contact us for more detail. Telegram id millz78. Wickr id millz78.",
+  "dream_id": 416868,
+  "golden": false,
+  "name": "50gram Ketamine | 80%\/82% | S-isomer |",
+  "p_id": 357
+ },
+ "id": 682
+}

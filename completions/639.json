@@ -1,0 +1,257 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 639001,
+   "lead_time": 2667.995,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7e56c868-2dda-4aeb-b93f-c07fc8099fe1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Gorilla Glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "51aa26dc-881e-4818-b913-747abe31a17d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 532,
+      "labels": [
+       "Drug"
+      ],
+      "start": 520,
+      "text": "gorilla glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "84b11593-a481-4a23-83b8-1c3111171da6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 341,
+      "labels": [
+       "Drug"
+      ],
+      "start": 338,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "UNgxWbCHKj",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "hybrid "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "hLZ3yevVWY",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 222,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "Chems Sister"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "CObGsuiDl6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 234,
+      "labels": [
+       "Drug"
+      ],
+      "start": 225,
+      "text": "Sour Dubb"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "itH4pELc3T",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 257,
+      "labels": [
+       "Drug"
+      ],
+      "start": 241,
+      "text": "Chocolate Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "BVjq_J-mV6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 296,
+      "labels": [
+       "Drug"
+      ],
+      "start": 289,
+      "text": "hybrid "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "uTi7SZuEZj",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 423,
+      "labels": [
+       "Drug"
+      ],
+      "start": 413,
+      "text": "death star"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Rh-f4jmLLQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 410,
+      "labels": [
+       "Drug"
+      ],
+      "start": 396,
+      "text": "bruce banner 3"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "u6NJ_tB00c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 393,
+      "labels": [
+       "Drug"
+      ],
+      "start": 380,
+      "text": "birthday cake"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bB_5Ugzg3w",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 430,
+      "labels": [
+       "Drug"
+      ],
+      "start": 426,
+      "text": "g 13"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "AIQHGQHRRK",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 451,
+      "labels": [
+       "Drug"
+      ],
+      "start": 432,
+      "text": " grand daddy purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "yAp1uo5S6O",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 460,
+      "labels": [
+       "Drug"
+      ],
+      "start": 454,
+      "text": "gelato"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fpdXm8gymE",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 484,
+      "labels": [
+       "Drug"
+      ],
+      "start": 472,
+      "text": "gelato guava"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "zOLQyFBBL-",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 502,
+      "labels": [
+       "Drug"
+      ],
+      "start": 487,
+      "text": "northern lights"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c4FSKL6VXo",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 515,
+      "labels": [
+       "Drug"
+      ],
+      "start": 505,
+      "text": "god s gift"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Gorilla Glue 4 is a potent hybrid strain that delivers heavy - handed euphoria and relaxation , leaving you feeling glued to the couch. with IT S gent earthy and sour aromas inherited from its parent strains , Chems Sister , Sour Dubb , and Chocolate Diesel. this multiple award - winning hybrid s supremacy is no longer a secret OVER 20 THC. BEST IN THE GAME. Also available are birthday cake , bruce banner 3 , death star , g 13 , grand daddy purple , gelato 41 33 25 , gelato guava x northern lights , god s gift and gorilla glue 4. PRICE. 2 LBs \/ 2 POUNDs 4000 USD 3 LBS \/ 3 POUNDS 5000 USD 4 LBS \/ 4 POUNDS 6500 USD 5 LBS \/ 5 POUNDS 7500 USD. 1 KG FOR 6000 2 KG FOR 9000 3 KG FOR 14000. SO FOR MORE INFO ON HOW TO PLACE YOUR ORDER CONTACT US VIA ANY OF THESE APPS IN YUR PLAY STORE \/\/ APP STORE ,. ICQ 712162888. KIK 439 frank. WICKR frenzy404.",
+  "dream_id": 399958,
+  "golden": false,
+  "name": "GORILLA GLUE #4  INDOOR GROW 2 LB'S",
+  "p_id": 304
+ },
+ "id": 639
+}

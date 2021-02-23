@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1232001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "20e009c1-439d-4cf2-a711-f100a07f7292",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Vidalista"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5dc65265-ccf6-4f29-9b03-e43b9f40da02",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Tadalafil"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Vidalista 20 Tadalafil 20 mg Manufactured by Centurion Laboratories India. Expiry Dec 2019. Once you receive your order , please leave feedback and finalize payment. All orders made before 12 pm Mon - Fri will be posted same day. Free UK Delivery Up to 7 day delivery to European countries. Please select European option.",
+  "dream_id": 330263,
+  "golden": false,
+  "name": "Cialis  Vidalista 20mg  10 Pills  Free UK Deliv",
+  "p_id": 881
+ },
+ "id": 1232
+}

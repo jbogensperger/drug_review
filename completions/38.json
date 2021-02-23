@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 38001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5b6c1f8c-362c-4b53-b3be-683b6d980db1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "endone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "125 for 10 endone pills , one of the best deals going around at the moment. These wo nt last long , we usually sell out quite quickly after getting a reasonable amount of stock in only for a short period of time , be quick otherwise you ll miss out , not talking shit either.",
+  "dream_id": 423077,
+  "golden": false,
+  "name": "Endone 5mg x 10 Pills || TAX BACK SALE - $125",
+  "p_id": 49
+ },
+ "id": 38
+}

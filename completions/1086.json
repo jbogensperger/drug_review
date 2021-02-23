@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1086001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0bbd1e30-82fe-4a76-871b-89a6eb174b09",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 328,
+      "labels": [
+       "Drug"
+      ],
+      "start": 320,
+      "text": "LSD xtal"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a6a13f1b-fad0-4202-a980-4724ba2f09d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "geltabs"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "161e2e15-5e86-4a7c-8b46-8daad889f2b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 242,
+      "labels": [
+       "Drug"
+      ],
+      "start": 235,
+      "text": "Geltabs"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5d41ce01-112a-48bc-b631-3095beb86456",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "geltabs"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1285461f-ca58-4ce5-a40c-46aa1ef85d4f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "geltabs"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 10 geltabs. fresh batch of geltabs I made. These geltabs are made with French White xtal. They are peanut butter flavored and colored. They also , have some gold flakes in them. I have been calling them PB JoR lol. Geltabs are alot better for long term storage then blotter. The gelatin protects the LSD xtal from light , heat , and handling. Use a blade to cut them apart. Do nt tear them. Right now these are only available in small amounts until I scale my process. Please message me any questions.",
+  "dream_id": 429532,
+  "golden": false,
+  "name": "10x 100ug Geltabs",
+  "p_id": 716
+ },
+ "id": 1086
+}

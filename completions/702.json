@@ -1,0 +1,145 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 702001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eebc5853-a669-491d-b24c-7a037383c6a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "PERCOCETS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "305cbc46-3eb7-463c-82ea-172fb695ecb6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 162,
+      "labels": [
+       "Drug"
+      ],
+      "start": 157,
+      "text": "XANAX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c97caf6e-6718-4a07-8231-1e6f5f5e06a1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 202,
+      "labels": [
+       "Drug"
+      ],
+      "start": 195,
+      "text": "ADDERAL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3320e817-2bde-4bc5-9aed-bc42328de5ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 276,
+      "labels": [
+       "Drug"
+      ],
+      "start": 267,
+      "text": "PERCOCETS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6e7f262d-55b3-4bf5-b8c0-33a10ea3b241",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 317,
+      "labels": [
+       "Drug"
+      ],
+      "start": 309,
+      "text": "SUBOXONE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1dfc0dd4-7c55-4b8e-a822-67fd9ffc79bd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 374,
+      "labels": [
+       "Drug"
+      ],
+      "start": 368,
+      "text": "NORCOS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "55945bed-ce86-4489-aff9-a4e73f38db28",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 413,
+      "labels": [
+       "Drug"
+      ],
+      "start": 407,
+      "text": "VIAGRA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "97919870-a769-4101-9351-293b47ee3ee0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 454,
+      "labels": [
+       "Drug"
+      ],
+      "start": 446,
+      "text": "TRAMADOL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "46eae693-de1b-482a-9777-ab91e7f41a1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 504,
+      "labels": [
+       "Drug"
+      ],
+      "start": 496,
+      "text": "FENTANYL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PERCOCETS 10MG 8 per STRIP , WE OFFER FROM 1 OO STRIPS FOR 600 500 STRIPS FOR 1500 10 OO STRIPS COST 2500. 2000 STRIPS FOR 3000. ALWAYS AVAILABLE PRODUCT ,. XANAX 5 each , 100 pills goes for 300 ADDERAL 10 20 m g , 12 30 m g \/\/ 100 20 mg for 500 and 100 3omg for 600 PERCOCETS 8 each , 100 pills goes for 450 SUBOXONE 20 per 8 mg strip , 100 8 mg strips goes for 1000 NORCOS 6 each , 100 pills goes for 400 VIAGRA 5 each , 100 pills goes for 300 TRAMADOL 5 each , 100 pills goes for 250 DESCRPT. FENTANYL PATCHES 20 PER PATCH GOING ON SALE NOW AT BEST OFFER 20 PER PATCH , 100 PATCHES cost 1000 20O PATCHES goes for 1500 500 pills goes for 3000. FOR QUICK AND EASY COMMUNICATION CONTACT ME VIA KIK. Larrykush1 WICKr. Connelle TEL. 510-556-48-85.",
+  "dream_id": 422180,
+  "golden": false,
+  "name": "500 PERCOCETS PILLS BEST QUALITY ON DECK",
+  "p_id": 381
+ },
+ "id": 702
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1332001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "04cefb50-6f8b-450f-b233-6c89cd6d6b46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "amesia haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dc029646-7a54-4f40-91bf-324cbc472def",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Blue Volkswagen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c1f71d72-8eff-4242-9dd7-f8f3b5d1d5e0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "Hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100g amesia haze 100stk. Blue Volkswagen 260mg. New sale Hash soft dark. 40 grams. Ans shipping to dhl packstation.",
+  "dream_id": 413262,
+  "golden": false,
+  "name": "custom 950",
+  "p_id": 994
+ },
+ "id": 1332
+}

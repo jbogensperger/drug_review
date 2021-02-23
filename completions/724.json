@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 724001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b83c5d32-cb9b-4bc3-88d8-5a921e3ddf7b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "CRACK"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PURE STRAIGHT DROP CRACK STRAIGHT FROM THE PYREX , THE BEST COOKED SO NICE AND CLEAN GIVING YOU A SAFE A POWERFUL BUZZ.",
+  "dream_id": 172502,
+  "golden": false,
+  "name": "PURE RAW CRACK A*** 0.2",
+  "p_id": 404
+ },
+ "id": 724
+}

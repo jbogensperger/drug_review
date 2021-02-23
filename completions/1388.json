@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1388001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "13cc1e7c-9317-4709-a7f4-40c3943181c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "241bc7d0-0429-4fec-aad1-69bdc948867e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 122,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Beautiful purple big fat dense nugs thaat are just frosted white with THC , truly on a different level than all other weed on the Dream market guarunteed. This listing is more expensive than my other qps because my dispensary will only sell me 1 - 2 ozs of grape ape everyday so it will take atleast 2 days to pick up just one order. It is a very popular strain.",
+  "dream_id": 238450,
+  "golden": false,
+  "name": "(TOP SHELF MEDICAL) QP Grape Ape",
+  "p_id": 1066
+ },
+ "id": 1388
+}

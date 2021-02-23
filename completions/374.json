@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 374001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "19222cd8-cf77-460e-a803-782f9cafc0e1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "irene Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d19466e8-f5e9-4a17-93b0-3c5d273dcee8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Shatter"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Shatter \/ \/ 5 gram \/\/ irene Sour Diesel nug run. -. Made with premium Indoor nug run. Product comes in their own bag as seen in photo. Amazing color and flavor. -. THANK YOU FOR CHECKING THE LISTINGS. WE DO CUSTOM ORDERS. -.",
+  "dream_id": 273483,
+  "golden": false,
+  "name": "Shatter\/\/ .5 gram \/\/ Irene Sour D  (nug run)",
+  "p_id": 172
+ },
+ "id": 374
+}

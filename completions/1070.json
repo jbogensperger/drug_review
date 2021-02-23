@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1070001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ed2d2882-a4c8-43ba-9322-e4f0560cf8d0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Grown"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Grown in the heart of Northern California insane genetics come together to create this beautiful strain. Only available to those who know exactly where to find it lol.",
+  "dream_id": 402638,
+  "golden": false,
+  "name": "28 Grams of Mother Purple",
+  "p_id": 696
+ },
+ "id": 1070
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1006001,
+   "lead_time": 5615.16,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "39f6add5-732e-4bf9-b84e-68719de1af50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "blueberry skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "p6ZGWUfBp2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 141,
+      "labels": [
+       "Drug"
+      ],
+      "start": 122,
+      "text": "indica skunk hybrid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Lovely smelling and tasty blueberry skunk from Holland. Not the best of the best but still very decent looking and a good indica skunk hybrid.",
+  "dream_id": 329113,
+  "golden": false,
+  "name": "1000g DUTCH BLUEBERRY SKUNK w NDD;)",
+  "p_id": 620
+ },
+ "id": 1006
+}

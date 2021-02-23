@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 28001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "24214e98-f781-42b6-ae9c-1959b3c9fd18",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 164,
+      "labels": [
+       "Drug"
+      ],
+      "start": 156,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "All of my weed is straight from a dispensary medical amazing quality. This strain is one of my all time favorites , originating in Denver and winner of the cannabis cup and voted high times best strain. The smoothness and smoke of this one tastes like a bowl of fruity pebbles and is extremely potent. One hitter shit. It wo nt be this price for long , it s still AAA grade but my dispensary has a surplus of it so i can offer this dank ass bud cheaper for a short while. Get it while it lasts.",
+  "dream_id": 226882,
+  "golden": false,
+  "name": "7g Medical Spirit of 76 AAA+++",
+  "p_id": 38
+ },
+ "id": 28
+}

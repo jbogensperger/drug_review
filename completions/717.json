@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 717001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "95dda6d2-ed19-4737-ba61-f34a36333d92",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "lsd"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eb3958d1-838a-4fd5-b41a-8ad096d10a7d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 144,
+      "labels": [
+       "Drug"
+      ],
+      "start": 141,
+      "text": "lsd"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FULL ESCROW. Real strong old school lsd stamps. Alien logo print , pictures will follow soon. Start with a half stamp if you are trying this lsd stamp for the first time.",
+  "dream_id": 225157,
+  "golden": false,
+  "name": "5x LSD ALIEN STAMPS 200 UGL HIGH QUALITY",
+  "p_id": 396
+ },
+ "id": 717
+}

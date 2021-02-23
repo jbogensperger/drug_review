@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1204001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b4a1ab07-603b-4ef4-b56d-2fac65507925",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "094eaf29-4e39-401c-9adf-9c22116318fc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 234,
+      "labels": [
+       "Drug"
+      ],
+      "start": 226,
+      "text": "adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "30 x Adderall XR 20 mg As pictured. NEVER PRESSED. REAL DEAL FROM A PHARMACY. Teva \/ Barr brand. Read my profile to see what is in stock. Items ship same day if ordered before 1 PM EST. First 2 orders get 1 extra FREE for any adderall product \/ amount.",
+  "dream_id": 417804,
+  "golden": false,
+  "name": "30x Adderall 20mg XR(Teva\/Barr)*ExpressAvail ",
+  "p_id": 849
+ },
+ "id": 1204
+}

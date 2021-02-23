@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1345001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "92f095b9-2db8-4dbd-8b94-ad8803bfc0c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 155,
+      "labels": [
+       "Drug"
+      ],
+      "start": 152,
+      "text": "BHO"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "10f40bf2-8a6c-4aa2-aadb-75f93756dd6a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 182,
+      "labels": [
+       "Drug"
+      ],
+      "start": 175,
+      "text": "Shatter"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "God damn whitey does it again. This Sweet Skunk Cake Batter is the tip top of the extract game right now , fluffy dry and oh so tasty. Cake Batter is a BHO product similar to Shatter however it undergoes some extra processing and what comes out is this amazing terpy dab cookie. Pictures up soon.",
+  "dream_id": 394054,
+  "golden": false,
+  "name": "1 Gram Sweet Skunk Cake Batter",
+  "p_id": 1014
+ },
+ "id": 1345
+}

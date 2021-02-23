@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 12001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7e70a431-ea1d-4093-9b0b-598747d85a3e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Meth"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fd77927a-f041-4934-a5bd-8c1280b7cdf6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 99,
+      "text": "Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Blue Supreme Just Goning to Say Best Meth On the Net with the Best Prices Bang For your Buck. This Meth is the clearest , most potent.",
+  "dream_id": 110660,
+  "golden": false,
+  "name": ".5g Blue Supreme Meth",
+  "p_id": 16
+ },
+ "id": 12
+}

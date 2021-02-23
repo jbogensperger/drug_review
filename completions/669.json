@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 669001,
+   "lead_time": 717.395,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6b0c7c7d-dc76-4d94-a243-f61b8521156c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product MDMA. Pill Model RedBuli Dosage 270 mg Color Pink. Free Shipping Registered Letter Internacional Shipping ON.",
+  "dream_id": 346074,
+  "golden": false,
+  "name": "20x RedBuli PINK ! 270mg ! MDMA",
+  "p_id": 343
+ },
+ "id": 669
+}

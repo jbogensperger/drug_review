@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 142001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "105d224f-74af-4670-9708-747326c30349",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "Codeine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "GET YOUR COINS READY BEFORE CONTACT Color. Purple Contains Codeine Prescription is not required to purchase from us Quantity.",
+  "dream_id": 427202,
+  "golden": true,
+  "name": "AVAILABLE ACTAVIST PROMETHAZINE WITH CODEINE PURPL",
+  "p_id": 5267
+ },
+ "id": 142
+}

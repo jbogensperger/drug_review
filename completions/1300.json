@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1300001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "88a5e512-b802-4d1e-a0c1-912c528461f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 211,
+      "labels": [
+       "Drug"
+      ],
+      "start": 194,
+      "text": "gonadotropine HCG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "One of my bestsellers on Alphabay market. Thousands of sold packs and hundreds of satisfied clients. Auth codes , best price and FREE SHIPPING for 3 packs and more. Listing contains. 5000 iu of gonadotropine HCG from Shree Venkatesh. Dosing 1 week 2x 2500 iu 2 week 2x 2500 iu 3 week 2x 2500iu. Almost 100 shipping rate and quick delivery guaranteed usually up to 7 days within EU Shipping within 1 working day.",
+  "dream_id": 317454,
+  "golden": false,
+  "name": "HCG \/ PREGNYL  5000iu BEST PRICE! BESTSELLER!!",
+  "p_id": 957
+ },
+ "id": 1300
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 309001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "885424d3-aeb0-4874-a53f-5b67ea333f68",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 147,
+      "text": "Benzos"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2a59a18f-4f1a-4c06-bef7-349b2c6cd254",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 186,
+      "labels": [
+       "Drug"
+      ],
+      "start": 178,
+      "text": "Etizolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We only accept 1 order of this link from each DM customers. -. Our lab produces very fine Chemicals. We have gain great reputation for our quality Benzos. You will find that our Etizolam is top the market by quality. The shipping method can be Express. We also offer 100 shipping warranty. In case customs seized your order , we will reship or refund.",
+  "dream_id": 345030,
+  "golden": true,
+  "name": "3-FPM (3-Fluorophenmetrazine)  5g PROMOTION",
+  "p_id": 6501
+ },
+ "id": 309
+}

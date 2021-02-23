@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 912001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "604a709b-f111-405e-8e69-0a84b54be2c4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 212,
+      "labels": [
+       "Drug"
+      ],
+      "start": 205,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9fbbf1e6-8d8c-4537-9da1-5fbf2702cc01",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 324,
+      "labels": [
+       "Drug"
+      ],
+      "start": 317,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6d24a7df-a9af-45d3-bb00-65dc396c7495",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 470,
+      "labels": [
+       "Drug"
+      ],
+      "start": 463,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BOLIVIAN FLAKE , CREME DE LA CREME. AMONGST THE BEST ON THE DNM , WE LEAVE IT UNTOUCHED TO KEEP THE PURITY AND STRENTGH IN TACT. SMOOTH AS A MOTHAF. Product Description -. This listing is for 05g of flake cocaine , best of the best. The product comes to us and goes to the customer untouched , if you know about your cocaine you will quickly recognise the strong smell and off white colour. This is for the connesiour amongst you , if you want pub grub or social cocaine this product is not for you. DELIEVERY -. UK2UK - NDD , OR 2 DAYS MAX UK2EU - 3 - 6 DAYS UK2US - 4 - 8 DAYS UK2CA - 4 - 8 DAYS UK2 NZ - 7 DAYS PLUS UK2 AU - 7 DAYS PLUS UK2 RW - 7 DAYS PLUS.",
+  "dream_id": 294006,
+  "golden": false,
+  "name": "[ 0.5 Bolivian Flake Cocaine\/Untouched\/Supreme Qua",
+  "p_id": 504
+ },
+ "id": 912
+}

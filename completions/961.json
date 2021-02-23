@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 961001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6babd361-ea40-41cd-8d28-cf64ff4bf22a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Tangerine KUSH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7b290a0-15f4-4a61-8f90-94711d54eb59",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 115,
+      "labels": [
+       "Drug"
+      ],
+      "start": 101,
+      "text": "Tangerine Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f80e197e-6600-4c6b-973f-7d231638171f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 125,
+      "labels": [
+       "Drug"
+      ],
+      "start": 119,
+      "text": "Indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ESCROW LISTING. 5 grams Tangerine KUSH. FE and you will receive 1 gram added to your order for FREE. Tangerine Kush is Indica dominant. Has a mild spice aroma. Induces a short live high. It is used for a number of medical ailments , both physical and mental. Night smoke for both beginners and veteran users. Please contact us for custom orders. -. TSC lives by these 2 rules. - Customer Satisfaction - Product Quality. All goodies are sealed tightly and discreetly in a Moisture Barrier Bag MBB. Please note that we do change packaging styles and formats regularly. Every package is prepared with care and a high standard of stealth. Estimated Shipping. Time. SPAIN 1 to 3 working days EUROPE 3 to 5 working days USA CANADA 5 to 15 working days AU , CHINA , ME 7 to 21 working days. The Shipping Address must be in this format. Mr Joe Bloggs Title. First - Name Surname 143 Ocean Road Number , Road \/ Street Name Gainsborough Town \/ City Oklahoma 34556 Province \/ State Postcode USA Country.",
+  "dream_id": 223735,
+  "golden": false,
+  "name": "5G Tangerine Kush (Indica) ~ ESCROW ~",
+  "p_id": 561
+ },
+ "id": 961
+}

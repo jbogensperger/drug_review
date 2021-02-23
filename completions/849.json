@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 849001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "87cc06d0-7366-4601-8c61-133081a96f8a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cocaine , imported from Peru. Cut off straight from the block , no cuts added. Your dopamine levels will jump trough the roof.",
+  "dream_id": 53131,
+  "golden": false,
+  "name": "Cocaine 84%+, 50 Grams FE",
+  "p_id": 417
+ },
+ "id": 849
+}

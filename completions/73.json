@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 73001,
+   "lead_time": 267.275,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6o75K8uYon",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Crystal Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 Kilo of Crystal Meth. If you re buying this listing , you have no more questions to ask me. You have tried out my product and know it s quality. You are nt trying to haggle my price , and know that I hate that. You wo nt expect me to ship it the same day you order it. You know I like to take 1 - 2 days to get the stealth done right and make sure you get what you ordered. You know I always give a little more product , rather than a little less. You are a loyal customer. This listing comes with Express shipping.",
+  "dream_id": 431248,
+  "golden": false,
+  "name": "1 Kilo of Crystal Meth",
+  "p_id": 87
+ },
+ "id": 73
+}

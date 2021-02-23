@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 59001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a67145a1-a271-4868-bb4f-d915e8d39c00",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "Sour OG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 7 Grams Sour OG Pull And Snap.",
+  "dream_id": 114224,
+  "golden": false,
+  "name": "Sour OG Pull And Snap  7 Grams",
+  "p_id": 72
+ },
+ "id": 59
+}

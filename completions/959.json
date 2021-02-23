@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 959001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9ed7e407-128a-4481-b55d-562155e1c150",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "HEROIN"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c4ec77e3-aaf0-436d-967a-4fcd5efcbd47",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "HEROIN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "INFO HEROIN 2. THIS HEROIN HAS A DARK BROWN COLOR WITH BLACK DOTS INSIDE THE BLOCK. THIS IS NOT TOP MATERIAL. H2. DIRECTLY IMPORTED FROM THE RESOURCES. NICE FLASH AND GOOD SMELL. YOU WILL LOVE IT.",
+  "dream_id": 427841,
+  "golden": false,
+  "name": "0.5 GR  HEROIN #2  A++ QUALiTY ^ ! ! !",
+  "p_id": 559
+ },
+ "id": 959
+}

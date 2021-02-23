@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 102001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5b2e5230-b079-42a5-8673-5ceacb6bc621",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 352,
+      "labels": [
+       "Drug"
+      ],
+      "start": 341,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "202eb92f-1344-4cf3-bcd9-7ed30baf9e50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 387,
+      "labels": [
+       "Drug"
+      ],
+      "start": 376,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "60 Capsules. Work Hard Study Hard. Wight loss 10 free until the end of the next week. 10 Bonus capsules with this order. Extras bonus for repeat customers. Dosage 1 - 3. Caps daily depending on body weight. Example 175 lb male may only need 1 cap daily. Stealth and Security are always the highest in priority. We Never cut corners. Generic Amphetamine 30 mg per capsule. D - Amphetamine 15 mg and Amphetamine sulfate base 15 mg.",
+  "dream_id": 412505,
+  "golden": true,
+  "name": " 60-AMPHETAMINE CAPS  30mg ",
+  "p_id": 7351
+ },
+ "id": 102
+}

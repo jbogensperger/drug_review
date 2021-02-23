@@ -1,0 +1,173 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1277001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6f05a7bf-b412-4227-84d7-b22e1a9efd0c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 506,
+      "labels": [
+       "Drug"
+      ],
+      "start": 483,
+      "text": "Testosterone Propionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "064d0668-5603-4800-bd94-9d1d32a545c6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 558,
+      "labels": [
+       "Drug"
+      ],
+      "start": 536,
+      "text": "Testosterone Cypionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f463ab9b-6a9f-46db-99f0-dbaf41924a33",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 610,
+      "labels": [
+       "Drug"
+      ],
+      "start": 588,
+      "text": "Testosterone Enanthate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "58f40f73-b5b4-4e9e-aea6-4b3b4679bd8f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 693,
+      "labels": [
+       "Drug"
+      ],
+      "start": 679,
+      "text": "Deca Durabolin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "55249572-c439-4997-a398-ef3562302c00",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 820,
+      "labels": [
+       "Drug"
+      ],
+      "start": 800,
+      "text": "Trenbolone Enanthate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6962e656-4d06-493d-b1b0-49f8d1e38c6d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 868,
+      "labels": [
+       "Drug"
+      ],
+      "start": 850,
+      "text": "Trenbolone Acetate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bb64aeec-278f-4ddc-bc67-fbd143e8ec5d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 454,
+      "labels": [
+       "Drug"
+      ],
+      "start": 446,
+      "text": "Winstrol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "83c30e44-fe55-46eb-b83f-fb1644d06912",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 648,
+      "labels": [
+       "Drug"
+      ],
+      "start": 640,
+      "text": "Sustanon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dedf8d3d-4df1-4df7-b8d8-9363e81f94a7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 732,
+      "labels": [
+       "Drug"
+      ],
+      "start": 723,
+      "text": "Equipoise"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d9b5651d-12bc-41a4-b02f-4a542c654cd0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 770,
+      "labels": [
+       "Drug"
+      ],
+      "start": 762,
+      "text": "Masteron"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fdf228c7-8226-4e39-850e-ace9a9071a7c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 953,
+      "labels": [
+       "Drug"
+      ],
+      "start": 944,
+      "text": "Parabolan"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Custom for demoxdavis. Test Ex9 EQ x7 Tren E x6. 10x mix and match special. Order 10 or more bottles of any combination and take 10 off. Per Bottle of our regularly priced items. Just message us and let us know what combination of 10 or more you would like and we will create a custom listing for you with the discount of 10 off per bottle you order. This offer does not apply to our current bulk listings of 10 or more bottles of the same item. Winstrol 50mg \/ ml 10 ml Bottle 3000 Testosterone Propionate 100mg \/ ml 10 ml Bottle 2500 Testosterone Cypionate 300mg \/ ml 10 ml Bottle 3500 Testosterone Enanthate 300mg \/ ml 10 ml Bottle 3500 Sustanon 300mg \/ ml 10 ml Bottle 3500. Deca Durabolin 300mg \/ ml 10 ml Bottle 4500 Equipoise 300mg \/ ml 10 ml Bottle 4500 Masteron 100mg \/ ml 10 ml Bottle 4500 Trenbolone Enanthate 200mg \/ ml 10 ml Bottle 5500 Trenbolone Acetate 100mg \/ ml 10 ml Bottle 5500 Primobolan Depot 100mg \/ ml 10 ml Bottle 5500 Parabolan 75mg \/ ml 10 ml Bottle 5500.",
+  "dream_id": 268634,
+  "golden": false,
+  "name": "Custom for demoxdavis Test Ex9 EQ x7 Tren E x6",
+  "p_id": 928
+ },
+ "id": 1277
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 875001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bf5a8344-9662-4b37-b6be-0014d034360e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OG CHEESE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ebcde0bf-f41e-40ac-bddd-41cd1c0c37e8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "431c5b47-a060-4f68-b91e-1592c45dddc9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Cheese"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "991f1119-e0cb-4537-ba24-d5bff92ca6af",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "Cheese"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OG CHEESE. A crossed strain from OG Kush and the famous Cheese. Cheese lovers will love this one. A nice taste and a nice stoned. Nice compact buds. Please read our profile before you buy any product of us , thank you.",
+  "dream_id": 395183,
+  "golden": false,
+  "name": " 1 gr  OG CHEESE ",
+  "p_id": 451
+ },
+ "id": 875
+}

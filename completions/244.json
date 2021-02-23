@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 244001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1f01b6fe-e0a8-4b24-9ecf-e13f1f0170c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Uncut MDMA. Priority shipping Orders usually shipped within 24 hours Vacuum sealed and MBB Gracias.",
+  "dream_id": 309004,
+  "golden": true,
+  "name": "3.5G Pure MDMA US2US",
+  "p_id": 6064
+ },
+ "id": 244
+}

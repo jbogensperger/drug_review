@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 499001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "71471b64-f3f8-4576-9da6-8440aea75384",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5c1c01e0-a8ab-4228-b981-1a44b3896f16",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 131,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f37edbd8-a2b1-4210-8447-21468dbdf5f0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 177,
+      "labels": [
+       "Drug"
+      ],
+      "start": 165,
+      "text": "cannabinoids"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d29a9d6d-e881-4732-95ed-88fa880b3ffe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 186,
+      "labels": [
+       "Drug"
+      ],
+      "start": 183,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "787bda2a-33d7-4c71-acdb-e84f2243f438",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 194,
+      "labels": [
+       "Drug"
+      ],
+      "start": 191,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "211def43-49e4-4bc4-9613-c769b618e1ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 299,
+      "labels": [
+       "Drug"
+      ],
+      "start": 296,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "But be wary , with a potency of nearly 99 , cannabis distillate is not for the new and inexperienced. Generally speaking , cannabis concentrates isolate or separate cannabinoids like THC and CBD to create a pure and refined final product that goes above and beyond an average flower with 15 - 25 THC content. Distillates use an extraction process called short path distillation that separates and refines molecules and contaminants to create a clean , almost clear concentrate. Other extraction methods do nt produce nearly the same purity level or variety of uses as this technique , making it highly regarded as a top - shelf concentrate.",
+  "dream_id": 382183,
+  "golden": true,
+  "name": "1g Pure Terpene CO2 Distillate",
+  "p_id": 4446
+ },
+ "id": 499
+}

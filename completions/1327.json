@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1327001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "03c8c848-d34e-4622-a2bd-b5597dd093f5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 107,
+      "labels": [
+       "Drug"
+      ],
+      "start": 85,
+      "text": "Tramadol hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4b678055-187e-4eeb-995e-72747ac4e46c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "TRAMADOL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7cc61a5-3d5b-424d-82bd-5ba815ac702b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 250,
+      "labels": [
+       "Drug"
+      ],
+      "start": 242,
+      "text": "trammies"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OUT OF STOCK OUT OF STOCK OUT OF STOCK. TRAMADOL 200 mg x 10 VERY LOW PRICE. Generic Tramadol hydrochloride 200 mg tablets. At this price , these are a bargain. I m not sure it s possible to fk yourself up for less. Seriously though , 200 mg trammies are very strong. Careful. NOTE If you suffer with seizures , please take extra care , not to overdo it. For more info visit wwwdrugscom CLEARNET WARNING. REST ASSURED , IF I WOULD NT TAKE EM , I WOULD NT SELL EM. min order 10 tablets 1 item \/ max order 120 tablets 12 items. This is for stealth reasons only. Multiple orders welcome. Worldwide postage. I will copy address as you write it , in buyer notes. Encrypt your details. I ll have to cancel it , otherwise. Please try to stay calm when it comes to leaving feedback. I m sure any unforeseen issues can be resolved. Thanks for looking. Feel free to send me a PM if you have any questions. Although unlikely , I reserve the right to cancel order for any reason.",
+  "dream_id": 43115,
+  "golden": false,
+  "name": "***TRAMADOL 200mg x 10**VERY LOW PRICE***",
+  "p_id": 988
+ },
+ "id": 1327
+}

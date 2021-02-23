@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 603001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b345299c-1ed6-456f-bf57-67aec7a9a12f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Goodfellers is back with our top grade cocaine and we will be adding our medium quality stuff very soon.",
+  "dream_id": 390767,
+  "golden": false,
+  "name": "2 GRAM HIGH QUALITY IMPORTED AND UNCUT COCAINE!!",
+  "p_id": 261
+ },
+ "id": 603
+}

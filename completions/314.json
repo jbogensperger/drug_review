@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 314001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0f769bc2-987f-4033-8bb3-6886f4a34b50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Flurazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "848727e8-31a2-40d1-b62c-deadf3e82dcd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Dalmane"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "30 Flurazepam capsules in blisters Dalmane brand.",
+  "dream_id": 311727,
+  "golden": true,
+  "name": "***30x flurazepam 30mg***",
+  "p_id": 3940
+ },
+ "id": 314
+}

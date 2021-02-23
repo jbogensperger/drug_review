@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1397001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7c3a03ca-9c9c-4743-aafd-5fe6598f4cd4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 52,
+      "text": "Endone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This Listing is for 10 boxes 200 tablets of Genuine Endone. made by Aspen. Pills are sealed in original blister packs , unopened , long expiry 2019. FULL ESCROW OFFERED. The real deal ladies and Gentlemen.",
+  "dream_id": 268532,
+  "golden": false,
+  "name": "200 ENDONE(10x boxes) ASPEN 5MG INSTANT RELEASE ",
+  "p_id": 1077
+ },
+ "id": 1397
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 88001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "761edc67-b8f2-4f41-80ee-91fcbec64af2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7145512c-73c0-46ff-af0b-ad29735b9b64",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "Alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Best press on the DM easily. 25 MG xanax bars. Pressed with real Alprazolam powder , no fake rc , no fent , nothing dangerous in these. They are true pharmaceutical grade , not only in their potency but also in their looks , weight , and dimensions.",
+  "dream_id": 420248,
+  "golden": false,
+  "name": "50 x 2.5mg XANAX BARS G3722 Pharmaceutical Grade. ",
+  "p_id": 104
+ },
+ "id": 88
+}

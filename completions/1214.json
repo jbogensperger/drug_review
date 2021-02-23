@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1214001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3100c8c4-1bec-4fd9-97b7-d987d478ebab",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "Alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bdd3da57-f571-439a-9652-4f2a095c521c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "XANAX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b5ed9212-f138-40db-8cd0-e6e46a27a79f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 169,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ec255bd5-ff12-4308-ae27-22e2b4ec077c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 342,
+      "labels": [
+       "Drug"
+      ],
+      "start": 337,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7b9bdd59-0adc-45dc-b53f-6618e3bd4bc2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "57f5c48d-8d54-4567-abbb-a8d4968d17e0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 366,
+      "labels": [
+       "Drug"
+      ],
+      "start": 358,
+      "text": "Etizolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Etizolam is regarded by many as having the same effects as Alprazolam XANAX , except with a little less body load and more euphoria. it is short acting and , similar to xanax , is more recreational than other benzos. DOSAGE. A common dose is usually 1 - 3 mg however those with a tolerance will know their requirements. When compared to xanax a 2 mg dose of Etizolam is roughly the same as 15 - 2 mg Aprazolam. SHIPPING. This item will be shipped super discretely via Express Post. Tracking is not activated for stealth reasons. Please note shipping is only Australia Wide.",
+  "dream_id": 174091,
+  "golden": false,
+  "name": "100mg Etizolam Powder",
+  "p_id": 861
+ },
+ "id": 1214
+}

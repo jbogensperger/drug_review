@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 960001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "edaca332-2474-4f2c-af8a-732f0b70a94b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a High Quality Cocaine straight from the Brick. 1A Qualitt.",
+  "dream_id": 270058,
+  "golden": false,
+  "name": "Cocaine from Costa Rica 1g",
+  "p_id": 560
+ },
+ "id": 960
+}

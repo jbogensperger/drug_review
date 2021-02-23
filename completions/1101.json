@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1101001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9a850936-6be5-425a-8b57-948bcba3b54e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 205,
+      "labels": [
+       "Drug"
+      ],
+      "start": 197,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4939e2ad-1fee-425b-b49a-ab410c3796e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 350,
+      "labels": [
+       "Drug"
+      ],
+      "start": 347,
+      "text": "thc"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 POT. Brownies. Made fresh with each order. be great to help sleeping I think , or just to chill out and enjoy life. These are mini-muffin brownies , each one is a couple bites. They have a mild cannabis taste , but I think it s minimal. If you have a high tolerance eat two or three at once. Most people will feel a nice high from one. 1000 mg thc total 100 mg each brownie.",
+  "dream_id": 201733,
+  "golden": false,
+  "name": "10 POT Brownies Made fresh",
+  "p_id": 4309
+ },
+ "id": 1101
+}

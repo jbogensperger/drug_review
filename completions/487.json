@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 487001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "93b219dc-794f-4e52-a2d1-8cb235b04a3d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 93,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "Codeine Phosphate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Genuine product by Crescent pharma. This listing is for 1 box of 28 X 60 mg Codeine Phosphate tablets. In genuine blister strips , boxed with inserts.",
+  "dream_id": 333018,
+  "golden": true,
+  "name": "CODEINE PHOSPHATE 60mg x 28 tablets (1x UK BOX)",
+  "p_id": 5249
+ },
+ "id": 487
+}

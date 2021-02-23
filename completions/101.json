@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 101001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d6cf27a4-7c3a-479c-8791-dd21424c5c15",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c316a76b-2966-4a96-9ab5-a38c233b665c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "frontin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "300 pills of frontin 10 mg alprazolam sending both in pills and blister form leave in 3 \/ a blister TRACKING is AVAILABLE. special price is 11 EUR \/ pill. All products are packed with attention to security. Please use the next format. Name Address City Zip. Country.",
+  "dream_id": 252659,
+  "golden": true,
+  "name": "FRONTIN (ALPRAZOLAM) 1.0 MG x 300 pills w TRACKING",
+  "p_id": 11473
+ },
+ "id": 101
+}

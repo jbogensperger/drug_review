@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 580001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "21ff2b0e-72e1-4539-8ba8-2a29d16ec0b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "Blue Dream Light"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 lb. Blue Dream Light - Dep Greenhouse.",
+  "dream_id": 375498,
+  "golden": false,
+  "name": "1lb Blue Dream Light-Dep Greenhouse",
+  "p_id": 232
+ },
+ "id": 580
+}

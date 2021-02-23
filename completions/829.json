@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 829001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d0012369-0808-45c6-9aaf-855659000be7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "MDA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Lab Test Results MDA. HCl 974 No other agents found. Method used HP \/ LC. Ordering this you agree to our terms and policies. Frequently Asked Questions FAQ. COMING SOON -. Refund \/ Reship Policy. Refunds \/ Reship Policies 50 Refund \/ 100 Reship unless you are from these Countries Australia , New Zealand , Finland , Sweden , Norway , Russia , PO Boxes and Shared or Community Mailboxes. Then we can only offer a 25 refund or a 50 reship. Shipping. All Xpress orders outside of Canada REQUIRE A SIGNATURE. Free Domestic option is for CANADIANS ONLY. Add additional Item is only to add a listing ordered with a regular shipping option. Orders will be canceled if not chosen correctly. Combined Shipping. Address formatting. Check your address with these links to ensure proper formatting. Please use your FULL name First and Last no initials. WE COPY PASTE YOUR ADDRESS AS YOU PUT IT , SO PLEASE USE THE CORRECT FORMATTING.",
+  "dream_id": 23623,
+  "golden": false,
+  "name": "10.0 GRAMS MDA CRYSTAL - REAGENT TESTED",
+  "p_id": 367
+ },
+ "id": 829
+}

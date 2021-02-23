@@ -1,0 +1,299 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1275001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "751f7dc6-8968-43a2-8ca6-ee76fa124936",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Gorilla . Glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5e086054-7f5e-4763-afe9-945c833ba9a3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Shelf Gorilla"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2d218385-4b06-40f9-ba2e-1a9a32283fcc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 427,
+      "labels": [
+       "Drug"
+      ],
+      "start": 410,
+      "text": "granddaddy purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "360749d6-9538-4d2e-9f6c-36aeaf29ac1c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 444,
+      "labels": [
+       "Drug"
+      ],
+      "start": 430,
+      "text": "fruity pebbles"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "305b616e-f922-4def-8f97-b8934a02f2b5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 473,
+      "labels": [
+       "Drug"
+      ],
+      "start": 466,
+      "text": "OG kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f2ee1580-30b6-428b-8ba2-2aefe9c43124",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 487,
+      "labels": [
+       "Drug"
+      ],
+      "start": 476,
+      "text": "afgahn kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d4a37083-fb7b-474e-aa3b-5aabe854ec06",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 566,
+      "labels": [
+       "Drug"
+      ],
+      "start": 557,
+      "text": "mary jane"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a2d44986-e756-415c-ac51-e24ffae7dc6b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 381,
+      "labels": [
+       "Drug"
+      ],
+      "start": 372,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c4f5ca6e-8f3c-4575-8779-1136484d74b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 388,
+      "labels": [
+       "Drug"
+      ],
+      "start": 384,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "72b59f04-7c7d-4207-8684-9a6e61f696f7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 395,
+      "labels": [
+       "Drug"
+      ],
+      "start": 391,
+      "text": "kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6d02f1b3-f414-4c3f-9b0d-d28a80dd248a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 452,
+      "labels": [
+       "Drug"
+      ],
+      "start": 447,
+      "text": "ganja"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c47fe3e2-3fec-43f1-a667-33440018ab78",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 463,
+      "labels": [
+       "Drug"
+      ],
+      "start": 455,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ac96b4f1-0104-40bd-832e-a255dd94ca0b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 501,
+      "labels": [
+       "Drug"
+      ],
+      "start": 497,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e99696f4-eee7-413c-a532-f89ed1931e5b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 508,
+      "labels": [
+       "Drug"
+      ],
+      "start": 504,
+      "text": "dope"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c47ed84e-45c0-4394-91ed-0d4c22056857",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 527,
+      "labels": [
+       "Drug"
+      ],
+      "start": 519,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c8878330-afd1-414e-8316-6c402ff41d86",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 535,
+      "labels": [
+       "Drug"
+      ],
+      "start": 530,
+      "text": "ganja"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6f71b76c-deb3-409d-acc9-c3ec668135f5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 554,
+      "labels": [
+       "Drug"
+      ],
+      "start": 545,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ef614d69-df52-45bc-bec1-80c1989eee86",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 611,
+      "labels": [
+       "Drug"
+      ],
+      "start": 607,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b4dcaee5-c458-460f-bc59-2027e9706611",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 624,
+      "labels": [
+       "Drug"
+      ],
+      "start": 620,
+      "text": "kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "96ed2ff5-adea-4141-ace0-48375db87043",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 631,
+      "labels": [
+       "Drug"
+      ],
+      "start": 627,
+      "text": "haze"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Grade A and Top Shelf Gorilla. Glue Strain available -. Gorilla. Glue is one of the most popular strains in the US right now. A potent and high - yielding hybrid , this bud produces a heavy yet. comfortable high that knocks away pain. Contact Us at. Wickr ID greenjake445. Kik ID jakegreen445. What you see is what you get 100 Real Pics. Stealth Shipping on every package marijuana , weed , kush , wax , oil , granddaddy purple , fruity pebbles , ganja , cannabis , OG kush , afgahn kush , mine , weed , dope , smoke , cannabis , ganja , high , marijuana , mary jane , stoner , stoned , pot , herb , hemp , hash , 420 , kush , haze , dank , buds , spliff , bong , blunt , joint. All orders will go out the following day.",
+  "dream_id": 431477,
+  "golden": false,
+  "name": "Grade A and Top Shelf Gorilla Glue Strain availabl",
+  "p_id": 926
+ },
+ "id": 1275
+}

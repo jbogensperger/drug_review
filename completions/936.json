@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 936001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6df092e3-7538-4c3a-a2a7-9539a664d28b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Sour Diesel"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "112g Outdoor Sour Diesel. This is not indoor \/ topshelf. It will get you stoned on a budget. Free from major seeds \/ stems. Liquidation for feedback.",
+  "dream_id": 252311,
+  "golden": false,
+  "name": "112g Outdoor Sour Diesel----4 Ounces",
+  "p_id": 531
+ },
+ "id": 936
+}

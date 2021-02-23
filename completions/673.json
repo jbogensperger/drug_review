@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 673001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "af47c4ea-157b-4c58-818d-7229636cd85c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "xtc"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hello people if you want to try out the real dutch xtc , we recommend to try our orange redbulls. They are high quality pills with good presses and also strong , so i recommend to take it in halves when you try for the first time.",
+  "dream_id": 401907,
+  "golden": false,
+  "name": "100X ORANGE REDBULLS XTC 280MG",
+  "p_id": 347
+ },
+ "id": 673
+}

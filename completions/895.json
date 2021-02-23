@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 895001,
+   "lead_time": 1961.793,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a9223dfc-0479-4262-9a9a-3853dd62253e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 206,
+      "labels": [
+       "Drug"
+      ],
+      "start": 202,
+      "text": "mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d970292f-6a7f-4e02-b25b-9b5cd65e84b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 296,
+      "labels": [
+       "Drug"
+      ],
+      "start": 287,
+      "text": "MDMA-TEAM"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PINK FLUGELS. LOOK GOOD THE REPORT BEST PILLS RATED PILLREPORT. This is superstrong better NOT FOR BEGINNERS. We maked the pills with PINK flueride color. Most famous pills of europe we have put 280 mg mdma bruto in the press machine ZP9 so this pills are 220-230 netto. for bulk pm me. MDMA-TEAM.",
+  "dream_id": 406291,
+  "golden": false,
+  "name": "100  'PINK FLUGELS  XTC 220MG by MDMA-team",
+  "p_id": 481
+ },
+ "id": 895
+}

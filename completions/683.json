@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 683001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1e00c897-bab2-4c19-ad51-1d8c8ebe097c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "With"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "With Tracking Number , from china.",
+  "dream_id": 426066,
+  "golden": false,
+  "name": "BK-MDMA 100G",
+  "p_id": 358
+ },
+ "id": 683
+}

@@ -1,0 +1,20 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 50001,
+   "lead_time": 1180.262,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "CNS stimulant used to treat hyperactivity disorder ADHD.",
+  "dream_id": 240832,
+  "golden": false,
+  "name": "5 X 1 Dexmethylphenidate Hydrocloride 10mg",
+  "p_id": 61
+ },
+ "id": 50
+}

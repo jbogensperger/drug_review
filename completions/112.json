@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 112001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0b3599ed-d3a7-4cad-8900-cdc16c609120",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 72,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c3ca5208-6ce2-4174-af7c-762e9047ee40",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "COCAINE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SELF MADE CRACK COCAINE BY OUR VERY OWN CHEF. IT IS COOKED WITH OUR OWN COCAINE. VERY STRONG BE CAUTIOUS.",
+  "dream_id": 396880,
+  "golden": true,
+  "name": "*** 1 GRAM CRACK FREEBASE COCAINE *** SPECIAL",
+  "p_id": 11133
+ },
+ "id": 112
+}

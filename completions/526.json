@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 526001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "be90dfce-4af1-4b48-81a3-d102fde0c494",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Outdoor Blue Dream"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "112g Outdoor Blue Dream. This is not indoor \/ topshelf. It will get you stoned on a budget. Free from major seeds \/ stems. Liquidation for feedback.",
+  "dream_id": 252308,
+  "golden": false,
+  "name": "112g Outdoor Blue Dream----4 Ounces",
+  "p_id": 137
+ },
+ "id": 526
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 968001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "03c3fbd1-0d30-47b0-96fc-8600dc515a5f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "g 13"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "An urban legend that has been going around for at least 15 - 20 years. g 13 is supposed to be a super - pot the government created for research.",
+  "dream_id": 120051,
+  "golden": false,
+  "name": "G13 HYDRO 1gm",
+  "p_id": 570
+ },
+ "id": 968
+}

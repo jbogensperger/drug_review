@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1039001,
+   "lead_time": 1132.39,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d31294d6-8635-47d6-9074-338f7c4187fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Phillip Plein"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0dc16e91-d335-41d4-9d6d-f281da95e4df",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5c67e71d-d2df-4041-b4e9-a9ce3ec31f61",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Ketamin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "oia7VIjxEf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "speed "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "25g MDMA 10g Ketamin 130 Phillip Plein 300 mg 120g speed paste 75 2 cb pills.",
+  "dream_id": 388835,
+  "golden": false,
+  "name": "Custom for S**XX",
+  "p_id": 659
+ },
+ "id": 1039
+}

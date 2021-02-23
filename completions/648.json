@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 648001,
+   "lead_time": 1962.254,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4c2b2e47-81f8-4ab3-9ccb-613cec8501ef",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "PTSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "E_Bi94L8WB",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "hybrid "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7f4DDuVQF8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "Pineapple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "drGHYexYq_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 85,
+      "text": "Thai "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8M24dp1DjQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "Skunk "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 Pound of Hawaiian sun - grown PTSD strain , which is a 4 way hybrid of Pineapple X Thai \/ Skunk X Dog. Extremely strong , unique flavor. Thick narcotic high.",
+  "dream_id": 405256,
+  "golden": false,
+  "name": "1 pound PTSD (pineappleXThaiXSkunkXDog) Hawaii Gro",
+  "p_id": 318
+ },
+ "id": 648
+}

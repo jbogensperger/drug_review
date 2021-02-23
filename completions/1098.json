@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1098001,
+   "lead_time": 5531.989,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ba9295a0-09f4-4dff-a1cc-0834f0159926",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "284499c1-fd60-4158-8f18-21b6552e4e9e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "G1gy1r5Soi",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "Speed "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2g Colombian Cocaine 95 20g Speed Paste 100 5g Champagne MDMA 30 5 Silver Rolls Royce 16 5 Purple Bently 16 German Express Stealth Shipping 20.",
+  "dream_id": 386990,
+  "golden": false,
+  "name": "custom1",
+  "p_id": 9925
+ },
+ "id": 1098
+}

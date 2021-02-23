@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 41001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "83bfd973-53b2-47e0-b2ac-37f502024936",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "Alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Selling Raw Alprazolam powder. Already landed in North America , No risk for seizure. If you want me to source it for you I am here.",
+  "dream_id": 395667,
+  "golden": false,
+  "name": "1G Alprazolam Powder Pure Fire",
+  "p_id": 52
+ },
+ "id": 41
+}

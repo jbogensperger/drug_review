@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 68001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6eb6dc2a-70c8-435d-a6aa-4982843c4b52",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Oxycontin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "20 crushable Mundipharma Oxycontin 40 mg.",
+  "dream_id": 363247,
+  "golden": false,
+  "name": "20x Oxycontin 40mg (OC formula)",
+  "p_id": 82
+ },
+ "id": 68
+}

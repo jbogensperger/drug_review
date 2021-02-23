@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1181001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cdcd5f11-8a3c-40c2-a6b2-06da411769f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4fa9b37e-b79f-43e9-85f5-454279905b9d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ebaa4400-3dfd-428c-b606-8e1c13a250f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 68,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "Oxycodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Percocet straight from the pharmacy. Acetaminophen 325mg \/ Oxycodone 10 mg A333 pill. Quantity left 0.",
+  "dream_id": 311453,
+  "golden": false,
+  "name": "Percocet - Oxycodone 10mg - $12 each - TEMP OUT",
+  "p_id": 823
+ },
+ "id": 1181
+}

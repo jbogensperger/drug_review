@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 983001,
+   "lead_time": 3324.587,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "40cdc196-5d32-43d3-a44f-35ed1220e461",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 225,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "butane hash oil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c968303d-1d28-4b33-bf67-1440065227a1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 207,
+      "labels": [
+       "Drug"
+      ],
+      "start": 200,
+      "text": "shatter"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "kIJl0sSlOI",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 244,
+      "labels": [
+       "Drug"
+      ],
+      "start": 228,
+      "text": "Rick Simpson oil"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for fourteen grams of trimmings and some smaller untrimmed buds. I only save the trim with lots of visible trichomes and throw the rest away. This trim would be great for making wax , shatter , butane hash oil , Rick Simpson oil , edibles or filling blunts. Trim has a leafy taste compared to the bud and is less potent. Shipping is by Priority Mail. I only ship to US states and territories. Your order will arrive double vacuum sealed and inside a sealed mylar \/ mbb bag. I try to ensure that the buds are not crushed during shipping and I always weigh it a little over.",
+  "dream_id": 404099,
+  "golden": false,
+  "name": "2oz Assorted Trim",
+  "p_id": 590
+ },
+ "id": 983
+}

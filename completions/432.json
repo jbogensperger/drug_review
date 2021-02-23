@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 432001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f3d5a08c-609c-454e-b671-d592db3e94c4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "25g MDMA White \/ Champagne Colour 83. DO NT BE STUPID KNOW YOU LIMITS ENJOY RESPONSIBLY. Please read our profile before placing an order.",
+  "dream_id": 311648,
+  "golden": true,
+  "name": "2.5g MDMA White\/Champagne Colour 83% ",
+  "p_id": 2545
+ },
+ "id": 432
+}

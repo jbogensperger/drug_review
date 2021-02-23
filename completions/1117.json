@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1117001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8542ae2d-6365-414c-8796-36e8f50b410c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 113,
+      "labels": [
+       "Drug"
+      ],
+      "start": 109,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product Info - Brand new. fresh imported from Moroccan - Extremely soft - lots of oil - heavy stoned - mixed hash from AAA quality.",
+  "dream_id": 412097,
+  "golden": false,
+  "name": "1g Mr. Suprise Blok [AAA+++]",
+  "p_id": 739
+ },
+ "id": 1117
+}

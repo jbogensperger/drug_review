@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 604001,
+   "lead_time": 893.69,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "tNns5B9BCZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Cyclo - Progynova"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "21 pills of Jenapharm Cyclo - Progynova.",
+  "dream_id": 333281,
+  "golden": false,
+  "name": "21x Jenapharm Cyclo-Progynova",
+  "p_id": 262
+ },
+ "id": 604
+}

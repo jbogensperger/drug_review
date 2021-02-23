@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 847001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "741ebcf7-92ec-4784-928e-6f83a2d5512e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "MDMA 10 GRAM - STEALTH TRACKNUMBER.",
+  "dream_id": 233127,
+  "golden": false,
+  "name": "MDMA 10 GRAM-STEALTH + TRACKNUMBER",
+  "p_id": 415
+ },
+ "id": 847
+}

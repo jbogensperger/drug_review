@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1018001,
+   "lead_time": 1990.765,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8a72665c-d521-434f-a0a7-b8842c5ff3cb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Ritalin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aF2RCM_jWp",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 165,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "5882"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "j4ZzE8eqAZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Methylphenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ZWaM4sO3hv",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "5882 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing 1 Tablet Ritalin 5 mg ER 5882 Methylphenidate. These tablets are crushable. 5 mg Tablet is Round , Dark Purple and has an imprint on one side of 5882. The opposite side is smooth.",
+  "dream_id": 355783,
+  "golden": false,
+  "name": "OUT OF STOCK - Ritalin 5mg ER (1 Tablet) #5882  Me",
+  "p_id": 635
+ },
+ "id": 1018
+}

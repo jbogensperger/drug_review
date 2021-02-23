@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 962001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c76b5860-fca6-40db-9256-32263cd3ce7f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Clorazepate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "You are purchasing one box of Clorazepate 15 mg 60 units Sanofi. You will receive exactly the box in the picture because I took the photo of the box I am selling All my medicines come from a pharmacy in Europe and are according to EMEA rules European Medicines Agency. Our products are shipped in registered mail with tracking number and are carefully packaged. For more information about the product please contact me.",
+  "dream_id": 318419,
+  "golden": false,
+  "name": "Clorazepate 15 mg  60 units Sanofi",
+  "p_id": 562
+ },
+ "id": 962
+}

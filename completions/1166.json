@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1166001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "530fbf7d-a7c5-4b73-b82b-4d16c873f451",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listings is for 100 pressed Pfizer 3 mg Xanax bars. They are made with the highest quality ingredients and are the best press you ll find on any market. They are made by a private and professional vendor. No hot spots or bunk pills.",
+  "dream_id": 429466,
+  "golden": false,
+  "name": "100x 3mg Pressed Pfizer Xanax",
+  "p_id": 806
+ },
+ "id": 1166
+}

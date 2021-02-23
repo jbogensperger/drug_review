@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 812001,
+   "lead_time": 869.827,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "efda3570-613d-435e-9e7d-fe604981e5e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "69a1cbc5-84ff-4092-9020-39af68f359c8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 189,
+      "labels": [
+       "Drug"
+      ],
+      "start": 181,
+      "text": "adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "COf56LTumw",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "d-amp"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These are matched for the amount of d-amp in adderall pills for your study \/ work use. We use them ourselves and love them. -. Caps are measured to match the d-amp isomer amount in adderall with a multiplier based on purity tests.",
+  "dream_id": 94413,
+  "golden": false,
+  "name": "20x 30MG Adderall Caps!",
+  "p_id": 322
+ },
+ "id": 812
+}

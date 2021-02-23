@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1015001,
+   "lead_time": 1814.151,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a68b9920-cc0a-45b8-9817-6df12d163c87",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "lsd"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Q9_f8BAHAp",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "acid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "one vail 100 hits of 220 mic needle point lsd. in water very strong good acid.",
+  "dream_id": 322370,
+  "golden": false,
+  "name": "one vail 220 micneedle ponit lsd in water",
+  "p_id": 630
+ },
+ "id": 1015
+}

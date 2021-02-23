@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 590001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c07d8a2e-93db-4cb3-a7de-3e4e5c6df84a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "XTC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "50 XTC PURPLE WHATSAPP 240MG 100 SUCCESS RATE TO USA.",
+  "dream_id": 425096,
+  "golden": false,
+  "name": "50 XTC PURPLE WHATSAPP 240MG100% SUCCES RATETO U",
+  "p_id": 244
+ },
+ "id": 590
+}

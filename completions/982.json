@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 982001,
+   "lead_time": 4056.52,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "UqLrQ7Sk5k",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "100 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 x. Tesla pils 180 mg 50 refund tracking good stealth.",
+  "dream_id": 329510,
+  "golden": false,
+  "name": "Custom kingqueen",
+  "p_id": 589
+ },
+ "id": 982
+}

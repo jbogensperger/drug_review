@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 940001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "703a52dd-a819-4992-9997-5492e447291e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "76a44a31-410d-4086-a808-4ab9d1f28fb3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "05g of SCORPION Cocaine. Good Quality Cocaine Approx 60 - 65 Purity. Free UK Next Day Shipping.",
+  "dream_id": 73339,
+  "golden": false,
+  "name": "0.5g of SCORPION Cocaine",
+  "p_id": 535
+ },
+ "id": 940
+}

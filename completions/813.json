@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 813001,
+   "lead_time": 5453.898,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0a56bb5d-b36b-4fd4-9b8d-08a3bf041dbe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "vuiE5W15Sb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "r351 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Adderall 20 mg straight from the pharmacy. r351 pill. Quantity 0. Amazing stimulant for focus , creativity , and euphoria. If you want to feel like the guy from the Limitless movie , take one of these.",
+  "dream_id": 307556,
+  "golden": false,
+  "name": "Adderall 20mg - $17 each - TEMP. OUT OF STOCK",
+  "p_id": 323
+ },
+ "id": 813
+}

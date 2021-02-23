@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 955001,
+   "lead_time": 1692.707,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "et3aA-275u",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 126,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "Tahoe OG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Up for sale is 56 grams 2 oz of indoor top shelf bud. This is the best of the best and it stinks up your whole house. Tahoe OG HIGH res photos.",
+  "dream_id": 346099,
+  "golden": false,
+  "name": "2 oz indoor top shelf marijuana 56g FREE SHIP",
+  "p_id": 553
+ },
+ "id": 955
+}

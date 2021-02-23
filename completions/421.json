@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 421001,
+   "lead_time": 861.558,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "TefgN-bshc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 120,
+      "labels": [
+       "Drug"
+      ],
+      "start": 103,
+      "text": "Girl Scout Cookie"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "JTmFtZafma",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 102,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "Deadhead OG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 28 Grams of Peaceful Heart Meds in Sealed Nitrogen Can. Royal Nepalese Deadhead OG Girl Scout Cookie.",
+  "dream_id": 134126,
+  "golden": false,
+  "name": "Peaceful Heart Meds Greenhouse 1oz",
+  "p_id": 228
+ },
+ "id": 421
+}

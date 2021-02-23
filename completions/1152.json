@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1152001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "deb8485f-4c85-4c69-943d-f769537ff4e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "HEROIN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PURE TURKISH HEROIN. FIRST HAND QUALITY 3. LAST WEEK OFFER BE QUICK TO TEST. END OF DATE OFFER 06-10-2017.",
+  "dream_id": 409946,
+  "golden": false,
+  "name": " 0.2 GR PURE TURKISH HEROIN TO TRY OUT TEST",
+  "p_id": 782
+ },
+ "id": 1152
+}

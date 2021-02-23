@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 45001,
+   "lead_time": 823.186,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f39889a0-c8e3-4e69-8854-59d0ce131a08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Purple Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6c6722df-8ef6-4de4-929c-3390a700d13e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Purple Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1c9ccfc3-93a5-4bb4-a64f-0ade50eee9e1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 151,
+      "labels": [
+       "Drug"
+      ],
+      "start": 141,
+      "text": "Hindu Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7e7c6e51-5323-432c-b883-e9055ef181a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 170,
+      "labels": [
+       "Drug"
+      ],
+      "start": 156,
+      "text": "Purple Afghani"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PmgDtWHc-H",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 247,
+      "labels": [
+       "Drug"
+      ],
+      "start": 242,
+      "text": "Kush "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Wrz0BXBDHA",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 400,
+      "labels": [
+       "Drug"
+      ],
+      "start": 389,
+      "text": "Purple Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dAOHQmRavw",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "indica "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Purple Kush Strain Highlights Indoor Purple Kush is a pure indica strain that emerged from the Oakland area of California as the result of a Hindu Kush and Purple Afghani cross. It s aroma is subtle and earthy with sweet overtones typical of Kush varieties. Blissful , long - lasting euphoria blankets the mind while physical relaxation rids the body of pain , sleeplessness , and stress. Purple Kush will grow wide rather than tall , and will be ready for harvest following an 8 week flowering time.",
+  "dream_id": 320504,
+  "golden": false,
+  "name": "8oz Purple Kush AAA+",
+  "p_id": 56
+ },
+ "id": 45
+}

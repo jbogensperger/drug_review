@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1331001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "01094cb6-d517-4032-b146-78c54bbe5332",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Hydromorphone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "93064242-567c-420e-9979-73f9b549aff5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "Hydromorphone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is for an order of 50 pills imprinted M4 Hydromorphone 4 mg at 1550 each. Hydromorphone is used in the treatment of chronic pain pain cough anesthetic adjunct and belongs to the drug class narcotic analgesics. Manufacturer Mallinckrodt Pharmaceuticals. These pills are direct from USA pharmacies. They are not pressed replicas , they are pharmaceutical grade. Please read my vendor profile before ordering. I am not responsible for lost or stolen packages. It s important make sure you provide me with the correct address in the right format to ensure that your package is shipped in a timely manner. Do not use any fake or misspelled names - it will increase the chances that your package will be intercepted. I do not provide tracking numbers except in cases where the buyer did not receive the package. If you do not know what you are doing , please use the USPS address standardize tool to standardize your address.",
+  "dream_id": 137416,
+  "golden": false,
+  "name": "Hydromorphone 4 mg (M 4) x 50",
+  "p_id": 993
+ },
+ "id": 1331
+}

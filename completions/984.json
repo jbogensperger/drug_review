@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 984001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d0703dfa-60ca-47a8-84f1-e582abfbdd8f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 206,
+      "labels": [
+       "Drug"
+      ],
+      "start": 202,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "58004df6-8b03-4a11-a894-b903d53539b8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 246,
+      "labels": [
+       "Drug"
+      ],
+      "start": 243,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1fef89c8-acb5-4411-af07-bd5c77bf8404",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 270,
+      "labels": [
+       "Drug"
+      ],
+      "start": 266,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "READ OR PROFILE PAGE BEFORE YOU PLACE A ORDER WITH CANDYSHOP. -. Product info. - Pill name Peace love and rock and roll - Pill logo. Peace , love and rock and roll - Color Green - Contains 225 mg netto MDMA Lab tested. High quality dutch made XTC pill from the best MDMA. Use this pill in half at a time. Drink enough water when you use drugs. -.",
+  "dream_id": 76254,
+  "golden": false,
+  "name": "50 x Peace, love and rock&roll 225MG XTC MDMA PILL",
+  "p_id": 592
+ },
+ "id": 984
+}

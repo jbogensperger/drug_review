@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1079001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c557200b-b790-4589-95b9-64275bb401de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "sildenafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ca2f4550-07fb-4138-8ee7-9e1745201dd5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "viagra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "uantity. 100 - 100 mg sildenafil generic viagra in bliter packs of 10 so 10 blister packs. They will ship from my distributor I ve trusted for many years in Singapore. Guaranteed to make it to your door. I ll refund 100 if tracking shows that it did nt clear US customs. Shipping is Singapore Post. There is no need to sign for shipment provide real name and real address. The order will probably come in 10 - 14 days. Guarantee goes into effect after 30 days. Please request tracking after 7 days. The best price on Dark net. Trust one of the best feedbacks on Darknet. FE please. Brought to you by lindalovelace 499 \/ 5 , 5001000 deals.",
+  "dream_id": 5939,
+  "golden": false,
+  "name": "Wholesale 100 quanity generic viagra from my trust",
+  "p_id": 706
+ },
+ "id": 1079
+}

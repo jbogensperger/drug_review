@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 614001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "82c895d6-5575-40fd-96ef-437aeeca0a48",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "mephedrone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Highest quality mephedrone you will find.",
+  "dream_id": 352856,
+  "golden": false,
+  "name": "1 gram Mephedrone (4mmc) ",
+  "p_id": 275
+ },
+ "id": 614
+}

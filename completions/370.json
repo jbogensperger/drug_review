@@ -1,0 +1,229 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 370001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "89014bb4-628a-439e-a34c-51b74ab45085",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e7aecaf4-d5d2-4949-8b3a-9739ee1edbe1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Tadalafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1b8ca617-be51-4617-af02-8b1e1022e9ac",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7c42e216-c4f5-4b4f-9318-d06f030a8be0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Tadalafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b3525bf5-c5b8-4649-81fc-9c532b203c84",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "Viagra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a34d3306-a875-4eb4-9b46-4e7e7cd18e87",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 110,
+      "labels": [
+       "Drug"
+      ],
+      "start": 103,
+      "text": "Levitra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4bd2a469-34de-4372-95b0-446302866c0d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 123,
+      "labels": [
+       "Drug"
+      ],
+      "start": 117,
+      "text": "Viagra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2b4df7c8-6d84-4c35-b8a2-303f22494b0f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 133,
+      "labels": [
+       "Drug"
+      ],
+      "start": 128,
+      "text": "evita"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c9f44ec1-0a6a-46e8-8e3a-0577eeaeaa4a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 142,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "558afc9b-4c46-4edc-b8d9-4d6685ddb163",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 192,
+      "labels": [
+       "Drug"
+      ],
+      "start": 186,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eef6476d-595d-4081-8943-272a2b8004ca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 245,
+      "labels": [
+       "Drug"
+      ],
+      "start": 239,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bda976d0-3cf0-4377-9dec-d85466bff6c5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 299,
+      "labels": [
+       "Drug"
+      ],
+      "start": 293,
+      "text": "Viagra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eb6191a7-98bc-4c10-a93a-f2c53c5c9ca2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 311,
+      "labels": [
+       "Drug"
+      ],
+      "start": 304,
+      "text": "Levitra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3aad6c7-37cb-4264-99ef-3700541d8342",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 430,
+      "labels": [
+       "Drug"
+      ],
+      "start": 424,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f8a38e85-5d19-402e-9cec-b5522927bb79",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 566,
+      "labels": [
+       "Drug"
+      ],
+      "start": 560,
+      "text": "Cialis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cialis Pills 20 mg Tadalafil. Cialis Tadalafil is the third ED prescription drug pill after Viagra and Levitra. Like Viagra and evita , Cialis is recommended as an as needed medication. Cialis is also offered as a once - daily medication. Cialis has a longer half - life 175 hours compared to Viagra and Levitra both 45 hours resulting in longer duration of action , and so partly responsible for The Weekend Pill nickname. Cialis enhances erectile function however because sexual stimulation is required to initiate the local penile release of nitric oxide , Cialis will have no effect without direct sexual stimulation. Please check the Profile page for shipping cut off time as it is subject to change , Thank you.",
+  "dream_id": 318700,
+  "golden": false,
+  "name": " 20 x Cialis Pills 20mg (Tadalafil) ",
+  "p_id": 167
+ },
+ "id": 370
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 141001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b8ac1927-398d-4646-8455-4ec3338fb9d0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Our MDMA is produced by our own specialists , on the right production standards. Purity 80 - 84. DISCOUNT OFFER.",
+  "dream_id": 267847,
+  "golden": true,
+  "name": "!!DISCOUNT OFFER!! 0,5 gr  Pure Clean MDMA 80-84%!",
+  "p_id": 10390
+ },
+ "id": 141
+}

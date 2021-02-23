@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1298001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7068efd1-cab1-4a2b-bb5e-f53737ce6dea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Dear"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dear customer please contact us for easy conversation and for fast deals using any of this apps from the app store download either wickr or kik and add me using my username on those apps below KIK ID. ELMED4 WICKR ID. ELMED4.",
+  "dream_id": 420370,
+  "golden": false,
+  "name": "KETAMINE",
+  "p_id": 955
+ },
+ "id": 1298
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 289001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8a797a85-94d5-4817-a129-358832bc8dcc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "56b549be-d691-45a7-a127-a5ed4c8ab3de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 88,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e35cb70b-40bb-4085-a64b-210d7172136b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 149,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High quality weed 10g , best price. Please check first lines of my profile to know what weed strain I manage these days. this is one of the best weed I have ever grew. top AAAA. DO NOT HESITATE TO ASK ME IF YOU ARE INTERESTED IN BIGGER BULK ORDERS Larger than my listed packs. IT IS IMPORTANT TO READ MY PROFILE BEFORE BUYING ,. You can also search in Grams search engine. to check part of my vendor background. Do not buy more ONE PACK 10 g at once , please wait to receive first to order next or make different orders to different addresses. Read profile before purchasing even if you have purchased before it may be some update. This product will be shipped UNTRACKED see profile for more info.",
+  "dream_id": 85698,
+  "golden": true,
+  "name": "10g Weed Pack",
+  "p_id": 247
+ },
+ "id": 289
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 93001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eb3811e7-4ddd-4700-b572-3850f449664c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OC formula in blisters. Expiry date February 2020.",
+  "dream_id": 306049,
+  "golden": false,
+  "name": "***8x Oxycontin 80mg Crushable OC formula",
+  "p_id": 109
+ },
+ "id": 93
+}

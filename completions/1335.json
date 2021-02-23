@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1335001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9c6ccc22-1c6c-4a18-9f9f-d059c8ff7eae",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "It"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "It is used to cause sleep during care. It is used to put you to sleep for surgery. It may be given to you for other reasons. Message me on the Wikr app For easy and fast communication WIkr ID is medsdoc.",
+  "dream_id": 427009,
+  "golden": false,
+  "name": "Ketamine",
+  "p_id": 999
+ },
+ "id": 1335
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 121001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d976b0de-0f09-4def-adc0-35faf6fd9cb1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 84,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "hydrocodone bitartrate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "98344f23-a4e9-49e8-92a7-b56a26c181ad",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "Acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "34c5bd14-bcad-448b-a20a-fb9b0b5fd58a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 101,
+      "text": "Acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a3c44df7-5019-418c-8829-075a1a651c54",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 128,
+      "labels": [
+       "Drug"
+      ],
+      "start": 117,
+      "text": "hydrocodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pill imprint 3605. V has been identified as Acetaminophen and hydrocodone bitartrate 325 mg \/ 37 mg. Acetaminophen \/ hydrocodone is used in the treatment of back pain pain rheumatoid arthritis cough and belongs to the drug class narcotic analgesic combinations.",
+  "dream_id": 104914,
+  "golden": true,
+  "name": "5x Hydrocodone V3605 3.7\/325 MG",
+  "p_id": 11108
+ },
+ "id": 121
+}

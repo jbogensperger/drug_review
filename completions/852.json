@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 852001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c7569e85-b89d-4b34-bbf2-5a233426f0de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "mint"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "mint rose mango lemon cherry chocolate watermellon.",
+  "dream_id": 222719,
+  "golden": false,
+  "name": "Kamagra oral Jelly x 7 flavours 100mg",
+  "p_id": 422
+ },
+ "id": 852
+}

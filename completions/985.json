@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 985001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "30ac8724-cb4e-4f1a-83a7-a9d2cc40629c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Tramadol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Tramadol 50 mg x 100. UK STOCK GUARANTEED. Full box unopened.",
+  "dream_id": 380043,
+  "golden": false,
+  "name": "Tramadol 50 mg x 100. UK STOCK GUARANTEED ",
+  "p_id": 593
+ },
+ "id": 985
+}

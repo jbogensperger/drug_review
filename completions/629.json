@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 629001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d93924e0-0493-41c4-b11f-7c2b5bfd19b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 81,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "Silver Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c308e0da-2198-4714-8b18-f98a76263de5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 85,
+      "text": "White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c839996f-aad6-4709-8655-df001c707079",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 109,
+      "labels": [
+       "Drug"
+      ],
+      "start": 99,
+      "text": "Swazi Gold"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ed973f19-76d4-4413-9d4c-0b8e0aa8c64a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 199,
+      "labels": [
+       "Drug"
+      ],
+      "start": 193,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e9767c12-dd8a-48eb-9d2c-d4e1704ce7d9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 262,
+      "labels": [
+       "Drug"
+      ],
+      "start": 258,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2cbf18a8-727a-4909-adab-c24ff8c97f44",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 311,
+      "labels": [
+       "Drug"
+      ],
+      "start": 307,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I m not sure exactly what cross this is , but it seems to be either a Silver Haze or White Widow \/ Swazi Gold cross. Divine smelling , thick , sticky , heavy nuggets , with a lovely , creative Sativa buzz , this is without doubt , the cream of Swazi outdoor weed. Smooth as silk to smoke - this is the best weed you ll ever find for this price. Any price , for that matter. I challenge you to find better. Comes with my personal guarantee - I stake my reputation on it. You may find the odd seed if you re lucky. PS PLEASE STATE IN YOUR ORDER IF YO UD LIKE ME TO BREAK UP THE BUDS INTO TINY LITTLE PIECES FOR EXTRA STEALTH. I FIND THIS METHOD WORKS PRETTY WELL FOR CERTAIN COUNTRIES. REV.",
+  "dream_id": 278311,
+  "golden": false,
+  "name": "HIGH GRADE SATIVA - SWAZILAND ORIGIN (5g)",
+  "p_id": 294
+ },
+ "id": 629
+}

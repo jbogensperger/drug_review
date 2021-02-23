@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 346001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6dc2d88f-6afd-4afb-a5cc-7b042df3100e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 93,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "Ketamine S-isomer"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d00967b1-ad5d-44c6-88c1-c07d754244b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "Ketamin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PLEASE LEAVE ME A FEEDBACK AFTER THE ORDER LANDED. Max 1 per customer. This Ketamine S-isomer is the most pure , strong uncut isomer of Ketamin.",
+  "dream_id": 305113,
+  "golden": false,
+  "name": "0.5G Ketamine S-isomer Rocks Pure keta 83% ",
+  "p_id": 135
+ },
+ "id": 346
+}

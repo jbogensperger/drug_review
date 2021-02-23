@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1141001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9b394441-7e2a-4e55-af73-9872428d3e49",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "HIGH QUALITY MDMA 83 LAB TESTED. All orders will be processed and shipped within 24 hours. We use super stealth good packaging. Transit times Netherlands 1 \/ 2 bussines days. Europe 3 \/ 9 bussines days. Please send your address in the following order. Name Street Postal code \/ city Country. Stealth shipping. Product is at least double vaccum sealed and packed in good stealth. every order made on Friday after 1500 Dutch time will be shipped next Monday. We will be happy to make some great bussiness here and build a trustful relationship with our customers. If you have any questions do not hesitate to contact us. Best regards ,. AMSTERDAMFLEX.",
+  "dream_id": 93413,
+  "golden": false,
+  "name": "2 GRAM 83% DUTCH MDMA! ***PROMOTION***",
+  "p_id": 768
+ },
+ "id": 1141
+}

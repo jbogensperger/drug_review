@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 408001,
+   "lead_time": 721.442,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b1487b62-46b4-4f6a-ae28-536850a58e3c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 205,
+      "labels": [
+       "Drug"
+      ],
+      "start": 193,
+      "text": "gorilla glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "S0xoIyVKMo",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 251,
+      "labels": [
+       "Drug"
+      ],
+      "start": 235,
+      "text": "strawberry cough"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4hcDxiA5Ue",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 193,
+      "labels": [
+       "Drug"
+      ],
+      "start": 186,
+      "text": "gelato "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3Kt_ErBD_U",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 186,
+      "labels": [
+       "Drug"
+      ],
+      "start": 179,
+      "text": "tangie "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "MGQvVP56N8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 210,
+      "labels": [
+       "Drug"
+      ],
+      "start": 206,
+      "text": "sfv "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PKpGgnqTqv",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 217,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "og kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is for 1 Brass Knuckle Vape cart. It is 1000 mg. Lab Tested. We have many flavors , lists ones you would like or not want. We will try to get you what you like. - in stock - tangie gelato gorilla glue sfv og kush kola candy apple strawberry cough.",
+  "dream_id": 295813,
+  "golden": false,
+  "name": "Brass Knuckles Vape Cartridge 1000mg",
+  "p_id": 210
+ },
+ "id": 408
+}

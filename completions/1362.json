@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1362001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "895537d8-e790-453d-87ce-951e473c76ad",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Suboxone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Suboxone X 1. In blister pack.",
+  "dream_id": 82498,
+  "golden": false,
+  "name": "1 X Suboxone  8mg -10",
+  "p_id": 1038
+ },
+ "id": 1362
+}

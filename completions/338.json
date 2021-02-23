@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 338001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8aa66ee1-8e2d-47f2-8ad7-0a784872bb00",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Frosty"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Frosty with a Very loud nose. Perfect density plus the whole unit is nothing but larger sized nugs which gives it a great bag appeal. Little to no shake. Pictures are 100 real and accurate portrayals of actual product. One of if not the lowest prices offered on the Darkent. What you see is what you get 100 Real Pics. Stealth Shipping on every package. All orders will go out within 24 hours after the order has been accepted.",
+  "dream_id": 296133,
+  "golden": false,
+  "name": " 1 lb (448g) Midnight Madness",
+  "p_id": 124
+ },
+ "id": 338
+}

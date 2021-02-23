@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1293001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dee0c472-5d86-4dd0-b4d8-5d140dcb8000",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bed4fa71-d1eb-4323-a67a-df738890bff1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "37b7653e-4ea3-4994-88de-3c373fac19f3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7eb9926f-9a0f-44f1-8360-c928f37cd9b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 249,
+      "labels": [
+       "Drug"
+      ],
+      "start": 245,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4243e6b8-4ba6-4451-9dd1-529e330e13c3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 258,
+      "labels": [
+       "Drug"
+      ],
+      "start": 254,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8c62ebfc-349b-42db-b319-a24594cd5979",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "XTC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "XTC bars green XTC - units. \/- 230 bruto mg MDMA Contains MDMA from our own kitchen. Green Escrow Priority tracked shipping from Germany. No arrival. 100 reship. Free shipping. Shipping Germany - Europe. Australia - Australia \/ New Zealand only MDMA see MDMA domestic Australia listing. Read our terms of service and profile page before ordering. We are also vending on Trade Route. Questions about our servce product or else. Feel free to send us a PM or direct mail to cassandrastewarthotmailde.",
+  "dream_id": 345481,
+  "golden": false,
+  "name": "1000x XTC-bars Green XTC-units  230mg ",
+  "p_id": 948
+ },
+ "id": 1293
+}

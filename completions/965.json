@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 965001,
+   "lead_time": 1037.41,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0cbac173-15f9-4aa5-be2d-1bc304968899",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 322,
+      "labels": [
+       "Drug"
+      ],
+      "start": 310,
+      "text": "Skywalker OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c3cabe54-e16e-4dbf-a745-cb02d7184169",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a17f24d0-fcbc-4e23-ba09-0471ecd98e71",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ad0e8848-1b6e-4ce0-a8ef-cfb6be36f68d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 269,
+      "labels": [
+       "Drug"
+      ],
+      "start": 266,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "97e94fa3-9cd8-40bd-9cd1-b4d70c65cf7c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 301,
+      "labels": [
+       "Drug"
+      ],
+      "start": 295,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "gTDR8bpfC_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 341,
+      "labels": [
+       "Drug"
+      ],
+      "start": 337,
+      "text": "THC "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This offer is for 14 grams of our highest quality pressed hash. Our pressed hash smokes great with a glass rig , water pipe , pipe , or rolled into a joint. It can also be consumed as an edible. If consumed make sure to eat smaller amounts at a time due to the high THC content. Variety Hybrid. Sativa Origins Skywalker OG , Platinum OG THC Range 60 - 70 percent Characteristics Effects Relaxed , Happy , Euphoric , Sleepy , Hungry Symptom Relief Depression , Stress , Pain , Fatigue , Lack Of Appetite Flavors \/ Aromas Earthy , Skunk , Pungent. Your order will ship within 24 hours of your purchase. Shipping is free. Thank you.",
+  "dream_id": 174963,
+  "golden": false,
+  "name": "14G OF HIGH QUALITY PRESSED HASH *FREE SHIPPING*",
+  "p_id": 565
+ },
+ "id": 965
+}

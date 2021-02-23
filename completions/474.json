@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 474001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "07e9a893-91d3-4fdc-9b25-bb8e5c87bd27",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "WILLY WONDER"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "790ea824-2676-4d97-afb6-0ee9d9a8389b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 53,
+      "text": "GOLDGOAT"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "60 CONCENTRATED MADE FROM TOP STRAINS WILLY WONDER \/ GOLDGOAT LIMITED SUPPLY SINGLE CARTS ONLY FOR NOW.",
+  "dream_id": 321991,
+  "golden": true,
+  "name": "$15 BHO Cartridges 1\/2 ML",
+  "p_id": 2212
+ },
+ "id": 474
+}

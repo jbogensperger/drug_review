@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1247001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9fe0ac25-1603-48cc-bfee-f74cb44cd3f3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Amherst"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10g Amherst , free postage and stealth packaging , Orders placed before 1200 will be posted the same day.",
+  "dream_id": 302801,
+  "golden": false,
+  "name": "10g Amherst sour diesel",
+  "p_id": 897
+ },
+ "id": 1247
+}

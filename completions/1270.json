@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1270001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bcbac332-906e-48a1-a300-48893eb16794",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Avandra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product Description. Avandra 100 Mg Sex Enhancement Tablets 1X4 Tablets.",
+  "dream_id": 241004,
+  "golden": false,
+  "name": "Avandra (Avanafil) 100mg - 4 Pills ",
+  "p_id": 921
+ },
+ "id": 1270
+}

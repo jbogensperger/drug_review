@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 947001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d9cc911b-2118-4d5a-b6af-a55420c77cd6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Shipping"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Shipping - Send from United States - Shipping only in USA and Canada - Shipping method USPS.",
+  "dream_id": 106907,
+  "golden": false,
+  "name": "Viagra 100mg (Sildenafil 100mg) (30x)",
+  "p_id": 545
+ },
+ "id": 947
+}

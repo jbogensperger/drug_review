@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 36001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2e3c3108-bdad-4266-8aec-ea115a75bc6a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 85,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "."
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS IS A POTENT PRODUCT ONLY SMALL AMOUNTS NEED TO BE CONSUMED FOR STRONG LAST HIGH.",
+  "dream_id": 321863,
+  "golden": false,
+  "name": "1 GRAM HIGH PURITY COCAINE 90+%",
+  "p_id": 47
+ },
+ "id": 36
+}

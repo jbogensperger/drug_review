@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 600001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1e2e7cdb-53e6-4de9-81ee-0e98d76c1228",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Power plant"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0fc695bf-419b-449d-8821-bda229d3ad31",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 90,
+      "text": "Power Plant"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "55e30e7e-e764-454e-a6b0-e4410d64d754",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 189,
+      "labels": [
+       "Drug"
+      ],
+      "start": 183,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6060c1fd-9ef6-446d-a9dd-f29503640c08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 313,
+      "labels": [
+       "Drug"
+      ],
+      "start": 306,
+      "text": "sativas"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7e2cb928-4829-42e1-8127-d4f99cf0009a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 367,
+      "labels": [
+       "Drug"
+      ],
+      "start": 361,
+      "text": "Sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "25g outdoor. Power plant. A classic strain found in almost every coffeeshop in Amsterdam. Power Plant comes from Dutch Passion Seed Company and is derived from powerful South African sativa strains. This batch of outdoor powerplant is of medium quality , small to medium sized darkgreen buds ,. This power sativas smells sweet and earthy with an peppery smoke. Sativa highs are known for a good wake and bake buzz that could even help some through a productive day at work , but Power Plant may be a bit too strong for that type of high think tripping on videogames , or getting creative. She can also be rocket fuel to launch you into a social , cerebral kind of night , with an uplifting , mostly mental high. Power Plant comes from a sativa dominant strain , but can get a bit trippy.",
+  "dream_id": 395118,
+  "golden": false,
+  "name": "  25g outdoor Power Plant - SALE",
+  "p_id": 258
+ },
+ "id": 600
+}

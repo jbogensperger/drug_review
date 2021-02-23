@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 386001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "aa102faf-4619-44b8-9f9c-30eadbf72fbc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- 50 tabs of LSD , smileys sunshine artwork blotters. - Each tab contains a dose of 150 mic - Appropriate storage required - Terms must be read and conditions accepted before ordering.",
+  "dream_id": 1007,
+  "golden": false,
+  "name": " LSD Blotters x50",
+  "p_id": 187
+ },
+ "id": 386
+}

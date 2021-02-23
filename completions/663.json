@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 663001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "14bec994-9aee-4461-a56d-ea397466c5de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "100"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 CLEAN 25 g x 5\/8 SYRINGE NEEDLES 25g x 5\/8 Sterile NEEDLE only NEEDLE with slip tip Luer Slip Latex Free WITHOUT SYRINGE , SYRINGE must be purchased separately FDA. Approved.",
+  "dream_id": 323612,
+  "golden": false,
+  "name": "CLEAN Needles 25g X5\/8 - 100 Pack",
+  "p_id": 336
+ },
+ "id": 663
+}

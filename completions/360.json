@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 360001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b389129b-cc08-43b0-a111-bfd6e6ccbc30",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "35 grams of homemade hash puck strong potent smell and dark green \/ brown appearance. made from quality buds. All products will be posted at the highest of stealth methods.",
+  "dream_id": 380977,
+  "golden": false,
+  "name": "HOMEMADE HASH 3.5 grams",
+  "p_id": 155
+ },
+ "id": 360
+}

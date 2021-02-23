@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 2001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d6cdbea3-1a57-4dee-a383-012bc4e3ad6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "HEROIN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Welcome to DoggFood. 10 Grams 4 HEROIN. Pure DoggFood Given to YOU how it was Given to ME. Unadulterated and Consistent. Express Next Day Shipping. Available as well as Priority 2 Day Shipping. Items shipped within 24 hours of purchase.",
+  "dream_id": 325986,
+  "golden": false,
+  "name": "10 Grams #4 HEROIN",
+  "p_id": 2
+ },
+ "id": 2
+}

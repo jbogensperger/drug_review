@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 48001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5422223f-92fe-4fea-9a1a-2e6a770514d1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Heroin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3a2be84b-f59e-4235-8787-f59e9a373816",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 134,
+      "labels": [
+       "Drug"
+      ],
+      "start": 128,
+      "text": "Heroin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "03g. Exquisite Iraqi Creme De La Creme Heroin Clean , The Best on all markets and the price reflects it we have sourced A Grade Heroin in these trying times of Drought and will continue to do so , we endeavor to offer only the Creme De La Creme or we wo nt stock it at all. Simply Sublime smoke and a Dream administered by way of IV. We have outdone ourselves this time and had to pay the price for the best.",
+  "dream_id": 345919,
+  "golden": false,
+  "name": "0.3g No 3 Exquisite Iraqi Creme De La Creme Heroin",
+  "p_id": 59
+ },
+ "id": 48
+}

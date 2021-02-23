@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 126001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "52f7c851-af3f-4fc6-8204-99bb6ea8cb98",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "Bromazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "6 MG per pill , 100 Pills 600 MG of Bromazepam. Please encrypt address for safety. Discover. Quick shipping , quality product. Tracking , great stealth.",
+  "dream_id": 22663,
+  "golden": true,
+  "name": "Bromazepam | 100x (6MG) Pills",
+  "p_id": 962
+ },
+ "id": 126
+}

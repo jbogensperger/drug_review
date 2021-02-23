@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1338001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6853feeb-9415-4fdf-8dde-2dab417d1cbb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 148,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f86dcc64-e25d-4683-ae8d-0750996d8000",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 173,
+      "labels": [
+       "Drug"
+      ],
+      "start": 163,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is the Full Escrow listing , for the cheaper FE 100 listing check out my other listings in the shop. Check out the newest and best way to take xanax \/ bars \/ alprazolam. Other blotters from many other vendors are reported to be unevenly dosed or having other problems - you will find only the highest quality blotters from ekeko. The dosing process has undergone many revisions and is now very evenly dosed and people are loving these things. - They hit you within minutes , much faster than the pills. - They are much more discrete than the pills , making stealth unbeatable - The blotter sheets are perforated for easy tear - off of desired dose - Each 3 mg rectangle has an image of a bar for a cool look and easily metered dosing - Orders ship out the same or next business day. Thank you everyone.",
+  "dream_id": 214518,
+  "golden": false,
+  "name": ". Xanax paper bars!  Alprazolam blotters [5x3mg]",
+  "p_id": 1003
+ },
+ "id": 1338
+}

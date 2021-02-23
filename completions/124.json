@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 124001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9fb8d9e6-0d4d-466a-aace-4032eb7eb397",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2bb957b8-35a9-46b7-8fa3-49b711c7a0ff",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "MDMA."
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0ef4dd4f-145b-4156-a350-6c8bc68e24a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "61853456-aa54-49b5-a967-252f2d1acb24",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 214,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "75 x. Orange Twitter XTC pills 250 Mg Netto Dutch MDMA. Quantity 75 Pills Color Orange Logo Twitter MDMA 250 Mg Netto \/ 410 Mg Bruto. Nice clean pills , super strong and hard pressed from premium Quality Dutch MDMA. Pills are labtested in Netherlands. One of the strongest pills on the market at this moment. Please read the profile page for further information.",
+  "dream_id": 79311,
+  "golden": true,
+  "name": "75x ORANGE TWITTER XTC Pills 250Mg DUTCH MDMA",
+  "p_id": 7316
+ },
+ "id": 124
+}

@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 560001,
+   "lead_time": 966.112,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4ea460d0-9f79-456e-a235-af2b8c3cfb02",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ff96b0ac-0392-4d65-bf81-83eac109fcea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 804,
+      "labels": [
+       "Drug"
+      ],
+      "start": 797,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "93qUv1a0bm",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "coca "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8YqqyodQA8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "coca "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "kBhK9NMoqw",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 258,
+      "labels": [
+       "Drug"
+      ],
+      "start": 253,
+      "text": "coca "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "qjDxnmKbSh",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 325,
+      "labels": [
+       "Drug"
+      ],
+      "start": 304,
+      "text": "Cocaine hydrochloride"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Prepare cocaine from coca leaves and coca tea. The procedure will explain in detail , and with information on where to obtain the required. materials such as the coca its self , and other required reagents , as follows. 1. Removing crude coca base from coca 2 Oxidation of crude base to pure freebase. 3 Cocaine hydrochloride crystallization pressing the end product to flake. The chemicals can be bought from most hardware stores and DIY shops. They are quite easy. to find. It is not a costly procedure , and even more profitable once you have purchased the. chemicals needed They will last for a long time. They are also easily bought from e Bay. without arousing any suspicion. The photos below are some examples. The pile on the plate is over 1ounce of high purity super. clean crystal flake cocaine , made for about 350. You get all links where to buy all necessary chemical. Good luck.",
+  "dream_id": 189070,
+  "golden": false,
+  "name": "Make Cocaine at home-99,9% Purity-Full Guide",
+  "p_id": 195
+ },
+ "id": 560
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 701001,
+   "lead_time": 431.44,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "YRvotE-D6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "HCG 5000 iu"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "HCG 5000 iu kits. New Zealand domestic. Free shipping. Any questions feel free to contact me on wickr genxnz.",
+  "dream_id": 319238,
+  "golden": false,
+  "name": "HCG 5000iu (free shipping)",
+  "p_id": 380
+ },
+ "id": 701
+}

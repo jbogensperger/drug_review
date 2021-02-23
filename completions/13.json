@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 13001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f671f10e-59d5-4cb4-a43a-6faba362609b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Very soft when slightly warmed in your hands , squidgy , Pakistani hash.",
+  "dream_id": 329773,
+  "golden": false,
+  "name": "1g of Pakistani Squidgy Hash - 8 - UK P+P include",
+  "p_id": 17
+ },
+ "id": 13
+}

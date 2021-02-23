@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 468001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "19cf6b6d-6aac-406e-838c-09455803e633",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Strawberry Cough"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1b3cb6de-0095-4fcd-8ef8-14049ef2b964",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 359,
+      "labels": [
+       "Drug"
+      ],
+      "start": 343,
+      "text": "Strawberry Cough"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dfcdff7d-91f9-4837-81f5-50726fcdc3d1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strawberry Cough is a potent sativa blend with mysterious genetic origins known for its sweet smell of fresh strawberries and an expanding sensation that can make even the most seasoned consumer cough. The berry capture your senses , while the cerebral uplifting effects provide an aura of euphoria that is sure to leave a smile on your face. Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress. Order Now. 2 LBS 3000 3 LBS 4500 6 LBS 9,000 NOTE 2LBs MINIMUM. All orders will go out the following day guaranteed discreet delivery in good time Shipping is done Via DHL EMS UPS FedEx. Get to me discreetly. Contact Us at. WhatsApp 58 810 8737. 144. Text \/ Call 58 810 8737. 144. wickr tripwireadoptio.",
+  "dream_id": 388752,
+  "golden": true,
+  "name": "Strawberry Cough 2lbs",
+  "p_id": 2635
+ },
+ "id": 468
+}

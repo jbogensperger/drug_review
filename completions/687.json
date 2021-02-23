@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 687001,
+   "lead_time": 445.939,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "51e66c1d-5ba0-4c23-ab33-1e7fa0836b1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "DMT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7c6f1aa2-a2c1-40e2-9d5f-0eddc2b98d1e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "Psilocybin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "X6G95UMT4I",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "4 - ACO - MET"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "zItuWDqe6c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Metacin "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Z_2qlrPkMx",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 165,
+      "labels": [
+       "Drug"
+      ],
+      "start": 152,
+      "text": "4 - ACO - MET"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "4 - ACO - MET , also known as Metacin is an orally active DMT \/ Psilocybin - like molecule which is psychoactive. I personally prefer a dosage of 30 mg 4 - ACO - MET in one capsule at once. You can snort it but keep in mind the effect will be much stronger. The trip lasts about 6 - 9 hours. Do nt trip alone and do nt do it on a bad day. Have fun. If you have questions ask us at any time.",
+  "dream_id": 297566,
+  "golden": false,
+  "name": "250mg 4-ACO-MET *synthetic mushrooms*",
+  "p_id": 363
+ },
+ "id": 687
+}

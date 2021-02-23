@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1389001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "09a54774-c727-416b-ae69-092f09d89013",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Chlorodehydromethyltestosterone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Manufacturer Dragon Pharma. Substance Chlorodehydromethyltestosterone. Pack 100 Tabs 20 mg \/ tab.",
+  "dream_id": 431466,
+  "golden": false,
+  "name": "TURANABOL",
+  "p_id": 1067
+ },
+ "id": 1389
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1159001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dc959c16-93a4-4125-908b-8bf73376e40a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "79afa356-495e-4a49-8572-ac40df77d7c7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "Greenhouse"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "3g Organic Polen Hash AAA. Critical Extract. Very high quality home made from our 100 Organic Greenhouse Critical , very potent and clean.",
+  "dream_id": 308478,
+  "golden": false,
+  "name": "3g Organic Polen Hash AAA+++ Critical Extract",
+  "p_id": 793
+ },
+ "id": 1159
+}

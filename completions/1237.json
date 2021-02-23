@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1237001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4441e104-fd34-42aa-a2c5-90ed86e75b3b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Subutex"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0ce232cb-7e10-426c-9889-7193280d398b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "Buprenorphine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "7x Subutex 8 mg Tablets ORIGINAL Buprenorphine. - Original Blister Packaging. - Same Day Dispatch b4 330 GMT.",
+  "dream_id": 257864,
+  "golden": false,
+  "name": "SUBUTEX 8mg x7 ORIGINAL   (Buprenorphine)",
+  "p_id": 886
+ },
+ "id": 1237
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 269001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8c6e658d-9742-4a9a-b723-e8518df47caa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 190,
+      "labels": [
+       "Drug"
+      ],
+      "start": 186,
+      "text": "WEED"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS ORGANIC SHAKE IS IDEAL FOR THOSE LOOKING TO GET A NICE HIGH AND BOOST THEIR CREATIVITY WITHOUT BEING TOTALLY STONED. SHIPPED DOUBLE VACUUM PACKED BY ROYAL MAIL FIRST CLASS. ALL OUR WEED ORGANIC AND IS GROWN CHEMICAL FREE WITHOUT THE USE OF HERBICIDES OR PESTICIDES.",
+  "dream_id": 387604,
+  "golden": true,
+  "name": "NORTHERN LIGHTS SHAKE 7G 20",
+  "p_id": 1150
+ },
+ "id": 269
+}

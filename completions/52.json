@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 52001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "92957ef7-6e13-4090-9908-e3af4a67dd64",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bbb81968-9b91-46f9-9252-ae27c94f276a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "coke"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 Gram Cocaine. Fish scale. 100 like picture. 8\/10 coke. Super shit.",
+  "dream_id": 367757,
+  "golden": false,
+  "name": "1 Gram Cocaine (Fish scale)",
+  "p_id": 63
+ },
+ "id": 52
+}

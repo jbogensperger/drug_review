@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 602001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d91dbeef-d230-4c63-8458-12aee81090eb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 67,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Green Goo Kush Hybrid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "NEW VENDOR SPECIAL 1OZ HiGrade AAA Greenhouse Green Goo Kush Hybrid , Very Potent 20 Fresh , tasty and flavorful Greenhouse grown AAA Quality.",
+  "dream_id": 413850,
+  "golden": false,
+  "name": "1OZ HiGrade AAA Greenhouse Green Goo",
+  "p_id": 260
+ },
+ "id": 602
+}

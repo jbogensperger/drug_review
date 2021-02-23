@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 335001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ef9ddb19-c8e1-4b5c-9db9-0d6c3302dc88",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "update 50 left. -. Nur Swiss to Swiss. Only Swiss to Swiss. -. Offer Zum Angebot. 1x 180 ug LSD TRIP Totenkopf \/ Deathhead 20 2 Versand vorher 25 inkl Versand. -. Beginners better start with half.",
+  "dream_id": 413692,
+  "golden": false,
+  "name": "1 x LSD Trip 180ug Anonym Totenkopf 20$",
+  "p_id": 121
+ },
+ "id": 335
+}

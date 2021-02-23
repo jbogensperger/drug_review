@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 354001,
+   "lead_time": 356.159,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "88e1414c-8d44-4856-b24f-c6dd01b32e0f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 253,
+      "labels": [
+       "Drug"
+      ],
+      "start": 245,
+      "text": "FENTANYL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8c536c5e-b6cd-4ef9-84c4-1b1080667069",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 217,
+      "labels": [
+       "Drug"
+      ],
+      "start": 206,
+      "text": "FENTANYLMIX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "DtFPrubnkD",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 368,
+      "labels": [
+       "Drug"
+      ],
+      "start": 361,
+      "text": "HEROIN "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Ship from Canada to USA \/ Canada ONLY. Dosage. 1 Please start with 5 milligrams until you find your spot. 2 Product can be smoked , snorted or injected. Made in GERMANY or CANADA 1G 4 CHI NA WHITE THE BEST FENTANYLMIX FROM MEXICO I GET ORIGINAL FENTANYL VERY POTENT BRICKED UP BUT IM SUCH A GOODD CHEMIST THAT I DILUTE IT AND IT FEELS LIKE A 9 -10 STREET WHITE HEROIN NOT SPOTS U WO NT NDEE PPL THING BY JUST OUTTING IT IN A MAGIC AND BE LIKE HERE NAH MAN MI DILUTION MTHOD AND WHAT I USE US A SECRET U WILL GET ROCKS WHEN U ORDER FROM ME IM A OPIATE CHEMIST WORKING FOR MEXICAN CARTELS U WO NT BE DISSAPOINTED.",
+  "dream_id": 399529,
+  "golden": false,
+  "name": "1G #4 CHINA WHITE THE BEST FENTANYL MIX FROM MEXIC",
+  "p_id": 146
+ },
+ "id": 354
+}

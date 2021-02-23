@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 63001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "185452d2-b041-4fba-9e86-e45c2560efd1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Uncut MDMA. If ordered before 4 pm and located within next day delivery zone.",
+  "dream_id": 65655,
+  "golden": false,
+  "name": "1g UNCUT MDMA w\/ ESCROW & Next Day Delivery*",
+  "p_id": 77
+ },
+ "id": 63
+}

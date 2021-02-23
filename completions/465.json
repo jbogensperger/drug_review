@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 465001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c19d53ec-919a-41f5-ae4a-7b4990f6c1b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "asap"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "asap i will have it LAB TESTED with a PDF from Energy Control.",
+  "dream_id": 279732,
+  "golden": true,
+  "name": "88%\/95% Energy Control - 0,5 GR PERUVIAN COCAINE",
+  "p_id": 2753
+ },
+ "id": 465
+}

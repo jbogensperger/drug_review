@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 814001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "23eb93f1-fd9c-460b-a07c-21a4035eb772",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "ADDERALL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ADDERALL 75 mg x 100 Pills 550 each. USA. MFG Varies.",
+  "dream_id": 429412,
+  "golden": false,
+  "name": "ADDERALL 7.5mg x 100 Pills $5.50 each!!!! USA",
+  "p_id": 325
+ },
+ "id": 814
+}

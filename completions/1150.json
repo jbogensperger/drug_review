@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1150001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "69adaac8-3056-47bc-acce-d1d659a74c1c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "Buphenorphine Naloxone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "149fb068-915a-4782-904a-76d96ab6eae2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "Suboxone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing a Suboxone Tablet AN415 1 - Tablet Buphenorphine Naloxone 8mg \/ 2mg. Tablet is Orange Round. Letters and numbers make up the imprint on one side AN415. The opposite side is smooth with no imprint.",
+  "dream_id": 285755,
+  "golden": false,
+  "name": "Suboxone 8mg (1-Tablet) AN-415 Buprenorphine ",
+  "p_id": 780
+ },
+ "id": 1150
+}

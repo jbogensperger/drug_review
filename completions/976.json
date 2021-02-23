@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 976001,
+   "lead_time": 1441.429,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "96344f20-e8dd-428a-b6e2-b527fb05adef",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Polm Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a8e301e3-6445-4f6d-95dc-cdb9da8c0044",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Hashes"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Polm Hash. Nice Polm. Hashes , very soft. PartyNL.",
+  "dream_id": 309094,
+  "golden": false,
+  "name": "POLM HASH 10 GRAM",
+  "p_id": 580
+ },
+ "id": 976
+}

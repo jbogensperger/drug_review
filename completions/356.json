@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 356001,
+   "lead_time": 673.575,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ff1522f3-0747-42cb-b8b7-d50eae7f733e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "32e5e991-8cf4-4f44-bc90-99e95a9d8331",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5028f89c-dd5e-4d69-b998-40b69497630f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 121,
+      "labels": [
+       "Drug"
+      ],
+      "start": 117,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2PASlVWXBg",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 134,
+      "labels": [
+       "Drug"
+      ],
+      "start": 122,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "E2V4vU8rzT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 165,
+      "labels": [
+       "Drug"
+      ],
+      "start": 146,
+      "text": "King Hassan s Creme"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Contains. 3g x Maroccan Hash Rif Landrace 16 3g x Maroccan Flower Pollen Hash 20 3g x Jerada Deluxe 24 1g x Scorpion Hash Amnesia Haze 135 05 g x King Hassan s Creme 12. Total value 855 Discounted price 80.",
+  "dream_id": 248830,
+  "golden": false,
+  "name": "HashHQ's Hash Variety Pack",
+  "p_id": 148
+ },
+ "id": 356
+}

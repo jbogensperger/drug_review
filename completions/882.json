@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 882001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "83cc0b59-2092-40bd-a284-6c7e0604aa54",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "GBL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6ab40d5d-9d49-4d60-b322-17e44f838fb7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 150,
+      "labels": [
+       "Drug"
+      ],
+      "start": 147,
+      "text": "GBL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4ccb8833-ba82-4f51-a0cf-2fa84038b0a2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 419,
+      "labels": [
+       "Drug"
+      ],
+      "start": 416,
+      "text": "GBL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "999 Pure German. BASF. Grade GBL solution. Instructions for use DILUTE your dose in a big volume of liquid before drinking , NEVER drink straight. GBL in it s pure form is very irritant and could burn your mouth and throat. Dose range 1 - 15 ml , do not exceed 2 ml. Re-dosing. Carefully with 1 ml leaving at least 1 hour intervals. DO NOT mix with alcohol or other depressants , this greatly increases the potency. GBL can be very dangerous if not taken carefully and with respect , please inform yourself and use it responsibly.",
+  "dream_id": 201754,
+  "golden": false,
+  "name": "500ml Pure GBL",
+  "p_id": 460
+ },
+ "id": 882
+}

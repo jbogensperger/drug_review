@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 267001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e0594baf-51ba-40a0-866a-8398ac6d01c6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0376a2dc-7cf3-42f8-b026-ffae1c4de422",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "tadalafil"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cialis tadalafil relaxes muscles found in the walls of blood vessels and increases blood flow to particular areas of the body. NEED WE SAY MORE. Active for 48 - 72 hours , very good for all sorts of very good situations. TRUSTED VENDOR. CHECK OUT OUR FEEDBACK. EXPRESS SHIPPING WITH TRACKING PLUS SUPER STEALTH. QUALITY AND CONSISTENCY GUARANTEED. ORDER WITH CONFIDENCE. SAME DAY DISPATCH. 4 pm cut off.",
+  "dream_id": 233919,
+  "golden": true,
+  "name": "***40 x 20mg GENERIC CIALIS TABLETS***ZERO RATTLE*",
+  "p_id": 2454
+ },
+ "id": 267
+}

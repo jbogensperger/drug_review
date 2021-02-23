@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 437001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c50b3551-c0c0-4016-97e9-defd50c1d3f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Promethazine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 x Promethazine syrup 100 ml Abbott brand.",
+  "dream_id": 37441,
+  "golden": true,
+  "name": "1 x Promethazine syrup 100ml Abbott brand",
+  "p_id": 5851
+ },
+ "id": 437
+}

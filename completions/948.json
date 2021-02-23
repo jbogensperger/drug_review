@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 948001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4c82b7c0-967d-424e-906a-ef3908d96d43",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 gr. DUTCH MDMA PURE CRYSTALS 84 AAA Quality. Please read the profile page for further information.",
+  "dream_id": 13034,
+  "golden": false,
+  "name": "100gr. DUTCH PURE MDMA CRYSTALS 84% AAA+",
+  "p_id": 546
+ },
+ "id": 948
+}

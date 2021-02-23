@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1175001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a4706fd2-f784-4fdb-81d1-ac2500503f37",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 65,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Hydroponic Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "732baca5-5f6b-4b9e-9fa0-e6d18c2a4fcf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 89,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "Hydroponic Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a49843d0-52d0-4dab-89dc-28df8875ba60",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 102,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7fcb4207-5177-4adf-9b44-96e95366da5a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 128,
+      "labels": [
+       "Drug"
+      ],
+      "start": 122,
+      "text": "Sour D"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f98e09fe-f862-4df6-b739-30b1ae1397d1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 584,
+      "labels": [
+       "Drug"
+      ],
+      "start": 573,
+      "text": "Super Skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "70c7792d-208b-4e29-ac46-80f1b83183fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 436,
+      "labels": [
+       "Drug"
+      ],
+      "start": 425,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "930c67ce-99f7-4472-8064-c641936d3ff3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 156,
+      "labels": [
+       "Drug"
+      ],
+      "start": 150,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 1 Ounce of our A grade Hydroponic Sour Diesel. Hydroponic Sour Diesel. Sour Diesel , sometimes called Sour D , is an invigorating sativa - dominant strain named after its pungent , diesel - like aroma. This fast - acting strain delivers energizing , dreamy cerebral effects that have pushed Sour Diesel to its legendary status. Stress , pain , and depression fade away in long - lasting relief that makes Sour Diesel a top choice among medical patients. This strain took root in the early 90s , and it is believed to have descended from Chemdawg 91 and Super Skunk.",
+  "dream_id": 417043,
+  "golden": false,
+  "name": " $125 Ounces!! Hydroponic Sour Diesel",
+  "p_id": 816
+ },
+ "id": 1175
+}

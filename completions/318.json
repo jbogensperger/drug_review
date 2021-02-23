@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 318001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "311cf2b9-0889-4f2f-8bf5-c921a6ae3b98",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "Cabergoline"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Manufacturer PFIZER. Substance Cabergoline Pack 20tabsx1 mg.",
+  "dream_id": 284046,
+  "golden": true,
+  "name": "CABASER *Cabergoline* 20 tabs x 1mg PFIZER ",
+  "p_id": 8697
+ },
+ "id": 318
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 98001,
+   "lead_time": 1079.501,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "Vd1y3M4EHy",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 83,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "OG KUSH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fe_aadxI7B",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 247,
+      "labels": [
+       "Drug"
+      ],
+      "start": 242,
+      "text": "Weeda"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BIG PROMOTION for first 10 45 \/ g. Hi everybody dude. i m glad show you the OG KUSH. Indoor strain made with love by me very big flowers and tasty. profumed and pollenfull ,. Directly from CALABRIA in Italy. The land of sun , sea , pussy and Weeda. Enjoy bud.",
+  "dream_id": 282715,
+  "golden": false,
+  "name": "OG KUSH Very GOOD Quality Calabrian Indoor  100g #",
+  "p_id": 114
+ },
+ "id": 98
+}

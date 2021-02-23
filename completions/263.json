@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 263001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "37a12b41-200f-4f9a-a9c5-4ccb2ba3a72b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7bac3c77-c194-43fe-a56d-9d21b6b5c0a3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a0625e49-03db-49e9-84b4-2ee65352b0fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 147,
+      "labels": [
+       "Drug"
+      ],
+      "start": 140,
+      "text": "ecstasy"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "11573687-455b-4699-a023-223ddff2feef",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 468,
+      "labels": [
+       "Drug"
+      ],
+      "start": 464,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is an offer for original Red Defqon 1 XTC pills containing 250 mg of the finest Dutch MDMA. These pills deliver a wonderful and smooth ecstasy experience. Official successors of the Orange Burger King pills. There is also an encircled NL brand logo engraved in the bottom corner of every pill. Due to the high dosage , I recommend breaking these pills in half and starting with half a pill. Redose as necessary. Higher resolution image. Substance information MDMA. Free shipping within Germany. Estimated delivery time 24 hours same - day shipping if order s placed until 15\/00. And as always. FULL ESCROW.",
+  "dream_id": 308724,
+  "golden": true,
+  "name": "[PROMO] 100x ORIGINAL RED DEFQON.1 [250MG]",
+  "p_id": 6582
+ },
+ "id": 263
+}

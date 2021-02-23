@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1378001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a70fee98-4fbd-4e86-8ef7-c0e8a0c51465",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OxyCodon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6343e426-aca3-46a2-b78d-6d16777ed327",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "OxyCodon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2104fe7d-9bfa-4577-b9bc-7fe506e10eca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 269,
+      "labels": [
+       "Drug"
+      ],
+      "start": 261,
+      "text": "OxyCodon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e8b78eeb-2681-4c38-92bc-1a2faff45a34",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "opioid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OxyCodon is an opioid pain medication. OxyCodon is used to treat moderate to severe pain that is expected to last for an extended period of time. It is used for around - the - clock treatment of pain. It is not to be used on an as -needed basis for pain. Store OxyCodon at room temperature , away from heat , moisture , and light. Product can be crushed and broken down into powder. REFUND POLICY 50\/50.",
+  "dream_id": 416335,
+  "golden": false,
+  "name": "OxyCodon 10MG - 30x10mg - Lannacher",
+  "p_id": 1055
+ },
+ "id": 1378
+}

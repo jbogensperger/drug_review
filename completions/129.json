@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 129001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3159e9a5-4bba-4794-a274-2bed0e2ffda5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 228,
+      "labels": [
+       "Drug"
+      ],
+      "start": 217,
+      "text": "Purple Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "25122876-53eb-4d1b-97b0-a8d1b4449116",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 241,
+      "labels": [
+       "Drug"
+      ],
+      "start": 231,
+      "text": "Blue Dream"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a3129429-9bd1-465e-bb34-00683343965c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 256,
+      "labels": [
+       "Drug"
+      ],
+      "start": 244,
+      "text": "Skywalker OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f2a94ea6-f296-44a0-81e4-0052f1130793",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 280,
+      "labels": [
+       "Drug"
+      ],
+      "start": 268,
+      "text": "Jack Cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7432d649-77a6-4f8b-9fd4-a7c7d2ebc2be",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 265,
+      "labels": [
+       "Drug"
+      ],
+      "start": 259,
+      "text": "Tangie"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Note this listing will require Vac seal to deliver safely. We will do our best to give you the strain you ask for , if it s out the next strain available that s just as good will be substituted in. The strains in are Purple Haze , Blue Dream , Skywalker OG , Tangie , Jack Cookies.",
+  "dream_id": 102499,
+  "golden": true,
+  "name": "1 .OZ Fire OG & Skywalker OG",
+  "p_id": 8999
+ },
+ "id": 129
+}

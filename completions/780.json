@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 780001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e1c6b8f1-76cb-4e99-80a6-4bff71e23127",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "222a3c19-a267-4298-ac29-1f8d1cef1a9e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "35 GRAM CLEAN FLAKES COCAINE. Clean Colombian. Cocaine straight of the brick Very strong smell with a very nice warm euphoria. Please read our terms and conditions before ordering.",
+  "dream_id": 316240,
+  "golden": false,
+  "name": " PROMOTION 130 EURO 3.5 GR CLEAN COCAINE",
+  "p_id": 226
+ },
+ "id": 780
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1172001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f556552a-4dfa-4076-b391-1b4cf1c2dd9a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2ed460fa-d88b-4d0f-be75-9f8f62f4a6d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "551b9000-5b1d-46ca-956a-8e757a7d3f33",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 330,
+      "labels": [
+       "Drug"
+      ],
+      "start": 326,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "dutch. Xport specialized XTC \/ MDMA supplier. A lovely dose , you ll have a great time , turn like an idiot for a while , maybe bounce about like Zebedee on the dance floor and fancy anything with a pulse. What more can you ask for. The perfect evening. Product Specification. Batch. Heart shape both sides. Purity 120-140 mg MDMA. Lab tested. YES Color. Pink. Features. Excellent customer service. After sales guarantee Expert advise regarding product details Grade A. Quality products. Best stealth methods on the dark we. Shipping details. West Europe 3 - 5 days East Europe 7 - 12 days South - America also Brazil 10 - 15 days Asia 9 - 14 days Russia 10 days. We do not ship to the following country s. USA \/ CAN Holland the Netherlands. Please read our profile page before ordering.",
+  "dream_id": 53339,
+  "golden": false,
+  "name": "OFFER: 5x PINK LOVE  XTC  140mg",
+  "p_id": 813
+ },
+ "id": 1172
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1265001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d1571730-4433-4130-a1a0-ae0cb04ac2c7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "meth"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "70b6a7e0-c7e0-4971-80d2-c4fba55fe5d5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "01g of our premium import meth. Superb quality import meth , uncut. Crystal clear looking shards. Burn clean Long Leg Real photo of real product update every batch. Currently on offer 01G - 45 025G - 80 05G - 135 1G - 230 2g - 430 35G - 695 7G - 1350 14G - 2610 28G - 4990. For bulk ordering and discount please do not hesitate to contact us , we will be happy to work out something with you.",
+  "dream_id": 402097,
+  "golden": false,
+  "name": "0.1g Pure Import Meth  ",
+  "p_id": 916
+ },
+ "id": 1265
+}

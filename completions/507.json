@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 507001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4cba495f-1460-4501-8ecb-6ab15b1bd719",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This quality hash comes straight from Morocco , it has a very smooth taste to it. It provides you with a very mellow high.",
+  "dream_id": 260091,
+  "golden": true,
+  "name": "Quality Moroccan Polm Hash 1 gram",
+  "p_id": 5376
+ },
+ "id": 507
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 446001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "28fd095e-23ae-40a3-81c9-b26d1db9945f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "crystal meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "800 for 1 oz of our high quality crystal meth straight from our super labs in Mexico. USA CUSTOMERS SELECT OPTION 1 OR 2 FOR SHIPPING. ALL INTERNATIONAL CUSTOMERS MUST USE INTERNATIONAL. SHIPPING OPTION AND THE PRICE IS MUCH HIGHER THAN DOMESTIC USA BECAUSE THAT IS MAKING IT EASIER FOR ME TO NOT CREATE AN ALTERNATIVE LISTING FOR INTERNATIONAL CUSTOMERS. The reason for the high price for my international customers is not so much shipping costs but mostly to cover material expenses to package and ship the product to guarantee that it reaches your drop location in prestine condition the same way it was when it left our factory. Trust me it will be worth the extra cost to ensure that your product reaches you , think about what negative effects it will have if your package does not make it to you then that s money out of your pocket that you are stuck waiting for us to negotiate a reship or refund etc. AUSTRALIAN CUSTOMERS. See my Australian Listing.",
+  "dream_id": 359507,
+  "golden": true,
+  "name": "2 Oz CRYSTAL METH (BEST QUALITY & PRICE)",
+  "p_id": 4033
+ },
+ "id": 446
+}

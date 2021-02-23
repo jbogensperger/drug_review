@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 661001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f932f243-bd9c-46d6-94a0-36f7d2b1b62a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Amnesia Weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100gr. Amnesia Weed. Welcome in us shop. Please read us profile before you place order. We have professional packing team and drugs from first hand We ship from Germany to everywhere in Worldwide We pack everything 1 - 2 times vacuum in safe packaging. We ship within 24 till 48 hours in work days. We use business like envelopes with printed labels. We do not store your information for longer than necessary. We send with tracking when your purchase is more as 600 For small Domestic orders with tracking we use Deutsche Post Einwurf Einschreiben For security reasons we do not give tracking codes to customers. Always use PGP when sending your address Write your address correctly. No reship or refund for international orders when the package get lost somewhere. Please format your address as follows. Address format. Full name real name. Street name number Postal code city Country. please not write nationality letters in address. Before you give bad feetback please contac us.",
+  "dream_id": 379896,
+  "golden": false,
+  "name": "100gr Amnesia Weed",
+  "p_id": 334
+ },
+ "id": 661
+}

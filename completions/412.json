@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 412001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f606cf44-c0e5-47d2-b2cb-c79bddc2186b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "Gorilla Glue"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Up for sale is 5 pounds of indoor bud. This indoor smells great and smokes very well. Gorilla Glue HIGH res photos.",
+  "dream_id": 348760,
+  "golden": false,
+  "name": "5 pounds indoor marijuana FREE SHIP",
+  "p_id": 216
+ },
+ "id": 412
+}

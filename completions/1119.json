@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1119001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dbf5aaad-b4d4-4d10-9288-febc40790d82",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 1,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "\""
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "\"",
+  "dream_id": 425795,
+  "golden": false,
+  "name": "\"Buy Fentanyl online 100g",
+  "p_id": 742
+ },
+ "id": 1119
+}

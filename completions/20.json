@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 20001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d407a156-1029-46ef-8c58-7c3f6738a209",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "afff6428-9e22-40ac-82dd-c450ea11d54f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "FLUGELS"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "A hard good pressed pink pill stamp is FLUGELS with a midle breakline it s made from the best mdma.",
+  "dream_id": 424301,
+  "golden": false,
+  "name": "15x 230mg XTC FLUGELS  >> EXPRESS",
+  "p_id": 27
+ },
+ "id": 20
+}

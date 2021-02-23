@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 951001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "acda3d03-70c8-4bce-ba05-3bdf2a43fb41",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Acetylfentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "46c5a51d-34c1-4f69-b02e-b279fd591d65",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 189,
+      "labels": [
+       "Drug"
+      ],
+      "start": 183,
+      "text": "Heroin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Acetylfentanyl 99 purity FE REQUIRED. Extremely potent. If you are not aware of this product you should refrain from it until you do your research it is many more times stronger than Heroin you have been warned.",
+  "dream_id": 34451,
+  "golden": false,
+  "name": "0.5 Acetylfentanyl 99 Purity ",
+  "p_id": 549
+ },
+ "id": 951
+}

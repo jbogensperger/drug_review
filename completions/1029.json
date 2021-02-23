@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1029001,
+   "lead_time": 4956.944,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5749027c-aa14-4c3d-a91b-5d455da8534d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "sbYO45DJc5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pliable snap and pull. Earthy woody pungent smell. Indica - dominant hybrid strain.",
+  "dream_id": 308349,
+  "golden": false,
+  "name": "7 grams white widow golden shatter",
+  "p_id": 646
+ },
+ "id": 1029
+}

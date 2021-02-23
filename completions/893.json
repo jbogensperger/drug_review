@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 893001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b92261a1-239e-4d0d-ae8a-900ef04caa9a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "PINEAPPLE AMNESIA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a4c08dea-1ca6-42d5-a15f-c78b70225069",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "MrMDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 GR 1 grams of PINEAPPLE AMNESIA GROWN IN THE UK 10\/10. MrMDMA BACK WITH A BANGER. Grown locally in my area seeds bought from Garden of green seedbank from pukkabudzcouk. full escrow. this bud is a nice strong smoke and it seriously stinks. much more strains coming. check my profile out on dream market. ex nucleus vendor. I OFFER A 50 RESHIP ONLY FOR NO SHOWS. UK2 UK up to 5 days usually within 1 or 2 days although i do not consider a package lost until 7 days have past. EU up to 9 days.",
+  "dream_id": 324533,
+  "golden": false,
+  "name": "1gr PINEAPPLE AMNESIA UK'S FINEST 10\/10 (MrMDMA)",
+  "p_id": 476
+ },
+ "id": 893
+}

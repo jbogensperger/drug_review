@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 104001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ea200513-22f8-4873-8bca-52976c16002a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 146,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "LEVAMISOLE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1c7d55d1-28f0-4c4b-8136-772822dae8ca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 212,
+      "labels": [
+       "Drug"
+      ],
+      "start": 205,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4aaea05a-872c-4620-a93f-d1f50a95d487",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 284,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1g Pure Bolivian Fire 90. Country of origin. Bolivia. Structure Shiny crystal flake Purity Uncut , from orginial brick , always 90 , NO LEVAMISOLE ,. Prices. 1g 350 35 g 1150 7 g 2200 14 g 4100 28 g 7700. Cocaine is our number one business. We have over a decade of experience in the cocaine business. You Will. Not be dissapointed. Vac Sealed. Read My Profile for additional information.",
+  "dream_id": 238886,
+  "golden": true,
+  "name": "1g Pure Bolivian Pearl Fire 90%+ {ESCROW}",
+  "p_id": 9912
+ },
+ "id": 104
+}

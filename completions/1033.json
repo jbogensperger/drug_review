@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1033001,
+   "lead_time": 2216.431,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "Bvxv-VD-Nu",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 72,
+      "text": "Cliquid "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-iqA8ZQL-J",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 414,
+      "labels": [
+       "Drug"
+      ],
+      "start": 404,
+      "text": "C - Liquid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bjFhdrvJWg",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 432,
+      "labels": [
+       "Drug"
+      ],
+      "start": 424,
+      "text": "5F - ADB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "o-rdyQKzah",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 464,
+      "labels": [
+       "Drug"
+      ],
+      "start": 446,
+      "text": "5F - MDMB - PINACA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "kMudmy3RJ4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 476,
+      "labels": [
+       "Drug"
+      ],
+      "start": 466,
+      "text": "C - LIQUID"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "DP70zTMW_G",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 657,
+      "labels": [
+       "Drug"
+      ],
+      "start": 650,
+      "text": "alcohol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "VRxhmVmbvo",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "C - Liquid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is 30 ML LIMITED TIME of the 20 C - Liquid -. By far the strongest Cliquid on the Market. DOUBLE STRENGTH 20 RED BERRIES 30ML. please be aware of vapeing it at high temperatures and vapeing it with alcohol. It does nt come up in any drug tests and ca nt be told by any sniffer dogs. I will post 1st Class. PLEASE BE RESPONSIBLE. C - Liquid RED BERRIES , 20 DOUBLE STRENGTH WARNING VERY STRONG. This C - Liquid contains 5F - ADB also know as 5F - MDMB - PINACA. C - LIQUID 20 TWICE THE STRENGTH AND NOW THE STRONGEST ON THE MARKET. If your not an experienced noid smoker i would recommend diluting it down abit. Also i would avoid mixing it with alcohol. All orders are shipped the same day when recieved before 2 pm.",
+  "dream_id": 360834,
+  "golden": false,
+  "name": "Cliquid 'NEW'30mlRED-BERRIES!STRONG!UK-ND",
+  "p_id": 651
+ },
+ "id": 1033
+}

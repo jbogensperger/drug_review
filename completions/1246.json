@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1246001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "22c17828-5e46-4eb9-92cd-77f649f501a5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 433,
+      "labels": [
+       "Drug"
+      ],
+      "start": 422,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8cf1866d-ab68-492e-9ba0-f3f38a865530",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 468,
+      "labels": [
+       "Drug"
+      ],
+      "start": 457,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c4acab8d-c059-4272-8467-1922f79ef450",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 490,
+      "labels": [
+       "Drug"
+      ],
+      "start": 479,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Work Hard Study Hard Weight loss INTENSE FOCUS 20 Bonus caps with this order until the end of the next week 10 \/ 8 or supplies last. DOSAGE 1 - 3 Caps Daily. 10 bonus capsules. Dosage 1 - 3. Caps daily depending on body weight. Example 175 lb male may only need 1 cap daily. Express shipping included at no extra charge. Allow 2 days. Stealth and Security are always the highest in priority. We Never cut corners. Generic Amphetamine 30 mg per capsule. D - Amphetamine 15 mg and Amphetamine sulfate base 15 mg.",
+  "dream_id": 257267,
+  "golden": false,
+  "name": " 90--AMPHETAMINE CAPS  30mg  ",
+  "p_id": 896
+ },
+ "id": 1246
+}

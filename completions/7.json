@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 7001,
+   "lead_time": 966.317,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "addd1553-2dbc-4b25-a7ba-b784147870e0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "z1rNn2kD1U",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 126,
+      "labels": [
+       "Drug"
+      ],
+      "start": 121,
+      "text": "BENZO"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "WELCOME ALL. HERE WE HAVE THE TOP QUALITY SOCIABLE COCAINE WHICH IS ONE OF OUR BEST SELLERS. IT IS SET AT 65 PURE AND 35 BENZO. THIS PRODUCT IS FOR THE BEGGINNERS AND THE ONES WHO CA NT HANDLE THE COLOMBIAN FLAKE. THIS PRODUCT HAS BEEN TESTED BY OUR SOURCE AND IS SAID TO BE EXCELLENT FOR QUALITY AND VALUE. PLEASE ORDER BEFORE 4 PM FOR NEXT DAY DELIVERY AND 2 PM ON FRIDAYS.",
+  "dream_id": 241219,
+  "golden": false,
+  "name": "2G TOP QUALITY SOCIABLE COCAINE",
+  "p_id": 10
+ },
+ "id": 7
+}

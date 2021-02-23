@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1213001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1bf9c0ac-0874-4a8e-8883-a1a730054aa9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Dinafem"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product Dinafem Seeds. Remo. Chemo. Sex Feminized Type Mostly Indica Flowering Photoperiod Height Medium Area Indoor Outdoor. Genetics Remo Chemo. x. Remo Chemo.",
+  "dream_id": 402495,
+  "golden": false,
+  "name": "FEM SEED - REMO CHEMO",
+  "p_id": 859
+ },
+ "id": 1213
+}

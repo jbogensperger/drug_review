@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1127001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0aca7807-e3e1-49cb-a65e-9bf773fc28c1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "90c9caa8-352a-4fe6-a823-d52bd26056fe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 pfizer xanax pills. Each pill contains 3 mg of alprazolam. Address must look like. Canada JUSTIN TRUDEAU 123 WELLINGTON OTTAWA ON K1A 0A6. USA DONALD TRUMP 1600 PENNSYLVANIA AVENUE NW WASHINGTON , DC 20500 USA. We ship all orders using regular mail WITHOUT TRACKING. We do nt know the status of your package after we have shipped it so please do not ask. Shipping time 4 - 7 business days for domestic Canada. 7 - 14 business days for USA. These are estimations so your order may take less or more time. Please read profile before ordering.",
+  "dream_id": 303081,
+  "golden": false,
+  "name": "5 Pfizer Xanax 3mg FREE SHIPPING",
+  "p_id": 750
+ },
+ "id": 1127
+}

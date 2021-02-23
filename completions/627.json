@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 627001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3049b4f4-ce00-4891-a0b6-6c6439b45fe5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 204,
+      "labels": [
+       "Drug"
+      ],
+      "start": 198,
+      "text": "heroin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d69ed669-3564-42e8-b435-9b7060a4d920",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 299,
+      "labels": [
+       "Drug"
+      ],
+      "start": 290,
+      "text": "Methadone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eed58329-0128-4f08-b4f4-07b61fef23b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "ethadone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c8724980-3892-4515-9f79-eee3d29921a3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 105,
+      "labels": [
+       "Drug"
+      ],
+      "start": 99,
+      "text": "opioid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "32edd441-65de-418e-9568-172732944ae2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 147,
+      "labels": [
+       "Drug"
+      ],
+      "start": 138,
+      "text": "Methadone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Single 1x5 mg - EUR 5 | 10x5 mg - EUR 35 | 100x5 mg - EUR 300 ethadone is an opioid medication. An opioid is sometimes called a narcotic. Methadone reduces withdrawal symptoms in people addicted to heroin or other narcotic drugs without causing the high associated with the drug addiction. Methadone is used as a pain reliever and as part of drug addiction detoxification and maintenance programs and is only available from certified pharmacies. REFUND POLICY 50\/50.",
+  "dream_id": 184729,
+  "golden": false,
+  "name": "Methadone HCl 5MG - 10x5mg - Sandoz",
+  "p_id": 291
+ },
+ "id": 627
+}

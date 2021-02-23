@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 320001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "705e3bd9-19e5-47cf-ab07-5b2741904c81",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "2C - B"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is 2C - B powder of the highest quality , absolutely white. We get it straight from the chemist , who has many years of experience cooking this wonderful psychedelic. It is the very best stuff on the market right now in Europe.",
+  "dream_id": 328609,
+  "golden": true,
+  "name": "2C-B POWDER 1 GRAM",
+  "p_id": 1713
+ },
+ "id": 320
+}

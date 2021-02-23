@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1218001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b5bcaa22-14d9-4a00-b900-50c3c6497db6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 601,
+      "labels": [
+       "Drug"
+      ],
+      "start": 598,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ef1afac5-f34b-4063-a2e6-cf7a619b048e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "Marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "74bc1f11-543c-4d11-bb91-972775494e59",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 260,
+      "labels": [
+       "Drug"
+      ],
+      "start": 254,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e1af3ffd-b806-4c9d-9582-6a686a0db4a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 561,
+      "labels": [
+       "Drug"
+      ],
+      "start": 555,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4a5b98f5-58f0-438b-af62-e3bad62f6f4b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 570,
+      "labels": [
+       "Drug"
+      ],
+      "start": 564,
+      "text": "Indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This offer is for 1 OZ of The One indoor Medical Marijuana. The One , originally bred by Clackamas Coots or CC , is a perfectly balanced hybrid of two landrace strains. It is sometimes referred to by its genetic combination Thai x Pure Afghan , with its sativa heritage stemming from its. Thai background and the Afghan influence bringing a thick resinous frosting of trichomes. This specific combination of two cornerstone landrace strains is known to only be available through a select circle of breeders and growers in Oregon. - Leafly. Variety Hybrid Sativa , Indica Origin Thai , Pure Afghan. THC Range 19 - 26 percent Characteristics Effects Relaxed , Happy , Euphoric , Sleepy , Energetic Symptom Relief Depression , Stress , Pain , Nausea , Inflammation Flavors \/ Aromas Earthy , Pungent , Pine. Shipping is free. Please message us for larger orders.",
+  "dream_id": 306761,
+  "golden": false,
+  "name": "1 OZ The One A+ Indoor Weed *FREE SHIPPING*",
+  "p_id": 865
+ },
+ "id": 1218
+}

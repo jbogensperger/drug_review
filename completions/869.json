@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 869001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "59abcca6-8bec-4468-bec3-08ccf2091189",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b5b9a89e-2964-446e-9fcc-f2be58a1f493",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 171,
+      "labels": [
+       "Drug"
+      ],
+      "start": 167,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "INTRO OFFER. FOR A LIMITED TIME ONLY. 100gr MDMA FOR EU PRICE TO AL SCANDINAVIAN COUNTRYS. - DENMARK - SWEDEN - NORWAY -FINLAND. We are proud to deliver crystal clear MDMA produced from high quality double refined PMK oil. Beautiful crystal rocks of 84 maximum purity. Direct from the manufacturer so straight from the source guarantee. AURORABULK only the best for our scandinavian friends.",
+  "dream_id": 390273,
+  "golden": false,
+  "name": "INTRO OFFER - 100GR MDMA CRYSTALS - 84% PURE",
+  "p_id": 444
+ },
+ "id": 869
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 703001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bb6f19ac-c795-489b-9d82-bf14c4f5906a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "nugs"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "28g of my finest. Big nugs.",
+  "dream_id": 336480,
+  "golden": false,
+  "name": "28g Banana Crack Indoor",
+  "p_id": 382
+ },
+ "id": 703
+}

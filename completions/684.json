@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 684001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "64f99394-271a-4a15-814e-0ed964e8f01b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Amazing Quality Ketamine with 86. We ship very fast in 0 - 2 days , this is average 1 day. AVERAGE SHIPPING DAYS. - Germany 1 - 3D - Europe 2-10D - USA 7-14D - World 7-28D.",
+  "dream_id": 424333,
+  "golden": false,
+  "name": "1 G Ketamine Rocky 86 %  >> EXPRESS",
+  "p_id": 359
+ },
+ "id": 684
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 879001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0b56ce0b-1370-4cf8-a3cc-0a50b395a2d4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "311eab4d-4db6-4cab-bc2b-0d7a92736e64",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "29d61db9-415b-4448-bec5-72ca224d86e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d42adae0-746e-43c2-a0a4-bede0aae5340",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 416,
+      "labels": [
+       "Drug"
+      ],
+      "start": 413,
+      "text": "CBD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Tincture made from CO2 extracted CBD and hemp oil. The CBD is derived from organically grown cannabis and is made under lab conditions. Dosage 1 - 10 drops 3 times per day. The tincture can best be ingested as drops , letting the oil sit below your tongue for about a minute , then swallowing. It can also be used in cooking , tea , coffee or similarly , but be careful with hot products , as it will destroy the CBD. Bottlecap has a dripper attached for easy dosage. Contains 10 ml per bottle. max quantity. 2 per order due to shippingfee s. Choose additional shipping when ordering more than 2 bottles. NOTE Picture is from a 200 mg bottle , the bottle looks the same except the 500 mg mas 500 mg written.",
+  "dream_id": 262806,
+  "golden": false,
+  "name": "10ml CBD(500mg) Tincture Hemp Seed Oil ",
+  "p_id": 456
+ },
+ "id": 879
+}

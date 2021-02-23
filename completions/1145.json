@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1145001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "11202dee-b9f9-444a-be76-a7893c261498",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Dilaudid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "50cd0394-f0bf-4651-bcb8-36a084022a23",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 147,
+      "labels": [
+       "Drug"
+      ],
+      "start": 139,
+      "text": "Dilaudid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e4e027ca-7947-48fb-a381-da8acb8f5f74",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 162,
+      "text": "hydromorphone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e0eb9324-c70f-4357-aa69-4fda2345a641",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 137,
+      "labels": [
+       "Drug"
+      ],
+      "start": 129,
+      "text": "Dilaudid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "My wares today include 5 pack of 4 mg Dilaudid. Pharmacy Fresh 10\/1\/17. I will ALWAYS provide products direct from the Pharmacy. Dilaudid. Dilaudid. Generic Name hydromorphone. Imprint P 4 Strength 4 mg Color Yellow Size 600 mm. Shape. Round Availability Prescription only Drug Class Narcotic analgesics. Pregnancy Category C - Risk can not be ruled out CSA. Schedule. 2 - High potential for abuse Labeler \/ Supplier Purdue Pharma LP. Thanks for your time business and please note that this item is a FE only product. If for any reason your package does nt make it do to your mix - up or REFUSED ITS NOT MY FAULT RE - SHIP or REFUND will not be an option in this case. But if i am at fault do to an over-site Then you will be covered. My OCD causes me to thoroughly Evaluate Re- evaluate every single order prior to shipping. So please do the same when sending your information. 2 packs in stock.",
+  "dream_id": 431516,
+  "golden": false,
+  "name": "8mg Dilaudid (4 pack)",
+  "p_id": 773
+ },
+ "id": 1145
+}

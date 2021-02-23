@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 667001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "624add2c-821d-42b4-9b2c-fec751191a17",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Ketamin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ccf70923-96cf-4d59-8041-62dc11d9a566",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 87,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "Ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6e139c9a-6c93-488d-8c47-99f2d1df4275",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 169,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "99ef2388-295f-40e8-8920-811531653e0b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 593,
+      "labels": [
+       "Drug"
+      ],
+      "start": 586,
+      "text": "Ketamin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1e06cc96-1f0c-4664-9561-cafe5394fdce",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 629,
+      "labels": [
+       "Drug"
+      ],
+      "start": 622,
+      "text": "Ketamin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Our Ketamin is one of the Strongest und Purest on the market. This is original Ketamine S isomere no any other research shit like many other vendors offer. This ketamine is brought to you straight from the lab , made by experienced chemists. Start with a low dose around 100 mg to get a clean trip which will give you a positive feeling , it s also known for the positive effects to treating depressions. A High dose around 300 mg will give you a heavy trip with strong visual and physical effects K - Hole. Here you have the prices for bulk amounts. For example if you want to buy 40g Ketamin you can buy 2 times the 20g Ketamin listing. Price List FE price in Escrow price in. 1g 30 35. 5g 135 150. 10g 250 270. 20g 440 490. 50g 1070 1170. 100g 2000 2200.",
+  "dream_id": 253683,
+  "golden": false,
+  "name": "1g Ketamine HCL (S-Isomere)  !!!FE!!!",
+  "p_id": 341
+ },
+ "id": 667
+}

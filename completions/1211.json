@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1211001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3afd115e-1345-4ea8-a0ab-f5a330a0962d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "girl scout cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6729fa67-af77-4bb9-ad1c-b75b81de9fe1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 145,
+      "labels": [
+       "Drug"
+      ],
+      "start": 141,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BANG GSC. Top grade super potent and tasty girl scout cookies shatter. Made from premium grade nuggs of cream AAAAA grade girl scout cookies weed. purged for 72 hours producing a clear glassy shatter perfect to handle at room temps such a beautiful smoke. Hits super hard really potent dabs do not miss if you like you extracts this is a pearler of a batch.",
+  "dream_id": 427571,
+  "golden": false,
+  "name": "2G Girl Scout Cookies Nug Run Shatter",
+  "p_id": 856
+ },
+ "id": 1211
+}

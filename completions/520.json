@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 520001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b560a5fb-64f8-4347-b071-045210c21ff2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "coke"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dudes this is PRIMO coke. It s genuine Peruvian Flake. What you ll get is 100 cut from the brick product. The very best that you will get anywhere in the UK or abroad. No doubt truly worthy of the Dude s Special Stash. Dose responsibly and conservatively - this is VSOP quality.",
+  "dream_id": 258600,
+  "golden": false,
+  "name": "Uncut PURE Peruvian Flake 0.5g  ",
+  "p_id": 128
+ },
+ "id": 520
+}

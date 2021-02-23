@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1062001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a3b77917-84a3-4dff-be7b-7391e3deecd0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Zopiclon"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "20 Tbl Zopiclon 7 , 5 mg. inkl. Umkarton und Packungsbeilage \/ incl package and leaflet. Versand nur innerhalb. Deutschlands \/ Shipment only within Germany. Fr weitere Infos bitte Profiltext beachten \/ Please note our profil for further info s.",
+  "dream_id": 389273,
+  "golden": false,
+  "name": "ZOPICLON 7,5 mg \/ 20 Tbl - Versand aus Germany",
+  "p_id": 688
+ },
+ "id": 1062
+}

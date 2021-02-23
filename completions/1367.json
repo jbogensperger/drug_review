@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1367001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e99c3d63-f682-41e9-90ac-d3b44f2518b3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Oxycodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Oxycodone 30 mg straight from the pharmacy. E8 pill. Quantity 0.",
+  "dream_id": 297186,
+  "golden": false,
+  "name": "E8 - Oxycodone 30 mg - $30 each - TEMP. OUT",
+  "p_id": 1043
+ },
+ "id": 1367
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 677001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8bac8e6c-9d19-42b9-bc82-6157075f5600",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "01d369df-7f4d-45a9-afcc-e1714f57252c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 gram pure 89 COCAINE. product is straight from the block , 89 pure cocaine. This product comes vacuum sealed. no shipping to usa , australia and sweden. refund policy 50 refund.",
+  "dream_id": 272162,
+  "golden": false,
+  "name": "1 gram pure (89%) colombian COCAINE ",
+  "p_id": 351
+ },
+ "id": 677
+}

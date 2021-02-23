@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1055001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "61f7a844-eec3-4768-bf15-18ed3493d4f7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bc9ddd27-abef-4fec-b2f2-2ba3f3283d67",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Valiums"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We are offering Watson Pharma 10MG Diazepam \/ Valiums at a very low price. We offer 1st class shipping to the UK and EU \/ EEU. We aim for NND to the UK and 3 \/ 5 days to EU. All packages are very discreet and will arrive in your everyday normal post. We were established on Alphabay and we are currently well established on Trade Route feel free to check it out. Our key focus is customer satisfaction and service , new and repeat. We are offering a low price to build our customer base and reputation. Please feel free to leave feedback. Any issues , requests or special requirements please PM us , we are always active.",
+  "dream_id": 377166,
+  "golden": false,
+  "name": "100 x 10MG DIAZEPAM\/VALIUMS **FREE UK SHIPPING**",
+  "p_id": 681
+ },
+ "id": 1055
+}

@@ -1,0 +1,271 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1243001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "19060053-f819-4423-94d9-57e7a2b2ed64",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 112,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "Canabidiol CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a16a24b5-cd3e-440d-a3dd-a71ba618112c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 387,
+      "labels": [
+       "Drug"
+      ],
+      "start": 374,
+      "text": "Canabinol CBN"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5e43fa9d-8e01-477e-83eb-9345f983dc88",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 587,
+      "labels": [
+       "Drug"
+      ],
+      "start": 573,
+      "text": "Canabidiol CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9f61e510-5880-43ce-99a3-9551b0e33a56",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "EGG CULERO"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f8c1afea-bca3-4b1d-9884-84b784deba86",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aaaa6016-16bd-4c08-9bb4-cc76ef67110a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 94,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9defd64b-2215-48e9-8427-2fa94d7f179a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 118,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "CBG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a69765b6-a0e7-4a09-9883-2477f4f23ef0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 176,
+      "labels": [
+       "Drug"
+      ],
+      "start": 172,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "abb17606-0e82-425a-b453-27f24563c047",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 224,
+      "labels": [
+       "Drug"
+      ],
+      "start": 221,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fdb33b3a-f916-4868-907a-d21adbdfbe0d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 231,
+      "labels": [
+       "Drug"
+      ],
+      "start": 228,
+      "text": "CBG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3696ca34-7e7d-472c-bc8b-05aff847420a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 325,
+      "labels": [
+       "Drug"
+      ],
+      "start": 321,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5ff0634c-1596-4e83-9da2-f718a1046564",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 371,
+      "labels": [
+       "Drug"
+      ],
+      "start": 368,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d7a61beb-7cda-48b8-9f3d-11d4fad8700d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 448,
+      "labels": [
+       "Drug"
+      ],
+      "start": 444,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f84e35ba-7a3c-4454-bd8c-c56ea4f92c8b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 495,
+      "labels": [
+       "Drug"
+      ],
+      "start": 492,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7b19a7d-c028-4ac2-861e-ffebe01f2661",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 547,
+      "labels": [
+       "Drug"
+      ],
+      "start": 543,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bf965357-e73b-4ee6-bddb-d2a3b11d9be1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 216,
+      "labels": [
+       "Drug"
+      ],
+      "start": 213,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "94d041f0-4249-44f5-be8c-4a43eab123c6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 364,
+      "labels": [
+       "Drug"
+      ],
+      "start": 361,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f8c4c723-bb17-4ef0-b2e4-49832823d075",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 487,
+      "labels": [
+       "Drug"
+      ],
+      "start": 484,
+      "text": "CBD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FE 10g EGG CULERO CRITICAL. Sample Code HQ005. Substance Hash Lab Code 101042. Result THCV THC 23 Canabidiol CBD 3 CBG SAMPLESOFT CREAM CHOCO. Sample Code HQ008. Substance Hash Lab. Code 101045. Result Canabidiol CBD. 04 THC 30 CBG. LAST LAB TEST RESULTS. HQ002 - JungleBoyz. LIMITED BUBBLE. Sample Code HQ002. Substance hash Lab Code 100197. Result Canabidiol CBD. 8 THC47 Canabinol CBN 3. HQ008 SOFT CREAM CHOCO. Sample Code HQ008. Substance Hash Lab Code 101045. Result Canabidiol CBD. 04 THC 30 CBG. HQ009 CA. Sample Code HQ009. Substance Hash Lab. Code 101046. Result Canabidiol CBD 2.",
+  "dream_id": 286312,
+  "golden": false,
+  "name": "10g SOFT CREAM EGG CULERO HASHFE",
+  "p_id": 893
+ },
+ "id": 1243
+}

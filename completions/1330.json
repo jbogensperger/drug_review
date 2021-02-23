@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1330001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7e39e1f5-6fc7-44d8-a86d-c3ae986b1bd9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "adb2d528-31d5-4092-ae65-e85b3dede409",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "34865f94-70c8-47ac-bd80-b86e550780e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b98ed3bb-fc2d-48b8-9a96-83c31f98ec58",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 108,
+      "labels": [
+       "Drug"
+      ],
+      "start": 102,
+      "text": "Indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2g fr nur 22 Top Indoor Qualitt. Soreten Info. THC 18 - CBD Low Genetik Afghani x Skunk Art Sativa 40 Indica 60 Effekt stark Stoned , physisch und mental.",
+  "dream_id": 205676,
+  "golden": false,
+  "name": "!!2g!! Critical Top Qualitt!!!",
+  "p_id": 992
+ },
+ "id": 1330
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 413001,
+   "lead_time": 384.641,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "22c33f61-55da-41ce-85d3-04c77a008260",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "o-DtNE1Fz9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Jack Herer"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "vOGr7phbEJ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "BLACK Jack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "D-cJL5pEzn",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "Black Domina"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BLACK Jack Black Domina 98 x Jack Herer. Very good indoor weed.",
+  "dream_id": 409035,
+  "golden": false,
+  "name": "14g  ** BLACK JACK ** Indoor AAA+++ Medical Grade",
+  "p_id": 217
+ },
+ "id": 413
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1080001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0e11691e-9aa8-4d3d-ae51-e4d0c59e5383",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 167,
+      "text": "Cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Offering this great quality product at a very low price for a limited time. Come take advantage of my need for reviews. Thank you for trusting in MKB to be your go to Cannabis supplier. Please PGP all sensitive info. I WILL CANCEL ANY ORDER PLACED WITHOUT PGP , and please do nt count on markets auto encryption. Take the extra seconds to do it manually , it protects both of us that much better. Contact us via Kiklegitdeal396.",
+  "dream_id": 420153,
+  "golden": false,
+  "name": "4 OZ Lemon Kush***(GREAT QUALITY){BULK}",
+  "p_id": 708
+ },
+ "id": 1080
+}

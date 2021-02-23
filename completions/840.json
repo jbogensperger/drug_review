@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 840001,
+   "lead_time": 5101.713,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eaa21ade-ad7b-40ed-8a07-212e83b55209",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 84,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "Fluoxymesterone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8ac04894-4b9d-4f64-8795-ae726c050d1c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "Halotestin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "471e3e69-d387-4410-aff6-d52a0a1b2243",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 109,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "Ultandren"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "601b3636-b0c5-42e8-b128-b424ed72203a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "Fluoxymesterone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "R99BLNbst-",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Halo - Med"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "K6b99Au9om",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 320,
+      "labels": [
+       "Drug"
+      ],
+      "start": 312,
+      "text": "steroid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BIONICHE Halo - Med Fluoxymesterone 10mg \/ tab , 60tabs \/ box. names Fluoxymesterone , Halotestin , Ultandren. 100 positive feedback on Alphabay. 3000 sales EU shipping with tracking. Unbeatable prices. Wholesale prices on steroids without resellers - EU shipping avoid all borders. Become Big or Build your own steroid empire localy. Even more discounts on volume 1000 orders contact in pm.",
+  "dream_id": 311155,
+  "golden": false,
+  "name": "BIONICHE -  Fluoxymesterone 60 tabs",
+  "p_id": 390
+ },
+ "id": 840
+}

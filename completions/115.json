@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 115001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6a598ede-1d6f-4948-88a9-dfdf33574e85",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1b58ec2c-b723-49ff-abfe-4fbf877de6d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 245,
+      "labels": [
+       "Drug"
+      ],
+      "start": 242,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "70952cd4-fbf7-45d6-a72e-d4cbbf822353",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 539,
+      "labels": [
+       "Drug"
+      ],
+      "start": 536,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Secretly created in the labs of MIT. This stuff does nt get any higher quality or purity. BRAND NEW LSD. WE KNOW WATER we also know about sacred Geometry crystalline structuring of our water , and have done so in the process of creating this LSD made in perfect harmony with nature and resulting in an astronomically beautiful trip guaranteed , we are over the moon to be able to provide this wonderful substance to you folks at home just in time for the festivals. 120u. G strength per single stamp. THIS IS HARD TO FIND CLEAR CRYSTAL LSD DILUTED TO 120 UG. Enjoy while stocks last.",
+  "dream_id": 13337,
+  "golden": true,
+  "name": "LSD - Made in MIT Labs - x 25 HITS \/ TABS",
+  "p_id": 4508
+ },
+ "id": 115
+}

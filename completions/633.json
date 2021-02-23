@@ -1,0 +1,34 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 633001,
+   "lead_time": 214.467,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "JnvHya6aNl",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "A333 "
+     }
+    }
+   ],
+   "was_cancelled": false
+  }
+ ],
+ "data": {
+  "clean_description": "10 mg perks from the arm A333 ready togo. As always overnight available only the best from the arm. Thank you Valuedarkservices team.",
+  "dream_id": 258724,
+  "golden": false,
+  "name": "10mg percocet\/oxycodone x20 EXPRESS SHIPPING AVAIL",
+  "p_id": 298
+ },
+ "id": 633
+}

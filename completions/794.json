@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 794001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ab7ec4ca-83f0-487e-af1b-17f1b4cbdd6d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "821812c1-a2ac-4157-a684-6a9a8789027a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 123,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "Crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2241bf75-b68e-44d3-9268-957766e99bdc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 159,
+      "labels": [
+       "Drug"
+      ],
+      "start": 155,
+      "text": "COKE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hey if your buying crack on the DNM you should be buying it from a professional cook such as Trapgod. The Real Muscle Crack is made from the OFF THE BRICK COKE I offer. Which means it s the Shit. NO CUTS , NO BAKING SODA. Just pure MUSCLE. BUYER BEWARE THIS IS A HEARTBUSTER SO BE CAREFUL WITH THE AMOUNT YOU SMOKE IF YOUR A ROOKIE.",
+  "dream_id": 118978,
+  "golden": false,
+  "name": ".5g     :*:*:*:Real Muscle Crack:*:*::*:: HARD ",
+  "p_id": 271
+ },
+ "id": 794
+}

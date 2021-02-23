@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 469001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ad9c4dac-3eb7-4c64-8cbf-7196cedcc6e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 107,
+      "labels": [
+       "Drug"
+      ],
+      "start": 97,
+      "text": "Trainwreck"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "76d1ca2c-5bc7-49e3-aa47-65e8e85b1757",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 120,
+      "labels": [
+       "Drug"
+      ],
+      "start": 112,
+      "text": "Hawaiian"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75fa350a-8f5f-47c8-88bf-1ce19403cdba",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 242,
+      "labels": [
+       "Drug"
+      ],
+      "start": 236,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strain Highlights. Pineapple. Express combines the potent and flavorful forces of parent strains Trainwreck and Hawaiian. The smell is likened to fresh apple and mango , with a taste of pineapple , pine , and cedar. This hard - hitting sativa provides a long - lasting energetic buzz perfect for productive afternoons and creative escapes. ps good for resell.",
+  "dream_id": 229419,
+  "golden": true,
+  "name": "3.5g Pleasure PineApple ++  25, UK 1class ",
+  "p_id": 8636
+ },
+ "id": 469
+}

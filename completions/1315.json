@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1315001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e9952641-e717-42c9-b248-fa7edcb0b678",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "fishcale"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "fishcale quality for a very good price.",
+  "dream_id": 228139,
+  "golden": false,
+  "name": "2 gr A+ COCAINE CRYSTAL 90% purity ",
+  "p_id": 973
+ },
+ "id": 1315
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 857001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "41d04d63-36b4-4896-9a1f-35654b14f0d7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "Critical"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "474f9b88-edb3-4fdf-8903-8952d7c4d58d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "Skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9286c001-0b48-4262-b8ab-ceb87bc17c4e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "K2"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b68c8590-9f08-410e-9059-4e7a052dcc07",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 250,
+      "labels": [
+       "Drug"
+      ],
+      "start": 242,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We offer very potent cuttings from mixed Strains like Critical \/ Skunk \/ K2. These are from our own Plants so we can guarantee that it does nt contain ordinary hemp leafes just what stays from manicuring buds. You can smoke it - make medical cannabis oil out of it and many other things. Try it out.",
+  "dream_id": 424841,
+  "golden": false,
+  "name": "10g Trim\/Cuttings | Very potent and dry | fermente",
+  "p_id": 427
+ },
+ "id": 857
+}

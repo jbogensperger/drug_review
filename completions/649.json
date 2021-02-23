@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 649001,
+   "lead_time": 1884.676,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f1e9ff86-dc55-4cdb-9e37-1a30c9525ad2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "63b1be77-f2a6-4cf9-805a-ca7cc41e5970",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "InGeLyAxbN",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 108,
+      "text": "KSALOL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "alprazolam xanax 30000 tabs of 1 mg each in original blister - original european generic brand - GALENIKA - KSALOL. SPECIAL DELIVERY METHOD. Attention - product may have addictive features. PLEASE take some time and look at the other Listings i have for you.",
+  "dream_id": 405926,
+  "golden": false,
+  "name": "alprazolam 30.000 tabs of 1mg each in original bli",
+  "p_id": 320
+ },
+ "id": 649
+}

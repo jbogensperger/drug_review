@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 119001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "592bf820-54bf-4a47-97f3-59cc280b2ffc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "GBL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "13ae29fb-1f89-448b-8cf7-895ab1e70ba2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d6fca1e5-0748-4995-9fe7-7dbed0e62d46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 87,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "67724b8f-1dda-4be2-a3e3-37ad5a2ab369",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 128,
+      "labels": [
+       "Drug"
+      ],
+      "start": 125,
+      "text": "GBL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "500 ML germany s finest GBL available. purity 9995 NOT GHB. Strongly advice to make GHB from this , instead of drinking pure GBL.",
+  "dream_id": 321881,
+  "golden": true,
+  "name": "0.5 LITER GBL  BASF 99.95%",
+  "p_id": 3920
+ },
+ "id": 119
+}

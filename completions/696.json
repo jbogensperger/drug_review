@@ -1,0 +1,145 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 696001,
+   "lead_time": 2567.419,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "946e3b39-d9ab-4f99-ad06-46bca2e7c214",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 2,
+      "text": "HO - MiPT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eaf2e0eb-e054-4ebc-83eb-dd031190fe3d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 236,
+      "labels": [
+       "Drug"
+      ],
+      "start": 233,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ec413ddc-a70a-4337-b30d-a1c7f7ba02d5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "miprocin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "823c267b-ce76-499e-b8aa-1cdbf47434e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 250,
+      "labels": [
+       "Drug"
+      ],
+      "start": 241,
+      "text": "mescaline"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "hgzxMtceTZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "4- hydroxy-N-methyl-N-isopropyltryptamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "I9eSpp76m1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 143,
+      "text": "tryptamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "HKBVCD9ui9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 230,
+      "labels": [
+       "Drug"
+      ],
+      "start": 215,
+      "text": "magic mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "jtWLGiYJoH",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 362,
+      "labels": [
+       "Drug"
+      ],
+      "start": 343,
+      "text": "tryptamine psilocin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "LhkHmw4L2s",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 426,
+      "labels": [
+       "Drug"
+      ],
+      "start": 411,
+      "text": "magic mushrooms"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "4-HO - MiPT miprocin , 4- hydroxy-N-methyl-N-isopropyltryptamine is a synthetic substituted aromatic compound and a lesser - known psychedelic tryptamine. It is thought to be a serotonergic psychedelic , similar to magic mushrooms , LSD and mescaline. citation needed. Its molecular structure and pharmacological effects resemble those of the tryptamine psilocin , which is the primary psychoactive chemical in magic mushrooms. First paragraph from the Wikipedia , I encourage everyone to do more research than reading my listing before purchasing.",
+  "dream_id": 247009,
+  "golden": false,
+  "name": "1 g  4-HO-MiPT Fumarate salt",
+  "p_id": 373
+ },
+ "id": 696
+}

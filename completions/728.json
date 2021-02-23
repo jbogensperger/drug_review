@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 728001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "965725b5-dca5-4fbb-98eb-4ae30ee2593a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "HEROIN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "14 GRAMS OF MY BEST HEROIN. ORDER BY 9 PM CUT OFF FOR TRUE EXPRESS overnight.",
+  "dream_id": 285396,
+  "golden": false,
+  "name": "14 GRAMS OF THE BEST AVAILIBLE HEROINE ",
+  "p_id": 409
+ },
+ "id": 728
+}

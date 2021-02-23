@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1118001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "decb6840-9765-418a-8caa-46b07aabad5b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 278,
+      "labels": [
+       "Drug"
+      ],
+      "start": 275,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- Red Raspberry medicated gummy center wrapped in medicated brand - name nerds - Homemade from scratch organically , gummy made in the same way as Haribo gummy bears - NOT made from jello like those cheap fools who try to get away with shitty gummies - Medigrade , made from THC concentrate. - Neutral packaging guaranteed. - USA Exclusive - Full Escrow - Priority 2 \/ 3 - day Shipping - Overnight shipping available - I am not responsible for any allergic reactions. Please view our Terms and Conditions and Refund policy in our profile.",
+  "dream_id": 349560,
+  "golden": false,
+  "name": "1x 65mg THC Organic Nerds Rope",
+  "p_id": 741
+ },
+ "id": 1118
+}

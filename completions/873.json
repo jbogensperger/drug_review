@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 873001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5108f6f6-384f-4450-a9d5-f9fd12d60f10",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 78,
+      "labels": [
+       "Drug"
+      ],
+      "start": 68,
+      "text": "Glucophage"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 per blister , order as many as you would like there is no limit. Glucophage is a glucose disposal agent , effectively helping you lose weight without changing the diet by driving glucose into muscle tissue instead of allowing insulin to deposit it as fat.",
+  "dream_id": 207650,
+  "golden": false,
+  "name": "Glucophage 500 mg x 10",
+  "p_id": 448
+ },
+ "id": 873
+}

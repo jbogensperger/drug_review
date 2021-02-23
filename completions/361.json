@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 361001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6177d2f7-f507-413b-8b81-6d354a7f382b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 110,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "Super Lemon Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ca4157d7-5d2d-40b8-8039-1cdf1898cf01",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "Lemon Bubble"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "52e545ee-b851-40ae-ae48-42a6aa88f522",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Lemon Bubble"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8617f24e-1c2b-404d-b632-972e78a1cef8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 129,
+      "labels": [
+       "Drug"
+      ],
+      "start": 116,
+      "text": "Silver Bubble"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fcd57b3a-5b61-41a9-bc57-cc54501cbd5b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 225,
+      "labels": [
+       "Drug"
+      ],
+      "start": 213,
+      "text": "Lemon Bubble"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7e3308fc-db8f-43c5-83c8-a140369885e5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 254,
+      "labels": [
+       "Drug"
+      ],
+      "start": 248,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "87af176d-c2b6-4d6b-8a6f-be79fc5d3e84",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 290,
+      "labels": [
+       "Drug"
+      ],
+      "start": 282,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e756d279-1a7c-41bf-8356-9de2bae876f0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 377,
+      "labels": [
+       "Drug"
+      ],
+      "start": 373,
+      "text": "Haze"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2 grams of Lemon Bubble Dutch Import. Lemon Bubble is an award - winning strain that combines Super Lemon Haze with Silver Bubble to create a potent sativa that is applauded for its emphasis on flavor. Recently , Lemon Bubble took 3rd place in the Sativa Cup at the 2014 High Times Cannabis Cup. Its citrus flavors are highlighted by sweet lemons and finish with an earthy Haze undertone to produce happy thoughts and a soothing sense of euphoria. Excellent smoke every time , consistent quality , packed with crystals and covered in trichomes. Smell is pure lemons sherbert when you crack the nugs open. Better than Amsterdam coffee shops in my opinion.",
+  "dream_id": 322252,
+  "golden": false,
+  "name": "2 grams of Lemon Bubble Dutch Import",
+  "p_id": 156
+ },
+ "id": 361
+}

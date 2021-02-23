@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 768001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cea06bbb-7ecf-4450-9f54-7a2e0e8d3d3d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "SPECIAL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SPECIAL PRICE. I WILL TELL YOU THE BIGGEST SECRET MONEY MAKING GUARANTEED. THIS IS PRICELESS YOU CAN MAKE BETWEEN 100K - 500 K WITHIN 6 MONTHS. WE PROVIDE SUPPORT WITH PURCHASE AS WELL.",
+  "dream_id": 305963,
+  "golden": false,
+  "name": "!!!MAKE MONEY WITH CRYPTO!!!",
+  "p_id": 201
+ },
+ "id": 768
+}

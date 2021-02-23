@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1402001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e16be6a2-7ba3-40c6-9fca-829136a6d297",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 48,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "16ec42ed-a8b6-4c09-9e01-73c5385d43dd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 308,
+      "labels": [
+       "Drug"
+      ],
+      "start": 301,
+      "text": "tobacco"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "46d6baf5-e803-4091-94d5-6cf00e0d732e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "Hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Moroccan Cream Hash. This is some of the finest hash that you can buy from morocco it smells amazing and bubbles when heated it s a real pleasure to smoke Smooth aroma flavor. Texture is not rock hard neither squidgy , easy to work at room temperature 22C - heat must be applied before mixing it with tobacco or your favorite herb. This Offer is for 10 gramm.",
+  "dream_id": 162215,
+  "golden": false,
+  "name": "Moroccan Hash Cream 10 gramm ",
+  "p_id": 1085
+ },
+ "id": 1402
+}

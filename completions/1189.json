@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1189001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "786aa8a3-55ea-4925-8e70-07c749583f15",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "97027e19-03f1-4852-bb50-677d6e5b219d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 236,
+      "labels": [
+       "Drug"
+      ],
+      "start": 232,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "In general , MDMA users begin reporting subjective effects within 30 to 60 minutes of consumption , reaching the peak at about 75 to 120 minutes which plateaus for about 35 hours 25. The desired short - term psychoactive effects of MDMA have been reported to include. Euphoria a sense of general well - being and happiness 13 14. Increased self - confidence , sociability and feelings of communication being easy or simple 13 14 4 Entactogenic effects increased empathy or feelings of closeness with others 13 14 and oneself 4 Relaxation and reduced anxiety 4 Increased emotionality 4 A sense of inner peace 14 Mild hallucination 14 Enhanced sensation , perception , or sexuality 13 14 4. Altered sense of time 16.",
+  "dream_id": 396660,
+  "golden": false,
+  "name": "*** 2 GRAM MDMA *** MOLLY SPECIAL",
+  "p_id": 832
+ },
+ "id": 1189
+}

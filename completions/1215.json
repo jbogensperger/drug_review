@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1215001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7a39c320-971c-4098-8589-6ead4227c35e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "FIRE DOPE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "A CHANCE FOR YOU TO TRUE TRY OUR FIRE DOPE ON THE HOUSE. ENJOY.",
+  "dream_id": 430490,
+  "golden": false,
+  "name": "FREE GRAM SAMPLES",
+  "p_id": 862
+ },
+ "id": 1215
+}

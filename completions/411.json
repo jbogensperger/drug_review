@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 411001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "32982f9c-05b3-4126-83db-7517f4db2a26",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Buying"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Buying this listing you support my work and this also may speed up shipping time. THANK YOU.",
+  "dream_id": 340021,
+  "golden": false,
+  "name": "Trinkgeld,Tips for my hard work making you happy:)",
+  "p_id": 215
+ },
+ "id": 411
+}

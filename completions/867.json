@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 867001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "532f8d78-cfaf-45b2-8aa2-71e030c66f62",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "The offer contains 10g of top quality 84 pure MDMA produced in the Netherlands. Before you order please be aware of the following. PLEASE READ THE TERMS AND CONDITIONS AND MAKE SURE YOU AGREE.",
+  "dream_id": 101444,
+  "golden": false,
+  "name": "10g of top quality MDMA 84%",
+  "p_id": 442
+ },
+ "id": 867
+}

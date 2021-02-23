@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1024001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6c6f8eb7-24e5-4b18-8b8e-0c8a2f595727",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "Zopiclone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Intas Brand Zopiclone 75 mg 100 pills as pictured. Expiry Nov 18. Made in India. Was sent in error. Have no need for them so selling them on. There is actually 110 , but 1 pack of 10 a few of the pills foil is broke on a few but they are fine so you get 110.",
+  "dream_id": 428091,
+  "golden": false,
+  "name": "100 Zopiclone 7.5mg",
+  "p_id": 641
+ },
+ "id": 1024
+}

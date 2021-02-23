@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 891001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "80d61498-2ebb-43b3-974d-2ebc40bd6834",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "opiods"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Really strong opiods that make you feel good as hell.",
+  "dream_id": 100487,
+  "golden": false,
+  "name": "4) MORPHINE SULFATE 15mg",
+  "p_id": 474
+ },
+ "id": 891
+}

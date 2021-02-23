@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 503001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f6c033cd-3b60-4a1e-8a11-66fc59ea18d4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for strong , clean and tasty Ice - Haze Weed. Take it , roll it , love it. Please feel free to ask me if you have any questions. Much love.",
+  "dream_id": 339500,
+  "golden": true,
+  "name": ">5 GRAM ICE-HAZE 19%< QUALITY GUARANTEE",
+  "p_id": 2777
+ },
+ "id": 503
+}

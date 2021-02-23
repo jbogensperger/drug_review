@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 900001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dcb6dd40-92c0-491c-b991-4d510fd358ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "xtc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2337ba15-49af-45ad-8575-8c420c7daf50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 83,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "mdma"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Nice clean xtc pill in a shape of the popular whatsapp logo. Containing 170 mg mdma.",
+  "dream_id": 306313,
+  "golden": false,
+  "name": "Opening DEAL>> 5 WhatsApp XTC pills 170mg",
+  "p_id": 488
+ },
+ "id": 900
+}

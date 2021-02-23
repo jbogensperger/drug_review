@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 927001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "43955954-a893-4aeb-af4d-9d62b96c44e6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 99,
+      "labels": [
+       "Drug"
+      ],
+      "start": 96,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "66f9cb1e-94b4-44c8-a36d-7a638671eb59",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 161,
+      "labels": [
+       "Drug"
+      ],
+      "start": 158,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "80664363-97c7-46e3-8000-208f0d309447",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "500 Hits 999 Pure JOR LSD - 25 200 ug per tab. On blotters. This is guaranteed to be the Finest LSD - 25 on the PLANET. SUMMER 2016 ENERGY CONTROL MRSUNSHINE LSD TESTS 99614. 99613.",
+  "dream_id": 248189,
+  "golden": false,
+  "name": "500 Hits 99.9% Pure LSD-25 @200ug per tab",
+  "p_id": 520
+ },
+ "id": 927
+}

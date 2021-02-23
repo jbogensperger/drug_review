@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1234001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "77c8fdae-426d-4d51-b67e-3601ff08c43d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 297,
+      "labels": [
+       "Drug"
+      ],
+      "start": 285,
+      "text": "Chems Sister"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "83687ade-daff-4efd-8140-fe054d711b32",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 309,
+      "labels": [
+       "Drug"
+      ],
+      "start": 300,
+      "text": "Sour Dubb"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9d429be6-1986-4ed5-80bd-6142016a0491",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 332,
+      "labels": [
+       "Drug"
+      ],
+      "start": 316,
+      "text": "Chocolate Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "35aa0eb6-b023-47ef-ad21-4eb6876dc4af",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Gorilla Glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "26c8beb7-8568-43dc-baff-ccd7bf440b4e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 611,
+      "labels": [
+       "Drug"
+      ],
+      "start": 599,
+      "text": "Gorilla Glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "78d6a2e6-2925-49d0-9a7a-d33d8b438e79",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 403,
+      "labels": [
+       "Drug"
+      ],
+      "start": 395,
+      "text": "Cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Gorilla Glue 4 , developed by GG Strains , is a potent hybrid strain that delivers heavy - handed euphoria and relaxation , leaving you feeling glued to the couch. It s chunky , resin - covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains , Chems Sister , Sour Dubb , and Chocolate Diesel. Taking first place in both the Michigan and Los Angeles 2014 Cannabis Cups as well as the High Times Jamaican World Cup , this multiple award - winning hybrid s supremacy is no longer a secret , and consumers will search far and wide to get their hands sticky with Gorilla Glue 4.",
+  "dream_id": 275092,
+  "golden": false,
+  "name": "Gorilla Glue AAA++ topshelf 1oz",
+  "p_id": 883
+ },
+ "id": 1234
+}

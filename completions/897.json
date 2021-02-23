@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 897001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2106e714-57b9-482a-b5db-c60b89cf184e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "mdma"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5000 x silver Rolls Royce 200mg high grade mdma. Nice hard pressed Great stealth.",
+  "dream_id": 427303,
+  "golden": false,
+  "name": "5000x Silver Rolls Royce 200mg",
+  "p_id": 484
+ },
+ "id": 897
+}

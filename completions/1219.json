@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1219001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4b155b01-c79d-4cf9-a9b0-7f862445f7f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "KETAMINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cc95915d-c9a5-4a13-94de-cfea0c868f46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 123,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Item KETAMINE S-ISOMER. Streetnames. KETA , KETAMINE , SPECIAL K ,. S-KET. COLOR WHITE CHRYSTALS. STRENGTH 84. Our ketamine is imported via Asia and India and sometimes Europe. - - - - - - Shipment Times - - - - - -. Western Europe approx. 3 to 5 days Eastern Europe approx. 7 to 12 days Southern America approx 10 to 15 days Asia approx. 9 to 14 days Russia approx. 10 to days. DUTCHBULK does not ship to the following country s under any circumstance. X The Netherlands X USA X Australia. DUTCHBULK - BULK AND WHOLE SALE SPECIALISTS.",
+  "dream_id": 69069,
+  "golden": false,
+  "name": "KETAMINE - 100 GRAMS - S - ISOMER 84% PURE",
+  "p_id": 866
+ },
+ "id": 1219
+}

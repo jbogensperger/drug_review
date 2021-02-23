@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1041001,
+   "lead_time": 3967.387,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "11e5943b-927f-4ac7-8843-c30f6ca5d7b5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Oxycontin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f1e1a383-08ca-4f53-abbd-04fea0e3fe9e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 113,
+      "labels": [
+       "Drug"
+      ],
+      "start": 104,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "52cdaff9-cb97-4f4d-a09e-1e74df03bfb9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 300,
+      "labels": [
+       "Drug"
+      ],
+      "start": 291,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4be3caf4-f517-4fa4-a914-42a155e5cc31",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 512,
+      "labels": [
+       "Drug"
+      ],
+      "start": 503,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f1ddc2aa-44a3-45cf-83a6-2227652cfb90",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 686,
+      "labels": [
+       "Drug"
+      ],
+      "start": 677,
+      "text": "oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4ddad434-dafe-4622-bca8-29a81f96788c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 224,
+      "labels": [
+       "Drug"
+      ],
+      "start": 217,
+      "text": "OPIOIDS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ulPbrfPVVH",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 327,
+      "labels": [
+       "Drug"
+      ],
+      "start": 321,
+      "text": "opioid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Oxycontin for pain relief. You can quickly contact us via KIKdesupplier WICKR. desupplier IMPRINT A 215 Oxycodone. mg 5 mg , 10 mg , 15 mg , 20 mg , 30 mg , 40 mg , 60 mg , 80 mg and 120 mg prolonged release tablets. OPIOIDS sometimes called opiates are medicines used to treat severe pain. Oxycodone is a type of strong opioid. It is used in particular to treat pain after a surgical operation and pain caused by CANCER. It works on your nervous system and brain to reduce the amount of pain you feel. Oxycodone can be taken as capsules or as a liquid medicine , both of which start working quickly to ease pain. It can also be taken as slow - release tablets - these release oxycodone over several hours to provide a more even pain control. It is also available as an injection.",
+  "dream_id": 420776,
+  "golden": false,
+  "name": "90 OXYCODONE OF 30mg for 500",
+  "p_id": 662
+ },
+ "id": 1041
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 937001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "057cfe14-159c-45bf-a5f3-c5908cc7e03e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "ICE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1g of the Finest Quality ICE , everything you expected for the price. all came in big chuck but did need to be broken down in to smaller listings. you pay for what you get. photos are of real product. Express post is now getting screened so anything order Express post will be at customers own risk , no refunds. All shipping will be done Australia Parcel Post 2 - 5 days by ground for saftey. Shipping cut off time is 2 pm for same day shipping ,. We also are only posting Monday - Thursday , Friday orders will be processed only unless we are asked to ship for you. we pride ourselves on our prompt service , reliability , customer service our 100 success rate getting your order to you with our best stealth methods.",
+  "dream_id": 247598,
+  "golden": false,
+  "name": "- 1g Of the Finest Quality ICE !! -",
+  "p_id": 532
+ },
+ "id": 937
+}

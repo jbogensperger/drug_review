@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 908001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2d5e05b0-3826-478f-9f80-f33e91e2b949",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "hashish"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "44921ebf-85b0-4f9e-8c13-9476559a244f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "hashish"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Elefant shit is a hashish simular to LE , a very good hashish. So is a litle a matter of taste which one you prefere. kind regards. Christiania.",
+  "dream_id": 135802,
+  "golden": false,
+  "name": "4g of Elefant shit",
+  "p_id": 500
+ },
+ "id": 908
+}

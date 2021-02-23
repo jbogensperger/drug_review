@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 709001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "027edaaf-af36-47a0-aa1a-712d3e95a1e9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 270,
+      "labels": [
+       "None"
+      ],
+      "start": 269,
+      "text": "."
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 pack. High quality press. Can be smoked , shoot , snort , swallow. CAUTION VERY STRONG USE RESPONSIBLY. MUCH STRONGER THAN THE NORMAL 30 S THESE ARE PRESSED IN UNDERGROUND LAB. BUT YOU WILL SEE THAT YOU ENJOY THEM WAY MORE THAN THE TRADITIONAL ONES. THAT S A PROMISE.",
+  "dream_id": 413043,
+  "golden": false,
+  "name": "M30 Blues High Quality Mexican (30 qty)",
+  "p_id": 388
+ },
+ "id": 709
+}

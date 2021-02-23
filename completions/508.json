@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 508001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d316d120-91ce-4e36-af5e-ba67b13e9b84",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This beautiful flower comes from the cross of Chemdawg and Northern Lights. Her heavy sativa hybrid nature gives off a level but very euphoric buzz , while a very mellow body buzz allows your strong mental motivation to carry you wherever you desire. After using this through college and having it help my rheumatoid arthritis , it is my opinion that this Diesel strain helps with anxiety , symptoms of insomnia it helps with relieving that tired feeling behind your eyes , stress and even chronic pain. I ve also heard of use for alleviating depressive moods and PTSD symptoms. updated images coming soon.",
+  "dream_id": 147877,
+  "golden": true,
+  "name": "CO2 Vape Cartridge - Sour Diesel - 10ml",
+  "p_id": 10670
+ },
+ "id": 508
+}

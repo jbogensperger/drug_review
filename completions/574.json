@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 574001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d4099b22-3727-4658-a8f8-24b66c196987",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 1,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "-"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "-. This is TOP Coffee shop Quality - Made in small badges at the time - Very Soft and creamy , excellent smoke.",
+  "dream_id": 282958,
+  "golden": false,
+  "name": "20G White Widow Hash The BEST ",
+  "p_id": 218
+ },
+ "id": 574
+}

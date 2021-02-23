@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1201001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "31f26805-6047-48a7-9451-9d04c5bb05c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "10dbb977-a907-4644-a5db-5fb1cc5276a2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9541fdaa-e053-4950-ba90-69ebae5d9d3b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 166,
+      "labels": [
+       "Drug"
+      ],
+      "start": 159,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c193452f-0728-436d-bdb7-c8c33f750fac",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 285,
+      "labels": [
+       "Drug"
+      ],
+      "start": 278,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1375c4d5-5e16-44b7-8fc1-3858c5e129de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 354,
+      "labels": [
+       "Drug"
+      ],
+      "start": 347,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3aa57add-2df4-4871-a313-ce2a4aa13fe3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 452,
+      "labels": [
+       "Drug"
+      ],
+      "start": 445,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1120g. Cocaine washed with Anhydrous Acetone resulting in a 98 - 99 pure cocaine. A very rare and wonderfully tantalizing good time. Our Straight off the Kilo Cocaine is already a phenomenal product , but now you can take it to the next step. If you have nt tried our Fantastic Cocaine that comes Straight Off the Key , you re missing out on what Cocaine is supposed to be. Our feedback tells this story well. So we decided to start washing our Cocaine with Anhydrous Acetone to give you , approximately , 98 - 99 FIRE. So those of you who want to make sure you re not snorting any Levamisole , we have just what you re looking for.",
+  "dream_id": 284647,
+  "golden": false,
+  "name": "The Wash 112.0g Cocaine Washed w\/Anhydrous Acetone",
+  "p_id": 846
+ },
+ "id": 1201
+}

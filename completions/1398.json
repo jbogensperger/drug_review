@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1398001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "29a5e2fe-72d8-4a25-ad3f-e98a56b81085",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 223,
+      "labels": [
+       "Drug"
+      ],
+      "start": 220,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "67d4bf54-90f9-41ea-83dd-b09a71cc5545",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 244,
+      "labels": [
+       "Drug"
+      ],
+      "start": 236,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e1312514-87dd-4609-9f9d-b24beed8ebd8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Shatter"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a88a5543-88d8-499c-a807-385d0e13d2d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 177,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "Shatter"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "af6eddff-eed4-42ec-abc5-6d31d1d81b90",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 628,
+      "labels": [
+       "Drug"
+      ],
+      "start": 621,
+      "text": "shatter"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sale listing max purchase 1. Shatter. Current strain is Blue Dream Stability - Medium \/ Low Taffy. We have slightly more expensive escrow listings for this product also. Shatter is a product which lab tests at very high THC percentage. Cannabis concentrates are a discreet way to consume and receive canabis around the globe. Another listing from vendor DankServices bringing dank services to you. PGP address encryption is required. Our ship methods utilize mylar bags. Current batch of shatter is darker than usual and less stable than usual. We still think it is a good value for the price. Just do nt expect pictured shatter. Will update when we get better product in.",
+  "dream_id": 287440,
+  "golden": false,
+  "name": "0.25 Gram of World-Famous Shatter",
+  "p_id": 1078
+ },
+ "id": 1398
+}

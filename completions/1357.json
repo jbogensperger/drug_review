@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1357001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5708fcf0-f534-4d83-80d3-be0390b676cb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "61d49b0c-de16-4f49-8856-98cf3b5a0015",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 135,
+      "labels": [
+       "Drug"
+      ],
+      "start": 122,
+      "text": "Acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "028b7381-9ce6-4ca6-bbaf-63ca4f091657",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 148,
+      "labels": [
+       "Drug"
+      ],
+      "start": 140,
+      "text": "percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2016f3a3-5f0a-4768-b84f-31ea1f257bd5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 242,
+      "labels": [
+       "Drug"
+      ],
+      "start": 234,
+      "text": "Percocet"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Listed for sale is a lot of 10 percocet pills 10\/325 mg. This pill with imprint V 4829 is Yellow , Capsule - shape and is Acetaminophen and percocet 325 mg \/ 10 mg. It is not pressed , is is manufactured by Qualitest Pharmaceuticals. Percocet is used in the treatment of chronic pain pain and belongs to the drug class narcotic analgesic combinations. Please read my Vendor page and use PGP for sensitive info.",
+  "dream_id": 331730,
+  "golden": false,
+  "name": "Percocet - 10mg\/325mg (X10 pills)",
+  "p_id": 1029
+ },
+ "id": 1357
+}

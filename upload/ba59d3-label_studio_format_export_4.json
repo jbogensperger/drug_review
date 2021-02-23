@@ -1,0 +1,6783 @@
+[
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749909,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "58ec3e2a-56a7-4c92-88dc-19d998466772",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 19,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 15
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 246145,
+			"name": "Promotion 1g MDMA- Crystals Promotio",
+			"p_id": 0,
+			"clean_description": "High Quallity. MDMA - Crystals - 84. Details hue brown brauner Farbton. Crystals Kristalle. very strong sehr stark."
+		},
+		"id": 2945749909
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749910,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "3246816d-3e2c-46ad-813e-eae78f046543",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 22,
+							"labels": [
+								"Drug"
+							],
+							"text": "NZT",
+							"start": 19
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "622c8e6f-5833-4601-9098-913603eb02c0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 72,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 69
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "9f045674-44eb-43cd-a716-1f8a9983ad45",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 95,
+							"labels": [
+								"Drug"
+							],
+							"text": "Modafinil",
+							"start": 86
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "ee4e2e59-4849-471f-b5ee-f784e220ef41",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 178,
+							"labels": [
+								"Drug"
+							],
+							"text": "Modafinal",
+							"start": 169
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f678b1f0-ab14-47ef-a52a-c5b60bd34697",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 258,
+							"labels": [
+								"Drug"
+							],
+							"text": "Modafinal",
+							"start": 249
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f842d60a-5e16-426d-bfea-316ee23f0644",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 411,
+							"labels": [
+								"Drug"
+							],
+							"text": "Modafinal",
+							"start": 402
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 249480,
+			"name": "5 X NZT Edibles - Modafinil and THC",
+			"p_id": 1,
+			"clean_description": "Get smart with our NZT edibles. Each capsule contains about 30 mg of THC and 50 mg of Modafinil , this will give you the creativity and the concentration to use it. The Modafinal gives your beautiful clarity , these are some of our favourite pills. Modafinal lasts around 12 hours , so we suggest taking it first thing in the morning. We suggest 1 - 2 pills depending on your tollerance to edibles and Modafinal. We have a 100 positive feedback and love to keep it that way , we gaurantee you a good time. We offer 100 reship if your package does not arrive first time. This does not apply if your address does not use a name. Our stealth is top of the game and a lack of a name arrouses suspicion as well we risking package loss. We re recruiting for social media promoters and local dealers , up to 50 discount and loads of freebies. Give us a message for more."
+		},
+		"id": 2945749910
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749911,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d6cdbea3-1a57-4dee-a383-012bc4e3ad6f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 38,
+							"labels": [
+								"Drug"
+							],
+							"text": "HEROIN",
+							"start": 32
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 325986,
+			"name": "10 Grams #4 HEROIN",
+			"p_id": 2,
+			"clean_description": "Welcome to DoggFood. 10 Grams 4 HEROIN. Pure DoggFood Given to YOU how it was Given to ME. Unadulterated and Consistent. Express Next Day Shipping. Available as well as Priority 2 Day Shipping. Items shipped within 24 hours of purchase."
+		},
+		"id": 2945749911
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749912,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "77f745c3-f55f-408d-b2e6-dac0a13b618b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 314,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 311
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 322316,
+			"name": " 0.5G White Dream Sand 30$ ** BEST ON THE WEB",
+			"p_id": 3,
+			"clean_description": "INTRODUCTION SALE THIS LISTING IS FOR 05G OF OUR WHITE DREAM SAND. THIS IS THE BEST STUFF ON THE NET HANDS DOWN. WE WILL CONTINUE TO RUN THE SALE UNTIL WE GET OUR NAME OUT IN THE COMMUNITY. TRIPLE RECRYSTALIZED FOR FLAVOR. Energy Control Tested Results Sample code D12017. Substance dmt Lab code 102537. Result DMT 93. APPROVED BY HIPPIES."
+		},
+		"id": 2945749912
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749913,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "03fa67b4-6b9c-460b-acc1-8cd015ff71ac",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 36,
+							"labels": [
+								"Drug"
+							],
+							"text": "alprazolam",
+							"start": 26
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 419147,
+			"name": "Xanax 2mg Alprazolam Green Bars Hulks USA-USA",
+			"p_id": 4,
+			"clean_description": "Listing is for 1 bar 2 mg alprazolam. Order whatever quantity you want. I ask you please order 5 minimum unless you want to add any amount to another order you already have or will place. I ship everyday except sunday if order is in by 1 pm."
+		},
+		"id": 2945749913
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749914,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d8bace19-9f59-4f4c-af5a-33a8de4505ef",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 37,
+							"labels": [
+								"Drug"
+							],
+							"text": ".",
+							"start": 36
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 183185,
+			"name": "SUBOXONE 8MG FILM PACK OF 10 UNOPENED",
+			"p_id": 5,
+			"clean_description": "3/25 FILMS BACK. GET WHILE THEY LAST."
+		},
+		"id": 2945749914
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749915,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "0ee32241-8024-48d7-bc1b-f0b38253e2dc",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 287,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cinderella 99",
+							"start": 274
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f9381bc9-fa16-4be8-bb35-363edb7c6ad6",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 175,
+							"labels": [
+								"Drug"
+							],
+							"text": "Kushs",
+							"start": 170
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "0272d89b-4562-4848-abd8-d6d5b3f73cc4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 366,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 363
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 6088,
+			"name": "God's OG Kush   3.5 Gram ",
+			"p_id": 7,
+			"clean_description": "I just finished a harvest and everything is fresh , sticky and the smell is Dank as fuck. Pictures are new and buds are solid and goood size. Arguably one of the best OG Kushs in the world ,. God s Gift strain is a cross of the Mendo Purpls and a Killer Queen , ie G - 13 x Cinderella 99. No matter what your belief system , this strain is a gift with its strong THC content of 22."
+		},
+		"id": 2945749915
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749916,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "addd1553-2dbc-4b25-a7ba-b784147870e0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 58,
+							"labels": [
+								"Drug"
+							],
+							"text": "COCAINE",
+							"start": 51
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 241219,
+			"name": "2G TOP QUALITY SOCIABLE COCAINE",
+			"p_id": 10,
+			"clean_description": "WELCOME ALL. HERE WE HAVE THE TOP QUALITY SOCIABLE COCAINE WHICH IS ONE OF OUR BEST SELLERS. IT IS SET AT 65 PURE AND 35 BENZO. THIS PRODUCT IS FOR THE BEGGINNERS AND THE ONES WHO CA NT HANDLE THE COLOMBIAN FLAKE. THIS PRODUCT HAS BEEN TESTED BY OUR SOURCE AND IS SAID TO BE EXCELLENT FOR QUALITY AND VALUE. PLEASE ORDER BEFORE 4 PM FOR NEXT DAY DELIVERY AND 2 PM ON FRIDAYS."
+		},
+		"id": 2945749916
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749917,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6920a432-57df-4e50-82f8-a26b19c7ac3b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 179,
+							"labels": [
+								"Drug"
+							],
+							"text": ".",
+							"start": 178
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 312141,
+			"name": "2CB .1g",
+			"p_id": 11,
+			"clean_description": "This stuff is really potent and will burn. If you snort it it will burn , or you can mix it with water. Ingesting it requires double the dosage. Ingestion dosages are 20 to 40 mg."
+		},
+		"id": 2945749917
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749918,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "faba1e2e-888d-4384-a869-0574b849f49b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 228,
+							"labels": [
+								"Drug"
+							],
+							"text": "COCAINE",
+							"start": 221
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "ada2cc1c-f664-497f-a37d-40f7c6d11b6d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 627,
+							"labels": [
+								"Drug"
+							],
+							"text": "WEED",
+							"start": 623
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "ecf8301b-7cc4-4f0e-84ea-813ee7bc1bb0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 779,
+							"labels": [
+								"Drug"
+							],
+							"text": "WEED",
+							"start": 775
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "6dac035c-81b9-4d96-b199-6c924edcce96",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 860,
+							"labels": [
+								"Drug"
+							],
+							"text": "WEED",
+							"start": 856
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "06113bce-2ee2-40aa-b82c-ec6c884e5f26",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 911,
+							"labels": [
+								"Drug"
+							],
+							"text": "WEED",
+							"start": 907
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f1b1d87f-e8ea-41f2-840a-3ef4db7d728b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 370,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 363
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 6646,
+			"name": "0.5 g of Top Quality Cocaine ",
+			"p_id": 12,
+			"clean_description": "Good Day Dreamers. Please FE account if possible , this is not a matter of trust , just with the fluctuation of the BTC it makes restocking difficult , very much appreciated. TYT. FREE WEED WITH ORDER OVER 2 GRAMS OF TOP COCAINE or 3 GRAMS OF SOCIABLE. Hi Guys. Many thanks from all the Team , straight to the point with out boring you , To You Team high quality cocaine. Top Quality. You know how we roll and the quality will not disappoint you. Kind regards. To You Team. Hi Guys. It seems that a lot of the members are very happy wit this current offer , so here we go again until stocks last. SPECIAL WEEKS OFFER. FREE WEED WEEK. With every order over 2 grams Top product or 3 grams of sociable product and above we will dispatch with the order a FREE BAG of your finest WEED. Yes that s right FREE no cost to you , if you do not wish to have the FREE WEED please inform us on the address details. FREE WEED. Trade Safe with the TYT."
+		},
+		"id": 2945749918
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749919,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "9f20470a-2f06-4ddd-ac82-569ddba68182",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 26,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 19
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 379825,
+			"name": "SALE** QUALITY PEARL COCAINE 3.5 gram",
+			"p_id": 13,
+			"clean_description": "35 gram of quality cocaine. Other batch found on my page is stronger. However this being better than most other stuff found out there. Strong smell and pearly. All products will be posted at the highest of stealth methods."
+		},
+		"id": 2945749919
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749920,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "52982301-70cb-442e-9e06-d55d6a85671f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 16,
+							"labels": [
+								"Drug"
+							],
+							"text": "isobutyrfentanyl",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f7fd1ca3-2c29-4aca-8e94-0bedef090af4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 69,
+							"labels": [
+								"Drug"
+							],
+							"text": "fentanyl",
+							"start": 61
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 408800,
+			"name": "10g (4-FIBF) 4-Fluoroisobutyrfentanyl ",
+			"p_id": 15,
+			"clean_description": "isobutyrfentanyl is an opioid analgesic that is an analog of fentanyl. Price list. 10g - 200 50g - 400 100g - 750 250g - 1450 500g - 2600 1000g-5100."
+		},
+		"id": 2945749920
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749921,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "7e70a431-ea1d-4093-9b0b-598747d85a3e",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 41,
+							"labels": [
+								"Drug"
+							],
+							"text": "Meth",
+							"start": 37
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "fd77927a-f041-4934-a5bd-8c1280b7cdf6",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 103,
+							"labels": [
+								"Drug"
+							],
+							"text": "Meth",
+							"start": 99
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 110660,
+			"name": ".5g Blue Supreme Meth",
+			"p_id": 16,
+			"clean_description": "Blue Supreme Just Goning to Say Best Meth On the Net with the Best Prices Bang For your Buck. This Meth is the clearest , most potent."
+		},
+		"id": 2945749921
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749922,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "f671f10e-59d5-4cb4-a43a-6faba362609b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 71,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 67
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 329773,
+			"name": "1g of Pakistani Squidgy Hash - 8 - UK P+P include",
+			"p_id": 17,
+			"clean_description": "Very soft when slightly warmed in your hands , squidgy , Pakistani hash."
+		},
+		"id": 2945749922
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749923,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "21362423-0ed6-48ab-b025-4735a47c59d2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 153,
+							"labels": [
+								"Drug"
+							],
+							"text": "Grand Daddy Purple",
+							"start": 135
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f6d965c3-6fe4-41e4-9cd8-ff875df3f58e",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 13,
+							"labels": [
+								"Drug"
+							],
+							"text": "GDP",
+							"start": 10
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 330058,
+			"name": "Grand Daddy Purple Wax 1g- NorCal Crumble from Fer",
+			"p_id": 18,
+			"clean_description": "Delicious GDP crumble wax. Top shelf medicine extracted from indoor bud trim. Non-stick container included. Northern California Indoor Grand Daddy Purple. Delicious purple flavor , heavy oder heavy effect. Top - tier heirloom genetics , indoor coco / hydro , Strict medical growing extracting standards. Picture in listing is always of the product offered in that listing. 3. If you found us you likely know us. 3 Welcome back to FernGully. We offer the highest quality , boutique buds extractions direct from Northern California. All our listings are limited quantities , top tier genetics the highest standards of nurturing extracting these beautiful flowers."
+		},
+		"id": 2945749923
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749924,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 397793,
+			"name": "1/2 LB (8 oz)(224G) Juicy Fruit ",
+			"p_id": 19,
+			"clean_description": "1/2 LB of Juicy Fruit California Grown 20 off. Huge tricombs visible. Has a subtle nice smell. Outdoor. This is some of cheapest buds papa has right now. But do nt be fooled. This is way better than your average dealer form a fly over state."
+		},
+		"id": 2945749924
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749925,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "605aba1a-ea94-4d64-8ee1-4a8fa9a8e80a",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 40,
+							"labels": [
+								"Drug"
+							],
+							"text": "Antidepressiva",
+							"start": 26
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 275133,
+			"name": "Melperon 10Pills 10mg",
+			"p_id": 20,
+			"clean_description": "-. Product Description -. Antidepressiva 10 mg. 10 Pills. Best Pharmacy Quality. Shipping from Germany. -Info-. The Pills are Crushable , Snortable. We get them directly from Hospital , the pills are 100 originals , no fakes."
+		},
+		"id": 2945749925
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749926,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "53973b41-18f6-4be9-a757-77908bca01a4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 101,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 94
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "5fb0c836-e760-4b5e-ba7e-118a094de1a6",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 125,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 118
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "cc013855-316d-454c-af3c-32121838dc17",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 186,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 179
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 264779,
+			"name": "1G Colombian Cocaine +90% PROMO",
+			"p_id": 21,
+			"clean_description": "Hello there customer. Welcome at LaFarmacia. - Description -. This is a listing for 1 GRAM of Cocaine. Our product is Cocaine of the highest standard coming out of Colombia. This Cocaine is shining bright 90 pure and coming straight off the brick. take a look at the picture. We at LaFarmacia always aim for the best possible product. Try this and you wo nt ever change for something else."
+		},
+		"id": 2945749926
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749927,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "25f12424-3e52-4f51-a912-cb61283bc490",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 71,
+							"labels": [
+								"Drug"
+							],
+							"text": "Aspirin",
+							"start": 64
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "061e5f1d-b4b9-4709-aab7-1268a83241e6",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 82,
+							"labels": [
+								"Drug"
+							],
+							"text": "Tylenol",
+							"start": 75
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "847490d6-9dcf-4a8b-9647-2209b15ea5cf",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 114,
+							"labels": [
+								"Drug"
+							],
+							"text": "Oxycodone",
+							"start": 105
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "2acd31e9-6a04-4f01-82fa-ad880b46bdcf",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 38,
+							"labels": [
+								"Drug"
+							],
+							"text": "Oxycodone",
+							"start": 29
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 285436,
+			"name": "SOLD OUT - OXYCODONE Roxy's 5mg 10-Tablets M-05-52",
+			"p_id": 22,
+			"clean_description": "Your purchasing 10 - Tablets Oxycodone M - 05 - 52. There is no Aspirin or Tylenol in this tablet , Just Oxycodone. Tablet is white , imprint on 1st side is the letter M , on the opposite side tablet is imprinted with the numbers 05 - 52."
+		},
+		"id": 2945749927
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749928,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "daa78e1d-6ad7-4b3a-89c0-d410e41ffd04",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 9,
+							"labels": [
+								"Drug"
+							],
+							"text": "Pregablin",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 83115,
+			"name": "28 X Pregablin 150mg",
+			"p_id": 24,
+			"clean_description": "Pregablin 150 mg X 28. In blister NHS authentic."
+		},
+		"id": 2945749928
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749929,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d407a156-1029-46ef-8c58-7c3f6738a209",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 98,
+							"labels": [
+								"Drug"
+							],
+							"text": "mdma",
+							"start": 94
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "afff6428-9e22-40ac-82dd-c450ea11d54f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 46,
+							"labels": [
+								"Drug"
+							],
+							"text": "FLUGELS",
+							"start": 39
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 424301,
+			"name": "15x 230mg XTC FLUGELS  >> EXPRESS",
+			"p_id": 27,
+			"clean_description": "A hard good pressed pink pill stamp is FLUGELS with a midle breakline it s made from the best mdma."
+		},
+		"id": 2945749929
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749930,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d9a8a72c-f55f-4a2d-82d4-8125abee4e30",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 61,
+							"labels": [
+								"Drug"
+							],
+							"text": "XTC",
+							"start": 58
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "8c06e51d-bc48-4cd4-a10c-82ba5264c4e4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 90,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 86
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "9081aa88-88ba-490c-b0b5-2ef782f05d09",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 102,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 98
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "20a28f62-55d7-4a85-91e6-2b2c9b55dd81",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 106,
+							"labels": [
+								"Drug"
+							],
+							"text": "HCl",
+							"start": 103
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "061e3860-70bc-43fb-9ba2-2c6982b80690",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 259,
+							"labels": [
+								"Drug"
+							],
+							"text": "xtc",
+							"start": 256
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 289893,
+			"name": "500 XTC pills, Gold Philipp Plein Skull 275mg",
+			"p_id": 28,
+			"clean_description": "Gold Flake colored Philipp Plein Skull. Top quality dutch XTC pills containing 220 mg MDMA 275 mg MDMA HCl. They will blow you away. The color does not come out right in the picture. But in real life this is the most Beautiful color i have ever seen for a xtc pill. Befor you order please read my profile for exceptions."
+		},
+		"id": 2945749930
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749931,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "f14c0bd3-27e3-4d60-aca1-917d4c2c7a29",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 58,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 51
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "c33562e2-3a75-4064-b04c-dcc82d977d1f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 90,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 83
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "1988d4ce-b714-4095-831f-26bf4fd79cc2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 277,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 270
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "5dfb26b4-77bc-4f54-b5db-92ba0eabc904",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 734,
+							"labels": [
+								"Drug"
+							],
+							"text": "cynnamilcocaine",
+							"start": 719
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "7017a759-06a4-4b46-95aa-2702a885da26",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 754,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 747
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "0d7ca6f9-f7e8-41b8-85d2-ace679ea2c53",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 819,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 812
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "4666c24f-d7b7-4fda-b3bc-ed6a6105bc12",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 854,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 847
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 314375,
+			"name": "81%+ EC Tested Cocaine Levaminsole Free 1g",
+			"p_id": 29,
+			"clean_description": "EC. Results August Sample Code ZFFF5964. Substance Cocaine Lab Code 105573. Result Cocaine 70 no adulterants were found. 8/11 all shipping issues fixed. Packages going out normally. Cheaper Pricing on Trade Route FE Only. My Ref Link. Hey guys , check out my ultra pure cocaine. This is some of the most smoothest and most potent stuff on the market. Unlike most other vendors , my product is EC tested , so the percentage given is actually real , unlike others that say 95 pure and refuse to test it. I m the same GMS that was on AB , i m currently on Hanza now also. Product has been EC tested. Last 3 results are have 2 more pending results , will update as I get them. YUTQ7211 GMS sample june unwashed 69 no cut , cynnamilcocaine. ZMNX 5104. Cocaine 83 Levamisole 8. YSOX3490 results May 5 , 2017 Substance Cocaine , Lab Code 103805 , Result Cocaine 81. GiveMeSleep."
+		},
+		"id": 2945749931
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749932,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "c376a5ea-8353-4bda-a32e-b7e1f9c6ff68",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 6,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 3
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "bc4b3fd5-b271-4603-b318-7c30bca5a5e3",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 197,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 194
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "6287fdb9-dc07-4146-81b4-75705bd8e214",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 248,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 245
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 34237,
+			"name": "3.5g N,N DMT - Highest Quality on the Darknet!",
+			"p_id": 30,
+			"clean_description": "My DMT is PURE white with no yellow coloring sometimes with some yellow coloring. I get a lower yield than I would normally get because I keep my quality at the highest possible. This is why my DMT demands such a premium price. This is the same DMT that I sold on SR. That same high quality purity and cleanliness. All of my old customers know what I am talking about. Feel free to place your orders. I will update all information and add pictures later. Please read my profile for more information."
+		},
+		"id": 2945749932
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749933,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "f013938d-50d0-4424-a724-c1cdb99da9bf",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 34,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 27
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 332317,
+			"name": "-2.5 GRAMS- Colombian Cocaine Flakes 91%",
+			"p_id": 32,
+			"clean_description": "This is our pure colombian cocaine straight from colombia our customers have waited a long time for this and finally we can guarantee the quality that our customers deserve."
+		},
+		"id": 2945749933
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749934,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "dd8a0f59-1c23-4657-be99-69f4ec4ba267",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 26,
+							"labels": [
+								"Drug"
+							],
+							"text": "Codeine Phosphate",
+							"start": 9
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 277038,
+			"name": "Crescent Codeine Phosphate 60mg x 28 tablets",
+			"p_id": 33,
+			"clean_description": "Crescent Codeine Phosphate 60 mg x 28 tablets."
+		},
+		"id": 2945749934
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749935,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "1f29d9f1-fad1-4a10-8748-d34cbc6cb6a9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 25,
+							"labels": [
+								"Drug"
+							],
+							"text": "mdma",
+							"start": 21
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "a027ec8e-419d-476c-a564-94e36354f3e5",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 54,
+							"labels": [
+								"Drug"
+							],
+							"text": "xtc",
+							"start": 51
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 365860,
+			"name": "Custom for T***3",
+			"p_id": 36,
+			"clean_description": "150g speed 50g white mdma if you have and 70 plein xtc."
+		},
+		"id": 2945749935
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749936,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "703eeab1-ec53-47c1-8ed3-14083e054393",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 19,
+							"labels": [
+								"Drug"
+							],
+							"text": "HYDROMORPHONE",
+							"start": 6
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 408009,
+			"name": "2x 16mg *** HYDROMORPHONE (Jurnista) *** Slow libe",
+			"p_id": 37,
+			"clean_description": "16 mg HYDROMORPHONE Jurnista. From laboratory. High quality."
+		},
+		"id": 2945749936
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749937,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "24214e98-f781-42b6-ae9c-1959b3c9fd18",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 164,
+							"labels": [
+								"Drug"
+							],
+							"text": "cannabis",
+							"start": 156
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 226882,
+			"name": "7g Medical Spirit of 76 AAA+++",
+			"p_id": 38,
+			"clean_description": "All of my weed is straight from a dispensary medical amazing quality. This strain is one of my all time favorites , originating in Denver and winner of the cannabis cup and voted high times best strain. The smoothness and smoke of this one tastes like a bowl of fruity pebbles and is extremely potent. One hitter shit. It wo nt be this price for long , it s still AAA grade but my dispensary has a surplus of it so i can offer this dank ass bud cheaper for a short while. Get it while it lasts."
+		},
+		"id": 2945749937
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749938,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "90611c79-064d-47f0-97f5-5fc977a77439",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 22,
+							"labels": [
+								"Drug"
+							],
+							"text": "Golden Strawberry Kush",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f8673ce2-b618-423b-a62b-c392aa876a70",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 283,
+							"labels": [
+								"Drug"
+							],
+							"text": "Golden Kush marijuana",
+							"start": 262
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "9d4697d4-9752-4d2f-abe7-ca2c98c2e652",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 86,
+							"labels": [
+								"Drug"
+							],
+							"text": "Golden Kush",
+							"start": 75
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "18316a7e-f689-496e-988f-c13b6587402d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 60,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 57
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 234158,
+			"name": "28g (1 oz ) GOLDEN STRAWBERRY Kush indoor FIRE!!",
+			"p_id": 39,
+			"clean_description": "Golden Strawberry Kush is an Indica dominant hybrid with THC levels at 23. Golden Kush plants grow beautiful green buds with a heavy coating of huge trichomes and golden hairs. They are very pleasant to smoke and boast an aroma mix of lemons , candy and spices. Golden Kush marijuana strain induces calming body - buzz followed by relaxation. Uplifts mood , alleviates depression , relieves stress , stimulates appetite. Promotes sleep and has strong analgesic properties. Excellent appearance."
+		},
+		"id": 2945749938
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749939,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 220922,
+			"name": "Premium Vape juice 10mg nicotine E-liquid 10",
+			"p_id": 40,
+			"clean_description": "10 ml. currently i have fruity loops pink lemonade glazed doughnut pancake syrup jelly bean Boston cream pie strawberry watermelon gummy bears cola. buy 5 and get 1 free. have ijoy mods and smok v 8 sticks avail at really good prices."
+		},
+		"id": 2945749939
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749940,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "83016914-7282-4bb9-a988-3296f6ca698b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 118,
+							"labels": [
+								"Drug"
+							],
+							"text": "CNS",
+							"start": 115
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 160145,
+			"name": "(5) Amphetamine and dextroamphetamine 10mg) ",
+			"p_id": 41,
+			"clean_description": "Pill imprint logo Actavis 23 is used in the treatment of adhd , narcolepsy , fatique and belongs to the drug class CNS stimulants. schedule 2 controlled substance."
+		},
+		"id": 2945749940
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749941,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6723b5ad-958b-4011-a353-117a3e0be7c9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 38,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 35
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 27391,
+			"name": "LSD blotter - 10x - Freshly laid",
+			"p_id": 42,
+			"clean_description": "A recently acquired vial of liquid LSD that will be laid to order. Dose to a drop is approximately 100 mcg give or take."
+		},
+		"id": 2945749941
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749942,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "f3d2e480-1d86-44b2-937c-62e1693e0789",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "alprazolam",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "606f9714-9fb3-4424-ab6a-6a6ccb5dad2d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 16,
+							"labels": [
+								"Drug"
+							],
+							"text": "xanax",
+							"start": 11
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 227888,
+			"name": "alprazolam 30 tabs of 1mg each in original blister",
+			"p_id": 44,
+			"clean_description": "alprazolam xanax 30 tabs of 1 mg each in original blister - original european generic brand. Attention - product may have addictive features. PLEASE take some time and look at the other Listings i have for you."
+		},
+		"id": 2945749942
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749943,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "3e8bb65e-fad4-4e6e-be58-e49dfec3aa7d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 32,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 28
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "a8b22a93-79ef-42ad-a067-f471846b60f0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 56,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 52
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 163645,
+			"name": "2 gram MDMA 84% Dutch Cola Crystals - FE",
+			"p_id": 45,
+			"clean_description": "- High quality Cola colored MDMA Crystals - All our MDMA batches are tested for purity and quality -. This is strong gear -. When you crush this you get nice with powder. -. Please read our Terms and Conditions before ordering. -."
+		},
+		"id": 2945749943
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749944,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "c78a1078-4f74-4f67-a8fd-be400854e09c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 68,
+							"labels": [
+								"Drug"
+							],
+							"text": "HI",
+							"start": 66
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 431410,
+			"name": "20 OXYCONTIN 80mg (free shipping)",
+			"p_id": 46,
+			"clean_description": "ready for immediate drop to your mailbox in all 52 states even GU HI for freaks sake."
+		},
+		"id": 2945749944
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749945,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "2e3c3108-bdad-4266-8aec-ea115a75bc6a",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 85,
+							"labels": [
+								"Drug"
+							],
+							"text": ".",
+							"start": 84
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 321863,
+			"name": "1 GRAM HIGH PURITY COCAINE 90+%",
+			"p_id": 47,
+			"clean_description": "THIS IS A POTENT PRODUCT ONLY SMALL AMOUNTS NEED TO BE CONSUMED FOR STRONG LAST HIGH."
+		},
+		"id": 2945749945
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749946,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6b924333-93b7-43ce-90d7-c848bba4a3dd",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 15,
+							"labels": [
+								"Drug"
+							],
+							"text": "MANNITOL",
+							"start": 7
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "cd668340-51d7-4234-b8f0-4b60037ab6d7",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 53,
+							"labels": [
+								"Drug"
+							],
+							"text": "HEROIN",
+							"start": 47
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3febc9b2-39b3-4013-8905-e048695d47b4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 143,
+							"labels": [
+								"Drug"
+							],
+							"text": "Furanyl",
+							"start": 136
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "debd8301-546c-476a-8d40-0d5c66d0c180",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 154,
+							"labels": [
+								"Drug"
+							],
+							"text": "Fentanyl",
+							"start": 146
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "34742800-33fc-4e00-a130-84fb14dc1a97",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 180,
+							"labels": [
+								"Drug"
+							],
+							"text": "mannitol",
+							"start": 172
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "da13f8fb-d577-4377-b395-460ccf961388",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 259,
+							"labels": [
+								"Drug"
+							],
+							"text": "mannitol",
+							"start": 251
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "fcc55a31-5a9b-4549-aeaa-85b35e3c2ece",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 554,
+							"labels": [
+								"Drug"
+							],
+							"text": "Mannitol",
+							"start": 546
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 10721,
+			"name": "1g China White Synthetic Heroin",
+			"p_id": 48,
+			"clean_description": "FU - F MANNITOL MIX. LEGAL PRODUCT , SYNTHETIC HEROIN. This listing is for synthetic heroin also known as china white. This is a mix of Furanyl - Fentanyl and Pharma grade mannitol professionally mixed in a mixer. Fu - F is very potent. This mix with mannitol is safe to use even if you do nt have exact scale. Good product for beginners. Recommended dosing for users NOT EXPERIENCED USERS 25 - 50 mg should work very well. dosing depends on user s experience and weight. If you are experienced with opioids , check our other products Fu - F 110 Mannitol and pure Fu - F. Routes of administration sniff , smoke , iv , oral , per rectum. Delivery takes up to 14 days , rarely up to 21 days to the US , to AUS. Reship guaranteed only for lost registered mail. Non-registered orders are shipped on your own responsibility."
+		},
+		"id": 2945749946
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749947,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "5b6c1f8c-362c-4b53-b3be-683b6d980db1",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 17,
+							"labels": [
+								"Drug"
+							],
+							"text": "endone",
+							"start": 11
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 423077,
+			"name": "Endone 5mg x 10 Pills || TAX BACK SALE - $125",
+			"p_id": 49,
+			"clean_description": "125 for 10 endone pills , one of the best deals going around at the moment. These wo nt last long , we usually sell out quite quickly after getting a reasonable amount of stock in only for a short period of time , be quick otherwise you ll miss out , not talking shit either."
+		},
+		"id": 2945749947
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749948,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "83ff80e0-9e8b-4b79-b9df-246faaa24715",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 28,
+							"labels": [
+								"Drug"
+							],
+							"text": "SHATTER",
+							"start": 21
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 428743,
+			"name": "1 lb of High Quality SHATTER Sour Doesel",
+			"p_id": 50,
+			"clean_description": "1 Lb of High Quality SHATTER. Sour Diesel. As many as you want available Made by professionals with much experience."
+		},
+		"id": 2945749948
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749949,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 367640,
+			"name": "H2o $1 tip jar",
+			"p_id": 51,
+			"clean_description": "I ve had requests to put up a tip jar , so here it is. Although I do nt expect tips , I try to go out of my way to treat people well , and give as good of deals and as low of prices as I possibly can. And if you ve talked to me , you know I ll bend over backwards to help good people out in any way I can , so if for some reason you feel the need to say thanks here it is. OR hey , if for some reason you ve got an extra couple grand , or even million bucks or two that you do nt really want or is just sitting around collecting dust and you do nt know what to do with it , I ve set up another couple tip jars for thousand and million dollar tips too. Feel free to use those many many times D."
+		},
+		"id": 2945749949
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749950,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "83bfd973-53b2-47e0-b2ac-37f502024936",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 22,
+							"labels": [
+								"Drug"
+							],
+							"text": "Alprazolam",
+							"start": 12
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 395667,
+			"name": "1G Alprazolam Powder Pure Fire",
+			"p_id": 52,
+			"clean_description": "Selling Raw Alprazolam powder. Already landed in North America , No risk for seizure. If you want me to source it for you I am here."
+		},
+		"id": 2945749950
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749951,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "0c5951ac-906f-4d80-b012-3222c890788d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 8,
+							"labels": [
+								"Drug"
+							],
+							"text": "meth",
+							"start": 4
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 405898,
+			"name": "0.5g MethCANADA ONLY",
+			"p_id": 53,
+			"clean_description": "05g meth Quality AAA. Uncut Great Prices Escrow payment. Buy with confidence."
+		},
+		"id": 2945749951
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749952,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "637e86c6-22ab-49f1-9809-7fc1517ba013",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 11,
+							"labels": [
+								"Drug"
+							],
+							"text": "XANAX",
+							"start": 6
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "df8577dc-cf66-4d52-bb48-a0584f977024",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 80,
+							"labels": [
+								"Drug"
+							],
+							"text": "XANAX",
+							"start": 75
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "0a885489-f1f9-4a2d-9d38-089419f4a757",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 202,
+							"labels": [
+								"Drug"
+							],
+							"text": "Alprazolam",
+							"start": 192
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 413048,
+			"name": "XANAX 2mg (GG249) - 50x - $75 - OUT OF STOCK!",
+			"p_id": 54,
+			"clean_description": "GG249 XANAX. Bars. OUT OF STOCK. You will be receiving a total of 50 GG249 XANAX BARS. Pressed Perfectly by our well knowledge and highly experienced team. team , using the highest of quality Alprazolam Powder which is almost EC tested by our supplier , the results never drop below 99. The texture and hardness of these GG249 Bars is incredibly perfect."
+		},
+		"id": 2945749952
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749953,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "dd2c9b05-fec1-4268-ae1f-23f94264347b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 63,
+							"labels": [
+								"Drug"
+							],
+							"text": "Oxymetholone",
+							"start": 51
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 385595,
+			"name": "ANADROL (ANDROLIC)",
+			"p_id": 55,
+			"clean_description": "Pharmaceutical name ANADROL ANDROLIC Raw Material. Oxymetholone Manufacturer. BRITISH DISPENSARY. Pack 100 x 50 mg tabs."
+		},
+		"id": 2945749953
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749954,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "f39889a0-c8e3-4e69-8854-59d0ce131a08",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 11,
+							"labels": [
+								"Drug"
+							],
+							"text": "Purple Kush",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "6c6722df-8ef6-4de4-929c-3390a700d13e",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 48,
+							"labels": [
+								"Drug"
+							],
+							"text": "Purple Kush",
+							"start": 37
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "1c9ccfc3-93a5-4bb4-a64f-0ade50eee9e1",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 151,
+							"labels": [
+								"Drug"
+							],
+							"text": "Hindu Kush",
+							"start": 141
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "7e7c6e51-5323-432c-b883-e9055ef181a9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 170,
+							"labels": [
+								"Drug"
+							],
+							"text": "Purple Afghani",
+							"start": 156
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 320504,
+			"name": "8oz Purple Kush AAA+",
+			"p_id": 56,
+			"clean_description": "Purple Kush Strain Highlights Indoor Purple Kush is a pure indica strain that emerged from the Oakland area of California as the result of a Hindu Kush and Purple Afghani cross. It s aroma is subtle and earthy with sweet overtones typical of Kush varieties. Blissful , long - lasting euphoria blankets the mind while physical relaxation rids the body of pain , sleeplessness , and stress. Purple Kush will grow wide rather than tall , and will be ready for harvest following an 8 week flowering time."
+		},
+		"id": 2945749954
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749955,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "4da8f155-144c-4cc7-bae3-7f6c51710f4a",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 13,
+							"labels": [
+								"Drug"
+							],
+							"text": "Super Kamagra",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 219031,
+			"name": "Super Kamagra 100mg - 4 Pills ",
+			"p_id": 57,
+			"clean_description": "Super Kamagra. 100 mg - 4 Pills. Welcome to my store. Generally the package arrived entre 4 and 6 days for Europe and France entre 2 and 4 days. thank you."
+		},
+		"id": 2945749955
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749956,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "c5acfb6a-0c2c-44db-961a-70ba13ed4e08",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 7,
+							"labels": [
+								"Drug"
+							],
+							"text": "UKBENZO",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "414eb37d-f0bd-4e95-aac7-57a56afd6ed4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 107,
+							"labels": [
+								"Drug"
+							],
+							"text": "UKBenzo",
+							"start": 100
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "bb04b071-805e-432c-a197-bdd51ba23c08",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 224,
+							"labels": [
+								"Drug"
+							],
+							"text": "Xanax",
+							"start": 219
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "4318aebf-02d3-4517-9f81-75ee91899788",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 260,
+							"labels": [
+								"Drug"
+							],
+							"text": "XANAX",
+							"start": 255
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 336800,
+			"name": "10 x 2mg - Pfizer - UKBenzo Xanax - *FREE P&P*",
+			"p_id": 58,
+			"clean_description": "UKBENZO BARS , BEAUTIFUL , SOLID , CRISP , STRONG BARS. You will truly love these. Same old perfect UKBenzo bars as you know them , Look no further. Please check homepage for all updates. This listing is for. 10 x 2 mg Xanax Bars. Brand Pfizer. Bars have XANAX engraved on the front and 2 engraved on the back. The pictures we have taken show this clearly. Each bar is 2 mg and split into 4 sections making each section 05 mg. Have fun and be safe."
+		},
+		"id": 2945749956
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749957,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "5422223f-92fe-4fea-9a1a-2e6a770514d1",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 45,
+							"labels": [
+								"Drug"
+							],
+							"text": "Heroin",
+							"start": 39
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3a2be84b-f59e-4235-8787-f59e9a373816",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 134,
+							"labels": [
+								"Drug"
+							],
+							"text": "Heroin",
+							"start": 128
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 345919,
+			"name": "0.3g No 3 Exquisite Iraqi Creme De La Creme Heroin",
+			"p_id": 59,
+			"clean_description": "03g. Exquisite Iraqi Creme De La Creme Heroin Clean , The Best on all markets and the price reflects it we have sourced A Grade Heroin in these trying times of Drought and will continue to do so , we endeavor to offer only the Creme De La Creme or we wo nt stock it at all. Simply Sublime smoke and a Dream administered by way of IV. We have outdone ourselves this time and had to pay the price for the best."
+		},
+		"id": 2945749957
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749958,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "e6ebed1a-f0ad-4841-af52-677fadf27b29",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 243,
+							"labels": [
+								"Drug"
+							],
+							"text": ".",
+							"start": 242
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 64397,
+			"name": "LV double zipper wallet 61723",
+			"p_id": 60,
+			"clean_description": "LV double zipper wallet 61723. Material leather size 19/10 Color black / Monogram / black checked / brown checked. Quality Top AAAAA Grade. High quality Guarantee. 100 make according to the original design. For more images , please pm me here."
+		},
+		"id": 2945749958
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749959,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "3231849f-aeec-4170-8efa-53efbbd6c348",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 3,
+							"labels": [
+								"Drug"
+							],
+							"text": "CNS",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 240832,
+			"name": "5 X 1 Dexmethylphenidate Hydrocloride 10mg",
+			"p_id": 61,
+			"clean_description": "CNS stimulant used to treat hyperactivity disorder ADHD."
+		},
+		"id": 2945749959
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749960,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "5202f8e8-96ed-4421-b207-3af12b1a82bd",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 6
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 156031,
+			"name": "5gr White MDMA",
+			"p_id": 62,
+			"clean_description": "White MDMA 89 make from Original PMK oil."
+		},
+		"id": 2945749960
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749961,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "92957ef7-6e13-4090-9908-e3af4a67dd64",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 14,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 7
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "bbb81968-9b91-46f9-9252-ae27c94f276a",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 55,
+							"labels": [
+								"Drug"
+							],
+							"text": "coke",
+							"start": 51
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 367757,
+			"name": "1 Gram Cocaine (Fish scale)",
+			"p_id": 63,
+			"clean_description": "1 Gram Cocaine. Fish scale. 100 like picture. 8/10 coke. Super shit."
+		},
+		"id": 2945749961
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749962,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "ac7d0812-8cf2-4187-80a0-86dc65a051ba",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 18,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 11
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 47396,
+			"name": "20g Pure Cocaine Flakes",
+			"p_id": 64,
+			"clean_description": "Pure shiny cocaine flakes. Straight from the brick. No cuts. Before you order please read profile for exception."
+		},
+		"id": 2945749962
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749963,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "300198ce-f184-4fff-9595-266b223be79c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 12,
+							"labels": [
+								"Drug"
+							],
+							"text": "Jintropin100",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "ce69fca6-6295-4f60-9c68-28a96557da7c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 58,
+							"labels": [
+								"Drug"
+							],
+							"text": "HGH",
+							"start": 55
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 424400,
+			"name": "Jintropin100 IU HGH kit ONLY 100$ usd per KIT",
+			"p_id": 65,
+			"clean_description": "Jintropin100 IU 100 usd per KIT - HUMAN GROWTH HORMONE HGH Minimum. ORDER 35 KITS PHARMACY GRADE PRODUCT. Our minimum order is 35 kits because we are wholesalers and recently on promotion with our products. We also give 15 discount for huge orders and some free gifts. GUARANTEED DELIVERY FREE EXPRESS SHIPPING From USA and EUROPE - 100 Quality Product. For more details download WICKR ID or KIK ID OUR CONTACT EMAIL is TylerNicholswingorgWICKR. ID steroidshghpep. KIK ID steroidshghpep. Please use our private email to contact us whenever you want to find out any information about your existing order you ve placed with us or looking to place a new order. We will be happy to assist you."
+		},
+		"id": 2945749963
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749964,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 218164,
+			"name": "Crystal Meth Shards 224g Fire & Ice_S2241",
+			"p_id": 66,
+			"clean_description": "224g Crystal Meth Shards. Strong Euphoric. If you need to finish that project or pull an all nighter to prepare for a test or get your homework done , this will help you get through the night , morning and afternoon. But we must warn you. If you already have your sexual partner around , you re in good shape. If not , you may end up doing a solo Pornhub and Chill marathon. Then nothing done. Please read our guidelines found on our profile page or on the Dream forum. Failure to do so may cause delays and / or we may cancel your order as well as cease doing future business with you. Grams Link. Reddit Link."
+		},
+		"id": 2945749964
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749965,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "e1b1f303-f800-4736-8558-1781c782f62f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 537,
+							"labels": [
+								"Drug"
+							],
+							"text": ".",
+							"start": 536
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 431736,
+			"name": "20 Best Quality Counterfeit Notes (250 Bills)",
+			"p_id": 67,
+			"clean_description": "FEATURES INCLUDE - Security Thread ,. - Raised Printing , - Micro Printing , - Portrait Watermark , - Color Shifting ink , - Pen test Passed , - Dimension and thickness same as that of original bills - Different serial numbers. Bills come treated already. Bills are aged before shipping Bills pass ATM machines , but ca nt guarantee all will pass. Can be used in Casinos , stores , etc. FOR QUICK RESPONSE , YOU CAN REACH US ON. KIK shemag1 Wickr. shemag margaretweiss10hotmailorg. SHIPPING Stealth Package - Vacuum sealed thick plastic."
+		},
+		"id": 2945749965
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749966,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d80c92c3-cf68-403e-b5d0-8f17eda11ab5",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 17,
+							"labels": [
+								"Drug"
+							],
+							"text": "XANAX",
+							"start": 12
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 421212,
+			"name": "30x XANAX 1mg (upJohn 90's)",
+			"p_id": 68,
+			"clean_description": "PFIZER 1 MG XANAX 30 pills shipped to you in blisters."
+		},
+		"id": 2945749966
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749967,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d0d1b351-589e-4bcd-be02-81159665de75",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 82,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 75
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "fb10172f-90d5-4664-b4b1-0ec5351e4136",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 143,
+							"labels": [
+								"Drug"
+							],
+							"text": "Levamisole",
+							"start": 133
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "d704dcb3-6e23-4167-840b-86c5c3a8c238",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 157,
+							"labels": [
+								"Drug"
+							],
+							"text": "ephedrine",
+							"start": 148
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 198471,
+			"name": "3.5g (8ball) shiny flakes UNCUT 100% PURE COCAINE",
+			"p_id": 70,
+			"clean_description": "NEW BATCH IN. THE BEST EVER. 35 g 8 ball Colombian pure uncut shiny flakes cocaine with no active cuts. Good for IV use and cooking. Levamisole and ephedrine free."
+		},
+		"id": 2945749967
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749968,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "a67145a1-a271-4868-bb4f-d915e8d39c00",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 35,
+							"labels": [
+								"Drug"
+							],
+							"text": "Sour OG",
+							"start": 28
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 114224,
+			"name": "Sour OG Pull And Snap  7 Grams",
+			"p_id": 72,
+			"clean_description": "This listing is for 7 Grams Sour OG Pull And Snap."
+		},
+		"id": 2945749968
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749969,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "eb23ca50-da1a-426d-afcb-15618e1d325c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 18,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 15
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "383daaa3-b61f-4187-bcf2-a7a1ecc9803b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 65,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 62
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "178658f4-8751-4ae1-9b17-eb1b2b1a4916",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 292,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 289
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3e3c62da-b527-40f2-a443-343b06d291e0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 352,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT",
+							"start": 349
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "dda04fdd-6d75-4c4c-b890-e8a31d78b5d7",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 420,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 417
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 311248,
+			"name": "125mg N,N-DMT  ***FREE SHIPPING***",
+			"p_id": 73,
+			"clean_description": "150 mg N , N - DMT FREE SHIPPING. What one will experience on DMT is impossible to predict. It can range from heaven to cyberspace to jeweled palaces , visions of jungle animals , contacts with extraterrestrial gods , links with ancient spirits , or adventures with fairies and elves. The DMT user should be prepared for anything. On a full dose of DMT one can not guide the trip with the mind or thoughts the way an LSD trip can be guided. One can , however direct the trip by what I will call the intent of the soul or will. Please sumit the next format , you can encript it for max security. ADDRESS DELIVERY FORMAT. Name Street Postal code / City. Country. Good price for exelent quality , product due to the purity , you do nt need to overdo. Any questions or suggestions do not hesitate to contact , the product is guaranteed. Leave your positive comments and have fun."
+		},
+		"id": 2945749969
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749970,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "b3965c4f-11bf-424d-ba0f-e172a881ad45",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 31,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cannazine",
+							"start": 22
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 82272,
+			"name": "25 Bottles Of Cannazine Mix Any Flavor",
+			"p_id": 74,
+			"clean_description": "Mix any 25 flavors of Cannazine Bottles. Buzooka Bubble. Gum Grape Cherry Pineapple Strawberry Watermelon Cherry Limeade. Cannabis Infused THC Syrup Lean - Mix this Syrup with any Soda like Fanta , Sprite , 7 UP. Pour it up and Lean. 2000 mg per bottle Mix any order and get Free Shipping Now In plastic bottles 4 oz Bottle."
+		},
+		"id": 2945749970
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749971,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "88e20bbf-f160-4ec7-8fd5-56c73a1603be",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 26,
+							"labels": [
+								"Drug"
+							],
+							"text": "Ketamine",
+							"start": 18
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 365878,
+			"name": "**Out of stock**0.5g of Pure Ketamine - 15 - UK P",
+			"p_id": 76,
+			"clean_description": "Out of stock Pure Ketamine."
+		},
+		"id": 2945749971
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749972,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "185452d2-b041-4fba-9e86-e45c2560efd1",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 6
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 65655,
+			"name": "1g UNCUT MDMA w/ ESCROW & Next Day Delivery*",
+			"p_id": 77,
+			"clean_description": "Uncut MDMA. If ordered before 4 pm and located within next day delivery zone."
+		},
+		"id": 2945749972
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749973,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "42089152-d2c6-4694-8c8d-ccaf19d1cb1a",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 41,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cannasseur",
+							"start": 31
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 279296,
+			"name": "1 lb of Cannasseur grade medical dispensary weed m",
+			"p_id": 78,
+			"clean_description": "The best of the best is here , Cannasseur grade quality bud throughout 16 ozs. There will be up to 8 - 16 different strains , all frosty coated nugs , the best of the best. You will not be able to find better weed on the darknet I guaruntee you that , this is for cancer patients and VERY potent flower."
+		},
+		"id": 2945749973
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749974,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6aa2b7ad-ee9e-4067-b4b4-2a23c2c100a6",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 104,
+							"labels": [
+								"Drug"
+							],
+							"text": "OG Kush",
+							"start": 97
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3b4189d2-57c8-4edf-a138-0fd7d3efb4ef",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 183,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 180
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 399941,
+			"name": "GOD'S GIFT / GODS GIFT  INDOOR GROW",
+			"p_id": 79,
+			"clean_description": "God s Gift contains flavors of grape , citrus , and hash. It s parents are Granddaddy Purple and OG Kush. No matter what your belief system , this strain is a gift with its strong THC content of 18 - 28. When you hit A BLUNT IT KEEPS YOU IN THAT Relaxing , and a fairly fuzzy brain COOL FOR RELAXATION , STRESS , ANXIETY , PAIN FOCUS AND ENERGERTIC. Also available are birthday cake , bruce banner 3 , death star , g 13 , grand daddy purple , gelato 41 33 25 , gelato guava x northern lights , god s gift and gorilla glue 4. PRICE. 2 LBs / 2 POUNDs 4000 USD 3 LBS / 3 POUNDS 5000 USD 4 LBS / 4 POUNDS 6500 USD 5 LBS / 5 POUNDS 7500 USD. 1 KG FOR 6000 2 KG FOR 9000 3 KG FOR 14000. SO FOR MORE INFO ON HOW TO PLACE YOUR ORDER CONTACT US VIA ANY OF THESE APPS IN YUR PLAY STORE // APP STORE ,. ICQ 712162888. KIK 439 frank. WICKR frenzy404."
+		},
+		"id": 2945749974
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749975,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 313836,
+			"name": "Highest Quality DNP (2,4-Dinitrophenol) 5g",
+			"p_id": 80,
+			"clean_description": "Was on alphabay with 100 shipping and satisfaction rate Loose powder Dry weight , product will be shipped slightly damp Check shop for other products Custom weight capsules are also offered , just ask There may be a small cornflour residue on caspsules to keep product in good condition Photo is of actual product Delivery is usually within 24 hours , not including weekends and bank holidays."
+		},
+		"id": 2945749975
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749976,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "88210665-4a01-4c3c-ab2e-a3c054ce6777",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 4,
+							"labels": [
+								"Drug"
+							],
+							"text": "FUEF",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 383916,
+			"name": "FUEF FENTANYL 200mg*Domestic*10% 4-FE",
+			"p_id": 81,
+			"clean_description": "FUEF is a fent analog research chem. Legal for everything accept human use. Get the beakers out. We have read about trials with human use and limited euphoria strange feelings was a reported description. Please do not misuse our products."
+		},
+		"id": 2945749976
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749977,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6eb6dc2a-70c8-435d-a6aa-4982843c4b52",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 34,
+							"labels": [
+								"Drug"
+							],
+							"text": "Oxycontin",
+							"start": 25
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 363247,
+			"name": "20x Oxycontin 40mg (OC formula)",
+			"p_id": 82,
+			"clean_description": "20 crushable Mundipharma Oxycontin 40 mg."
+		},
+		"id": 2945749977
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749978,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "98fd0794-1bb0-4398-b067-7e4547e00082",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 148,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 145
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 47322,
+			"name": "Korova 5150 Bar 500mg Unrivaled",
+			"p_id": 83,
+			"clean_description": "The Fifty - One - Fifty. Bar is a super potent blend of a award winning chocolate chip cookie baked on top of a Triple Chocolate Brownie. 500 mg THC Extremely Potent. All items are sealed by manufacturer and are well withing freshness dates. As always my items are packed well with zero smell."
+		},
+		"id": 2945749978
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749979,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 113060,
+			"name": "HELIX PHARMA TESTOSTERONE CYPIONATE 250MG/ML X 10M",
+			"p_id": 84,
+			"clean_description": "1 vial Helix Pharma testosterone cypionate 250 mg / ml x 10 ml."
+		},
+		"id": 2945749979
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749980,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "7c04f7b1-20f7-430e-91cf-af23f1dca242",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 29,
+							"labels": [
+								"Drug"
+							],
+							"text": "BHO",
+							"start": 26
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "ea834add-bdcb-444c-96ea-3f258bad5327",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 66,
+							"labels": [
+								"Drug"
+							],
+							"text": "cannabis",
+							"start": 58
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 344894,
+			"name": "1 GRAM HIGH QUALITY BHO - SHATTER - DAB",
+			"p_id": 85,
+			"clean_description": "I have on offer 1 gram of BHO extracted from high quality cannabis , vacuum purged for a very clean and stable product with a beautiful flavor. Released in limited runs so if this add is up do nt hesitate. Cheers. Utopia."
+		},
+		"id": 2945749980
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749981,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "c59f66ed-e9fe-4624-8353-1459392d0008",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 23,
+							"labels": [
+								"Drug"
+							],
+							"text": "Amnesia Lemon",
+							"start": 10
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 329661,
+			"name": "1 gram of Amnesia Lemon Dutch Import ",
+			"p_id": 86,
+			"clean_description": "1 gram of Amnesia Lemon Dutch Import. Excellent smoke every time , consistent quality , super dense nugs packed with crystals and covered in trichomes. Smell is pure pine and lemons when you crack the nugs open. Better than Amsterdam coffee shops in my opinion."
+		},
+		"id": 2945749981
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749982,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 431248,
+			"name": "1 Kilo of Crystal Meth",
+			"p_id": 87,
+			"clean_description": "1 Kilo of Crystal Meth. If you re buying this listing , you have no more questions to ask me. You have tried out my product and know it s quality. You are nt trying to haggle my price , and know that I hate that. You wo nt expect me to ship it the same day you order it. You know I like to take 1 - 2 days to get the stealth done right and make sure you get what you ordered. You know I always give a little more product , rather than a little less. You are a loyal customer. This listing comes with Express shipping."
+		},
+		"id": 2945749982
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749983,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "5ee177d6-b540-404f-a6fa-d903296b3370",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 8,
+							"labels": [
+								"Drug"
+							],
+							"text": "ETIZOLAM",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "c7a38fb7-0801-475b-96b5-0475f11c6279",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 18,
+							"labels": [
+								"Drug"
+							],
+							"text": "Etizolam",
+							"start": 10
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "371ee3f8-b63b-4f47-8b35-e03b259b7632",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 60,
+							"labels": [
+								"Drug"
+							],
+							"text": "Valium",
+							"start": 54
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "84a7cc5a-9a97-4328-8d62-01e47aaddb46",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 69,
+							"labels": [
+								"Drug"
+							],
+							"text": "Diazapam",
+							"start": 61
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "0c1d31bf-ec3c-45e6-abe0-eacc9df00ed9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 79,
+							"labels": [
+								"Drug"
+							],
+							"text": "Etizolam",
+							"start": 71
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "d2ce33b3-b177-4998-8c92-94a957ca5f64",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 231,
+							"labels": [
+								"Drug"
+							],
+							"text": "Etizolam",
+							"start": 223
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "122eb630-2e71-45b9-9275-87d3724b387d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 328,
+							"labels": [
+								"Drug"
+							],
+							"text": "benzodiazepines",
+							"start": 313
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "b06a38c7-105d-4c09-8f11-e1a83c10d823",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 342,
+							"labels": [
+								"Drug"
+							],
+							"text": "Xanax",
+							"start": 337
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "a9910658-ef2b-478f-af3b-52ce88411556",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 365,
+							"labels": [
+								"Drug"
+							],
+							"text": "Benzodiazepine",
+							"start": 351
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "c72daedf-7598-47cd-80cc-044022305afb",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 380,
+							"labels": [
+								"Drug"
+							],
+							"text": "Etizolam",
+							"start": 372
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "92218150-1a59-4e99-aba5-472c0843dc72",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 422,
+							"labels": [
+								"Drug"
+							],
+							"text": "Valium",
+							"start": 416
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "67d1e9de-1464-4b81-bbfb-92d397d560c8",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 431,
+							"labels": [
+								"Drug"
+							],
+							"text": "Diazapam",
+							"start": 423
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "b7d254a8-eed0-4817-b9e9-e024df995c06",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 484,
+							"labels": [
+								"Drug"
+							],
+							"text": "Valium",
+							"start": 478
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3cf2bde1-a7b3-4744-b42c-d0e98867be68",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 493,
+							"labels": [
+								"Drug"
+							],
+							"text": "Xanax",
+							"start": 488
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 310961,
+			"name": " 200MG ETIZOLAM POWDER 99.8% PURE~ 200 TAB",
+			"p_id": 88,
+			"clean_description": "ETIZOLAM. Etizolam 1 mg is the equivalent of 10 mg of Valium Diazapam. Etizolam possesses , anti anxiety , anticonvulsant , hypnotic , sedative and skeletal muscle relaxant properties. It has a half life of about 35 hours. Etizolam possesses potent hypnotic properties and is comparable with other short - acting benzodiazepines such as Xanax. On the Benzodiazepine Chart Etizolam 1 mg is the equivalent of 10 mg of Valium Diazapam which makes it a rather potent alternative to Valium or Xanax. Please check the Profile page for shipping cut off time as it is subject to change , Thank you."
+		},
+		"id": 2945749983
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749984,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "87111c64-2d3a-4e56-84e0-985b6119b313",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 52,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 48
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "18e9c5ce-bfe2-4993-8bdc-20d72f840dc7",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 79,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 75
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "5b8f06e3-51cb-410e-8493-bc890ddf1fa2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 120,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 116
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 421323,
+			"name": "50GR TOP QUALITY MOROCCAN HASH",
+			"p_id": 90,
+			"clean_description": "This is a very good and top quality of moroccan hash. The best of the best hash from morocco. 50 Grams of this best hash for 300."
+		},
+		"id": 2945749984
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749985,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 285191,
+			"name": "Premier Red Lebanese Hashish - 0.2 Grams ",
+			"p_id": 91,
+			"clean_description": "This strain is more of a stimulant , and is effective in appetite stimulation , relieving depression , boosting focus , stimulating energy and offers an uplifting experience. Best Suited Day or Night. Highest quality available in the market. Shipped from within EU."
+		},
+		"id": 2945749985
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749986,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "455e9c92-b6b1-4438-8819-249839e93b06",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 21,
+							"labels": [
+								"Drug"
+							],
+							"text": "kush",
+							"start": 17
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 208271,
+			"name": "56g Sour Diesel  ---| Indoor Bud|---",
+			"p_id": 92,
+			"clean_description": "AAA High quality kush from BC , Canada. Grown indoors."
+		},
+		"id": 2945749986
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749987,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "655bc8e1-1072-4d4f-9606-dc4347aca6ee",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "CBD",
+							"start": 7
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 332275,
+			"name": "-5 GRAMS- Amnesia Haze 22% THC",
+			"p_id": 94,
+			"clean_description": "THC 22 CBD Medium Genetic Background. Original Amnesia Haze. Type Sa 70 In 30 Ru 0 Effect Extremely high , long - lasting , body relaxing. Climate Mild Cold. Also usable for medical consumption."
+		},
+		"id": 2945749987
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749988,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "03547e1c-1af9-40ba-afb3-659618d15ae9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 87,
+							"labels": [
+								"Drug"
+							],
+							"text": "meth",
+							"start": 83
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "a4a425c7-1e1d-4ac9-87fe-5ab35eba19ad",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 207,
+							"labels": [
+								"Drug"
+							],
+							"text": "Meth",
+							"start": 203
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "d01f8f07-610e-462a-8b43-ea0764372c9d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 280,
+							"labels": [
+								"Drug"
+							],
+							"text": "Methylated",
+							"start": 270
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 16278,
+			"name": "H.Q. Thunder Mountain D-methylated 2.8g",
+			"p_id": 95,
+			"clean_description": "This listing is 28 g. Beautiful in her purity and euphoric body high. UNTAINTED HA meth. UNcut ,. NO. Re-rocked garbage ,. Any route of administration will act fast. Unlike , other Narcotic Dealers , my Meth is insured / GUARANTEED to release dopamine Quicker than most Methylated forms. Your cargo will contain 02 g - 17g more in the slim to none chance of finding higher quality of mind altering , eye poppin , vapors. The potency will leave the avid connoisseur feeling satisfied in every fix , hit , or parachute. All shards are 100 untainted , and untouched. Beakers. Pyrex. Yours Truly YOU. International Ninjas require FE."
+		},
+		"id": 2945749988
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749989,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "a1e00f83-e31e-4693-adcc-041cf48a47f4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 40,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 36
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "b3c73dfc-f6b1-4dd3-8d35-428a9d314a1d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 54,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 50
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "105fb54a-2c74-48ab-8dd5-1138959db96f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 258,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 254
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "7865e323-c964-4635-868c-d7005569c722",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 267,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 263
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 404500,
+			"name": "500x Pineapple 3 color XTC-units  160mg+",
+			"p_id": 96,
+			"clean_description": "500x Pineapple XTC-units. /- 160 mg MDMA Contains MDMA from our own kitchen. Green , orange and pink Escrow Priority tracked shipping from Germany No arrival. 100 reship. Free shipping. Shipping Germany - Europe. Australia - Australia / New Zealand only MDMA see MDMA domestic Australia listing. Read our terms of service and profile page before ordering. We are also vending on Trade Route. Questions about our servce product or else. Feel free to send us a PM or direct mail to davidsingh77airorg."
+		},
+		"id": 2945749989
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749990,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "cc425ac8-f9fc-48b6-b1b5-2d78a0dc9350",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 6,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cialis",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 37619,
+			"name": "Cialis Pharma Grade Lilly brand 20 x 20mg tablets",
+			"p_id": 97,
+			"clean_description": "Cialis Pharma. Grade Lilly brand 20 x 20 mg tablets."
+		},
+		"id": 2945749990
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749991,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "4fac7607-7588-481b-b6bd-3fb9a5d1c2cb",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 41,
+							"labels": [
+								"Drug"
+							],
+							"text": "Master Kush",
+							"start": 30
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 338978,
+			"name": "4 oz Master Kush Full Escrow",
+			"p_id": 98,
+			"clean_description": "4 oz of top shelf dispensary. Master Kush. Fast shipping and full escrow. BUY NOW."
+		},
+		"id": 2945749991
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749992,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "00a651f9-97d7-4460-9447-4b6a13fc845d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 38,
+							"labels": [
+								"Drug"
+							],
+							"text": "Seroquel",
+							"start": 30
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 318260,
+			"name": "Seroquel 150 mg quetiapine 150 mg 30 pills Ketipin",
+			"p_id": 99,
+			"clean_description": "You are purchasing one box of Seroquel 150 mg with 30 pills packaged in blister. You will receive exactly the box in the picture because I took the photo of the box I am selling All my medicines come from a pharmacy in Europe and are according to EMEA rules European Medicines Agency. Our products are shipped in registered mail with tracking number and are carefully packaged. For more information about the product please contact me."
+		},
+		"id": 2945749992
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749993,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "e007da5d-a897-43d4-be2d-f27ff75e6344",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 14,
+							"labels": [
+								"Drug"
+							],
+							"text": "TIBISLA",
+							"start": 7
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "faee13a2-f472-46f3-90bc-2c1b019a33f1",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 19,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 15
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "fcad9333-3a3d-4461-ae80-06dc546f72cd",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 44,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 40
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "e239e640-4dfa-4a14-b32c-29786af817bd",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 195,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 191
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 260191,
+			"name": "TIBISLA HASH 5 gram",
+			"p_id": 100,
+			"clean_description": "5 gram TIBISLA hash. Looking for a soft hash that creates a big stoned at start and then becomes a nice high without the side effects of sleep effect , buy this one. One of the best kinds of hash i smoked for several years , taste , burns very good , and nice soft. For more info please read our profile."
+		},
+		"id": 2945749993
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749994,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "b7cef5ea-b553-43b3-bb20-94ac84691288",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 22,
+							"labels": [
+								"Drug"
+							],
+							"text": "Zopiclone",
+							"start": 13
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "bbff6823-1e33-400b-bb5d-ed7ad74b1b2b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 70,
+							"labels": [
+								"Drug"
+							],
+							"text": "Zopiclone",
+							"start": 61
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 12655,
+			"name": "2 X Zopiclone 7.5mg X 56 Tabs. Pharmacy Grade",
+			"p_id": 101,
+			"clean_description": "Bristol Labs Zopiclone 75 mg X 56 Tabs. Pharmacy / NHS Grade Zopiclone."
+		},
+		"id": 2945749994
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749995,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "bfd98138-5214-4111-8171-c624ed27b751",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 3,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDA",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "666cd5bf-d087-4afb-81cb-3d2f8fa6a058",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 354,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 350
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 311050,
+			"name": "INTERSTELLAR MDA - 1/2 gram",
+			"p_id": 102,
+			"clean_description": "MDA Crystal recrystallized , purified , powdered - 1 / 2 gram. Amazing quality , very clean , and super potent for ultimate experience. This is recommended dosage. 50 - 60 mg - enough for sensitive and / or low weight folks. A nice , mellow experience for normal users. 70 - 100 mg - typical dose for average users , who had previous experience with MDMA. 100 mg - we do nt recommend such doses because they increase the bodyload and comedown , but it s up to you , considering you re experienced. Enjoy responsibly , and have a great one , thx."
+		},
+		"id": 2945749995
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749996,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 363386,
+			"name": "!!!TIP JAR!!!",
+			"p_id": 103,
+			"clean_description": "THANK YOUUUUUUUUUUUUUUUU. I WA NT SOME FuckinFrench. Toast."
+		},
+		"id": 2945749996
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749997,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "761edc67-b8f2-4f41-80ee-91fcbec64af2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 40,
+							"labels": [
+								"Drug"
+							],
+							"text": "xanax",
+							"start": 35
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "7145512c-73c0-46ff-af0b-ad29735b9b64",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 75,
+							"labels": [
+								"Drug"
+							],
+							"text": "Alprazolam",
+							"start": 65
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 420248,
+			"name": "50 x 2.5mg XANAX BARS G3722 Pharmaceutical Grade. ",
+			"p_id": 104,
+			"clean_description": "Best press on the DM easily. 25 MG xanax bars. Pressed with real Alprazolam powder , no fake rc , no fent , nothing dangerous in these. They are true pharmaceutical grade , not only in their potency but also in their looks , weight , and dimensions."
+		},
+		"id": 2945749997
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749998,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "f3fac6f8-3873-45b2-a161-cbb6cbd416ba",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 93,
+							"labels": [
+								"Drug"
+							],
+							"text": ".",
+							"start": 92
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 218611,
+			"name": "Modalert ModafiniL 200mg x 90",
+			"p_id": 105,
+			"clean_description": "Good stuff , comes in packs of 10 , order 1 or order 10,000 it s up to you. ships from india."
+		},
+		"id": 2945749998
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945749999,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "228499f8-1a2f-40f0-91eb-0816d02a1a65",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 24,
+							"labels": [
+								"Drug"
+							],
+							"text": "Jellyfish",
+							"start": 15
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 105606,
+			"name": "custom listing Jellyfish",
+			"p_id": 106,
+			"clean_description": "custom listing Jellyfish. 50 thc candies."
+		},
+		"id": 2945749999
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750000,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "014a2b56-b737-40a2-bfcd-48d186810cf1",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 7,
+							"labels": [
+								"Drug"
+							],
+							"text": "Kamagra",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 278061,
+			"name": "Kamagra Oral Jelly 100mg | 50 weekpacks (350 satch",
+			"p_id": 107,
+			"clean_description": "Kamagra Oral Jelly 100 mg | 50 weekpacks 350 satchets."
+		},
+		"id": 2945750000
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750001,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "e447e0c8-4900-4d1b-8d72-504edd006b95",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 40,
+							"labels": [
+								"Drug"
+							],
+							"text": "Adderall",
+							"start": 32
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 425288,
+			"name": "x200 Adderall 30mg IR Pills",
+			"p_id": 108,
+			"clean_description": "PRIVATE LISTING DO NT ORDER 200 Adderall 30 mg IR pills directly from the pharmacy. Highest quality and best prices around."
+		},
+		"id": 2945750001
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750002,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "eb3811e7-4ddd-4700-b572-3850f449664c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 2,
+							"labels": [
+								"Drug"
+							],
+							"text": "OC",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 306049,
+			"name": "***8x Oxycontin 80mg Crushable OC formula",
+			"p_id": 109,
+			"clean_description": "OC formula in blisters. Expiry date February 2020."
+		},
+		"id": 2945750002
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750003,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d36ed750-b377-46d6-9f94-f871cfb2980d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 12,
+							"labels": [
+								"Drug"
+							],
+							"text": "sativa",
+							"start": 6
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "9fa12cb8-6f38-4b86-8837-4555b8b11f57",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 89,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 86
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 301956,
+			"name": "5 Grams South African Weed",
+			"p_id": 110,
+			"clean_description": "Genes sativa Genetics South African Flowering 55 - 65 Days Harvest High Height Medium THC 15 - 20."
+		},
+		"id": 2945750003
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750004,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "272ca1c4-c300-4d14-9da6-067f5c04119d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 29,
+							"labels": [
+								"Drug"
+							],
+							"text": "AMNESIA HAZE",
+							"start": 17
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "6614fe96-a9dc-43a7-b88f-ff6b9c28d439",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 104,
+							"labels": [
+								"Drug"
+							],
+							"text": "AMNESIA",
+							"start": 97
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "1b0c8613-14a2-4bda-ad36-728971580eed",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 297,
+							"labels": [
+								"Drug"
+							],
+							"text": "Amnesia",
+							"start": 290
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 346897,
+			"name": " 1 gr  AMNESIA HAZE (Batch 2)",
+			"p_id": 111,
+			"clean_description": "SPECIAL EDITION. AMNESIA HAZE. Very proud to offer this homegrown strain made by CannaCrew. This AMNESIA buds are really hard and compact. Taste is great. But really a big BIG stoned. Not for the starting smoker. A very nice clean weed , no shake , great strain. We also have another batch Amnesia in our store. Please read our profile before you place any order with us , thank you."
+		},
+		"id": 2945750004
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750005,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "26f61f7c-0871-4d1b-b57a-0ad50bf6c4b2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 9,
+							"labels": [
+								"Drug"
+							],
+							"text": "Oxycodone",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "6da30e17-a40a-4385-af07-cabd23e971b8",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 71,
+							"labels": [
+								"Drug"
+							],
+							"text": "RP30",
+							"start": 67
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 356762,
+			"name": "RP30 - Oxycodone 30mg - $30 each - TEMP OUT",
+			"p_id": 112,
+			"clean_description": "Oxycodone 30 mg straight from the pharmacy. Personal prescription. RP30 pill. Quantity left 0. THE MARKETS HAVE BEEN PRETTY HECTIC LATELY. WHEN YOU RECEIVE YOUR ORDER , I KINDLY ASK THAT YOU GO RIGHT ONLINE AND FINALIZE THE FUNDS IN ESCROW. THANK YOU FOR YOUR CONSIDERATION."
+		},
+		"id": 2945750005
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750006,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "8d82e66a-6e2b-404e-aed2-4f9c09352888",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 41,
+							"labels": [
+								"Drug"
+							],
+							"text": ".",
+							"start": 40
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 201594,
+			"name": "A Brief History of Designer Drugs e-book",
+			"p_id": 113,
+			"clean_description": "A Brief History of Designer Drugs e-book."
+		},
+		"id": 2945750006
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750007,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "fbf1a1e8-00b1-4f63-9e58-627e762d6370",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 83,
+							"labels": [
+								"Drug"
+							],
+							"text": "KUSH",
+							"start": 79
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 282715,
+			"name": "OG KUSH Very GOOD Quality Calabrian Indoor  100g #",
+			"p_id": 114,
+			"clean_description": "BIG PROMOTION for first 10 45 / g. Hi everybody dude. i m glad show you the OG KUSH. Indoor strain made with love by me very big flowers and tasty. profumed and pollenfull ,. Directly from CALABRIA in Italy. The land of sun , sea , pussy and Weeda. Enjoy bud."
+		},
+		"id": 2945750007
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945750008,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6862a189-088d-487b-bc6c-dd2d6cc75494",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 21,
+							"labels": [
+								"Drug"
+							],
+							"text": "Super Hash Pollen",
+							"start": 4
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "e912a413-e6b3-4248-a85b-27eb2a775fc6",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 38,
+							"labels": [
+								"Drug"
+							],
+							"text": "Hoceima",
+							"start": 31
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 367562,
+			"name": "17g Super Hash Pollen / Rif Al Hoceima",
+			"p_id": 115,
+			"clean_description": "17g Super Hash Pollen / Rif Al Hoceima."
+		},
+		"id": 2945750008
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760109,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "c935c611-b940-4c20-820e-6da3f4f4c687",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 52,
+							"labels": [
+								"Drug"
+							],
+							"text": "Bromocriptin",
+							"start": 40
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 284260,
+			"name": "PARLODEL *Bromocriptin* 30 Tabs x 2.5 mg MEDA PHAR",
+			"p_id": 7952,
+			"clean_description": "Manufacturer. MEDA. PHARMA TR Substance Bromocriptin Pack 30 Tabsx25 mg."
+		},
+		"id": 2945760109
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760196,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d6cf27a4-7c3a-479c-8791-dd21424c5c15",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 37,
+							"labels": [
+								"Drug"
+							],
+							"text": "alprazolam",
+							"start": 27
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "c316a76b-2966-4a96-9ab5-a38c233b665c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 20,
+							"labels": [
+								"Drug"
+							],
+							"text": "frontin",
+							"start": 13
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 252659,
+			"name": "FRONTIN (ALPRAZOLAM) 1.0 MG x 300 pills w TRACKING",
+			"p_id": 11473,
+			"clean_description": "300 pills of frontin 10 mg alprazolam sending both in pills and blister form leave in 3 / a blister TRACKING is AVAILABLE. special price is 11 EUR / pill. All products are packed with attention to security. Please use the next format. Name Address City Zip. Country."
+		},
+		"id": 2945760196
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760225,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "5b2e5230-b079-42a5-8673-5ceacb6bc621",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 352,
+							"labels": [
+								"Drug"
+							],
+							"text": "Amphetamine",
+							"start": 341
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "202eb92f-1344-4cf3-bcd9-7ed30baf9e50",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 387,
+							"labels": [
+								"Drug"
+							],
+							"text": "Amphetamine",
+							"start": 376
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 412505,
+			"name": " 60-AMPHETAMINE CAPS  30mg ",
+			"p_id": 7351,
+			"clean_description": "60 Capsules. Work Hard Study Hard. Wight loss 10 free until the end of the next week. 10 Bonus capsules with this order. Extras bonus for repeat customers. Dosage 1 - 3. Caps daily depending on body weight. Example 175 lb male may only need 1 cap daily. Stealth and Security are always the highest in priority. We Never cut corners. Generic Amphetamine 30 mg per capsule. D - Amphetamine 15 mg and Amphetamine sulfate base 15 mg."
+		},
+		"id": 2945760225
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760260,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d52188fd-32af-4f66-9ba1-956d6535dbc4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 7,
+							"labels": [
+								"Drug"
+							],
+							"text": "Ecstasy",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "ce590760-a138-4515-b195-ffb05109e239",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 254,
+							"labels": [
+								"Drug"
+							],
+							"text": "E",
+							"start": 253
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 180248,
+			"name": "sample listing XTC 160mg NEW BLUE HEART STAMP!! 2x",
+			"p_id": 7927,
+			"clean_description": "Ecstasy is a powerful stimulant and mood changer that speeds up your body system and alters your perception of the world. It can make you feel both uplifted and relaxed and feeling very happy , usually with an overwhelming urge to dance. The effects of E vary considerably from one person to the next , depending on who you re with , where you are and how you re feeling at the time."
+		},
+		"id": 2945760260
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760279,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "ea200513-22f8-4873-8bca-52976c16002a",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 146,
+							"labels": [
+								"Drug"
+							],
+							"text": "LEVAMISOLE",
+							"start": 136
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "1c7d55d1-28f0-4c4b-8136-772822dae8ca",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 212,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 205
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "4aaea05a-872c-4620-a93f-d1f50a95d487",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 291,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 284
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 238886,
+			"name": "1g Pure Bolivian Pearl Fire 90%+ {ESCROW}",
+			"p_id": 9912,
+			"clean_description": "1g Pure Bolivian Fire 90. Country of origin. Bolivia. Structure Shiny crystal flake Purity Uncut , from orginial brick , always 90 , NO LEVAMISOLE ,. Prices. 1g 350 35 g 1150 7 g 2200 14 g 4100 28 g 7700. Cocaine is our number one business. We have over a decade of experience in the cocaine business. You Will. Not be dissapointed. Vac Sealed. Read My Profile for additional information."
+		},
+		"id": 2945760279
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760298,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "289cd31f-4488-406e-9193-1a4f9acdab02",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 12,
+							"labels": [
+								"Drug"
+							],
+							"text": "Rivotril",
+							"start": 4
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "ce1a3af9-406f-4210-bd8e-b88b2fdab474",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 23,
+							"labels": [
+								"Drug"
+							],
+							"text": "Clonazepam",
+							"start": 13
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 379697,
+			"name": "2x Rivotril Clonazepam by Roche 7.5",
+			"p_id": 1004,
+			"clean_description": "2 x Rivotril Clonazepam by Roche 75."
+		},
+		"id": 2945760298
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760306,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "bd0f4005-c9d1-426f-8dc0-a17cb207dc6c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 87,
+							"labels": [
+								"Drug"
+							],
+							"text": "Speed",
+							"start": 82
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 421517,
+			"name": "5 gr of Speed-Paste ca. 75%+ Purity",
+			"p_id": 1420,
+			"clean_description": "update. If you guys buys so quick near i am out of stock 100g left. -. 5 grams of Speed - Paste about 75 Purity. from Amsterdam show my Ratings and only trust PABLO. -."
+		},
+		"id": 2945760306
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760542,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "45f56ac0-7bbd-42c6-912e-2886677de8e2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "GHB",
+							"start": 7
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "50a0553c-22c7-4b9e-a700-8643089fbe51",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 25,
+							"labels": [
+								"Drug"
+							],
+							"text": "GHB",
+							"start": 22
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "4373c319-94a5-42d3-8e0a-6d1e9815a0ac",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 99,
+							"labels": [
+								"Drug"
+							],
+							"text": "GHB",
+							"start": 96
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 206195,
+			"name": "GHB LIQUID SYRUP  250ml  GHB (BASF)",
+			"p_id": 1444,
+			"clean_description": "LIQUID GHB SYRUP THIS GHB IS READY FOR USE - NO PREPPING REQUIRED STRONG PURE. 99 ,95 PURE BASF GHB. ULTIMATE STEALTH AAA. DELIVERY GUARANTEED. NEVER COMBINE WITH ALCOHOL CHECK FAQ. BEFORE USE."
+		},
+		"id": 2945760542
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760558,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "27cad303-f35f-4952-ab08-4f431a964db0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 115,
+							"labels": [
+								"Drug"
+							],
+							"text": "OG Kush",
+							"start": 108
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "e9b091c6-b330-4b92-9098-361e0fed7515",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 13,
+							"labels": [
+								"Drug"
+							],
+							"text": "Kush",
+							"start": 9
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "92cd4a8a-378f-440a-91dc-7989ea16c4e2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 79,
+							"labels": [
+								"Drug"
+							],
+							"text": "cannabis",
+							"start": 71
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "c48793b6-daa6-498a-88c1-06795896b5c7",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 230,
+							"labels": [
+								"Drug"
+							],
+							"text": "Kush",
+							"start": 226
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3658e349-77c7-40cb-9344-e1105bb89b48",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 260,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 257
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "6b44b3f3-34af-4eb1-a990-5dedb4f2dd07",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 296,
+							"labels": [
+								"Drug"
+							],
+							"text": "CBD",
+							"start": 293
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 295922,
+			"name": "7 GRAMS *** CRITICAL KUSH *** OFFER ***",
+			"p_id": 1910,
+			"clean_description": "Critical Kush is a mostly indica strain that blends together two famed cannabis staples , Critical Mass and OG Kush. Aromatic notes of earthiness and spice usher in a calming sensation that relaxes the mind and body. Critical Kush pairs a staggeringly high THC content with a moderate dose of CBD , making this strain a perfect nighttime medication for pain , stress , insomnia , and muscle spasms."
+		},
+		"id": 2945760558
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760598,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d82e349c-c3f6-49b7-bd6c-ff3aace580d8",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 21,
+							"labels": [
+								"Drug"
+							],
+							"text": "Diazepam",
+							"start": 13
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "13f0b950-70d9-4624-b6cd-77a61991657f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 28,
+							"labels": [
+								"Drug"
+							],
+							"text": "Valium",
+							"start": 22
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 379910,
+			"name": "100tablets Diazepam Valium 10 mg",
+			"p_id": 7945,
+			"clean_description": "100 tablets. Diazepam Valium 10 mg. Welcome in us shop. Please read us profile before you place order. We have professional packing team and drugs from first hand We ship from Germany to everywhere in Worldwide We pack everything 1 - 2 times vacuum in safe packaging. We ship within 24 till 48 hours in work days. We use business like envelopes with printed labels. We do not store your information for longer than necessary. We send with tracking when your purchase is more as 600 For small Domestic orders with tracking we use Deutsche Post Einwurf Einschreiben For security reasons we do not give tracking codes to customers. Always use PGP when sending your address Write your address correctly. No reship or refund for international orders when the package get lost somewhere. Please format your address as follows. Address format. Full name real name. Street name number Postal code city Country. please not write nationality letters in address. Before you give bad feetback please contac us."
+		},
+		"id": 2945760598
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760626,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "b2353cb0-7dfc-425f-aeb6-c6d014599b4f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 9,
+							"labels": [
+								"Drug"
+							],
+							"text": "meth",
+							"start": 5
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 62558,
+			"name": "Fresh Clean Vape Ice .5 ",
+			"p_id": 4527,
+			"clean_description": "This meth is super clean smooth going down even smoother coming up. NO CLOG , NO DAMPNESS , NO CHEMICAL TASTE AT ALL."
+		},
+		"id": 2945760626
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760651,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "3a9fb8e6-4350-4248-92c7-b7bc13e6a192",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 60,
+							"labels": [
+								"Drug"
+							],
+							"text": "Adderall",
+							"start": 52
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 411950,
+			"name": "90X Adderall 30MG Instant Release ",
+			"p_id": 11561,
+			"clean_description": "this listing is for ninety 90 30 MG Instant Release Adderall perfect for partying , studying , and concentrating easy to split up into halves 15 m g or quarters 75 mg. I ve been a long time DNM vendor with successful stints on SR , Agora , Abraxas and MEM. Looking forward to building more meaningful relationships on Dream. Delivery GUARANTEED w/ in 1 week."
+		},
+		"id": 2945760651
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760672,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "0b3599ed-d3a7-4cad-8900-cdc16c609120",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 79,
+							"labels": [
+								"Drug"
+							],
+							"text": "COCAINE",
+							"start": 72
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "c3ca5208-6ce2-4174-af7c-762e9047ee40",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 23,
+							"labels": [
+								"Drug"
+							],
+							"text": "COCAINE",
+							"start": 16
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 396880,
+			"name": "*** 1 GRAM CRACK FREEBASE COCAINE *** SPECIAL",
+			"p_id": 11133,
+			"clean_description": "SELF MADE CRACK COCAINE BY OUR VERY OWN CHEF. IT IS COOKED WITH OUR OWN COCAINE. VERY STRONG BE CAUTIOUS."
+		},
+		"id": 2945760672
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760712,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "4d49caab-1fc3-4526-ac0e-64cd7d6ccaa2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 49,
+							"labels": [
+								"Drug"
+							],
+							"text": "Sativa",
+							"start": 43
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "b64fa477-cc51-46ee-b236-dc1b9f776b19",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 137,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 133
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "75869449-d716-428d-9d69-29f2e8d25922",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 179,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 175
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "fec2dda0-cdf4-4804-a99a-86517fe7775e",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 336,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 333
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "19cb3ea7-f83a-481c-955f-2cb74f717f18",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 386,
+							"labels": [
+								"Drug"
+							],
+							"text": "hash",
+							"start": 382
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 289335,
+			"name": "10g 'Jerada Deluxe' Hash",
+			"p_id": 6400,
+			"clean_description": "Grade A Origin Morocco Jerada region. Type Sativa / Indica Hybrid Texture Sticky and dense Effects. Very powerful stone. Very much a hash type of high. This is a high quality hash from the Jerada region of Morocco. The smell is classical Maroccan landrace , but is a very fine sift that has been preserved well , meaning a very high THC content and amount of terpenes. A very tasty hash."
+		},
+		"id": 2945760712
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760722,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "22681b40-7e28-4e89-9580-41f2bf877068",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 9,
+							"labels": [
+								"Drug"
+							],
+							"text": "METH",
+							"start": 5
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "fefbee65-22a7-491d-9c87-568e3eb52d63",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 78,
+							"labels": [
+								"Drug"
+							],
+							"text": "Methamphetamine",
+							"start": 63
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 161859,
+			"name": "0.5G Crystal Meth ICE Pure&Uncut A+++",
+			"p_id": 8365,
+			"clean_description": "BEST METH OF DREAM MARKET BACK IN STOCK. Pharmaceutical grade. Methamphetamine PureUncut. Always comes in nice big shards. Straight from the Lab. This is as good as it gets like all our products."
+		},
+		"id": 2945760722
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760789,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6a598ede-1d6f-4948-88a9-dfdf33574e85",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 103,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 100
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "1b58ec2c-b723-49ff-abfe-4fbf877de6d2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 245,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 242
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "70952cd4-fbf7-45d6-a72e-d4cbbf822353",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 539,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 536
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 13337,
+			"name": "LSD - Made in MIT Labs - x 25 HITS / TABS",
+			"p_id": 4508,
+			"clean_description": "Secretly created in the labs of MIT. This stuff does nt get any higher quality or purity. BRAND NEW LSD. WE KNOW WATER we also know about sacred Geometry crystalline structuring of our water , and have done so in the process of creating this LSD made in perfect harmony with nature and resulting in an astronomically beautiful trip guaranteed , we are over the moon to be able to provide this wonderful substance to you folks at home just in time for the festivals. 120u. G strength per single stamp. THIS IS HARD TO FIND CLEAR CRYSTAL LSD DILUTED TO 120 UG. Enjoy while stocks last."
+		},
+		"id": 2945760789
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760815,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 431668,
+			"name": "1LB WHITE RHINO INDOOR KUSH (TOP QUALITY)",
+			"p_id": 4525,
+			"clean_description": "WHITE RHINO INDOOR KUSH TOP QUALITY. WHAT DO WE PROVIDE. 1 The Best Prices Available ,. We will match or beat any other domestic price. 2 Perfect Customer Service ,. We will respond to ALL messages within 24 hours. 3 We always test our products before we offer it. 4 We ship orders in the most of the time on the Same day. 5 Packages will fit through any standard letter box. NOTE Presently buyers are requested to FE all orders with us and we offer tracking for all bulk orders. Email JocelynRichardsairorgKIK. ID alfaninja. Wickr alphaninja."
+		},
+		"id": 2945760815
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760893,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "bdd360fd-83f6-421b-8585-52cd99fd1c21",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 6,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cialis",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "2cfd6198-4153-415b-9067-f75b7867f89f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 58,
+							"labels": [
+								"Drug"
+							],
+							"text": "tadalafil",
+							"start": 49
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "6ef84261-64be-41e7-b141-869d7866a5cc",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 204,
+							"labels": [
+								"Drug"
+							],
+							"text": "CIALIS",
+							"start": 198
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f2ee7f2a-f09c-4bad-a7f0-a28de39e9f65",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 373,
+							"labels": [
+								"Drug"
+							],
+							"text": "CIALIS",
+							"start": 367
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "b6c99e24-18a0-41b3-b979-444573a25a28",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 456,
+							"labels": [
+								"Drug"
+							],
+							"text": "CIALIS",
+							"start": 450
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 281069,
+			"name": "Cialis by Eli Lilly Original from Pharmacy 20mg ta",
+			"p_id": 7070,
+			"clean_description": "Cialis by Eli Lilly Original from Pharmacy 20 mg tadalafil - 4 pills. Brand Name Cialis Manufacturer. Eli Lilly. This product is original from Pharmacy , not home made or generic stuff. Indications CIALIS is approved to treat erectile dysfunction ED , the signs and symptoms of benign prostatic hyperplasia BPH , and both ED and the signs and symptoms of BPH. Taking CIALIS with finasteride when starting BPH treatment has been studied for 26 weeks. CIALIS is not for women or children. All products in Hungary , EU Stock. Shipping with Hungary Mail Post with tracking. If you do nt get the item , i send you the tracking code. My products has a long expiration date. Refund policy. If an order do nt arrive because they got intercepted or when they got lost , then i will do a reship. Before you leave negative feedback please contact me to solve the problem. I m sure we can find the solution. I am looking for wholesalers in EU. PM me for the wholesaler prices."
+		},
+		"id": 2945760893
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760939,
+				"lead_time": 10.0,
+				"result": []
+			}
+		],
+		"data": {
+			"dream_id": 337901,
+			"name": "EAT BURGER KING FOR FREE WORLDWIDE 2017",
+			"p_id": 10274,
+			"clean_description": "Description. This is a noob - friendly way to eat Burger King anywhere in the world FOR FREE."
+		},
+		"id": 2945760939
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760965,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "592bf820-54bf-4a47-97f3-59cc280b2ffc",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 27,
+							"labels": [
+								"Drug"
+							],
+							"text": "GBL",
+							"start": 24
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "13ae29fb-1f89-448b-8cf7-895ab1e70ba2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 58,
+							"labels": [
+								"Drug"
+							],
+							"text": "GHB",
+							"start": 55
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "d6fca1e5-0748-4995-9fe7-7dbed0e62d46",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 87,
+							"labels": [
+								"Drug"
+							],
+							"text": "GHB",
+							"start": 84
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "67724b8f-1dda-4be2-a3e3-37ad5a2ab369",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 128,
+							"labels": [
+								"Drug"
+							],
+							"text": "GBL",
+							"start": 125
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 321881,
+			"name": "0.5 LITER GBL  BASF 99.95%",
+			"p_id": 3920,
+			"clean_description": "500 ML germany s finest GBL available. purity 9995 NOT GHB. Strongly advice to make GHB from this , instead of drinking pure GBL."
+		},
+		"id": 2945760965
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945760996,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "7a06b529-ed3f-434b-8808-b126e6d24b16",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 25,
+							"labels": [
+								"Drug"
+							],
+							"text": "Oxycontin",
+							"start": 16
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 285423,
+			"name": "SOLD OUT - OXYCONTIN 20mg - (1-Tablet) OP-20",
+			"p_id": 7823,
+			"clean_description": "Your Purchasing Oxycontin OP - 20 1 Tablet 20mg. Tablet is light pink with OP embossed on one side , embossed on the opposite side is the number 20. Shown is Photo is OC , This is OP - 20."
+		},
+		"id": 2945760996
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945761038,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d976b0de-0f09-4def-adc0-35faf6fd9cb1",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 84,
+							"labels": [
+								"Drug"
+							],
+							"text": "hydrocodone bitartrate",
+							"start": 62
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "98344f23-a4e9-49e8-92a7-b56a26c181ad",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 57,
+							"labels": [
+								"Drug"
+							],
+							"text": "Acetaminophen",
+							"start": 44
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "34c5bd14-bcad-448b-a20a-fb9b0b5fd58a",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 114,
+							"labels": [
+								"Drug"
+							],
+							"text": "Acetaminophen",
+							"start": 101
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "a3c44df7-5019-418c-8829-075a1a651c54",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 128,
+							"labels": [
+								"Drug"
+							],
+							"text": "hydrocodone",
+							"start": 117
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 104914,
+			"name": "5x Hydrocodone V3605 3.7/325 MG",
+			"p_id": 11108,
+			"clean_description": "Pill imprint 3605. V has been identified as Acetaminophen and hydrocodone bitartrate 325 mg / 37 mg. Acetaminophen / hydrocodone is used in the treatment of back pain pain rheumatoid arthritis cough and belongs to the drug class narcotic analgesic combinations."
+		},
+		"id": 2945761038
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945761263,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "6aeef9a7-eea1-4806-97c6-4eefc07ebb7b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "Canabidiol",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "4a8e09c8-9b02-460f-9d5b-ef90b5a78c8c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 14,
+							"labels": [
+								"Drug"
+							],
+							"text": "CBD",
+							"start": 11
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "4c28aa65-e952-4a69-9cc7-c2540839bed9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 21,
+							"labels": [
+								"Drug"
+							],
+							"text": "THC",
+							"start": 18
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "8ffb781d-21bb-4a71-9904-4e1813b79404",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 34,
+							"labels": [
+								"Drug"
+							],
+							"text": "Canabinol",
+							"start": 25
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "69c69cbc-76df-4629-8b35-2941203c1a8b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 39,
+							"labels": [
+								"Drug"
+							],
+							"text": "CBN.",
+							"start": 35
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3b9fc184-2629-477d-b905-2f836dcfb50e",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 46,
+							"labels": [
+								"Drug"
+							],
+							"text": "CBG",
+							"start": 43
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 81734,
+			"name": "18G EL CULERO GREEN ONE QUALITY 120",
+			"p_id": 3199,
+			"clean_description": "Canabidiol CBD. 2 THC 21 Canabinol CBN. 05 CBG. Will the original weight of 2 eggs. 2 culeros thc high escrow. - During the ordering process , enter your correct mail data in the following format. Shipping Name Name and Surname , no abbreviations , Or names of public figures. Shipping address Exactly as it is to appear on the envelope. - Once your order has been marked as Sent it will be shipped within 24 hours. - Please be a member of any forum , I ll be very grateful for speaking there of our service and product. Have a nice day."
+		},
+		"id": 2945761263
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945761282,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "b4ce973a-ba84-4efe-8200-d20877ebc7e0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 18,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocain",
+							"start": 12
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 220518,
+			"name": "1 gr super peruanse cocaine AAA+++ 92%",
+			"p_id": 1951,
+			"clean_description": "peruanse 92 cocain very good snife and for people tghe want cooking out very good smills good frech from the block orginail good good good AAA."
+		},
+		"id": 2945761282
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945761416,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "9fb8d9e6-0d4d-466a-aace-4032eb7eb397",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 24,
+							"labels": [
+								"Drug"
+							],
+							"text": "XTC",
+							"start": 21
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "2bb957b8-35a9-46b7-8fa3-49b711c7a0ff",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 55,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA.",
+							"start": 50
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "0ef4dd4f-145b-4156-a350-6c8bc68e24a9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 104,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 100
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "61853456-aa54-49b5-a967-252f2d1acb24",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 214,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 210
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 79311,
+			"name": "75x ORANGE TWITTER XTC Pills 250Mg DUTCH MDMA",
+			"p_id": 7316,
+			"clean_description": "75 x. Orange Twitter XTC pills 250 Mg Netto Dutch MDMA. Quantity 75 Pills Color Orange Logo Twitter MDMA 250 Mg Netto / 410 Mg Bruto. Nice clean pills , super strong and hard pressed from premium Quality Dutch MDMA. Pills are labtested in Netherlands. One of the strongest pills on the market at this moment. Please read the profile page for further information."
+		},
+		"id": 2945761416
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945761467,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "768b16ad-610f-4fd8-b054-576bf265198d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 52,
+							"labels": [
+								"Drug"
+							],
+							"text": "Adderall",
+							"start": 44
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 91167,
+			"name": "(OUT OF STOCK) 30mg Adderall IR (b974 Teva)",
+			"p_id": 9713,
+			"clean_description": "Total Available 0 updated 10/1. One 1 30 mg Adderall b 974 Teva. Genuine USA pharmaceutical grade. Full escrow."
+		},
+		"id": 2945761467
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945761480,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "52f7c851-af3f-4fc6-8204-99bb6ea8cb98",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 46,
+							"labels": [
+								"Drug"
+							],
+							"text": "Bromazepam",
+							"start": 36
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 22663,
+			"name": "Bromazepam | 100x (6MG) Pills",
+			"p_id": 962,
+			"clean_description": "6 MG per pill , 100 Pills 600 MG of Bromazepam. Please encrypt address for safety. Discover. Quick shipping , quality product. Tracking , great stealth."
+		},
+		"id": 2945761480
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945769776,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "42c3d846-f9b4-4360-8255-42a5dcbc859e",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 137,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 133
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 297538,
+			"name": "50x 250mg MDMA Colored Toad (FE)",
+			"p_id": 3628,
+			"clean_description": "- Imported from Netherlands - Toad of Super Mario - Blue , Green , Yellow , Red , Orange - Clean and potent - 250 mg of Pure Premium MDMA , no cuts."
+		},
+		"id": 2945769776
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945769790,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "067232b3-24d9-4a57-85f5-4f6236825102",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 162,
+							"labels": [
+								"Drug"
+							],
+							"text": "amphetamine",
+							"start": 151
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "4edd94df-f829-4702-934a-deefc11f684d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 182,
+							"labels": [
+								"Drug"
+							],
+							"text": "methamphetamine",
+							"start": 167
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "676b69bf-14dd-4ef7-8e96-b9a232924a59",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 148,
+							"labels": [
+								"Drug"
+							],
+							"text": "caffeine",
+							"start": 140
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 61385,
+			"name": "\"10--49 Speed Pills HQ  \"\"\"\"Free Shipping\"\"\"\"\"",
+			"p_id": 2414,
+			"clean_description": "SHIP FROM CANADA SHIP FROM CANADA SHIP FROM CANADA. hello. If you want more pills , take the item several times. These pills are a blend of caffeine , amphetamine and methamphetamine. Effects Reduced appetite prolonged awareness high mental alertness dry mouth. These pills are of High quality ,. Often only 1 / 4 to1 / 2 a pill is good for more than 6 hours. By ordering you accept our terms and conditions. Adress. MAXIMUM 5 LINES. Lyso."
+		},
+		"id": 2945769790
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945769811,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "3159e9a5-4bba-4794-a274-2bed0e2ffda5",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 228,
+							"labels": [
+								"Drug"
+							],
+							"text": "Purple Haze",
+							"start": 217
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "25122876-53eb-4d1b-97b0-a8d1b4449116",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 241,
+							"labels": [
+								"Drug"
+							],
+							"text": "Blue Dream",
+							"start": 231
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "a3129429-9bd1-465e-bb34-00683343965c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 256,
+							"labels": [
+								"Drug"
+							],
+							"text": "Skywalker OG",
+							"start": 244
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f2a94ea6-f296-44a0-81e4-0052f1130793",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 280,
+							"labels": [
+								"Drug"
+							],
+							"text": "Jack Cookies",
+							"start": 268
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "7432d649-77a6-4f8b-9fd4-a7c7d2ebc2be",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 265,
+							"labels": [
+								"Drug"
+							],
+							"text": "Tangie",
+							"start": 259
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 102499,
+			"name": "1 .OZ Fire OG & Skywalker OG",
+			"p_id": 8999,
+			"clean_description": "Note this listing will require Vac seal to deliver safely. We will do our best to give you the strain you ask for , if it s out the next strain available that s just as good will be substituted in. The strains in are Purple Haze , Blue Dream , Skywalker OG , Tangie , Jack Cookies."
+		},
+		"id": 2945769811
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945769820,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "8a7c10ec-e39d-4580-bc09-ca39f06b41c5",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 27,
+							"labels": [
+								"Drug"
+							],
+							"text": "COCAINE",
+							"start": 20
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "c876da6a-f502-4086-abd3-085b315c30fe",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 53,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 46
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 316238,
+			"name": " PROMOTION 75 EURO 2 GR CLEAN COCAINE ",
+			"p_id": 10839,
+			"clean_description": "2 GRAM CLEAN FLAKES COCAINE. Clean Colombian. Cocaine straight of the brick Very strong smell with a very nice warm euphoria. Please read our terms and conditions before ordering."
+		},
+		"id": 2945769820
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945769831,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "071879f2-9d8c-4b53-a350-21b636010d76",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 5,
+							"labels": [
+								"Drug"
+							],
+							"text": "crack",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 241301,
+			"name": "0,5 gr crack good flach orginail !!!!",
+			"p_id": 2856,
+			"clean_description": "crack good flach orginail."
+		},
+		"id": 2945769831
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945769856,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "0a77038a-230b-4105-9cd6-9ed70261ecc7",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 41,
+							"labels": [
+								"Drug"
+							],
+							"text": "Methylfenidate",
+							"start": 27
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "7be01311-156c-448d-807d-5ec083d268a7",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 60,
+							"labels": [
+								"Drug"
+							],
+							"text": "Ritalin",
+							"start": 53
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "52a9db41-f8ea-4f65-875b-53ff13f893d2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 406,
+							"labels": [
+								"Drug"
+							],
+							"text": "Methylfenidate",
+							"start": 392
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 307859,
+			"name": "Ritalin | Sandoz Methylfenidate 30 x 10mg  40,- ",
+			"p_id": 7941,
+			"clean_description": "Authentic , original Dutch Methylfenidate by Sandoz. Ritalin. Each Package contains 30 x 10 mg tablets. Buy four packages and receive free tracked shipping. As we supply the four Dutch brands , feel free to order a variety and get your order shipped for free once your order consists of four packages or more. Hi ,. We are a company specialized in the distribution of genuine authentic Dutch Methylfenidate. Besides being the sole supplier of the Dutch Association of Hospital Pharmacists , we also supply companies and individuals who choose to stay out of the healthcare system."
+		},
+		"id": 2945769856
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945769996,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "2994ccec-2638-4e7e-874d-104387126d2b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "Ambien",
+							"start": 4
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "d30413e4-0ec2-4270-8cfb-596efdbd309c",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 21,
+							"labels": [
+								"Drug"
+							],
+							"text": "Viagra",
+							"start": 15
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "bbd8a18f-9784-424b-ae3f-7c3993553787",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 36,
+							"labels": [
+								"Drug"
+							],
+							"text": "xanax",
+							"start": 31
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "b5da9a79-d6fc-4af7-aec6-587552c87200",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 62,
+							"labels": [
+								"Drug"
+							],
+							"text": "Viagra",
+							"start": 56
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "51de73d4-5c27-4411-800b-267fc39b6fc4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 208,
+							"labels": [
+								"Drug"
+							],
+							"text": "Ambien",
+							"start": 202
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "2c0467c5-7d02-4ac3-acd1-fd1679ca4005",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 219,
+							"labels": [
+								"Drug"
+							],
+							"text": "Viagra",
+							"start": 213
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "e723edbc-2f85-40f0-a0fd-2571d93b91a3",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 234,
+							"labels": [
+								"Drug"
+							],
+							"text": "xanax",
+							"start": 229
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 249631,
+			"name": "Custom BFT",
+			"p_id": 8015,
+			"clean_description": "300 Ambien 100 Viagra 100 1 mg xanax. Unfortunately the Viagra comes from different country and there is 2 shipping costs 25 and 22. We however will give you a great deal to make up the difference. 300 Ambien 100 Viagra 100 1 mg xanax. Total 281. Total with 2 x shipping 330."
+		},
+		"id": 2945769996
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945770042,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "d0726022-7b5f-4648-900d-41de258552aa",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 20,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 13
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "089041bf-bda7-4e05-97f3-626aa4f7ab0f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 69,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 62
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "5f945bfb-7e4f-426d-bf9b-a37c8c284a24",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 104,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 97
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "f0bd7104-a4e1-4c6b-bc33-2995f8fb21b9",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 167,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocaine",
+							"start": 160
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "cceecb54-dd6e-4b55-9b32-45feaa028bdb",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 259,
+							"labels": [
+								"Drug"
+							],
+							"text": "cocain",
+							"start": 253
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 421941,
+			"name": "0.5 GRAM COCAINE FROM PERUVIAN KARTEL",
+			"p_id": 1685,
+			"clean_description": "Name Pervian Cocaine Purity 90 Color White Country Peru. This cocaine is one the purest and best cocaine on this market. We buy bricks from the first hand. Our cocaine is not mixed with substances. It s clean and very good for Freebase or sniffing. Our cocain do nt make you paranoid because its clean. It has a smell of Flowers and not the chemical dentist smell. If you want the best quality your on the right place."
+		},
+		"id": 2945770042
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945770119,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "dbba60a0-8c00-4e5a-8493-585536269351",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 11,
+							"labels": [
+								"Drug"
+							],
+							"text": "Sour Diesel",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "5500b345-e381-4b5d-a81b-51a975d2908e",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 37,
+							"labels": [
+								"Drug"
+							],
+							"text": "Sour D",
+							"start": 31
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "e6670187-01c1-4816-9aee-a76d516f2f46",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 231,
+							"labels": [
+								"Drug"
+							],
+							"text": "Sour Diesel",
+							"start": 220
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "5d7945d6-26c5-4dc8-819d-af4322e68093",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 345,
+							"labels": [
+								"Drug"
+							],
+							"text": "Sour Diesel",
+							"start": 334
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "8021985e-8494-4d3d-8400-fe1d335129f6",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 477,
+							"labels": [
+								"Drug"
+							],
+							"text": "Chemdawg 91",
+							"start": 466
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "50c1783d-3ba1-40df-974f-35354dfa4b29",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 493,
+							"labels": [
+								"Drug"
+							],
+							"text": "Super Skunk",
+							"start": 482
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "b99d7582-a437-4226-845d-55b819cac0c8",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 65,
+							"labels": [
+								"Drug"
+							],
+							"text": "sativa",
+							"start": 59
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 274322,
+			"name": "14g Sour Diesel Grade A+ Vendor Sale Free 2g",
+			"p_id": 2765,
+			"clean_description": "Sour Diesel , sometimes called Sour D , is an invigorating sativa - dominant strain named after its pungent , diesel - like aroma. This fast - acting strain delivers energizing , dreamy cerebral effects that have pushed Sour Diesel to its legendary status. Stress , pain , and depression fade away in long - lasting relief that makes Sour Diesel a top choice among medical patients. This strain took root in the early 90s , and it is believed to have descended from Chemdawg 91 and Super Skunk. Product was grown organically professionally processed by our team. This is greenhouse grown."
+		},
+		"id": 2945770119
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945770137,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "c4b51d73-beeb-40c6-af2a-f641e7b45561",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "Alprazolam",
+							"start": 0
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3b5b7741-354c-4361-bca3-ba49509b1b30",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 24,
+							"labels": [
+								"Drug"
+							],
+							"text": "Xanax",
+							"start": 19
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "937affaa-5eed-442f-bb71-e6ec50fc2b95",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 64,
+							"labels": [
+								"Drug"
+							],
+							"text": "Alprazolam",
+							"start": 54
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 373500,
+			"name": "10g Alprazolam Powder / Xanax Powder ",
+			"p_id": 1662,
+			"clean_description": "AlprazolamPowder / Xanax Powder 10 g 400 USD. We send Alprazolam Powder all over the world. Highest purity. You will recieve tracking after a few days. This is shipped from Hong Kong. Sometimes other parts of China. All Escrow. Most arrivals is 10 - 14 days some places a little longer. See refund policy. Thanks for looking have a nice day. REFUNDS 100 reship after 35 days non arrival. If it gets returned to sender YOU take the loss. Contact us for questions or first time buyer discount."
+		},
+		"id": 2945770137
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945770145,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "5502a9ed-7a72-4630-8ed8-9f9ca887a0b4",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 17,
+							"labels": [
+								"Drug"
+							],
+							"text": "Cocaine",
+							"start": 10
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "91bdb826-51d2-4ba7-b4fb-68f397b23572",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 31,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 27
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 69043,
+			"name": "CUSTOM ORDER",
+			"p_id": 2315,
+			"clean_description": "250 gr of Cocaine 150gr of MDMA 1000x 240 mg Turtles."
+		},
+		"id": 2945770145
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945786438,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "338593b5-abd1-44ae-851f-775340913e17",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 10,
+							"labels": [
+								"Drug"
+							],
+							"text": "DMT Changa",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 373914,
+			"name": "DMT Changa 3.5g @ 500 AUD Express Post Australia o",
+			"p_id": 11086,
+			"clean_description": "DMT Changa 35g 500 AUD Express Post Australia only."
+		},
+		"id": 2945786438
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945786471,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "3ef05921-f061-44f9-993f-ae9e2d8729c2",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 99,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 96
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "3278ae0e-1bda-4739-b9b6-6c8f78cd8872",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 203,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 200
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "1281179c-7b43-429a-a84f-4ee3f0a3944d",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 237,
+							"labels": [
+								"Drug"
+							],
+							"text": "LSD",
+							"start": 234
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "763eecbe-14c2-441a-8855-12e498aae66b",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 431,
+							"labels": [
+								"Drug"
+							],
+							"text": "acid",
+							"start": 427
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 338697,
+			"name": "10x 125ug LSD Blotter - FREE SHIPPING",
+			"p_id": 11394,
+			"clean_description": "Also available as a FE listing at a discounted price. This is an escrow listing for ten hits of LSD blotter dosed at 125 ug per tab. All of our blotter is accurately and evenly dosed with high purity LSD - 25. The specific variety of LSD will often change from batch to batch , but will always be of extremely high purity and provide lovely effects. Our products NEVER contain any substance other than what is advertised. This acid provides a clean and very enjoyable experience , with a wonderful body buzz and beautiful visuals. Artwork will vary from time to time. - Visit our shop to view listings for other quantities as well as all our high quality products."
+		},
+		"id": 2945786471
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945786522,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "64e71e08-aa00-4ebc-9965-8b82af578e18",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 98,
+							"labels": [
+								"Drug"
+							],
+							"text": "Methoxyacetyl Fentanyl",
+							"start": 76
+						}
+					},
+					{
+						"from_name": "label",
+						"id": "049be633-b3ec-4191-951e-6b703a2a9710",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 122,
+							"labels": [
+								"Drug"
+							],
+							"text": "FUF",
+							"start": 119
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 346746,
+			"name": "Methoxyacetyl Fentanyl (MAF) 500g 99.8% purity (sa",
+			"p_id": 10381,
+			"clean_description": "99 purity , 100 shipping warranty. genuine product. sales promotion in Sep. Methoxyacetyl Fentanyl is a replacement of FUF."
+		},
+		"id": 2945786522
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945786533,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "b8ac1927-398d-4646-8455-4ec3338fb9d0",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 8,
+							"labels": [
+								"Drug"
+							],
+							"text": "MDMA",
+							"start": 4
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 267847,
+			"name": "!!DISCOUNT OFFER!! 0,5 gr  Pure Clean MDMA 80-84%!",
+			"p_id": 10390,
+			"clean_description": "Our MDMA is produced by our own specialists , on the right production standards. Purity 80 - 84. DISCOUNT OFFER."
+		},
+		"id": 2945786533
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945810536,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "105d224f-74af-4670-9708-747326c30349",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 66,
+							"labels": [
+								"Drug"
+							],
+							"text": "Codeine",
+							"start": 59
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 427202,
+			"name": "AVAILABLE ACTAVIST PROMETHAZINE WITH CODEINE PURPL",
+			"p_id": 5267,
+			"clean_description": "GET YOUR COINS READY BEFORE CONTACT Color. Purple Contains Codeine Prescription is not required to purchase from us Quantity."
+		},
+		"id": 2945810536
+	},
+	{
+		"completions": [
+			{
+				"created_at": 1612790563,
+				"id": 2945810588,
+				"lead_time": 10.0,
+				"result": [
+					{
+						"from_name": "label",
+						"id": "c9a49777-8663-4096-9b9b-22ba1b10c10f",
+						"to_name": "text",
+						"type": "labels",
+						"value": {
+							"end": 11,
+							"labels": [
+								"Drug"
+							],
+							"text": "hydrocodone",
+							"start": 0
+						}
+					}
+				]
+			}
+		],
+		"data": {
+			"dream_id": 423538,
+			"name": "hydrocodone ",
+			"p_id": 1075,
+			"clean_description": "hydrocodone. 539 STRAIGHT FROM HEALTH MEDICS CARE 6 PER PILL. BULK DEALS 400 PILLS FOR 2400 FOR MORE INFOR POR ANY CUSTOM ORDER , YOU CAN JUST DOWNLOAD KIK OR WICKR ON YOUR PHONE APP AND ADD ME FOR A FAST AND MORE DISCREET CHAT. MY WICK ID burpboob MY KIK ID burpboob."
+		},
+		"id": 2945810588
+	}
+]

@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 956001,
+   "lead_time": 5439.144,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d65ef909-0c21-4b57-a803-390f3af4f3e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Tramadol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b7c45f9f-cb7b-4f58-9a42-642b850b455d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 344,
+      "labels": [
+       "Drug"
+      ],
+      "start": 336,
+      "text": "Tramadol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "61e36342-50a2-4a9a-9ca0-b4785e05f5b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 378,
+      "labels": [
+       "Drug"
+      ],
+      "start": 372,
+      "text": "Ultram"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "AlUcdS1Awh",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "OL - TRAM"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2beIC0dUGa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "top tram"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eOiPpDU_cM",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 213,
+      "labels": [
+       "Drug"
+      ],
+      "start": 204,
+      "text": "ol - tram"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "mbHr50rzYn",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 407,
+      "labels": [
+       "Drug"
+      ],
+      "start": 400,
+      "text": "opioid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "40 Tramadol 100 mg. Product is USUALLY OL - TRAM , but you may recieve another brand such as top tram etc. If this is an issue , let me know when you order that you only want the order accepted if I have ol - tram brand stocked. Shipped in blister packs. In some cases I use a stock photo , actual product packaging \/ color may differ. Tramadol , sold under the brandname Ultram among others , is an opioid pain medication used to treat moderate to moderately severe pain.",
+  "dream_id": 357117,
+  "golden": false,
+  "name": "40 Tramadol 100mg --[FAST USA SHIPPING]-- ",
+  "p_id": 554
+ },
+ "id": 956
+}

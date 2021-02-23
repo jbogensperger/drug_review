@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1205001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "28f28de1-987a-447c-9e01-09e292521419",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 694,
+      "labels": [
+       "Drug"
+      ],
+      "start": 685,
+      "text": "marijuana"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Please Choose 5 Flavors or we will pick them for you. -. PUNCH BAR Combo 5 Great Flavors. 1 Peanut Butter Milk Chocolate. 2 Peanut Butter Dark Chocolate. 3 Peanut Butter Milk Chocolate Crunch. 4 Peanut Butter Millk Chocolate. Caramel. 5 Dark Chocolate. Peanut Butter Jelly. - 39 calories , 4 g sugar per serving , Net Wt 22g Peak Effect 60 - 90 mins. THANK YOU FOR CHECKING THE LISTINGS. WE DO CUSTOM ORDERS. REACH OUT TO US FOR COMBINED SHIPPING. BULK PRICINGS LARGE FLOWERS UNITS. -. Punch Bars - delicious edibles that pack a punch - dose with caution as these are POTENT. Scored candy bars for easy dosing. Punch Edibles is deidcated to bringing you the best standard in medicated marijuana edibles. Made with the highest - grade concentrates , our mission is to compile that into a high potency bite size product. All of out concentrates are lab tested for potency and purity. We challenge you to the Punch Challenge.",
+  "dream_id": 226284,
+  "golden": false,
+  "name": "Punch Bar\/\/ 225mg Peanut Butter \/\/5 Pack",
+  "p_id": 850
+ },
+ "id": 1205
+}

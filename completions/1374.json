@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1374001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "82bc27f7-12db-42b1-9ecc-061323cfa8b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 286,
+      "labels": [
+       "Drug"
+      ],
+      "start": 283,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Offering 5 x Hits of the White on White blotter. This tabs have no print on both sides and are selflayed. 99 AZTEC CRYSTAL used , which are praised among a lot of users , laid with a precise technique. Tabs are perforated. Please be careful with the dosage , this is some strong ass LSD. Please think about finalizing your order as soon as it arrived to allow us working fast with the coins and caring about new products. Please do nt forget to leave a feedback to help me , if there is something wrong with the order hit me up with a message and I will resolve everything , do nt give bad feedback first. Thank you ,. MisterReese. FOR MORE INFO CHECK OUT TERMS CONDITIONS ON MY PROFILE.",
+  "dream_id": 304102,
+  "golden": false,
+  "name": "5 x White on White Blotter 110 g | FREE SHIP",
+  "p_id": 1050
+ },
+ "id": 1374
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1317001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d75c7c5e-7643-4257-8e4e-d730ed6bd9d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Crystal"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is very high quality Crystal and we have access to this quality and price all the time. Enjoy.",
+  "dream_id": 405461,
+  "golden": false,
+  "name": "1g Crystal Methamphetamine",
+  "p_id": 975
+ },
+ "id": 1317
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1139001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ef04b2e2-d14a-4cf8-928e-4f5610a8a9ae",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0b27de79-5d63-4347-a272-3c8697ce9d76",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 170,
+      "labels": [
+       "Drug"
+      ],
+      "start": 166,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "INTRO OFFER. FOR A LIMITED TIME ONLY. 1 KG MDMA FOR EU PRICE TO AL SCANDINAVIAN COUNTRYS. - DENMARK - SWEDEN - NORWAY -FINLAND. We are proud to deliver crystal clear MDMA produced from high quality double refined PMK oil. Beautiful crystal rocks of 84 maximum purity. Direct from the manufacturer so straight from the source guarantee. Spread the love. AURORABULK only the best for our scandinavian friends.",
+  "dream_id": 388712,
+  "golden": false,
+  "name": "1 KG MDMA INTRO OFFER",
+  "p_id": 766
+ },
+ "id": 1139
+}

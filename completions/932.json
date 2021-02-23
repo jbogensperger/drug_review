@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 932001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fba4ea06-b2b6-4b63-b9c1-664388f9a4e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Oh. BLACK BITTIES. Ram a lam 8 x 80 mg 5600. 80 mg amphetamine with choline DMAE for brain enhancement. Order by First class Mail and receive extras. 8 caps for 56. for those days when you want to be awake but you want to relax a little too.",
+  "dream_id": 284952,
+  "golden": false,
+  "name": "BLACK BITTIES 8 x 90mg capsules",
+  "p_id": 525
+ },
+ "id": 932
+}

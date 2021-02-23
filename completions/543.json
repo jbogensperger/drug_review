@@ -1,0 +1,355 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 543001,
+   "lead_time": 1117.45,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f0c91189-7778-4f0d-9310-70e1c0ac5662",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 134,
+      "labels": [
+       "Drug"
+      ],
+      "start": 127,
+      "text": "Og Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c33d9fbc-efe5-4b93-a564-e0026490ba79",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3d98f68-0602-4010-a983-b6dc88305d95",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "289f0b64-5c95-4884-89cf-5746464b497e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 511,
+      "labels": [
+       "Drug"
+      ],
+      "start": 505,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "da5f6b4e-42d2-4720-9660-ee749387d00d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 520,
+      "labels": [
+       "Drug"
+      ],
+      "start": 514,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e69fcdfa-fde2-4534-9368-15ceee098945",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 531,
+      "labels": [
+       "Drug"
+      ],
+      "start": 527,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dc8bd114-46cb-42b5-9500-5a44470dd7ec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 603,
+      "labels": [
+       "Drug"
+      ],
+      "start": 594,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "HI7icsrewX",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "SHcP4llxww",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aciP5KvRYu",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 448,
+      "labels": [
+       "Drug"
+      ],
+      "start": 438,
+      "text": "rest weeds"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "xjDBVwCxNf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "Rest Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "41vCVbsiiP",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "Rest Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "u5N4PTKzFb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 170,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "rest weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "XVvFWFiuZp",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 238,
+      "labels": [
+       "Drug"
+      ],
+      "start": 229,
+      "text": "rest weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "GD0XeP8cUJ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 269,
+      "text": "Super White Widow weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "yWg96dqz_K",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 501,
+      "labels": [
+       "Drug"
+      ],
+      "start": 495,
+      "text": "Hybrid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "FW2ryvIGJc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 675,
+      "labels": [
+       "Drug"
+      ],
+      "start": 658,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "j_762rx7vT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 705,
+      "labels": [
+       "Drug"
+      ],
+      "start": 687,
+      "text": "Super White Widow "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "VMow_uN5pU",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 733,
+      "labels": [
+       "Drug"
+      ],
+      "start": 716,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "u0C9ts88In",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 762,
+      "labels": [
+       "Drug"
+      ],
+      "start": 745,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "rcqpJ-PdH-",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 793,
+      "labels": [
+       "Drug"
+      ],
+      "start": 776,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "wB4h8Jz8ci",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 824,
+      "labels": [
+       "Drug"
+      ],
+      "start": 807,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "FgyD7SLxvI",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 855,
+      "labels": [
+       "Drug"
+      ],
+      "start": 838,
+      "text": "Super White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "oroWWvElBw",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 887,
+      "labels": [
+       "Drug"
+      ],
+      "start": 870,
+      "text": "Super White Widow"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Super White Widow Rest Weed. Product Name Super White Widow Rest Weed. THC percentage 11 Type Rest Weed. Following on from the Og Kush strain , here we have the rest weed. A very strong , relaxing stone , setting you back into , rest weed are the remains of our normal Super White Widow weed. a nice chilled environment where you can really appreciate this for what it is , and with little effecting your bank. If you are a lover of your rest weeds , give this a try. You wo nt regret it. 50\/50 Hybrid of Sativa \/ Indica. Rest weed , amazing price and will get you stoned to another level. Our marijuana is available in bulk as well. take a look below. 5 Gr Super White Widow 2000 10 Gr Super White Widow 3500 20 Gr Super White Widow 6000 50 Gr Super White Widow 13000 100 Gr Super White Widow 25000 250 Gr Super White Widow 47500 500 Gr Super White Widow 90000 1000 Gr Super White Widow 175000.",
+  "dream_id": 326688,
+  "golden": false,
+  "name": " 10 G Og Kush REST WEED",
+  "p_id": 168
+ },
+ "id": 543
+}

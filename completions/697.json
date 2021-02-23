@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 697001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0fa6d52a-3412-4765-84ef-3fb3442b0107",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 grams of racemic amphetamine. Like all my listings , this product comes straight from the chemist and is highly potent.",
+  "dream_id": 340055,
+  "golden": false,
+  "name": "10g Amphetamine",
+  "p_id": 374
+ },
+ "id": 697
+}

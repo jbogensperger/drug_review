@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 572001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dd6249d9-c796-4b64-b0cb-571230e729fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Cialis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is for 1 30 m. L bottle of liquid Cialis suspension , dosed at 20mg \/ m L Comes with a graduated 1 m L dropper.",
+  "dream_id": 289814,
+  "golden": false,
+  "name": "CIALIS 30 mL at 20 mg\/mL",
+  "p_id": 211
+ },
+ "id": 572
+}

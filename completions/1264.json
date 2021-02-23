@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1264001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0917af0d-910a-48f2-8079-b096066e2af5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "XANAX"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Real XANAX BARS. finally.",
+  "dream_id": 152661,
+  "golden": false,
+  "name": "1x 2mg Pfizer Xanax (Alprazolam) Bars",
+  "p_id": 915
+ },
+ "id": 1264
+}

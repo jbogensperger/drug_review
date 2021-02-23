@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1337001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c9f58739-1e77-490c-a990-1b614d66c311",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 102,
+      "text": "OG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 7 Grams of Paper Planes flowers in Sealed Nitrogen Can Indoor Top Shelf A. Cherry OG. Lemonade Orange Creamsicle. Ships in 2 1\/8th. Cans.",
+  "dream_id": 110183,
+  "golden": false,
+  "name": "Paper Planes Flowers  7 Grams",
+  "p_id": 1002
+ },
+ "id": 1337
+}

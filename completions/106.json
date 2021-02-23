@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 106001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bd0f4005-c9d1-426f-8dc0-a17cb207dc6c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 87,
+      "labels": [
+       "Drug"
+      ],
+      "start": 82,
+      "text": "Speed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "update. If you guys buys so quick near i am out of stock 100g left. -. 5 grams of Speed - Paste about 75 Purity. from Amsterdam show my Ratings and only trust PABLO. -.",
+  "dream_id": 421517,
+  "golden": true,
+  "name": "5 gr of Speed-Paste ca. 75%+ Purity",
+  "p_id": 1420
+ },
+ "id": 106
+}

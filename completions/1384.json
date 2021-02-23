@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1384001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7e8c1ddc-2580-4446-bdca-2800da6eef62",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "tobacco"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Genuine GOLDEN VIRGINIA handrolling tobacco. - 10g pouch - JUST BACK FROM HOLIDAY SO WE HAVE SOME GENUINE GOLDEN VIRGINIA PACKETS FOR SALE. PLEASE READ OUR VENDOR PROFILE PAGE FOR ALL OF OUR TERMS AND CONDITIONS - INCLUDING REFUND POLICY. YOU SHOULD ALWAYS DO THIS WITH A NEW VENDOR ANYWAY.",
+  "dream_id": 301545,
+  "golden": false,
+  "name": "100% GENUINE GOLDEN VIRGINIA ROLLING TOBACCO - 10g",
+  "p_id": 1061
+ },
+ "id": 1384
+}

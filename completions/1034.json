@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1034001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "900ef1d5-cd76-4a47-9bf3-3494073b59b8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 257,
+      "labels": [
+       "Drug"
+      ],
+      "start": 247,
+      "text": "Alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4c87332f-76eb-42e1-901b-bb816f4f6831",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "XANAX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "77120191-2168-41dd-ae17-0a3052bbe538",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0e4c102d-b2fc-4069-9517-8a1ce2a4fa92",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 191,
+      "labels": [
+       "Drug"
+      ],
+      "start": 181,
+      "text": "Alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "XANAX. CONTACT US. Go to your App Store or play store and download kik or wickr and add usadamsgreen1234. KIKadamsgreen1234. WICKRadamsgreen1234. listing for 1000 x 2 mg Xanax Bars Alprazolam. These are perfectly pressed bars and contains 2 mg of Alprazolam each. USA domestic shipping only. What you order is what you get. Enjoy.",
+  "dream_id": 432014,
+  "golden": false,
+  "name": "XANAX",
+  "p_id": 652
+ },
+ "id": 1034
+}

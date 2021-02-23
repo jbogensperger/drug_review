@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 459001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7b63ebee-b80c-44d2-8b5a-6db4da913af0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "roxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d343da21-2ce0-43ab-b97f-610e5f7bc9a6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 212,
+      "labels": [
+       "Drug"
+      ],
+      "start": 204,
+      "text": "Percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "76bbed70-aa29-4285-82ea-5b7cbcce6145",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 238,
+      "labels": [
+       "Drug"
+      ],
+      "start": 231,
+      "text": "Tylenol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 mg roxycodone 10 pills for 100 instant release , can be snorted smocked whatever no blockers from my script from pharmacy no fent. The pills in the picture are the ones you will recieve different from Percocet because it has no Tylenol so there better for your liver.",
+  "dream_id": 419411,
+  "golden": true,
+  "name": "10mg roxycodone IR 10 pills for 100$, 10$ each",
+  "p_id": 6825
+ },
+ "id": 459
+}

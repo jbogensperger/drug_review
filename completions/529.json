@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 529001,
+   "lead_time": 2330.922,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eYwR3bf0Ki",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OC formula"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ljJKJBZyas",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 89,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "OC FORMULA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OC formula in blisters. Ready foR WORLDWIDE SHIPPING. ONLY VENDOR WITH GENUINE OC FORMULA 80 mg. Other vendors only have low quality generic 80 mg made by Indian company AUROBINDO which ca nt be snorted , sniffed or injected.",
+  "dream_id": 290963,
+  "golden": false,
+  "name": "SEPT SALE: 100X Oxycontin 80mg (crushable ",
+  "p_id": 141
+ },
+ "id": 529
+}

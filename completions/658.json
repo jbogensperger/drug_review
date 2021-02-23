@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 658001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fe7c0968-ed7f-4697-842b-9910cea5d04e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "615c5d81-471d-4af8-8c0e-66ad56dac09e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 116,
+      "labels": [
+       "Drug"
+      ],
+      "start": 112,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b724e87f-9730-4eba-94f4-4c8a196effdd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 346,
+      "labels": [
+       "Drug"
+      ],
+      "start": 342,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4290718d-6293-488e-b91a-46520b6b83b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 363,
+      "labels": [
+       "Drug"
+      ],
+      "start": 359,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is for 10 x 200 mg MDMA pills for 190 at 19 each. Hey everyone , I am proud to bring this pressed 100 pure MDMA to the market. This is the same as the crystal form products found on other vendor pages , but this is pressed into a fun and convenient pill. I have personally tested and found these to be pure. Each of these contain 02g of MDMA. It is pure MDMA without any other additives pressed into a pill form.",
+  "dream_id": 78210,
+  "golden": false,
+  "name": "PURE HIGH QUALITY MDMA (SUPREME) 200mg x 10",
+  "p_id": 329
+ },
+ "id": 658
+}

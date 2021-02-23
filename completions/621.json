@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 621001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "325a46fa-2fdd-467c-b5bc-3671d3882387",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Currently Out Of Stock. Adderall 10 mg Instant Release Pharma Grade. Quantity is low since source is direct from pharmacy. This listing is for a total of 5 , each piece therefore is 75.",
+  "dream_id": 376183,
+  "golden": false,
+  "name": "Adderall 10mg Instant Release (OOS)",
+  "p_id": 283
+ },
+ "id": 621
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 6001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0ee32241-8024-48d7-bc1b-f0b38253e2dc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 287,
+      "labels": [
+       "Drug"
+      ],
+      "start": 274,
+      "text": "Cinderella 99"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f9381bc9-fa16-4be8-bb35-363edb7c6ad6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "Kushs"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0272d89b-4562-4848-abd8-d6d5b3f73cc4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 366,
+      "labels": [
+       "Drug"
+      ],
+      "start": 363,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I just finished a harvest and everything is fresh , sticky and the smell is Dank as fuck. Pictures are new and buds are solid and goood size. Arguably one of the best OG Kushs in the world ,. God s Gift strain is a cross of the Mendo Purpls and a Killer Queen , ie G - 13 x Cinderella 99. No matter what your belief system , this strain is a gift with its strong THC content of 22.",
+  "dream_id": 6088,
+  "golden": false,
+  "name": "God's OG Kush   3.5 Gram ",
+  "p_id": 7
+ },
+ "id": 6
+}

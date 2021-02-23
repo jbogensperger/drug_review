@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1310001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7c0fb46a-0a60-4566-9f66-3d18e3849562",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "tramadol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I have a small supply of tramadol 200 mg tabs which will be shipping from the us. These are in blister packs of 10. So this auction is for one blister pack of 10. mmm I love this stuff when I do my rounds fucking all the boys in the neighborhood one of these takes care of my sweet little pussy owie. Brought to you by lindalovelace 499 \/ 5 , 5001000 deals.",
+  "dream_id": 5943,
+  "golden": false,
+  "name": "Tramadol 200 mg in blisters ships from US",
+  "p_id": 967
+ },
+ "id": 1310
+}

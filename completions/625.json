@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 625001,
+   "lead_time": 1537.673,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c8453599-5d5a-4077-8cc9-723b6ce6b573",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 83,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0MSbaVQf3x",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "Indica "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "GH75Cx2s-X",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "PowerPlants"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Our nice PowerPlants are Back sweet taste Typical Indica Strain High Recomened Weed as you might allready know n.",
+  "dream_id": 377240,
+  "golden": false,
+  "name": "PowerPlants 5g",
+  "p_id": 289
+ },
+ "id": 625
+}

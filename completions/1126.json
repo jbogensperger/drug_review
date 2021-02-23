@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1126001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "03662ad1-451d-4bd1-bfb4-8bec4c0f10ec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 150,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "Green Dragon Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "857aed01-e755-4277-b9bf-acdee07424c7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 188,
+      "labels": [
+       "Drug"
+      ],
+      "start": 174,
+      "text": "Hyb Blue Dream"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SPECIAL LIMITED TIME OFFER - bulk order of 20 Absolute Xtracts Vape Cartridges with FREE expedited shipping. Here are the flavors. Green Dragon Indica Girl Scout Cookies I\/S Hyb Blue Dream I\/S Hybrid OG Kush I\/S Hybrid Blackberry Kush I\/S Hybrid Sour Diesel Sativa. Please see our other listings for a breakdown of each strain s profile. You may mix n match IF you communicate accurately with me about exactly what you want. There will be no returns or exchanges for obvious reasons. Please establish a good reputation before making this bulk order.",
+  "dream_id": 330060,
+  "golden": false,
+  "name": "20x Absolute Xtracts Vape Cartridges - FREE SHIP",
+  "p_id": 749
+ },
+ "id": 1126
+}

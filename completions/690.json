@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 690001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cc6933f6-8371-4d7d-9e07-f7b284aefd07",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "hashish"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d45580e6-e3bf-41da-b384-a2d4b70ddc11",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "hashish"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Limited Edition is the best hashish , it is a unique and very good hashish. It is light brown , very juicy without being greasy , taste great and guarantee a good high. kind regards. Christiania.",
+  "dream_id": 3262,
+  "golden": false,
+  "name": "8g of Limited Edition.",
+  "p_id": 366
+ },
+ "id": 690
+}

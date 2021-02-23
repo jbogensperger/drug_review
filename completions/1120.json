@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1120001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1e10987e-4ddc-4ffa-abd6-ac63ec23361e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "WEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c3375b33-15a8-4914-b46d-eb1ead30565d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "WEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0315a2bc-5396-438e-a416-f70e48b2878d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "GANJA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8097d67e-ba61-416c-836a-f197445fdaa9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 226,
+      "labels": [
+       "Drug"
+      ],
+      "start": 222,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8208688b-34cc-4f60-baec-f5c7b18a50c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 426,
+      "labels": [
+       "Drug"
+      ],
+      "start": 422,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d40ee4d9-5ea2-43b5-974d-1f6d90303271",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 434,
+      "labels": [
+       "Drug"
+      ],
+      "start": 430,
+      "text": "WEED"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "NEW- WEED28 g FREEZELANDS145 - GRADE A. -. Amount 28 GG AKA 1OZ Type \/ FREEZLANDS. Product WEED \/ GANJA Price 145 Amount 28G AKA 1 OZ. -. -GradeGradeGrade-. lOOKS A GRADE. WELL TRIMED AND PRETTY TASTE. B - taste like thai weed HIGHBUZZ A - no para. happynesss. Need to play with yous sex or sleep SMELL. C - ITS SMELLS GOOD MAN , JUST THE SMELL VANISHES WITHIN HALF A DAY AFTER OPENING THE PACKAGE. Final Grade IS THE - A Weed. - WEED28 gFREEZELANDS145 AGRADE.",
+  "dream_id": 342486,
+  "golden": false,
+  "name": "28GFREEZELANDINDICA145",
+  "p_id": 743
+ },
+ "id": 1120
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 26001,
+   "lead_time": 947.366,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1f29d9f1-fad1-4a10-8748-d34cbc6cb6a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a027ec8e-419d-476c-a564-94e36354f3e5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "xtc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "OdUjaXOIw0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "speed "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "150g speed 50g white mdma if you have and 70 plein xtc.",
+  "dream_id": 365860,
+  "golden": false,
+  "name": "Custom for T***3",
+  "p_id": 36
+ },
+ "id": 26
+}

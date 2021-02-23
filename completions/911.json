@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 911001,
+   "lead_time": 4543.826,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7f5968e2-873c-4d81-bfbe-ece49d7e0432",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Carisoprodol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "k9oLIBbFxx",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 146,
+      "labels": [
+       "Drug"
+      ],
+      "start": 134,
+      "text": "barbiturates"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Carisoprodol is a prescription drug that is a centrally acting skeletal muscle relaxant that produces all the effects associated with barbiturates. It is a pro drug and is both structurally and pharmacologically related to tranquilizers which of course has a sedative effect on the user. This medication is extremely popular in the USA while it is not very common in Australia it is a great medication for muscle pain , anxiety and insomnia. Please check the Profile page for shipping cut off time as it is subject to change , Thank you.",
+  "dream_id": 312525,
+  "golden": false,
+  "name": " 80 x 350mg SOMA (Carisoprodol) ",
+  "p_id": 503
+ },
+ "id": 911
+}

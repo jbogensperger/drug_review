@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 122001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6aeef9a7-eea1-4806-97c6-4eefc07ebb7b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Canabidiol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4a8e09c8-9b02-460f-9d5b-ef90b5a78c8c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4c28aa65-e952-4a69-9cc7-c2540839bed9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8ffb781d-21bb-4a71-9904-4e1813b79404",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Canabinol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "69c69cbc-76df-4629-8b35-2941203c1a8b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "CBN."
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3b9fc184-2629-477d-b905-2f836dcfb50e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "CBG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Canabidiol CBD. 2 THC 21 Canabinol CBN. 05 CBG. Will the original weight of 2 eggs. 2 culeros thc high escrow. - During the ordering process , enter your correct mail data in the following format. Shipping Name Name and Surname , no abbreviations , Or names of public figures. Shipping address Exactly as it is to appear on the envelope. - Once your order has been marked as Sent it will be shipped within 24 hours. - Please be a member of any forum , I ll be very grateful for speaking there of our service and product. Have a nice day.",
+  "dream_id": 81734,
+  "golden": true,
+  "name": "18G EL CULERO GREEN ONE QUALITY 120",
+  "p_id": 3199
+ },
+ "id": 122
+}

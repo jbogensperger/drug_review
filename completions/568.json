@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 568001,
+   "lead_time": 2101.812,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c2140b09-cc00-4cd3-9e70-4f077b1c0e2d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5928e354-1fcf-44aa-a47b-484a4c2aa7f9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 233,
+      "labels": [
+       "Drug"
+      ],
+      "start": 225,
+      "text": "Scorpion"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "L6PbjaQARL",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 314,
+      "labels": [
+       "Drug"
+      ],
+      "start": 302,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "sNEkHQZICf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 539,
+      "labels": [
+       "Drug"
+      ],
+      "start": 531,
+      "text": "hashish "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is the highest quality hash available from us. This will leave you with a serious high , and keep you couchlocked for several hours if your tolerance ca nt handle it. it s very similar to our other discountinued product Scorpion. The inhale is smooth yet strong as fuck , you can really taste the Amnesia Haze its laced with and leaves you with that tickling sensation deep in your lungs. The smell and look gives the quality away - The microscope pictures hints at the high quality. We ca nt recommend this hash enough. Best hashish currently on Dreammarket.",
+  "dream_id": 289345,
+  "golden": false,
+  "name": "1g 'Scorpion-King' *Top Quality*",
+  "p_id": 207
+ },
+ "id": 568
+}

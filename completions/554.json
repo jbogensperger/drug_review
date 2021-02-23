@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 554001,
+   "lead_time": 1859.996,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7ac27050-d291-4e2e-b256-6da2aaa953e5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 105,
+      "labels": [
+       "Drug"
+      ],
+      "start": 96,
+      "text": "mescaline"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "436a927f-2436-43f7-8568-59a44a59dc78",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 118,
+      "labels": [
+       "Drug"
+      ],
+      "start": 114,
+      "text": "MAOI"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "11c0641e-117c-4444-abcc-aa8ce962fd9d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 177,
+      "labels": [
+       "Drug"
+      ],
+      "start": 173,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "D3EBviD5vF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "San Pedro cactus"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "S93UYiEcDi",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 68,
+      "text": "san pedro"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Domestic USA shipping for 100g San Pedro cactus powder. Please note san pedro contains not only mescaline but has MAOI properties , please do not combine cactus powder with MDMA.",
+  "dream_id": 403882,
+  "golden": false,
+  "name": "San Pedro powder 100g",
+  "p_id": 186
+ },
+ "id": 554
+}

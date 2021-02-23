@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1279001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cb8d63fc-69e5-4b1c-ad14-ff8b3e449b6c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5c908e87-6602-4cf5-8224-f3edee931056",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 161,
+      "labels": [
+       "Drug"
+      ],
+      "start": 158,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "182a3cef-5f2b-4f83-a568-22ae914247c2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 168,
+      "labels": [
+       "Drug"
+      ],
+      "start": 164,
+      "text": "CBDs"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "The capsules are made with high grade cannabis oil source directly from the island of Jamaica. This product is highly medicinal and highly potent packed with THC \/ CBDs 200 mg each. 25 Capsules. FIRST 50 ORDERS WILL RECEIVE A SPECIAL SURPRISE GIFT BAG.",
+  "dream_id": 231799,
+  "golden": false,
+  "name": "THC-CBD Jamaican Organic Coconut Oil Capsules (25)",
+  "p_id": 930
+ },
+ "id": 1279
+}

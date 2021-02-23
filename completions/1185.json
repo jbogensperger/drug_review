@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1185001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "45fdbcd4-11ec-42ce-bce6-e4a93f2f2e67",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "COCAINE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We are offering a VERY strong COCAINE with Perfect Smell , Perfect Taste , Perfect Quality , For Nose and also cook for crack. It s original from a 1 KG brick , this stuff is really amazing. DIFFERENT FROM ALL OTHER STUFF ARROUND HERE. PRICELIST 05G - 34 1G - 64 2G - 124 5G - 305. READ BELOW FOR ALL DETAILS.",
+  "dream_id": 262092,
+  "golden": false,
+  "name": " 0.5G PURE Cocaine +90% TOP-QUALiTY ",
+  "p_id": 828
+ },
+ "id": 1185
+}

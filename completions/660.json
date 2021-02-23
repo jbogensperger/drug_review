@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 660001,
+   "lead_time": 544.526,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "365be2f5-3302-4d05-9b03-b3ea9885145a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 94,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c3d79895-ced4-4a75-be03-f219d85d7f64",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 110,
+      "labels": [
+       "Drug"
+      ],
+      "start": 107,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ecf87e27-8b24-42ff-b782-857c1f8eabe0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 164,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eab2eeb7-c884-48c3-b38a-56de97ba9ccc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 168,
+      "labels": [
+       "Drug"
+      ],
+      "start": 165,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "nXEijjFIf_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 99,
+      "text": "CBN "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BACK IN LIMITED STOCK , THANKS FOR YOUR PATIENCE. THIS IS A LISTING FOR 2 CARTRIDGE UNITS. THC 596 CBN 097 CBD 000 Sweet Earthy. Berry flavor , with a very high THC CBD ratio. Absolute Xtracts is a premier California concentrate manufacturer. All of their products are extracted with CO2 rather than butane , which is toxic. Ask around - the flavor and high are unmatched. NEW CUSTOMERS - PLEASE FINALIZE YOUR ORDER AFTER YOU RECIEVE IT. THERE HAVE BEEN ISSUES WITH ORDERS SITTING FOR 2 WEEK AFTER DELIVERY - THATS UNACCEPTABLE.",
+  "dream_id": 126398,
+  "golden": false,
+  "name": "2x Absolute Xtracts Vape Cart - Blackberry Kush",
+  "p_id": 333
+ },
+ "id": 660
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 896001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "728a7a4c-6637-4861-ac90-6b5fe971345d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a94c1a26-bc4d-492c-85db-43a175bd4355",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Adderall 30 mg instant release - Amphetamine Salts. Genuine pharmacy dispensed. I ca nt guarantee which stamp you ll get since I get different scripts filled from different pharmacies. If you have a preference , you can request it , but there is no guarantee.",
+  "dream_id": 257972,
+  "golden": false,
+  "name": "Qty 10 - Adderall 30mg instant release",
+  "p_id": 482
+ },
+ "id": 896
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 974001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d6239f32-e87d-476a-81e1-18ffd78c1c31",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "Heroin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fecb2e7c-ff60-491e-bfcb-cc920a5da2c4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "Heroin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7c0b5bd6-9732-4863-ab41-3faabe235107",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 202,
+      "labels": [
+       "Drug"
+      ],
+      "start": 196,
+      "text": "Heroin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "05g of High Quality. 3 Heroin. Product Highest Quality 3 Heroin -. This is a Bestselling Product. This is quality tackle. Really strong 10 \/ 10 gear that run that runs clean and has a nice taste. Heroin is light Brown , smokes well , has a potent smell and your order will be cut straight from the brick. Shipping Order and FE \/ Finalize by 6 pm for Next Day Delivery. Feedback. 5 Excellent quality - some of the nicest 3 I ve ever tried. Thank you. NDD , strong and runs well , will definitely order again nice one. FE for the best 3 on here by far. I have tried all the top H vendors and this is easily the best. THE BEST. Good 3 and very fast delivery , nice one guys. Lovely gear , NDD. Trustworthy vendor. FE for the best 3 on here. Better than FM 4 even I shit you not.",
+  "dream_id": 178642,
+  "golden": false,
+  "name": "0.5g of High Quality #3 Heroin",
+  "p_id": 577
+ },
+ "id": 974
+}

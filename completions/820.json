@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 820001,
+   "lead_time": 4107.999,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eCzvvUtMvo",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "LEVA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "NO LEVA. Origin Colombia. Cutting NO , straight from source Texture Shiny flakey snow , come in rocks. Purity range 80 - 90. This is first hand source , give you the EUPHORIC feeling without the need to bump instantly.",
+  "dream_id": 11986,
+  "golden": false,
+  "name": "Crystal Flake Cocaine -  28g",
+  "p_id": 348
+ },
+ "id": 820
+}

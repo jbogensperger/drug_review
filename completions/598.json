@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 598001,
+   "lead_time": 2407.599,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ce4ec1a8-577d-4130-88bc-21eecbc8039d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Nanadrolone Decanoate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-Et765Gy_J",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 85,
+      "text": "ND - 10"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Nanadrolone Decanoate Raw Powder 10 Grams 995 Purity Worldwide Shipping Product Code ND - 10.",
+  "dream_id": 11847,
+  "golden": false,
+  "name": "Nandolone Decanoate Raw Powder 10 gram",
+  "p_id": 256
+ },
+ "id": 598
+}

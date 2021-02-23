@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1019001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a314c819-c00d-4c10-bd71-5314fe7e9042",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "KosherKush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- Strain KosherKush - 72 hours vacuum purge - Very tasty.",
+  "dream_id": 329035,
+  "golden": false,
+  "name": "1 Gram Kosherkush BHO",
+  "p_id": 636
+ },
+ "id": 1019
+}

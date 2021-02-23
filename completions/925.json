@@ -1,0 +1,257 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 925001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "73a61db1-0769-4670-8a2b-603cbf8ac8e9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 350,
+      "labels": [
+       "Drug"
+      ],
+      "start": 336,
+      "text": "Benzocaine Hcl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b6c4df59-c2da-49f3-a699-8c103e9ccadc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 377,
+      "labels": [
+       "Drug"
+      ],
+      "start": 353,
+      "text": "Benzocaine Hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "38a33527-a328-4fca-9b5d-9d58585f4924",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 404,
+      "labels": [
+       "Drug"
+      ],
+      "start": 380,
+      "text": "Benzocaine Hydrochloride"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e3c76567-c3f4-4b48-8f0b-0b41ff1b9bc4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4b811f42-4fd4-40e9-b775-65b1a47b916f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 255,
+      "labels": [
+       "Drug"
+      ],
+      "start": 248,
+      "text": "Benzoak"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0fb75e9b-d45c-498d-93f0-573962e0c9ce",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 268,
+      "labels": [
+       "Drug"
+      ],
+      "start": 258,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "19517eec-e9ec-4fb9-b4f5-7252ec57a5ce",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 281,
+      "labels": [
+       "Drug"
+      ],
+      "start": 271,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8d966925-8b4f-4642-8af2-8fc1195eb118",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 305,
+      "labels": [
+       "Drug"
+      ],
+      "start": 295,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e2f33ef0-76c8-462d-a934-e764dd0d452c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 324,
+      "labels": [
+       "Drug"
+      ],
+      "start": 314,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ae86af3-9dcb-4643-9fbd-af0b05405972",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 424,
+      "labels": [
+       "Drug"
+      ],
+      "start": 414,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "07b6352e-11eb-4000-8d5c-c8af353da7ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 441,
+      "labels": [
+       "Drug"
+      ],
+      "start": 431,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "475d7bc1-f828-495c-9e26-e581eeec9c23",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 467,
+      "labels": [
+       "Drug"
+      ],
+      "start": 457,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d6edc920-b836-4841-824d-954113c99e37",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 483,
+      "labels": [
+       "Drug"
+      ],
+      "start": 473,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ced7c04-361a-4629-abb5-e9a92c727257",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 496,
+      "labels": [
+       "Drug"
+      ],
+      "start": 486,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5838cec2-3692-43ca-91e6-db8f6e3c4642",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 514,
+      "labels": [
+       "Drug"
+      ],
+      "start": 504,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f6f8b436-81aa-47e5-8592-4c249804c50f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 532,
+      "labels": [
+       "Drug"
+      ],
+      "start": 522,
+      "text": "Benzocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "012f47cc-acb6-4c2a-8ac0-33f8cb5a5837",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 551,
+      "labels": [
+       "Drug"
+      ],
+      "start": 541,
+      "text": "Benzocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ProName Benzocaine Raw Powder CasNo 94 - 9 -7. Appearance White or Almost White crystalline powder Production Capacity 100 Kilogram \/ Month Purity 99 min. Storage Store in refrigerator Residue on Ignition 99 Purity 99. tag Aethoform , Anesthesin , Benzoak , Benzocaine , Benzocaine anesthetic , Benzocaine Cough , Benzocaine for sale , Benzocaine Hcl , Benzocaine Hydrochloride , Benzocaine Hydrochloride Powder , Benzocaine raw , Benzocaine usage , Canada Benzocaine , UK Benzocaine , Benzocaine 100g , Benzocaine 500g , Benzocaine 1000g , Benzocaine 1 kg.",
+  "dream_id": 273208,
+  "golden": false,
+  "name": "99%+ purity Benzocaine 100g",
+  "p_id": 518
+ },
+ "id": 925
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 18001,
+   "lead_time": 556.161,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "25f12424-3e52-4f51-a912-cb61283bc490",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "Aspirin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "061e5f1d-b4b9-4709-aab7-1268a83241e6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 75,
+      "text": "Tylenol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "847490d6-9dcf-4a8b-9647-2209b15ea5cf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 105,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2acd31e9-6a04-4f01-82fa-ad880b46bdcf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PzI9_r0Ne1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 237,
+      "labels": [
+       "Drug"
+      ],
+      "start": 230,
+      "text": "05 - 52"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing 10 - Tablets Oxycodone M - 05 - 52. There is no Aspirin or Tylenol in this tablet , Just Oxycodone. Tablet is white , imprint on 1st side is the letter M , on the opposite side tablet is imprinted with the numbers 05 - 52.",
+  "dream_id": 285436,
+  "golden": false,
+  "name": "SOLD OUT - OXYCODONE Roxy's 5mg 10-Tablets M-05-52",
+  "p_id": 22
+ },
+ "id": 18
+}

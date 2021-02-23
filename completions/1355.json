@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1355001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c8623e56-b9c0-4f92-baa4-7ae235abda5e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "mdma"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Get your molly directly from the rock. Really good mdma. We do nt ship to Spain , but for this offer we ship to Ibiza hotels.",
+  "dream_id": 410357,
+  "golden": false,
+  "name": "1G MDMA 79% LAB TESTED",
+  "p_id": 1027
+ },
+ "id": 1355
+}

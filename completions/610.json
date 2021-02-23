@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 610001,
+   "lead_time": 4803.905,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2790d5c8-9f3f-4ac0-81fe-006f3be3ce2b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Diazepams"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "t8RDNBvqBy",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "Valium "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Blue Diazepams Valium 10 mg from STADA. Picture is different , pills are blistered.",
+  "dream_id": 106284,
+  "golden": false,
+  "name": "10 Valium (Diazepam) 10mg (STADA)",
+  "p_id": 270
+ },
+ "id": 610
+}

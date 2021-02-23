@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1111001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d6e2fcf8-a74e-4e45-80e1-51b00483f06b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 286,
+      "labels": [
+       "Drug"
+      ],
+      "start": 275,
+      "text": "alaprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7770f7a8-a669-49d1-af21-19df6ad2db65",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ec241969-68dd-4606-a503-0b84d4e1009d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 487,
+      "labels": [
+       "Drug"
+      ],
+      "start": 482,
+      "text": "xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 10,000 Xanax bars pressed by me , PharmaFox. These are the G3722 white bars. These are the perfect shade of white and indistinguishable from their pharmacy counterparts. These bars look absolutely amazing. These bars each have approximately 25 mg of pure alaprazolam in each and every one. The solid press of each bar ensures it to have a clean , crisp snap when broken into halves and quarters. The AI to binding agent ratio is just right to give it the bitter xanax taste benzo lovers all know and love. Each pack is shipped in a secured container to prevent and damaged or broken bars in transit. These bars are manufactured with outstanding quality at a very competitive price. Why not give them a try. Once you do , you ll know they were made by the best , PharmaFox.",
+  "dream_id": 416867,
+  "golden": false,
+  "name": "(Quantity x10,000) 2.5mg Xanax Bar RxPress G3722 r",
+  "p_id": 732
+ },
+ "id": 1111
+}

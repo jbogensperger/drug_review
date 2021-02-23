@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1334001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1fafc488-074b-4b4a-b9f9-63b3343678d6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9e5518d7-325e-427f-bacb-e92e89490329",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "EXCELLENT PRICE - 2G COCAINE MOTHER OF PEARL - 380. Best value for money Cocaine on the Darknet Market. The quality is top notch. You will not be disappointed. Many satisfied customers. PS. We strive to get your orders out as quick as possible so that you can get your order in a few days. All we ask in return is that can you please FINALIZE the order as soon as you receive the package. In order for us to continue providing you with great service , great products and at excellent prices , PLEASE PLEASE PLEASE FINALIZE the order as soon as you receive it.",
+  "dream_id": 311844,
+  "golden": false,
+  "name": "2GRAM COCAINE $380 - MOTHER OF PEARL",
+  "p_id": 997
+ },
+ "id": 1334
+}

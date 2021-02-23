@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 427001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7e1a0ad8-884e-4ef3-b522-991a0736e785",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "These"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These are ideal for studying and working in tedious work environments that require stringent focus.",
+  "dream_id": 394041,
+  "golden": false,
+  "name": "10x 30MG ADDERALL IR",
+  "p_id": 234
+ },
+ "id": 427
+}

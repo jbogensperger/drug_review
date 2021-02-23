@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1184001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9b2abce4-a46e-453a-a8ce-0a591864501c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Carefully selected seeds stock planted in unfertilized soil high in the Himalayas. Organis sativa landrace plants are carefully rubbed lovingly with clean hands , the small resin balls collected hand pressed together to form a perfect final product.",
+  "dream_id": 378800,
+  "golden": false,
+  "name": "SUPERPUFF FINEST INDIAN HAND RUB HASH - 25g",
+  "p_id": 826
+ },
+ "id": 1184
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 883001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "160e44f5-81aa-408b-91de-6c910b4c869e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "We"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We re back folks. Same great people , same great prices , same great product , same fast shipping. All strains are grown indoor in a controlled disease free environment. Always Grade. A top notch bud unless other wise listed. US only shipping. We will add an extra 10 on ALL ORDER that are finalized. Please notify us that you have finalized immediately after ordering and we will mark it on your order. PLEASE FINALIZE YOUR ORDERS. If you do not finalize we will be forced to stop offering online goods all together. As you can imagine , Alpha Bay and Agora cost us a pretty penny. So please finalize your order. THANK YOU SO MUCH SBC has been around a long time. And we have never done anyone wrong. Thank you for your business. - SBC. Staff.",
+  "dream_id": 418380,
+  "golden": false,
+  "name": "14 Grams Super Lemon Haze ",
+  "p_id": 461
+ },
+ "id": 883
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 969001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9804c86c-a9b1-4260-ba2e-fd06dfcb72ae",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 183,
+      "labels": [
+       "Drug"
+      ],
+      "start": 174,
+      "text": "Huperzine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "09e8c695-080c-4cba-b680-c4ee57949db6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 295,
+      "labels": [
+       "Drug"
+      ],
+      "start": 286,
+      "text": "huperzine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6a4d9186-3c13-4d83-b26c-ee54e6064768",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Huperzine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Huperzine. A is a naturally occurring sesquiterpene alkaloid extracted from Huperzia serrata. It is a reversible acetylcholinesterase inhibitor and NMDA receptor antagonist. Huperzine. A has been investigated as a treatment for neurological conditions such as Alzheimer s disease. Tags huperzine. A nootropic alsheimers dementia memory alkaloid terpene sesquiterpene.",
+  "dream_id": 415879,
+  "golden": false,
+  "name": "Huperzine A [10g] 1% Huperzia Serrata Extract",
+  "p_id": 571
+ },
+ "id": 969
+}

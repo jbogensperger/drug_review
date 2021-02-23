@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 94001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d36ed750-b377-46d6-9f94-f871cfb2980d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9fa12cb8-6f38-4b86-8837-4555b8b11f57",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 89,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Genes sativa Genetics South African Flowering 55 - 65 Days Harvest High Height Medium THC 15 - 20.",
+  "dream_id": 301956,
+  "golden": false,
+  "name": "5 Grams South African Weed",
+  "p_id": 110
+ },
+ "id": 94
+}

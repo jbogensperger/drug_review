@@ -1,0 +1,355 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 890001,
+   "lead_time": 1099.806,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5f4b32b4-da58-4aa7-9ace-b1822f17ac01",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 417,
+      "labels": [
+       "Drug"
+      ],
+      "start": 398,
+      "text": "Girls scout cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "46806d8d-54f0-4d67-a354-dc6223c6b79a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 514,
+      "labels": [
+       "Drug"
+      ],
+      "start": 496,
+      "text": "Grand Daddy Purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7d9182ce-1be9-40a1-8f3d-ad0d77645e7c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 657,
+      "labels": [
+       "Drug"
+      ],
+      "start": 641,
+      "text": "super silva haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "db99ed9f-bf86-4684-8480-a611bf04a3e8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 363,
+      "labels": [
+       "Drug"
+      ],
+      "start": 353,
+      "text": "Blue Dream"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2e3bc1be-5afe-44a7-8c21-28a913b37eb1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 377,
+      "labels": [
+       "Drug"
+      ],
+      "start": 366,
+      "text": "sour diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5d4a166c-62d5-4921-ab45-5630a4697358",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 395,
+      "labels": [
+       "Drug"
+      ],
+      "start": 380,
+      "text": "Northern lights"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d4d3855d-c3e6-44b6-8484-1e5d1cd760b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 436,
+      "labels": [
+       "Drug"
+      ],
+      "start": 420,
+      "text": "Grandaddy Purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "22d9556e-25f7-4935-9345-2d8eb2d4194f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 451,
+      "labels": [
+       "Drug"
+      ],
+      "start": 439,
+      "text": "gorilla glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7488e8d8-fd00-4a2e-b64a-3076538122c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 465,
+      "labels": [
+       "Drug"
+      ],
+      "start": 454,
+      "text": "white widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1338598f-4e1c-4c53-966a-69ad283cfba2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 479,
+      "labels": [
+       "Drug"
+      ],
+      "start": 468,
+      "text": "Green Crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a02f5e76-bd85-4e1d-ad9e-9a8f23f0f9fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 493,
+      "labels": [
+       "Drug"
+      ],
+      "start": 482,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aee3cdb3-4bde-449e-bc31-6ddb6804a558",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 528,
+      "labels": [
+       "Drug"
+      ],
+      "start": 517,
+      "text": "Afghan Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b1c2239e-264f-4ec6-9049-d9994f796ef2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 576,
+      "labels": [
+       "Drug"
+      ],
+      "start": 569,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b3bbd874-3646-4846-9fae-e574ac70217f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 596,
+      "labels": [
+       "Drug"
+      ],
+      "start": 579,
+      "text": "Pineapple Express"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8202e9c6-c9cd-4b65-9a37-829a0db98da6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 609,
+      "labels": [
+       "Drug"
+      ],
+      "start": 599,
+      "text": "BUBBA KUSH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "43bb4c21-db39-4049-bc99-3547f191c8e9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 638,
+      "labels": [
+       "Drug"
+      ],
+      "start": 625,
+      "text": "durban poison"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9f458ec6-9bac-4081-b328-81351c47e578",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ff7e64d0-d640-4df2-b4bc-1f5d119c81c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 541,
+      "labels": [
+       "Drug"
+      ],
+      "start": 533,
+      "text": "Headband"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0089140f-226d-4d94-8540-53f357eb6bbe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 622,
+      "labels": [
+       "Drug"
+      ],
+      "start": 612,
+      "text": "trainwreck"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "kCuQOER4W9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "WHITE WIDOW"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "EqvlNuuz7Y",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "xgCK3_5v-J",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 99,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "hybrid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "BarCAtPSYF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 554,
+      "labels": [
+       "Drug"
+      ],
+      "start": 544,
+      "text": "Jack Herer"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "mo126SeOFH",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 566,
+      "labels": [
+       "Drug"
+      ],
+      "start": 555,
+      "text": "Purple Kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "WHITE WIDOW THC 25. Among the most famous strains worldwide is White Widow , it s a balanced hybrid. It s buds are white with crystal resin , warning you of the potent effects to come. A powerful burst of euphoria and energy breaks through immediately , stimulating both conversation and creativity. We sale top quality naturally grown bud strains like Blue Dream , sour diesel , Northern lights , Girls scout cookies , Grandaddy Purple , gorilla glue , white widow , Green Crack , Sour Diesel , Grand Daddy Purple , Afghan Kush , , Headband , Jack Herer Purple Kush , OG Kush , Pineapple Express , BUBBA KUSH , trainwreck , durban poison , super silva haze Etc Contact U s. KIK ID highlord 6 wickr ID highlord.",
+  "dream_id": 428051,
+  "golden": false,
+  "name": "2lbs WHITE WIDOW",
+  "p_id": 473
+ },
+ "id": 890
+}

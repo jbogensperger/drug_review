@@ -1,0 +1,159 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 726001,
+   "lead_time": 520.101,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f791a4db-aa7d-4ee5-be19-f9264ccb0ab4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ae9b867b-31fd-499f-97f3-7a30d11a767d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 369,
+      "labels": [
+       "Drug"
+      ],
+      "start": 363,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f1725741-a8d6-4c8d-b50c-147693f8ac68",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 434,
+      "labels": [
+       "Drug"
+      ],
+      "start": 430,
+      "text": "Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d6270c28-bf8e-4b21-90ea-2f3ffd728502",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 468,
+      "labels": [
+       "Drug"
+      ],
+      "start": 462,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d679da2b-5669-48ba-a439-8e4356c89b3b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 476,
+      "labels": [
+       "Drug"
+      ],
+      "start": 473,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8a2b9ea1-5b6f-4141-97c2-da6d09856cc1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 485,
+      "labels": [
+       "Drug"
+      ],
+      "start": 482,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Y77UAzAxL5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 425,
+      "labels": [
+       "Drug"
+      ],
+      "start": 408,
+      "text": "Strawberry Fields"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "y3JylYZlj7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 598,
+      "labels": [
+       "Drug"
+      ],
+      "start": 592,
+      "text": "hybrid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "FMm9ytxLcl",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Strawberry Cough"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "n2ecWQcOcs",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 254,
+      "labels": [
+       "Drug"
+      ],
+      "start": 238,
+      "text": "Strawberry Cough"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strawberry Cough is a potent sativa blend with mysterious genetic origins. The skunky , berry flavors will capture your senses while the cerebral , uplifting effects provide an aura of euphoria that is sure to leave a smile on your face. Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress. This sativa dominant hybrid 80 \/ 20 is a cross of Strawberry Fields and Haze. It s called Medical Grade Sativa 241 THC - 01 CBD. This berry flavored flower is best for an active user. It s great for consumers seeking out an uplifting hybrid.",
+  "dream_id": 114465,
+  "golden": false,
+  "name": "Strawberry Cough Sativa 11g (Medical grade)",
+  "p_id": 406
+ },
+ "id": 726
+}

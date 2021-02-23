@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 297001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6178eaf5-fe1e-4480-9f03-f9e3bc8ca397",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7340051d-ab7e-47c7-bab5-816bc109f11b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Marihuana"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "25 gram Hash Pakistan - 130 EURO - Marihuana. Check Terms and Conditions before buying.",
+  "dream_id": 407661,
+  "golden": true,
+  "name": "25 gram Hash Pakistan  - 130 EURO - (Marihuana) ",
+  "p_id": 666
+ },
+ "id": 297
+}

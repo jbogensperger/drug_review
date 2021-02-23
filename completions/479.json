@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 479001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7e908398-b984-41f7-94fa-e5012bc41f99",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "MaxVerstappen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a08cef9f-b57f-469e-a830-bc72f922e25b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b74c6b5f-c48a-48c6-b21a-68cbfad58a9e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 84,
+      "labels": [
+       "Drug"
+      ],
+      "start": 81,
+      "text": "xtc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7cdc2fac-a13b-4c89-918d-8004603bc8c6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 121,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "extasy"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b0fbe471-d381-4fdc-895e-917d4b2b9c66",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 220,
+      "labels": [
+       "Drug"
+      ],
+      "start": 216,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "MaxVerstappen 250mg XTC PILLS. With pride , joy and peace we present you our own xtc stamp F1 Max Verstappen. This extasy was made in own labs and we can guarentee that this are real party killers filled with 250 mg MDMA. 10 pills - 25 euro 25 pills - 50 euro 50 pills - 90 euro 100 pills - 150 euro 200 pills - 220 euro 250 pills - 250 euro 500 pills - 475 euro 1000 pills - 900 euro 2500 pills - 2125 euro 5000 pills - 4000 euro.",
+  "dream_id": 349147,
+  "golden": true,
+  "name": "FREE 2x MaxVerstappen 250mg XTC PILLS",
+  "p_id": 1709
+ },
+ "id": 479
+}

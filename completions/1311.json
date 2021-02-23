@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1311001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7486c204-a9af-4c35-b076-198d9a04b0b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "UP"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "UP FOR SALE IS ONE BOX TO YOUR DOOR WITH 3 LBS OF AMAZING 5 - 7 STRAINS ALTOGETHER. NO WORRIES WE DO PRIORITY 2 DAY SHIPPING WITH BIG BOYS AND PROVIDE TRCKIN ASAP. WE CONTINUE TO BE THE BEST AND LOVE THE SUPPORT OF OUR CUSTOMERS THANK YOU AGAIN. WCC.",
+  "dream_id": 369800,
+  "golden": false,
+  "name": "3LB - 1344g - BEST - BUDS - GREENHOUSE - FREE - ",
+  "p_id": 968
+ },
+ "id": 1311
+}

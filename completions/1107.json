@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1107001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e393cb44-9e12-4dac-8e0b-d4865731714c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "OG Kush Shatter"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Price per 1 gram. Fully purged super strong OG Kush Shatter. Professional extraction , with pronounced hashy and fruity terpenes. A deep transparent amber , This one is proper couch lock Indica , well balanced stone , only a small amount is needed for those with low shatter tolerance. Not advised as a wake and bake dab if you got work to do. Over doing it will leave you incapable of moving lost in a semi psychedelic trance state. This one seems a bit more balanced and not as manic as the Hindu Kush shatter when you have one dab to much. You wo nt be disappointed with this. one at this price.",
+  "dream_id": 285960,
+  "golden": false,
+  "name": "OG Kush Shatter 1 Gram",
+  "p_id": 4015
+ },
+ "id": 1107
+}

@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 1001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3246816d-3e2c-46ad-813e-eae78f046543",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "NZT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "622c8e6f-5833-4601-9098-913603eb02c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 72,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9f045674-44eb-43cd-a716-1f8a9983ad45",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "Modafinil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ee4e2e59-4849-471f-b5ee-f784e220ef41",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 178,
+      "labels": [
+       "Drug"
+      ],
+      "start": 169,
+      "text": "Modafinal"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f678b1f0-ab14-47ef-a52a-c5b60bd34697",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 258,
+      "labels": [
+       "Drug"
+      ],
+      "start": 249,
+      "text": "Modafinal"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f842d60a-5e16-426d-bfea-316ee23f0644",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 411,
+      "labels": [
+       "Drug"
+      ],
+      "start": 402,
+      "text": "Modafinal"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Get smart with our NZT edibles. Each capsule contains about 30 mg of THC and 50 mg of Modafinil , this will give you the creativity and the concentration to use it. The Modafinal gives your beautiful clarity , these are some of our favourite pills. Modafinal lasts around 12 hours , so we suggest taking it first thing in the morning. We suggest 1 - 2 pills depending on your tollerance to edibles and Modafinal. We have a 100 positive feedback and love to keep it that way , we gaurantee you a good time. We offer 100 reship if your package does not arrive first time. This does not apply if your address does not use a name. Our stealth is top of the game and a lack of a name arrouses suspicion as well we risking package loss. We re recruiting for social media promoters and local dealers , up to 50 discount and loads of freebies. Give us a message for more.",
+  "dream_id": 249480,
+  "golden": false,
+  "name": "5 X NZT Edibles - Modafinil and THC",
+  "p_id": 1
+ },
+ "id": 1
+}

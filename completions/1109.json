@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1109001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0aa7c3cb-bfb8-43ad-9544-f6138b812f33",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 65,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a new item we are offering that is a 5050 blend of 95 THC The Clear and PEG400 which is an ecig blending juice. We are only offering these on an FE basis as of now. 1 included per order and they contain 5 ml.",
+  "dream_id": 5565,
+  "golden": false,
+  "name": "ClearJuice Cartridges 510 Thread FE Only",
+  "p_id": 730
+ },
+ "id": 1109
+}

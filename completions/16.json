@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 16001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "605aba1a-ea94-4d64-8ee1-4a8fa9a8e80a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Antidepressiva"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "-. Product Description -. Antidepressiva 10 mg. 10 Pills. Best Pharmacy Quality. Shipping from Germany. -Info-. The Pills are Crushable , Snortable. We get them directly from Hospital , the pills are 100 originals , no fakes.",
+  "dream_id": 275133,
+  "golden": false,
+  "name": "Melperon 10Pills 10mg",
+  "p_id": 20
+ },
+ "id": 16
+}

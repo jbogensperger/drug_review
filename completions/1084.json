@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1084001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1d4df723-9c9b-43ed-becc-419c63f1777b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "G - Bomb"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ecf6244b-7eeb-4140-90b1-d0f94279d9a8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Here you get 50 Gram from our weed G - Bomb. Perfect Price \/ Quality Ratio. Good price for Resellers.",
+  "dream_id": 245238,
+  "golden": false,
+  "name": "50 Gram G-Bomb Weed Gras ",
+  "p_id": 713
+ },
+ "id": 1084
+}

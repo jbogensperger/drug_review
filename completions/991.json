@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 991001,
+   "lead_time": 4161.978,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3ad3aa97-b3f5-47f3-833b-c2d5eb37c9b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "Subutex"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "awu9f_wukn",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 116,
+      "labels": [
+       "Drug"
+      ],
+      "start": 112,
+      "text": "460 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing 10 Tablets Subutex 460 made by sun pharmaceuticals. Tablet is pound , white and has the imprint 460 on one side. The other side is smooth.",
+  "dream_id": 385824,
+  "golden": false,
+  "name": "Subutex 8mg Tablets (10 Tablets) 460 Buprenorphine",
+  "p_id": 602
+ },
+ "id": 991
+}

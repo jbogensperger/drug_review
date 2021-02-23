@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1050001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f50fe6c0-26b6-4cae-ac82-5b771cae0117",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Moroccan hash 4 gram for 25.",
+  "dream_id": 431534,
+  "golden": false,
+  "name": "moroccan hash 5 gram for 30 euro",
+  "p_id": 675
+ },
+ "id": 1050
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1252001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "00fccfaf-7c5a-460b-a203-4c29854fe822",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Finest quality Amphetamine Paste 72. Amounts ranging from 50g - 51g of only slightly wet paste. Expect a weight loss of 15 - 20 when letting it dry.",
+  "dream_id": 237948,
+  "golden": false,
+  "name": "50g Speed Paste 72% - Amphetamine Paste",
+  "p_id": 902
+ },
+ "id": 1252
+}

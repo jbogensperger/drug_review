@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1239001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "24e86383-5611-4a45-aee5-ff85b3eeb1e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 166,
+      "text": "fentanyl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Highest quality presses. Perfect imprint , shape , size , color , hardness , and potency. Professionally produced , not sourced from a pharmacy. Active ingredient is fentanyl.",
+  "dream_id": 410903,
+  "golden": false,
+  "name": "25X Oxycodone A215 30MG Pills",
+  "p_id": 888
+ },
+ "id": 1239
+}

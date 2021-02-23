@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1194001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "43f1b3bb-271f-4d5e-b324-e38a487a1bc1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 72,
+      "text": "CODEINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "12bf50bf-675e-4688-9aac-9e6e088ec491",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 80,
+      "text": "PROMETHAZINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2ca32614-bf3d-49b0-87e1-4b9ed7d42394",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 277,
+      "labels": [
+       "Drug"
+      ],
+      "start": 265,
+      "text": "promethazine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "719ef1a9-86e8-4e78-9a42-d5bf89feec08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 287,
+      "labels": [
+       "Drug"
+      ],
+      "start": 280,
+      "text": "codeine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ACTAVIS. You can quickly contact us via KIKdesupplier WICKR. desupplier CODEINE PROMETHAZINE , HITECH is a cough suppressant and an antihistamine. It helps to stop or reduce coughing due to colds or allergies. The lowest GoodRx price for the most common version of promethazine \/ codeine.",
+  "dream_id": 420808,
+  "golden": false,
+  "name": "2 16 oz ACTAVIS CODEINE; PROMETHAZINE, HITECH, LEA",
+  "p_id": 839
+ },
+ "id": 1194
+}

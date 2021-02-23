@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 60001,
+   "lead_time": 846.482,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "383daaa3-b61f-4187-bcf2-a7a1ecc9803b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 65,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "DMT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "178658f4-8751-4ae1-9b17-eb1b2b1a4916",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 292,
+      "labels": [
+       "Drug"
+      ],
+      "start": 289,
+      "text": "DMT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3e3c62da-b527-40f2-a443-343b06d291e0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 352,
+      "labels": [
+       "Drug"
+      ],
+      "start": 349,
+      "text": "DMT"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dda04fdd-6d75-4c4c-b890-e8a31d78b5d7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 420,
+      "labels": [
+       "Drug"
+      ],
+      "start": 417,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "750bJpITfS",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "N , N - DMT"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "150 mg N , N - DMT FREE SHIPPING. What one will experience on DMT is impossible to predict. It can range from heaven to cyberspace to jeweled palaces , visions of jungle animals , contacts with extraterrestrial gods , links with ancient spirits , or adventures with fairies and elves. The DMT user should be prepared for anything. On a full dose of DMT one can not guide the trip with the mind or thoughts the way an LSD trip can be guided. One can , however direct the trip by what I will call the intent of the soul or will. Please sumit the next format , you can encript it for max security. ADDRESS DELIVERY FORMAT. Name Street Postal code \/ City. Country. Good price for exelent quality , product due to the purity , you do nt need to overdo. Any questions or suggestions do not hesitate to contact , the product is guaranteed. Leave your positive comments and have fun.",
+  "dream_id": 311248,
+  "golden": false,
+  "name": "125mg N,N-DMT  ***FREE SHIPPING***",
+  "p_id": 73
+ },
+ "id": 60
+}

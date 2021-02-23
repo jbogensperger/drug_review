@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1014001,
+   "lead_time": 1006.21,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "503996c7-57a1-4e34-8194-0d9966c9fb1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d9c10f3f-fe1d-4bae-bb43-1da1c185c344",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 141,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "marihuanas"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "akkStwV2YQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "critical kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Marijuana critical kush indoor , hydroponic cultivation , high in resin and thc , cultivated by professionals , is one of the best marihuanas in the market , do not you think. Prude and tell me.",
+  "dream_id": 253281,
+  "golden": false,
+  "name": "1g Kritical Kush Indoor Grown HYDRO Very high THC ",
+  "p_id": 629
+ },
+ "id": 1014
+}

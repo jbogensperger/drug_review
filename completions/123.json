@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 123001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b4ce973a-ba84-4efe-8200-d20877ebc7e0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "cocain"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "peruanse 92 cocain very good snife and for people tghe want cooking out very good smills good frech from the block orginail good good good AAA.",
+  "dream_id": 220518,
+  "golden": true,
+  "name": "1 gr super peruanse cocaine AAA+++ 92%",
+  "p_id": 1951
+ },
+ "id": 123
+}

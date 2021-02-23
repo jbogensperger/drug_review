@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 795001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fbfe73b5-7c55-42b5-ae3e-7d27d78b97c2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "437ec595-b837-49c5-ba25-45ea4e492a94",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1g Ketamine s Isomer 87. Our Ketamine is exactly as shown in the display picture Large course sugar \/ salt like - crystals. We do nt source out the powder as its usually cut. And ours is definitely not cut. This is very strong and potent made from a licensed chemist testing back at 87.",
+  "dream_id": 112960,
+  "golden": false,
+  "name": "1g Ketamine s-Isomer 87% PROMO OFFER",
+  "p_id": 272
+ },
+ "id": 795
+}

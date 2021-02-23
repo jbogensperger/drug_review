@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1353001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "225f4fb2-c3c1-4975-a88a-a3ac1da5a39b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 116,
+      "labels": [
+       "Drug"
+      ],
+      "start": 111,
+      "text": "xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High quality double dosage bars. 4 mg. The bars are white with a very very slight hint of cream tone. They say xanax on one side and number 2 printed on the other.",
+  "dream_id": 249833,
+  "golden": false,
+  "name": "2mg Xanax Bars (1pc)",
+  "p_id": 1025
+ },
+ "id": 1353
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 713001,
+   "lead_time": 5402.834,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "Wfg1jUJS6G",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "freebase DMT"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We are offering a new batch of freebase DMT Dream Sand in quantities of 05g each. Please see the picture to see what it looks like. It is the batch we re offering that the picture is from. We have taken great care to ensure that our product is pure and from the highest quality. If you want proof , just check our ratings. Shipping costs are included. Please see our Terms Conditions for all additional information like shipping procedure , refund \/ reship and more. Enjoy your trip to space and beyond.",
+  "dream_id": 174407,
+  "golden": false,
+  "name": "\"Freebase DMT \"\"Dream Sand\"\" 0.5g - free shipping\"",
+  "p_id": 392
+ },
+ "id": 713
+}

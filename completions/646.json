@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 646001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5e40f9b3-4f3b-4e57-9d3f-12de9afb524d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "methylone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Yellow \/ white Crystals , tested as methylone.",
+  "dream_id": 205087,
+  "golden": false,
+  "name": "14g Methylone (Synthetic MDMA)",
+  "p_id": 316
+ },
+ "id": 646
+}

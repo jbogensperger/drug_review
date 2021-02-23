@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 942001,
+   "lead_time": 2139.924,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "67591559-a21c-44ce-868b-278be5e11d5d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "r-W69dZjpD",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "skunk "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "57Hq9UKXTW",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Hippie Green"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2g Hippie Green exterior skunk weed grown by the Hippies in the famous Alpujarra s , Spain.",
+  "dream_id": 274975,
+  "golden": false,
+  "name": "2g Hippie Green Skunk weed ",
+  "p_id": 537
+ },
+ "id": 942
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1231001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "18141d76-7e80-4be4-a5d3-ff3acde84dad",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3374b2b9-0287-441f-83cd-fd05b66022cb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "Aspirin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f5953e8c-14d3-45c2-908b-17c49d53e169",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "Aspirin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0029598c-0025-433a-b1c9-7b16b9ac66d9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 109,
+      "labels": [
+       "Drug"
+      ],
+      "start": 102,
+      "text": "Tylenol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "008c9359-1fc2-4a53-86b0-0259e35fdaee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 141,
+      "labels": [
+       "Drug"
+      ],
+      "start": 132,
+      "text": "Oxycodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing 5 - Tablets 10 mg Oxycodone K - 56. Little Pills , No Aspirin. There is no Aspirin or Tylenol in this tablet , Just Oxycodone. Tablet is pink , imprint on 1st side is the letter K , on the opposite side tablet is imprinted with the numbers 56.",
+  "dream_id": 285442,
+  "golden": false,
+  "name": "OXYCODONE Roxy's 10mg (5 Tablets) K-56 NO ASPIRIN",
+  "p_id": 880
+ },
+ "id": 1231
+}

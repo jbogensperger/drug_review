@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1316001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3ef3ff0a-71b8-4a87-8123-a5deea789107",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 107,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "Xenical"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "13b2a63f-f4ae-407f-a669-982d5ada27d0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Xenical"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Xenical orlistat blocks some of the fat that you eat , keeping it from being absorbed by your body. Xenical is used to aid in weight loss , or to help reduce the risk of regaining weight already lost.",
+  "dream_id": 274819,
+  "golden": false,
+  "name": "42 Pills Xenical 120mg | Diet Pills | EU Shipping",
+  "p_id": 974
+ },
+ "id": 1316
+}

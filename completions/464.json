@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 464001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0e588e1e-baaf-43f3-b1c9-7f63a36664fa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Arimidex"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 bottle of Helix Pharma Arimidex 1 mg x 50 units.",
+  "dream_id": 131010,
+  "golden": true,
+  "name": "HELIX PHARMA ARIMIDEX 1MG X 50 UNITS",
+  "p_id": 5915
+ },
+ "id": 464
+}

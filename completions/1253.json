@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1253001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ec4017d7-c6c1-4827-bd91-bfc437d24ac6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e11c3fe6-2d3e-4090-828f-ca570590f4ce",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Gorilla"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This Gorilla is a feminized bean expert. If you need feminized cannabis seeds you know you can trust , then you re in the right place. Gorilla Seed Bank works incredibly hard to ensure that each every single one of the feminized beans that it offers is tested to the absolute limit so that you always get exactly what you expect. How great is that.",
+  "dream_id": 428779,
+  "golden": false,
+  "name": "GORILLA SEED BANKS AVAILABLE(10 seeds",
+  "p_id": 904
+ },
+ "id": 1253
+}

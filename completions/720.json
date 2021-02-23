@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 720001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1f964185-b42b-4772-aec2-537d1d9b5046",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "331355f0-58ae-40dd-93d4-900ce615c2b2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 246,
+      "labels": [
+       "Drug"
+      ],
+      "start": 243,
+      "text": "XTC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PRODUCT DESCRIPTION. We would like to present our RED TESLA XTC PILLS 230 - 250 MG. These are brand new in to us. we have been informed that these are one of the cleanest pills around. CAUTION - THESE PILLS ARE A LOT STRONGER THAN OUR REGULAR XTC PILLS. All of our products are of the highest quality. THIS IS AN INTRODUCTORY OFFER , PRICES WILL INCREASE.",
+  "dream_id": 366943,
+  "golden": false,
+  "name": "5 | RED TESLA XTC PILLS 230-250mg| UK Vendor",
+  "p_id": 399
+ },
+ "id": 720
+}

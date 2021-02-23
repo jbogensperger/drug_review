@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 51001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5202f8e8-96ed-4421-b207-3af12b1a82bd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "White MDMA 89 make from Original PMK oil.",
+  "dream_id": 156031,
+  "golden": false,
+  "name": "5gr White MDMA",
+  "p_id": 62
+ },
+ "id": 51
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 834001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "321791c3-21cf-4d91-8612-5810a0fbdf8f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1afc99b1-e475-4a24-81ad-6f24e8624f0a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c7f0958d-17cb-4bd0-9ca9-3489086a4f96",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 249,
+      "labels": [
+       "Drug"
+      ],
+      "start": 242,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9333b6b4-acb5-49f0-aac3-85f93a9e3cde",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 261,
+      "labels": [
+       "Drug"
+      ],
+      "start": 254,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3b6abb46-3dd8-4f7f-a7ef-70ede00b72f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 361,
+      "labels": [
+       "Drug"
+      ],
+      "start": 354,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "GLITTERY DOMINICAN COCAINE. Glittery Dominican Cocaine , Very glittery if it s in a brick or powder. It does not smell like chemicals very easy to break into powder no bad after taste. Usually vendors tell you lies on the percentage of their cocaine our cocaine has been tested and fully approved 85 purity. You will definitly not regret trying our best cocaine wich is in stock now , give it a try.",
+  "dream_id": 398005,
+  "golden": false,
+  "name": "2G (((**GLITTERY DOMINICAN COCAINE**)) HARIBOSS P2",
+  "p_id": 384
+ },
+ "id": 834
+}

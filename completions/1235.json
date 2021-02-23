@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1235001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9d428555-df5a-47cd-9248-d3719cb29e98",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 262,
+      "labels": [
+       "Drug"
+      ],
+      "start": 243,
+      "text": "Girl Scout . Cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "efd46065-6d59-47fb-8f97-3271e3693529",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Girl Scout Cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "80c24bd2-b8bb-42f4-ac5a-532008e0894b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 89,
+      "labels": [
+       "Drug"
+      ],
+      "start": 82,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "399589ed-cd33-465c-a868-46dc9b3bc9eb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Our Girl Scout Cookies is a sativa hybrid strain developed from Durban Poison and OG Kush. It has a sweet and earthy aroma , is super - gooey , and launches you into euphoria where full - body relaxation meets a time - bending cerebral space. Girl Scout. Cookies are a favorite because of the strain s effects Happy , Relaxed , Euphoric , Uplifted , Creative.",
+  "dream_id": 432757,
+  "golden": false,
+  "name": "UK - Girl Scout Cookies - 7 Gram",
+  "p_id": 884
+ },
+ "id": 1235
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1058001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c1cee63b-24a5-45a8-8d7d-ab9a607bf01c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Lysergeenzuurdi-ethylamide"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Lysergeenzuurdi-ethylamide. Finalize early With Track and Trace.",
+  "dream_id": 239591,
+  "golden": false,
+  "name": "1000x LSD blotters 200ug",
+  "p_id": 684
+ },
+ "id": 1058
+}

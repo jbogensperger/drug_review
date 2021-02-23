@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 450001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e0f9a151-8229-4f3f-b99c-219f076f3347",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 371,
+      "labels": [
+       "Drug"
+      ],
+      "start": 364,
+      "text": "Subutex"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "120 of these available , will update as they are sold. FE is now needed on ALL my listings. After the take down of Hansa yesterday , and Alphabay in the past weeks , I can not afford to possibly have thousands of dollars in escrow with orders that have shipped , in case the site goes down. If you are nt cool with this , then please do not order. 10 Pack of 8 MG Subutex Sublingual tabs by Roxane Labs. Title is self explanatory , and if you are looking for these , you know what they are. Orders ship within 24 hours , or faster.",
+  "dream_id": 418396,
+  "golden": true,
+  "name": "Subutex Roxane Labs 54\/411 - 10x",
+  "p_id": 6965
+ },
+ "id": 450
+}

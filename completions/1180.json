@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1180001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a485ad18-d46b-4127-8142-ab66b5d954ca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Good sized buds very decent value weed. strong high. the sweet aroma of the flower is activated best when the bud is cracked open.",
+  "dream_id": 308715,
+  "golden": false,
+  "name": "14 GRAMS CRITICAL KUSH OFFER ********",
+  "p_id": 822
+ },
+ "id": 1180
+}

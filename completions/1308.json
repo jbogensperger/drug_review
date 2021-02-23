@@ -1,0 +1,201 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1308001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f4923e24-de9f-4535-95ad-05fc51e5e502",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 723,
+      "labels": [
+       "Drug"
+      ],
+      "start": 709,
+      "text": "Tenuate Dospan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "96d95af2-d078-4b4a-a8b7-882a51da861b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "NOREX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2377b7bd-9ebe-4d56-aeda-e67fcd6b268c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 357,
+      "labels": [
+       "Drug"
+      ],
+      "start": 343,
+      "text": "norepinephrine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5faaf72d-118d-47c2-9bc7-028d9298abf2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 397,
+      "labels": [
+       "Drug"
+      ],
+      "start": 392,
+      "text": "Norex"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "680c22f7-7b49-4c90-9b76-79c568d2e6c8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 437,
+      "labels": [
+       "Drug"
+      ],
+      "start": 426,
+      "text": "amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "36cefad6-47b3-4b78-9adc-586d438e0634",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 633,
+      "labels": [
+       "Drug"
+      ],
+      "start": 625,
+      "text": "abulemin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9e45b072-9c62-48c4-8f66-6d5c157ab987",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 650,
+      "labels": [
+       "Drug"
+      ],
+      "start": 636,
+      "text": "diethylpropion"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ecef4d45-597e-452d-a582-cf5319aaa58b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 662,
+      "labels": [
+       "Drug"
+      ],
+      "start": 653,
+      "text": "natorexic"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dfdcbf4a-b55b-4da9-a2e1-60a66cb146d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 672,
+      "labels": [
+       "Drug"
+      ],
+      "start": 665,
+      "text": "regenon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1e13868a-bd60-4b5b-90c5-ee13d87665dc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 682,
+      "labels": [
+       "Drug"
+      ],
+      "start": 675,
+      "text": "tenuate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e43fdc59-0b76-4306-b6d5-00fab23fdf65",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 696,
+      "labels": [
+       "Drug"
+      ],
+      "start": 685,
+      "text": "phepranonum"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cb9f22ce-279f-44db-865d-899094b24acb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 706,
+      "labels": [
+       "Drug"
+      ],
+      "start": 699,
+      "text": "Apesate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "430a92e2-045e-4444-b0c3-e992783cb566",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 732,
+      "labels": [
+       "Drug"
+      ],
+      "start": 726,
+      "text": "Neobes"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I AM SEELING IFA NOREX 90 TABLETS THIS IS THE INFORMATION. Norex diet pills are drugs - anorexiants that reduce appetite and gives a burst of ENERGY. Effect of drugs is associated with inhibition of the so - called satiety center hunger , which is located in the brain and controls the feeling of hunger. Its action is based on the release of norepinephrine , thereby , suppressing appetite. Norex is similar in its effect to amphetamine. In medical practice , norex diet pills are used when disease proceeds with obesity on the background of a low - calorie diet. An active ingredient of pills is Anfepromona amfepramonum , abulemin , diethylpropion , natorexic , regenon , tenuate , phepranonum , Apesate , Tenuate Dospan , Neobes. ORDERS RECEIVE BEFORE 10 AM MST TIME GO THE SAME DAY , ONLY MAIL IN USA , YOU ARE GETTING EXACTLY WHAT YOU SEE ON THE PICTURE , THANKS FOR LOOKING.",
+  "dream_id": 301108,
+  "golden": false,
+  "name": "IFA NOREX ( ANFEPRAMONA) 90 TABLETS 50 MG DIET PIL",
+  "p_id": 965
+ },
+ "id": 1308
+}

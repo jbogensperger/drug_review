@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 441001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f7ae8b20-38eb-4dc3-81a7-2853baf3b2d7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "55897bd7-ec71-4da5-b210-b38f5fb05917",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1d10f1d1-70bc-4963-8849-a27c75935197",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "Dextroamphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing Adderall 30 mg IR Instant Release 1 Tablet U31 Amphetamine and Dextroamphetamine. Tablet is Light Orange Round with the imprint U - 31. On one side of Tablet snap marks kriss crossing the opposite side.",
+  "dream_id": 420162,
+  "golden": true,
+  "name": "Adderall 30mg (1 Tablet) U-31 Amphetamine Salts IR",
+  "p_id": 4721
+ },
+ "id": 441
+}

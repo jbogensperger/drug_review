@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 57001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d80c92c3-cf68-403e-b5d0-8f17eda11ab5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "XANAX"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PFIZER 1 MG XANAX 30 pills shipped to you in blisters.",
+  "dream_id": 421212,
+  "golden": false,
+  "name": "30x XANAX 1mg (upJohn 90's)",
+  "p_id": 68
+ },
+ "id": 57
+}

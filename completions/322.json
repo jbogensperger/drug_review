@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 322001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cec2ef31-2061-4a5e-84c7-61750dc52386",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "for"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "for sniff very strong , , good for sellers and beginners sniffers , frech from the block this qaulity coms from brazil smellss good.",
+  "dream_id": 231859,
+  "golden": true,
+  "name": "0,5 gr cocain 78% low price brazilliaaaa",
+  "p_id": 8295
+ },
+ "id": 322
+}

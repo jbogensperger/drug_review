@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1278001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "012cd1a9-2e00-494a-a086-175e6e22e508",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "OXYS"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Back in stock on authentic OXYS. Get yours before they are all gone. Quantity - 3 pills.",
+  "dream_id": 78992,
+  "golden": false,
+  "name": "3 PILLS OXYCODONE HCL 20MG",
+  "p_id": 929
+ },
+ "id": 1278
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 436001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e3bcce38-d8c3-4304-a723-0ad1faf314aa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "648dea66-1797-4a9d-91dd-d3e3963ffdc8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 243,
+      "labels": [
+       "Drug"
+      ],
+      "start": 240,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "df98668b-6f2e-4964-bbc6-df87a79d2633",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 315,
+      "labels": [
+       "Drug"
+      ],
+      "start": 312,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6a10b20a-292b-4d12-baaf-c117e0361041",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 526,
+      "labels": [
+       "Drug"
+      ],
+      "start": 518,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SENT IN ONE PACK. POSSIBLE WITH 325 kg. Within this price range I can guarantee top - shelf weed , smell , look and potency would be top quality. Various strains - all the time , sometime exclusive cross strains , all strains are with high THC designed for recreational use , however , some strains contain high CBD which can be used for medical as well recreational. Quality is consistent the same. picture of current \/ previous strains for reference. This is the best money can buy when it comes to illegal produced cannabis , all strains are indoor.",
+  "dream_id": 128754,
+  "golden": true,
+  "name": "2.5kg - Various strains - Indoor - Top\/end",
+  "p_id": 7407
+ },
+ "id": 436
+}

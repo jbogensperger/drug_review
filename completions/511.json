@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 511001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2557bdb9-7502-49a0-8eac-fa5807a17029",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This offer is for 100x 2 mg Pfizer Xanax Bars. Only high quality presses. FULL ESCROW and fast shipping.",
+  "dream_id": 383263,
+  "golden": true,
+  "name": "100x Pfizer 2mg Xanax Bars ",
+  "p_id": 4180
+ },
+ "id": 511
+}

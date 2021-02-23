@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1083001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c661dbf0-de96-433e-8f9f-5c4d12bdc766",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Bomb Shatter"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Bomb Shatter14gr delivered when deposit is made.",
+  "dream_id": 427919,
+  "golden": false,
+  "name": "14 gram Trainwreck Shatter from the famous Emerald",
+  "p_id": 712
+ },
+ "id": 1083
+}

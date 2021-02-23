@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 885001,
+   "lead_time": 3711.155,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2bbe6852-e741-4489-967d-30c13f433412",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "racemic amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Ss1uM3IT97",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 132,
+      "labels": [
+       "Drug"
+      ],
+      "start": 126,
+      "text": "speed "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "500g of racemic amphetamine. Like all my listings , this product comes straight from the chemist and is highly potent. No wet speed here. Only dry , pure product with the only side - effect being extreme satisfaction.",
+  "dream_id": 340066,
+  "golden": false,
+  "name": "500g Amphetamine",
+  "p_id": 463
+ },
+ "id": 885
+}

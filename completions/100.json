@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 100001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c935c611-b940-4c20-820e-6da3f4f4c687",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "Bromocriptin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Manufacturer. MEDA. PHARMA TR Substance Bromocriptin Pack 30 Tabsx25 mg.",
+  "dream_id": 284260,
+  "golden": true,
+  "name": "PARLODEL *Bromocriptin* 30 Tabs x 2.5 mg MEDA PHAR",
+  "p_id": 7952
+ },
+ "id": 100
+}

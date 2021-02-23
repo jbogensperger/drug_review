@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1296001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7080d5dc-7f26-4b34-a24e-77e6bbc6ef89",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 73,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "38a79b98-0863-443c-a8a3-ac1ebb622222",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 191,
+      "labels": [
+       "Drug"
+      ],
+      "start": 187,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fd698393-bece-4172-94f8-cb3409a84401",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 335,
+      "labels": [
+       "Drug"
+      ],
+      "start": 331,
+      "text": "POLM"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "70918eab-215d-4d8a-8dd2-9a2e9f4de09a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 438,
+      "labels": [
+       "Drug"
+      ],
+      "start": 432,
+      "text": "SATIVA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "74f05746-84d0-4644-baa2-fc65be92b354",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 506,
+      "labels": [
+       "Drug"
+      ],
+      "start": 502,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "03c41be7-97c5-4394-a279-c31f81113de0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 522,
+      "labels": [
+       "Drug"
+      ],
+      "start": 519,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hi Everyone ,. This Jnenfrancis here also know as Jnen bringing the best hash in all the DNM. Used to trade on EVOLUTION before it came down. Over 5000 successful trades and known as the hash KING. Shipping from the UK. Product Description. This one our best seller last year and so far it is having a fantastic year too. The GOLD POLM is SOFT WHEN HEATED BUBBLES LIKE CRAZY and SANDY GOLDEN on the outside gold on the inside. REAL SATIVA - UPLIFTING HIGH. This is and has been vouched for as the best hash on any DNM. THC Levels 20 - 24. FREE UK SHIPPING. Yours Truly ,. Jnenfrancis.",
+  "dream_id": 94820,
+  "golden": false,
+  "name": "2G OF GOLD POLM **FREE UK DELIVERY**",
+  "p_id": 953
+ },
+ "id": 1296
+}

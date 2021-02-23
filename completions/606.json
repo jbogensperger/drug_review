@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 606001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f5a6940a-8eb7-4ff0-a8f5-d44ad4905c13",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4f82cec2-2704-4e03-b87c-82f1d909c75b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 72,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8dc04e25-0273-45e6-bf3e-a1bb83f2e157",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 142,
+      "labels": [
+       "Drug"
+      ],
+      "start": 139,
+      "text": "thc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3a07df3e-f0f7-4ae6-9a28-4740edcaba0f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 240,
+      "labels": [
+       "Drug"
+      ],
+      "start": 236,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Soft pollen hash from Marocco. Great quality for a very good price. The hash is made from strong plants that why it has gained a very high thc potency. Smells and tastes very good and if you put a lighter on it , it throws bubbles. The hash is also very good for resale. Here you have the prices for bulk amounts. For example if you want to buy 40g you can buy 4 times the 10g listing. Price List FE price in Escrow price in. 10g 60 80 50g 250 300 100g 400 475 250g 935 1000 500g 1750 1900 1000g 3300 3500.",
+  "dream_id": 316327,
+  "golden": false,
+  "name": "10g Polm Hash (palm stamp) AAA  !!FE!!",
+  "p_id": 264
+ },
+ "id": 606
+}

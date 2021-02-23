@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 822001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "058c563b-b848-4d93-a5c9-0ffc5dd02941",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Trenbolone Acetate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Trenbolone Acetate Raw Powder 10 grams 995 Purity Worldwide Shipping Product Code TR\/A - 10.",
+  "dream_id": 11850,
+  "golden": false,
+  "name": "Trenbolone Acetate Raw Powder 10 grams",
+  "p_id": 352
+ },
+ "id": 822
+}

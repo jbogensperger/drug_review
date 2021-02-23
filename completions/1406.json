@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1406001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "998fc53a-5955-4800-96b1-84a1856e296b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 77,
+      "text": "CRACK"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3b792270-5348-4c1f-a72a-203f4386a653",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 197,
+      "labels": [
+       "Drug"
+      ],
+      "start": 192,
+      "text": "CRACK"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c7f390dc-bad7-49b5-bd3f-8b686d86c4d6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 106,
+      "labels": [
+       "Drug"
+      ],
+      "start": 102,
+      "text": "COKE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "TO TEST THR PURITY OF THE PRODUCT WE ALWAYS JUST START TO COOKING IT UP INTO CRACK WE BOIL IT THE THE COKE FROM PERUVIAN SCORES 100 GRAMS YOU WILL GET 93 GRAMS OUT OFF IT THAT MAKES IT 93 TOP CRACK.",
+  "dream_id": 328473,
+  "golden": false,
+  "name": "20 GR COCAINE HQ PERUVIAN",
+  "p_id": 1089
+ },
+ "id": 1406
+}

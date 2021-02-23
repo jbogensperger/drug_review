@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 83001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "00a651f9-97d7-4460-9447-4b6a13fc845d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Seroquel"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "You are purchasing one box of Seroquel 150 mg with 30 pills packaged in blister. You will receive exactly the box in the picture because I took the photo of the box I am selling All my medicines come from a pharmacy in Europe and are according to EMEA rules European Medicines Agency. Our products are shipped in registered mail with tracking number and are carefully packaged. For more information about the product please contact me.",
+  "dream_id": 318260,
+  "golden": false,
+  "name": "Seroquel 150 mg quetiapine 150 mg 30 pills Ketipin",
+  "p_id": 99
+ },
+ "id": 83
+}

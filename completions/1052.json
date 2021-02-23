@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1052001,
+   "lead_time": 518.954,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "beb022f8-e11d-46ce-b5b5-eed8a56d9542",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fnPQ7BxB7V",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "Orange Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f69CgneIx3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 149,
+      "labels": [
+       "Drug"
+      ],
+      "start": 134,
+      "text": "Northern Lights"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strain Name Orange Kush. Grade A. Type Indica indoor. Looks 8 out of 10. Firm with great bud structure almost the same structure of a Northern Lights strain , bright pal green , crystallized. Smell 8 10 , Tangy sented but a clean smell. Taste 10 10 Great smooth clean taste , citrus. Effects Mellow. Potency 9 10. Good Strain For Anxiety , Insomnia ,.",
+  "dream_id": 424722,
+  "golden": false,
+  "name": "Orange Kush",
+  "p_id": 677
+ },
+ "id": 1052
+}

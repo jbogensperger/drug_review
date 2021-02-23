@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1400001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4d75f8cc-8220-4b4e-ae1f-59c9567d9714",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "INDICA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e963a22f-37e6-44f1-82c7-a905ef5c78bf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 78,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "WEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3eb4cebf-9439-4b03-88cf-9ef85d9f9d82",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c26a3348-ca62-4838-b4e8-5416d7586c06",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 223,
+      "labels": [
+       "Drug"
+      ],
+      "start": 220,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3bf0f7b2-daae-4b7f-a53a-1329b55e4583",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 239,
+      "labels": [
+       "Drug"
+      ],
+      "start": 231,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fc565ab1-3ce5-4dec-acdd-bd136e43b071",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 296,
+      "labels": [
+       "Drug"
+      ],
+      "start": 293,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "04327ccb-cbdf-4b83-ba69-198ab597afcd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 305,
+      "labels": [
+       "Drug"
+      ],
+      "start": 299,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1922484c-43fa-4998-b02d-ebf825f80dc1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 726,
+      "labels": [
+       "Drug"
+      ],
+      "start": 720,
+      "text": "indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SPECIAL SUMMER OFFER 2 EURO PER GRAM 100 INDICA OUTDOOR VERY GOOD QUALITY WEED. 100 Indica 100 Organic. Awesome price \/ quality ratio. Ideal for relaxation , stress relief. Ideal when you want to take a break from heavy THC indoor cannabis. Medicinal Benefits. Because of the higher levels of CBD , Indica strains are ideal for patients looking to treat symptoms such as chronic pain , muscle spasms , anxiety , nausea , appetite stimulation , and sleep deprivation. Other individuals who suffer from diseases such as multiple sclerosis , fibromyalgia , lupus , sleep apnea and insomnia also tend to benefit immensely from the effects. Cancer patients especially benefit from the pain nausea relief from medicating with indica after chemotherapy treatments.",
+  "dream_id": 318581,
+  "golden": false,
+  "name": "SPECIAL SUMMER OFFER 2 EURO PER GRAM 100% INDICA",
+  "p_id": 1082
+ },
+ "id": 1400
+}

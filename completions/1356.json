@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1356001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "49b8a47a-32dd-45af-8fe6-0ce31d4612e0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "700d58d9-ae32-4ba2-a01f-92dbf3a74917",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 mg MDMA capsules. 20 capsule2. contents. MDMA - quite light , looks well washed. Sugar - granulated sugar to make filling the caps easy. capsule - gelatin. tested with mandelin , maquis and mecke when purchased and all came up dark. POSTAGE and non delivery information is outlined in the profile please take a look.",
+  "dream_id": 425474,
+  "golden": false,
+  "name": "20 capsules, 100mg MDMA",
+  "p_id": 1028
+ },
+ "id": 1356
+}

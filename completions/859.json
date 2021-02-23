@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 859001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6ff1af9f-fea8-4269-bb1e-127e0f1b0a3f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 147,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "carfentanil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7a4f3cd7-8ff5-44a6-ab71-7f45b3c326c6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 225,
+      "labels": [
+       "Drug"
+      ],
+      "start": 217,
+      "text": "fentanyl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I would sell this smaller amounts I would rather move to bulk if someone wants to sell small you can make money I Just got 100 grams of carfentanil from china from my experiance the dose is about 27 X S stronger than fentanyl. Be careful when using I do not do smaller than a gram do nt message please I will not reply I do nt like touching the stuff so I do nt do smaller than this ask if you want bulk.",
+  "dream_id": 424960,
+  "golden": false,
+  "name": "5g carfentanil",
+  "p_id": 431
+ },
+ "id": 859
+}

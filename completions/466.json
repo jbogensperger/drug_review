@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 466001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "89dd552b-4cf3-492a-8bc1-1e51708c588e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Sildenafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e0f0104c-1ad4-420c-98bb-33fc5c1c7194",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Viagra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sildenafil citrate - known as Viagra. Shree Venkatesh produces one of the strongest blue pills I ever had. Start from half tab. Dosing 05 - 1 tab 20 - 60 min before sex. Almost 100 shipping rate and quick delivery guaranteed usually up to 7 days within EU. Shipping within 1 working day.",
+  "dream_id": 317403,
+  "golden": true,
+  "name": "SHREE VIAGRA 100mg\/ tab   10 tab  F*CK LIKE ROCCO",
+  "p_id": 8608
+ },
+ "id": 466
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 77001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "455e9c92-b6b1-4438-8819-249839e93b06",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "AAA High quality kush from BC , Canada. Grown indoors.",
+  "dream_id": 208271,
+  "golden": false,
+  "name": "56g Sour Diesel  ---| Indoor Bud|---",
+  "p_id": 92
+ },
+ "id": 77
+}

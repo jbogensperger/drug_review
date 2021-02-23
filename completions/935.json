@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 935001,
+   "lead_time": 2010.957,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "lQd24hTEhd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "This "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 10 500 mg Xtractology GOLD LABEL 510 Cartridge. We will ship a mix or what we have in stock. ENHANCED SOLVENT FREE. 510 Cartridge.",
+  "dream_id": 177290,
+  "golden": false,
+  "name": "10 Xtractology Vape Cartridge 500mg",
+  "p_id": 530
+ },
+ "id": 935
+}

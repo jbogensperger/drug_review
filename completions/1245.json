@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1245001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8186017a-dac5-4a59-a8e8-fd654a2ccdab",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 56,
+      "labels": [
+       "Drug"
+      ],
+      "start": 48,
+      "text": "Percocet"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "89bbb683-1c6a-4682-89de-cafed7fb9413",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "852ef502-2584-46f9-9557-2e84897def34",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "Acetaminophen"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- 47 tablets total. - Expiration date 10\/2019 - Percocet Oxycodone \/ Acetaminophen 5mg \/ 325 mg - Imprint 512 white 10 of the tablets and 4839 V white on 37 of the tablets. These pills are direct from USA pharmacies. They are not pressed replicas , they are pharmaceutical grade. Please read my vendor profile before ordering.",
+  "dream_id": 308445,
+  "golden": false,
+  "name": "47 tablets Percocet\/Oxycodone 5mg\/325mg (SOLD OUT)",
+  "p_id": 895
+ },
+ "id": 1245
+}

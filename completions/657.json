@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 657001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1a22c71d-73a6-4617-b54f-3cdcb1177de8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ce4583d-def5-4c3f-907b-12ffec3ad643",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 183,
+      "labels": [
+       "Drug"
+      ],
+      "start": 176,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a7b47761-26d0-40d1-a064-b08065d5bcbe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 490,
+      "labels": [
+       "Drug"
+      ],
+      "start": 483,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "78dd09f6-7975-44fc-b861-e85db2c895b7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "EPHEDRINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e6070934-c9c5-402d-a816-3849618f9dc6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 356,
+      "labels": [
+       "Drug"
+      ],
+      "start": 352,
+      "text": "coke"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Say NO to LEVI \/ EPHEDRINE cut cocaine. Imported from Bolivia. Top shelf product. A tad more expensive for the speedy \/ cut conscious user. We have been working with Columbian cocaine suppliers for many years , and still have some in stock , but the quality took a downtur n it turns out the problem lies at the source. The cartels are now cutting the coke at source , in Columbia. We have searched far and wide for the best of the best. Here it is , completely clean uncut Bolivian cocaine. You can really tell the difference. You can eat sleep and shag on this stuff. Double blind tests are welcome. Enjoy.",
+  "dream_id": 390724,
+  "golden": false,
+  "name": "Bolivian Import A+ GRADE COCAINE - 5G",
+  "p_id": 328
+ },
+ "id": 657
+}

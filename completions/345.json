@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 345001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d4f375c5-09bd-4892-ba07-3ab9dbc86025",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 110,
+      "text": "HASH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9eea18cf-f80a-4037-9c1d-e57a894ea7ff",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 188,
+      "labels": [
+       "Drug"
+      ],
+      "start": 184,
+      "text": "HASH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "HERE AT WCC WE PROVIDE THE BEST CUSOTMER SUPPORT AND QUALITY OF BUD. ALONG WITH THAT OF COURSE COMES THE BEST HASH AVAILABLE. WE HAVE TO OFFER THIS LISTING OF ONE FULL LB OF BEAUTIFUL HASH AT A NICE DISCOUNT GIVE IT A WHIRL AND YOU WILL BE AMAZED THANKS WCC.",
+  "dream_id": 220337,
+  "golden": false,
+  "name": "LB - SHATTER - 448g - BEST - AROUND - FREE - SHIPP",
+  "p_id": 133
+ },
+ "id": 345
+}

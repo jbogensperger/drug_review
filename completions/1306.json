@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1306001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b04dd44a-6515-4d9c-aa93-8c0786e8a898",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "best cocaine pure for 45 euro 1 gram this action is valid until 10-10-2017.",
+  "dream_id": 431140,
+  "golden": false,
+  "name": "best columbian cocaine 94 % for sale 45 euro gram",
+  "p_id": 963
+ },
+ "id": 1306
+}

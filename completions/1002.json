@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1002001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "62885ad3-ee16-4482-8de4-e17cea1a2359",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Nembutal"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Nembutal available. For a better exchange and ease of communication , fast secured instant response on your orders \/ inquiries Contact me with one of following. -. - WICKR ME ID Crownstoner. - KiK. ID Crownstoner. -. Get Wickr. Me or Kik and message me NOW.",
+  "dream_id": 427011,
+  "golden": false,
+  "name": "Nembutal Pentobarbital sodium(Liquid, powder)",
+  "p_id": 614
+ },
+ "id": 1002
+}

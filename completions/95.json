@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 95001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "272ca1c4-c300-4d14-9da6-067f5c04119d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "AMNESIA HAZE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6614fe96-a9dc-43a7-b88f-ff6b9c28d439",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 97,
+      "text": "AMNESIA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1b0c8613-14a2-4bda-ad36-728971580eed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 297,
+      "labels": [
+       "Drug"
+      ],
+      "start": 290,
+      "text": "Amnesia"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SPECIAL EDITION. AMNESIA HAZE. Very proud to offer this homegrown strain made by CannaCrew. This AMNESIA buds are really hard and compact. Taste is great. But really a big BIG stoned. Not for the starting smoker. A very nice clean weed , no shake , great strain. We also have another batch Amnesia in our store. Please read our profile before you place any order with us , thank you.",
+  "dream_id": 346897,
+  "golden": false,
+  "name": " 1 gr  AMNESIA HAZE (Batch 2)",
+  "p_id": 111
+ },
+ "id": 95
+}

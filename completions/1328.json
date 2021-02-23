@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1328001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "746a96ee-a176-4456-9588-9ea392ac8f77",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Clonazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7108bd1d-3d23-44f7-a626-fc8bb6e02f47",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Rivotril"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Clonazepam \/ Rivotril. One box , consisted of 3 stripes \/ blisters , each stripe 10 tabs. Manufacturer GALENIKA.",
+  "dream_id": 202806,
+  "golden": false,
+  "name": "RIVOTRIL by GALENIKA (CLONAZEPAM) 30 pills - 2mg",
+  "p_id": 989
+ },
+ "id": 1328
+}

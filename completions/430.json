@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 430001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "00cd195b-8fe6-4a3d-aed2-6eac6017dbec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Valium"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I AM selling Valium 10 mg , 90 TABLETS , brand name from Roche , the blue ones with the number 10 on it , ORDERS RECEIVE BEFORE 10 AM MST TIME GO THE SAME DAY ONLY MAIL IN USA THANKS.",
+  "dream_id": 132276,
+  "golden": true,
+  "name": "VALIUM 10 MG BRAND NAME FROM ROCHE 90 TABLETS",
+  "p_id": 9922
+ },
+ "id": 430
+}

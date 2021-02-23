@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 29001,
+   "lead_time": 1449.828,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "90611c79-064d-47f0-97f5-5fc977a77439",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Golden Strawberry Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f8673ce2-b618-423b-a62b-c392aa876a70",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 283,
+      "labels": [
+       "Drug"
+      ],
+      "start": 262,
+      "text": "Golden Kush marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9d4697d4-9752-4d2f-abe7-ca2c98c2e652",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 86,
+      "labels": [
+       "Drug"
+      ],
+      "start": 75,
+      "text": "Golden Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "18316a7e-f689-496e-988f-c13b6587402d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Ui5dZgQuk3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Indica "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "wHlKOtsAg3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Golden Strawberry Kush is an Indica dominant hybrid with THC levels at 23. Golden Kush plants grow beautiful green buds with a heavy coating of huge trichomes and golden hairs. They are very pleasant to smoke and boast an aroma mix of lemons , candy and spices. Golden Kush marijuana strain induces calming body - buzz followed by relaxation. Uplifts mood , alleviates depression , relieves stress , stimulates appetite. Promotes sleep and has strong analgesic properties. Excellent appearance.",
+  "dream_id": 234158,
+  "golden": false,
+  "name": "28g (1 oz ) GOLDEN STRAWBERRY Kush indoor FIRE!!",
+  "p_id": 39
+ },
+ "id": 29
+}

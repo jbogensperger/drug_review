@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 433001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "583887c6-d5fb-490e-9028-1b5f040216d8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Ativan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d44bd055-d859-42b7-a9da-2228ed1d577e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Lorazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "08f59afb-e1b3-4ba2-94e8-5cc9275aedb2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "Lorazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8b8d8dae-436f-46c8-9d7c-9abc07956e72",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 81,
+      "text": "benzodiazepines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8b884e00-6bab-40e9-8b93-0f722e801591",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 187,
+      "labels": [
+       "Drug"
+      ],
+      "start": 178,
+      "text": "Lorazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Brand - Ativan 2 mg Product - Lorazepam. Lorazepam is in a group of drugs called benzodiazepines. It affects chemicals in the brain that may become unbalanced and cause anxiety. Lorazepam is used to treat anxiety disorders. Shipping Options Delivery time 1 Express Delivery \/ With sign. - Full tracking - 8 Days. 2 Registered Air mail \/ with sign - Tracks up to leaving India - 12 Days. 3 Air mail \/ No sign - No tracker - 14 Days. For any other info , please message me.",
+  "dream_id": 278129,
+  "golden": true,
+  "name": "Lorazepam\/ Ativan 2mg - 60Pills",
+  "p_id": 6135
+ },
+ "id": 433
+}

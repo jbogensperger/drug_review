@@ -1,0 +1,201 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 642001,
+   "lead_time": 411.755,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4918538e-f13f-42b0-84dc-4d4a27b69946",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 444,
+      "labels": [
+       "Drug"
+      ],
+      "start": 426,
+      "text": "grand daddy purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fe31ab2d-06ac-4773-9520-98636ece0434",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 474,
+      "labels": [
+       "Drug"
+      ],
+      "start": 456,
+      "text": "girl scout cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ae2dca33-447b-4f40-8ecd-e329f6730730",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 544,
+      "labels": [
+       "Drug"
+      ],
+      "start": 527,
+      "text": "Super Silver Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "14f9a48f-069d-4677-9278-1bd9f03007c3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 322,
+      "labels": [
+       "Drug"
+      ],
+      "start": 311,
+      "text": "White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8286fcc5-52ad-48fe-ab7a-4e61a93ff3f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 368,
+      "labels": [
+       "Drug"
+      ],
+      "start": 358,
+      "text": "Hindu Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9fbf7771-6385-4120-859d-920d2350d29f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 393,
+      "labels": [
+       "Drug"
+      ],
+      "start": 379,
+      "text": "skywalker kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "569a7a24-b5af-4074-924d-7ef2af8dc4ca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 415,
+      "labels": [
+       "Drug"
+      ],
+      "start": 404,
+      "text": "sour diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "98cecdbc-02fe-4ccd-ab48-6dfc0ab9d809",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 496,
+      "labels": [
+       "Drug"
+      ],
+      "start": 485,
+      "text": "purple haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "50927d67-be1d-4691-ac32-a1f33559c143",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 584,
+      "labels": [
+       "Drug"
+      ],
+      "start": 573,
+      "text": "Super Skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-gur3_FC-W",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 562,
+      "labels": [
+       "Drug"
+      ],
+      "start": 555,
+      "text": "Real OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "qcplNSuguw",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 517,
+      "labels": [
+       "Drug"
+      ],
+      "start": 507,
+      "text": "blueberry "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "JESbsIbnfF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 347,
+      "labels": [
+       "Drug"
+      ],
+      "start": 333,
+      "text": "Hawaii - Skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Td-jfe3a1Y",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Girl Scout. Cookies"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Girl Scout. Cookies launches you to euphorias top floor where full - body relaxation meets a time - bending cerebral space. we sell in small \/ large quantities with guaranteed discreet delivery in good time Shipping is done Via DHL EMS UPS FedEx. Get to me discreetly. Telegram kushvendor. Wickr ID medicare50. White Widow Grade AA. Hawaii - Skunk Grade AA. Hindu Kush Grade AA. skywalker kush Grade AA. sour diesel Grade AA. grand daddy purple. Grade AA. girl scout cookies Grade AA. purple haze Grade AA. blueberry Grade AA. Super Silver Haze Grade AA. Real OG Grade AA. Super Skunk Grade AA. contact us. Wickr ID medicare50. Telegram kushvendor.",
+  "dream_id": 427589,
+  "golden": false,
+  "name": "\"Grade \"\"A\"\"  Girl scout\"",
+  "p_id": 310
+ },
+ "id": 642
+}

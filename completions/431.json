@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 431001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3d0db183-c69e-4c31-9bbe-66baf67dff4f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "Ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eb82c04f-b8f4-46fb-b0bf-829b58a55fc6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4d07380b-e4e8-413d-a5e7-9099954c90e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 151,
+      "labels": [
+       "Drug"
+      ],
+      "start": 143,
+      "text": "ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2G Ketamine. Very high quality ketamine , either cube or shard. Check profile for updates. Pre -drought quality. This sells like hotcakes. Top ketamine vendor from Alphabay. SHIPPING. Guarenteed Next Day Delivery if ordered before 3 pm. Stealth. Please encrypt addresses for your own protection. Please send correct address format as this is the number one reason for delays in delivery.",
+  "dream_id": 20924,
+  "golden": true,
+  "name": "KETAMINE 2G AAA+++ ",
+  "p_id": 5912
+ },
+ "id": 431
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 874001,
+   "lead_time": 4861.408,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "272823c0-901e-4722-b30f-c07db40d536b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Tangie"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cbd2bf36-793b-4594-a92c-4714011c756d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2fdhQ3ByOc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "Sativa "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "mqRwrdXFTG",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 52,
+      "text": "Tangie "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Tangie Crossed with Sherbert - Heart punding Sativa Tangie - crossed with indica dominant sherbert. This shit is awesome. Complex aromas of skunky citrus , creamy sweet berries and sweet melted sherbert ice - cream. Flavor , funk , and trichome rich bud.",
+  "dream_id": 383888,
+  "golden": false,
+  "name": "Tangie-Sherbert 1\/2Oz",
+  "p_id": 450
+ },
+ "id": 874
+}

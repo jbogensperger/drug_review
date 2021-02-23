@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 881001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f2b99ed4-00ba-44b6-af5a-e3acfcfa0ebb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "87c87b2f-047e-493f-8591-e78b3b0b34d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 144,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e5231acb-6be0-44f9-ac51-c6986c813d3f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 162,
+      "labels": [
+       "Drug"
+      ],
+      "start": 151,
+      "text": "amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "New in stock , with a limited supply , Adderall Extended Release , 30 mg. These are the highly sought after extended release version of Adderall , AKA amphetamine salts. These are standard prescription quality , procured from a US pharmacy. The picture is an example of exact pill you will receive. This listing is for 3 30 mg Extended Release pills. Priority shipping is offered as well as express. Please message with any questions or requests.",
+  "dream_id": 330054,
+  "golden": false,
+  "name": "Adderall XR 30mg **Lot of 3",
+  "p_id": 458
+ },
+ "id": 881
+}

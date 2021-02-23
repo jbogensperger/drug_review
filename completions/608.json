@@ -1,0 +1,229 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 608001,
+   "lead_time": 1912.337,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2811e8e3-62ec-437c-8a2f-a3fb43195c1d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Testosterone acetate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7bd336ea-abf2-4c05-bb9b-941b6c69d38f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "Androtest A"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c12c52f1-8be6-4bec-8acd-56e0ba937350",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 137,
+      "labels": [
+       "Drug"
+      ],
+      "start": 125,
+      "text": "Perandrone A"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "363349f2-303e-4f96-9144-d407c8e8aa42",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 165,
+      "labels": [
+       "Drug"
+      ],
+      "start": 143,
+      "text": "testosterone ethanoate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "14e39717-472e-42ec-972d-8e44f874f496",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 269,
+      "labels": [
+       "Drug"
+      ],
+      "start": 253,
+      "text": "anabolic steroid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7b6cd8d2-5c97-4a72-8d8d-95790b2dbace",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 83,
+      "labels": [
+       "Drug"
+      ],
+      "start": 75,
+      "text": "Amolisin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fe4dda5a-26c5-4a20-aac7-cb9a5b6e9423",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 110,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "Deposteron"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "34ed9731-b17f-4d26-af36-6678caaa5ac1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 122,
+      "labels": [
+       "Drug"
+      ],
+      "start": 113,
+      "text": "Farmatest"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d22a9487-c582-4759-bc40-e44c0c679240",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 248,
+      "labels": [
+       "Drug"
+      ],
+      "start": 240,
+      "text": "androgen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "360ee989-2607-4f53-8836-c95242880a31",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 288,
+      "labels": [
+       "Drug"
+      ],
+      "start": 276,
+      "text": "testosterone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "KyE9obTdFQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "Aceto "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "AaYBL9sflb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "Sterandryl "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "46fYloyDX3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "Aceto "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Rgm3tSwPPh",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "Testoviron "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "v-SoAaZhjE",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 231,
+      "labels": [
+       "Drug"
+      ],
+      "start": 182,
+      "text": "androst - 4 - en - 17 - ol - 3 - one 17 - acetate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Testosterone acetate brand names Aceto - Sterandryl , Aceto - Testoviron , Amolisin , Androtest A , Deposteron , Farmatest , Perandrone A , or testosterone ethanoate , also known as androst - 4 - en - 17 - ol - 3 - one 17 - acetate , is an androgen and anabolic steroid and a testosterone ester. We guaranteed reship 100 if we lost parcel during shipping but we need evidences. Almost 999 are received safe in EU.",
+  "dream_id": 239546,
+  "golden": false,
+  "name": "Testosterone Acetate EU 5000g",
+  "p_id": 267
+ },
+ "id": 608
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 626001,
+   "lead_time": 4719.766,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1a602f4a-ccba-467e-b20b-99846efcf989",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "BubbleHash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "JMzQSOc66Q",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "Critical Cheese"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "14whJe1VV_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 65,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "White Widow"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 g Critical Cheese COLD PRESSED 54 50 g High Grade White Widow BubbleHash 50g High Grade Moroccan Cream.",
+  "dream_id": 423109,
+  "golden": false,
+  "name": "Custom for Mike",
+  "p_id": 290
+ },
+ "id": 626
+}

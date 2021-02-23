@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 128001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "067232b3-24d9-4a57-85f5-4f6236825102",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 162,
+      "labels": [
+       "Drug"
+      ],
+      "start": 151,
+      "text": "amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4edd94df-f829-4702-934a-deefc11f684d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 182,
+      "labels": [
+       "Drug"
+      ],
+      "start": 167,
+      "text": "methamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "676b69bf-14dd-4ef7-8e96-b9a232924a59",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 148,
+      "labels": [
+       "Drug"
+      ],
+      "start": 140,
+      "text": "caffeine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SHIP FROM CANADA SHIP FROM CANADA SHIP FROM CANADA. hello. If you want more pills , take the item several times. These pills are a blend of caffeine , amphetamine and methamphetamine. Effects Reduced appetite prolonged awareness high mental alertness dry mouth. These pills are of High quality ,. Often only 1 \/ 4 to1 \/ 2 a pill is good for more than 6 hours. By ordering you accept our terms and conditions. Adress. MAXIMUM 5 LINES. Lyso.",
+  "dream_id": 61385,
+  "golden": true,
+  "name": "\"10--49 Speed Pills HQ  \"\"\"\"Free Shipping\"\"\"\"\"",
+  "p_id": 2414
+ },
+ "id": 128
+}

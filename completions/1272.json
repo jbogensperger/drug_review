@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1272001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fda7fcf6-5ca2-4903-bb67-e4d4df1fe20d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9c9630c0-3477-4431-bb08-978f8a81673d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 109,
+      "labels": [
+       "Drug"
+      ],
+      "start": 104,
+      "text": "speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "121c65de-08ce-49dc-943c-ab8104e9c9e5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 259,
+      "labels": [
+       "Drug"
+      ],
+      "start": 254,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "81053c41-6e37-486d-af6b-0a5024f1b1c4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 417,
+      "labels": [
+       "Drug"
+      ],
+      "start": 406,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9dac2fd9-985b-44db-923a-dba4898ed94c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 480,
+      "labels": [
+       "Drug"
+      ],
+      "start": 475,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ffcfc2cc-b123-4329-9756-e668f9a2ea9d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 589,
+      "labels": [
+       "Drug"
+      ],
+      "start": 584,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2f5f06cd-d454-4e7f-bbb1-42f0fad9028b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 670,
+      "labels": [
+       "Drug"
+      ],
+      "start": 665,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c0a158cf-6b77-4c63-a0f8-c58322519907",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 745,
+      "labels": [
+       "Drug"
+      ],
+      "start": 740,
+      "text": "SPEED"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ENGLISH 75 - 80 Amphetamine 100 UNCUT - no disgusting cuts like coffeine \/ ephedrine or something. This speed is really strong. No wet or too dry shit. Tested by ourselves. This paste is really worth its money. Shipping time 7 days for this high amount. Speed will be shipped alone and not combined with other orders in one package. NO REFUND \/ RESHIP WITHOUT TRACKING. Please start slowly. GERMAN 75 - 80 Amphetamine 100 UNCUT - keine ekelhaften. Streckmittel drin - reines Speed. Die Paste ist wirklich stark. Keine nasse. Plrre oder hartgetrockneter Mist. Selbst getestet - dieses Speed ist sein Geld wirklich wert. Speedversand von 1 kg wird ca. 7 Tage dauern. Speed wird immer einzeln verschickt. OHNE TRACKING KEIN REFUND \/ RESHIP FR SPEED. Startet bitte langsam zum antesten.",
+  "dream_id": 404205,
+  "golden": false,
+  "name": " 1kg HiGH QUALiTY UNCUT SPEED PASTE !FE!",
+  "p_id": 923
+ },
+ "id": 1272
+}

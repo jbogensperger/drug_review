@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 714001,
+   "lead_time": 478.668,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "44d879ad-f808-48c7-937d-76dbb5dc8a7c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Hydrocodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "udg0n7UQPT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "V - 3592"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_tro9EkxhQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "Vicodin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your purchasing 1 - Tablet 5 mg 5\/325 Hydrocodone V - 3592 Generic Vicodin. Tablet is White Oblong. The 1st side of tablet is embossed with a Fancy V , the opposite side is embossed with the numbers 3592.",
+  "dream_id": 285946,
+  "golden": false,
+  "name": "Hydrocodone 5mg\/325 (1-Tablet) V-3592 Vicodin",
+  "p_id": 393
+ },
+ "id": 714
+}

@@ -1,0 +1,173 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 457001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a98a9a67-81bc-4f46-93de-096ba40d9fdd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "93c964c1-c799-4f6c-8d57-3b643e2d1563",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Etilaam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b806c339-f1fc-4222-b6e4-7a6ca58dc49b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 56,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "Etizola"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0cecaa4b-9380-496b-8587-3a2225c04a09",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 68,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "Sedekopan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "edcd34e5-ecc5-40c1-9408-4dbcc6fdabcf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 78,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "Etizest"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bb3c013f-52b3-4c29-99c9-9e73d96a024f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 88,
+      "labels": [
+       "Drug"
+      ],
+      "start": 81,
+      "text": "Pasaden"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8bdc3102-f1af-419e-a023-345c44476a1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "Depas"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fe46db39-40b8-4b3c-bc7f-302cf7a7dda9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 117,
+      "labels": [
+       "Drug"
+      ],
+      "start": 103,
+      "text": "benzodiazepine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "18d51b8c-be81-4071-a10d-beaf369a55df",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 138,
+      "labels": [
+       "Drug"
+      ],
+      "start": 130,
+      "text": "etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "79ed6fda-486a-466c-8738-4814f70e7b46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 177,
+      "labels": [
+       "Drug"
+      ],
+      "start": 163,
+      "text": "benzodiazepine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "347b25ed-b91f-4777-bb23-e3228a6a8215",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 317,
+      "labels": [
+       "Drug"
+      ],
+      "start": 294,
+      "text": "thienotriazolodiazepine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Etizolam marketed under the brand name Etilaam , Etizola , Sedekopan , Etizest , Pasaden or Depas is a benzodiazepine analog. The etizolam molecule differs from a benzodiazepine in that the benzene ring has been replaced by a thiophene ring and triazole ring has been fused , making the drug a thienotriazolodiazepine. It possesses amnesic , anxiolytic , anticonvulsant , hypnotic , sedative and skeletal muscle relaxant properties.",
+  "dream_id": 391728,
+  "golden": true,
+  "name": "SAMPLE 1x ETIZOLAM (1mg)",
+  "p_id": 5665
+ },
+ "id": 457
+}

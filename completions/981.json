@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 981001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eb6926ff-de5a-4919-a46f-c358bda6768b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1d393c24-c3c8-4f58-87c6-253c170cecbb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 97,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PURE 84 WHITE CRYSTAL MDMA. Ships from USA but is sourced from Netherlands. Some of the cleanest MDMA I ve ever done. Extremely euphoric. Tested no cuts or RCs.",
+  "dream_id": 418406,
+  "golden": false,
+  "name": "250g MDMA - PURE 84% WHITE CRYSTAL- ",
+  "p_id": 588
+ },
+ "id": 981
+}

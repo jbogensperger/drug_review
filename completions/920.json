@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 920001,
+   "lead_time": 803.362,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d56f0125-83b6-474d-bd0f-8116ff3f8018",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "seroquel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "38293bfb-cb76-495f-86f0-ea8f0596ad48",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "Seroquel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "RZeHKfBDmR",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 379,
+      "labels": [
+       "Drug"
+      ],
+      "start": 373,
+      "text": "benzo "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "On offer we have pharmaceutical grade seroquel 300 mg tablets. Seroquel is a anti-psychotic which is widely used in the treatment of individuals suffering mental illnesses such as bi-polar and schizophrenia or in the rare case fellow partying people as the best way to combat those dreadful comedowns. Once you try one of these puppies , you will never have to reach for a benzo again. We recommend you take half a tablet and wait 30 minutes before dropping the other half approximately 1hr before you intend on being asleep if you have nt had any experience with the dosage size.",
+  "dream_id": 125426,
+  "golden": false,
+  "name": "Seroquel 300mg - **STOPS TRIPS**- 5 tablets",
+  "p_id": 512
+ },
+ "id": 920
+}

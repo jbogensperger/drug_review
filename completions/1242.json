@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1242001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "df4c2072-f24e-4732-8f17-561084dd74dc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 48,
+      "text": "acetaminophen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3954b914-63f3-48c7-857c-42c254923636",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "hydrocodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6a121934-33bd-4649-b6b7-1e3fe3c04bec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 107,
+      "labels": [
+       "Drug"
+      ],
+      "start": 102,
+      "text": "Norco"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "GET YOUR COINS READY BEFORE YOU CONTACT. Yellow acetaminophen and hydrocodone 325\/10 v 3601 imprint , Norco , str 8 from the arm.",
+  "dream_id": 427189,
+  "golden": false,
+  "name": "Available Norco 10\/325 (2000 pills)",
+  "p_id": 891
+ },
+ "id": 1242
+}

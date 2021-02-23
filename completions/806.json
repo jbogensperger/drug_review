@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 806001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f2e9afcd-31d5-4d5e-b373-d2f4f6f3ea33",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 189,
+      "labels": [
+       "Drug"
+      ],
+      "start": 181,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c4dfacbe-d940-4117-a97f-af5bec8cae6e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 334,
+      "labels": [
+       "Drug"
+      ],
+      "start": 331,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "WELCOME TO CALI. MEGAMELT. 6 megadose Chocolate Bar 120 mg. Exclusive to CaliKindness and NOWHERE else. We re proud to finally introduce CaliKindness exclusive delicious and smooth cannabis infused chocolate bars from our expert in house chocolate maker. Quality chocolate infused with approximately 120mg of crystalline distilled THC for smooth , clean high. Available flavors. Mon April 3. MILK CHOCOLATE DARK CHOCOLATE PEANUT BUTTER PEANUT BUTTER CRUNCH. Bars are split into 6 pieces of 20 mg each for easy dosing. WARNING This is POTENT chocolate , for experienced users. We test our edibles to back up our claims. Here is our most recent test results June 2016. clearnet. IF YOU LIVE IN A HOT PLACE , CHOCOLATE CAN MELT DURING DELIVERY , especially if left in a mailbox.",
+  "dream_id": 99356,
+  "golden": false,
+  "name": "MegaMelt! Chocolate Bar (120mg)",
+  "p_id": 302
+ },
+ "id": 806
+}

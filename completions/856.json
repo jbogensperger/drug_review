@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 856001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a3a5df8f-09e2-4118-bd76-f9e03f2694ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eb0b81c2-91e6-408f-b3ce-d20c01bc5b38",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Personal prescription of Alprazolam 05 mg , generic for Xanax. S 901 pill. Quantity left 0.",
+  "dream_id": 368273,
+  "golden": false,
+  "name": "S901 - Alprazolam\/Xanax 0.5mg - $2 each - TEMP OUT",
+  "p_id": 426
+ },
+ "id": 856
+}

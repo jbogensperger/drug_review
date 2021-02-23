@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 688001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2ca789c9-2721-4d9d-9645-a74b083dfd18",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Trim Wax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "14g Trim Wax Stable after freezing. Really easy to break. Fruit roll up higher temps. LIQUIDATION TO BUILD REP FREE SHIPPING.",
+  "dream_id": 303499,
+  "golden": false,
+  "name": "14g Trim Wax - Relatively Stable Budget Wax",
+  "p_id": 364
+ },
+ "id": 688
+}

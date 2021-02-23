@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1036001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "47063adf-8e38-481e-86c5-cce5e40bfc83",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Pineapple Express"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "92a3f56e-ac07-4dd7-b01d-fb3cbae0f54e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 141,
+      "labels": [
+       "Drug"
+      ],
+      "start": 138,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "7g - Organically grown indoor Pineapple Express bud. Grown in the Rockies to medical standards and passes dispensary test. Testing at 247 THC - Vacuum sealed then sealed in Mylar package for double security. High Res Pic. We guarantee your package. If it does nt arrive , we ll resend another at no charge. All orders ship within 24hrs of ordering Monday - Friday.",
+  "dream_id": 429525,
+  "golden": false,
+  "name": "7g - Pineapple Express - AAA+ Indoor Weed - 24.7% ",
+  "p_id": 655
+ },
+ "id": 1036
+}

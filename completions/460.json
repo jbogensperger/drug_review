@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 460001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2eae0d93-b46e-4af2-9def-14f05ec4a56e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Lyrica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "generic Lyrica 300 mg caps usa to usa only this is for nerve pain fibermialgia diabetic nerve pain.",
+  "dream_id": 425191,
+  "golden": true,
+  "name": "Lyrica 300 mg caps  USA to USA",
+  "p_id": 6181
+ },
+ "id": 460
+}

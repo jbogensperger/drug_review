@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1010001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3c2b1eb0-4c10-4b26-99f4-0a252074f5e6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6a2c067e-d358-4b0b-97a3-243ef6b6882a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 159,
+      "labels": [
+       "Drug"
+      ],
+      "start": 150,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "97d156f6-c6ce-4d94-a4c4-1c0554e79064",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 366,
+      "labels": [
+       "Drug"
+      ],
+      "start": 363,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5c2f7826-5598-41b8-962f-6476300080b5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 380,
+      "labels": [
+       "Drug"
+      ],
+      "start": 377,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cannabis infused syrup. Stylized like lean. Below is what is written on the bottle. do not open container till you reach your destination for medical marijuana patients only not for resale keep of of reach of children and animals do not operate heavy machinery the influence of this product. 1 oz mellow 2 oz feeling it 3 oz couch lock 4 oz lights out 2000 mg of THC 500 mg of THC every ounce.",
+  "dream_id": 359275,
+  "golden": false,
+  "name": "Hesh Tech Cannasyrup - Purple Rain 4 oz bottle",
+  "p_id": 625
+ },
+ "id": 1010
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1168001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d5d7927c-510e-4ed6-8fff-3cbdd8103748",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High Quality. Cocaine Never Cut High Purity Escrow Payment. Buy with confidence.",
+  "dream_id": 418224,
+  "golden": false,
+  "name": "0.5g CocaineCANADA ONLY",
+  "p_id": 808
+ },
+ "id": 1168
+}

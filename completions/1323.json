@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1323001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d3df8025-fcb8-446e-ac78-6e4bd0413505",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "SKYWALKER OG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 5 x. SKYWALKER OG , stoned you shall be getting , 1000 mL 10 g Extracts of the Sun Cartridges. These are by far the best on the market. Mass. Produced in our 50 k lab using a closed loop system inside of course a static free room with a mass air exchange using sub - zero temperatures purgeing perfectly for the best golden nugrun , not that amber shit. Very Clean. Great care is taken with all products to ensure the utmost quality of the finished and finest nug run from the West Coast to the East Coast. We re not fuckin playing. We work side by side with one of the biggest names in the industry. Greenwolf Collective. and we dgaf if anyone knows. They do them we do us ya dig. Back to the damn point. one puff and you ll instantly feel your head in the cloud , and feel nothing but that your feet are truly touching the floor. Be aware of your limits and conscious of your surroundings P.",
+  "dream_id": 404109,
+  "golden": false,
+  "name": "5x SKYWALKER OG 1000mL Extracts of the Sun Cartri",
+  "p_id": 981
+ },
+ "id": 1323
+}

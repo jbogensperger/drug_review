@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 19001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "daa78e1d-6ad7-4b3a-89c0-d410e41ffd04",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Pregablin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pregablin 150 mg X 28. In blister NHS authentic.",
+  "dream_id": 83115,
+  "golden": false,
+  "name": "28 X Pregablin 150mg",
+  "p_id": 24
+ },
+ "id": 19
+}

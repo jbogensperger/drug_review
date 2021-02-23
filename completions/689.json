@@ -1,0 +1,201 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 689001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "09993d6c-489b-47bb-930d-2511e1b11cbc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Super Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8d4041da-a174-47b9-8591-b0de301866f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "Super Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b5de5e17-0870-4523-a00e-0a5f5ddff4fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 138,
+      "labels": [
+       "Drug"
+      ],
+      "start": 121,
+      "text": "Super Silver Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e592b8da-83f3-42eb-8365-bbfeb09f5226",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 157,
+      "text": "Super Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e7529524-71de-4308-83d6-c9b19456c2d6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 282,
+      "labels": [
+       "Drug"
+      ],
+      "start": 265,
+      "text": "Super Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9f794c12-1d2e-4b86-b35a-95af05c44457",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 411,
+      "labels": [
+       "Drug"
+      ],
+      "start": 394,
+      "text": "Super Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "036f0e40-fa3c-40f4-9db0-23cec2853c09",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 658,
+      "labels": [
+       "Drug"
+      ],
+      "start": 640,
+      "text": "Super Sour Diesels"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fa53c5aa-46b2-49b1-a4ee-578b2153b85f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 819,
+      "labels": [
+       "Drug"
+      ],
+      "start": 802,
+      "text": "Super Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ab2312af-1257-46e5-925e-15db5bc46166",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 837,
+      "labels": [
+       "Drug"
+      ],
+      "start": 820,
+      "text": "Super Silver Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8d0faddb-38b3-40c4-a1f0-fe2605341ebb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 154,
+      "labels": [
+       "Drug"
+      ],
+      "start": 143,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "17770313-a47d-4c41-9a53-66d77a803f1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 851,
+      "labels": [
+       "Drug"
+      ],
+      "start": 840,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "388b78f9-5116-4568-b868-b1b9aece2d1c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 90,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bf8e1bd0-9fc4-493a-9cad-f28e3c77872b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 257,
+      "labels": [
+       "Drug"
+      ],
+      "start": 251,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Super Sour Diesel. Taking after its popular parents , Super Sour Diesel is one incredible sativa. A potent cross between Super Silver Haze and Sour Diesel , Super Sour Diesel knocks out stress and pain while fostering creativity and euphoria. In true sativa form , Super Sour Diesel energizes , making it great for daytime use. New users , however , should use caution when trying this strain. Super Sour Diesel produces strong cerebral effects , which may be overpowering to novice MMJ patients. Familiar users will be surprised at this strains introspective spark. Sociable and fun , the effects of this strain are felt upon first taste. Super Sour Diesels pungent , fuel - like aroma speaks to the sheer strength of this strain. Effects Euphoric , Uplifted , Happy , Energetic , Focused. Parents of Super Sour Diesel Super Silver Haze , Sour Diesel. Flavors Diesel , Earthy , Pungent.",
+  "dream_id": 239573,
+  "golden": false,
+  "name": "1g - Super Sour Diesel",
+  "p_id": 365
+ },
+ "id": 689
+}

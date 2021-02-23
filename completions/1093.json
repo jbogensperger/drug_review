@@ -1,0 +1,20 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1093001,
+   "lead_time": 10.0,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Handle with care. General instructions on how to dose cost effectively at home.",
+  "dream_id": 374484,
+  "golden": false,
+  "name": "1g - Alprazolam \/ Xanax ",
+  "p_id": 724
+ },
+ "id": 1093
+}

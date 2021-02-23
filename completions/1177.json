@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1177001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c258ab16-1fd5-48f4-955a-ae40beaec582",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "Hydrocodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- No APAP -. 15 mg capsule x 10 caps 150 MG of Hydrocodone. Lab sourced. Comes in white or clear capsule. Please encrypt address for safety. Discover. Quick shipping , quality product. Tracking , great stealth.",
+  "dream_id": 22675,
+  "golden": false,
+  "name": "Hydrocodone [Vicodin] Capsules 15MG (10x)",
+  "p_id": 819
+ },
+ "id": 1177
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 519001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "89324634-d0ef-4bbd-b6b8-07f6df203a98",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Will"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Will arrive as white powder , may contain some chunks.",
+  "dream_id": 293095,
+  "golden": false,
+  "name": "1g Ketamine",
+  "p_id": 125
+ },
+ "id": 519
+}

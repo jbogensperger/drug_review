@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 715001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "53896ead-022c-4826-92bf-388acbada871",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "TRIAZOLAM"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "414fed06-ae96-4845-b7e6-40bc5bc938c3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "HALCION"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I AM selling HALCION 025 brand name TRIAZOLAM no generic from another countries , which you pay less but is no real OR LOW QUALITY , you do nt have to wait weeks to get your medication , ORDERS RECEIVE BEFORE 10 AM MST TIME GO THE SAME DAY , i will provide A TRACKING NUMBER SO YOU FOLLOW THE PACKAGE , ONLY MAIL IN USA. THANKS.",
+  "dream_id": 125920,
+  "golden": false,
+  "name": "HALCION O.25 MG 60 TABLETS BRAND NAME",
+  "p_id": 394
+ },
+ "id": 715
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 61001,
+   "lead_time": 739.415,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b3965c4f-11bf-424d-ba0f-e172a881ad45",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Cannazine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a7XXSsJFrB",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 139,
+      "text": "THC "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7cKl1_K3oh",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 131,
+      "labels": [
+       "Drug"
+      ],
+      "start": 122,
+      "text": "Cannabis "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Mix any 25 flavors of Cannazine Bottles. Buzooka Bubble. Gum Grape Cherry Pineapple Strawberry Watermelon Cherry Limeade. Cannabis Infused THC Syrup Lean - Mix this Syrup with any Soda like Fanta , Sprite , 7 UP. Pour it up and Lean. 2000 mg per bottle Mix any order and get Free Shipping Now In plastic bottles 4 oz Bottle.",
+  "dream_id": 82272,
+  "golden": false,
+  "name": "25 Bottles Of Cannazine Mix Any Flavor",
+  "p_id": 74
+ },
+ "id": 61
+}

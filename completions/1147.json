@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1147001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8f353487-5d8e-42ea-a848-dbac19389a00",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Somatropin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Manufacturer SERENO TR. Substance Somatropin Pack CLICKEASY 24 IU.",
+  "dream_id": 284394,
+  "golden": false,
+  "name": "SAIZEN *Somatropin* CLICKEASY 24 IU ( 8MG) SERENO ",
+  "p_id": 775
+ },
+ "id": 1147
+}

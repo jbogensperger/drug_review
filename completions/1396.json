@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1396001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e7dbfa84-567b-42d1-a949-4361584eb4de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Viagra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Viagra Soft 800pills. Will be shipped in 4 different packages , tracked.",
+  "dream_id": 285050,
+  "golden": false,
+  "name": "Custom for Refrigeratorholder",
+  "p_id": 1076
+ },
+ "id": 1396
+}

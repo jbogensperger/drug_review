@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 49001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e6ebed1a-f0ad-4841-af52-677fadf27b29",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 243,
+      "labels": [
+       "Drug"
+      ],
+      "start": 242,
+      "text": "."
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "LV double zipper wallet 61723. Material leather size 19\/10 Color black \/ Monogram \/ black checked \/ brown checked. Quality Top AAAAA Grade. High quality Guarantee. 100 make according to the original design. For more images , please pm me here.",
+  "dream_id": 64397,
+  "golden": false,
+  "name": "LV double zipper wallet 61723",
+  "p_id": 60
+ },
+ "id": 49
+}

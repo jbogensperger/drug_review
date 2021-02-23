@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 117001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bdd360fd-83f6-421b-8585-52cd99fd1c21",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2cfd6198-4153-415b-9067-f75b7867f89f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "tadalafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6ef84261-64be-41e7-b141-869d7866a5cc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 204,
+      "labels": [
+       "Drug"
+      ],
+      "start": 198,
+      "text": "CIALIS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f2ee7f2a-f09c-4bad-a7f0-a28de39e9f65",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 373,
+      "labels": [
+       "Drug"
+      ],
+      "start": 367,
+      "text": "CIALIS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b6c99e24-18a0-41b3-b979-444573a25a28",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 456,
+      "labels": [
+       "Drug"
+      ],
+      "start": 450,
+      "text": "CIALIS"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cialis by Eli Lilly Original from Pharmacy 20 mg tadalafil - 4 pills. Brand Name Cialis Manufacturer. Eli Lilly. This product is original from Pharmacy , not home made or generic stuff. Indications CIALIS is approved to treat erectile dysfunction ED , the signs and symptoms of benign prostatic hyperplasia BPH , and both ED and the signs and symptoms of BPH. Taking CIALIS with finasteride when starting BPH treatment has been studied for 26 weeks. CIALIS is not for women or children. All products in Hungary , EU Stock. Shipping with Hungary Mail Post with tracking. If you do nt get the item , i send you the tracking code. My products has a long expiration date. Refund policy. If an order do nt arrive because they got intercepted or when they got lost , then i will do a reship. Before you leave negative feedback please contact me to solve the problem. I m sure we can find the solution. I am looking for wholesalers in EU. PM me for the wholesaler prices.",
+  "dream_id": 281069,
+  "golden": true,
+  "name": "Cialis by Eli Lilly Original from Pharmacy 20mg ta",
+  "p_id": 7070
+ },
+ "id": 117
+}

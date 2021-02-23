@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 788001,
+   "lead_time": 454.678,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8Nwk2sYevk",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 1,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "A"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "A bottle Vial with 100 drops of 25 uG a dose , the original Dr Hoffman. the acid is colorful and clear. a great formula made for love.",
+  "dream_id": 424554,
+  "golden": false,
+  "name": "LSD (Vial) California Sunshine MicroDose 25uG",
+  "p_id": 252
+ },
+ "id": 788
+}

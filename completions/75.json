@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 75001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "87111c64-2d3a-4e56-84e0-985b6119b313",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 48,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "18e9c5ce-bfe2-4993-8bdc-20d72f840dc7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 75,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5b8f06e3-51cb-410e-8493-bc890ddf1fa2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 120,
+      "labels": [
+       "Drug"
+      ],
+      "start": 116,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a very good and top quality of moroccan hash. The best of the best hash from morocco. 50 Grams of this best hash for 300.",
+  "dream_id": 421323,
+  "golden": false,
+  "name": "50GR TOP QUALITY MOROCCAN HASH",
+  "p_id": 90
+ },
+ "id": 75
+}

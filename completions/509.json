@@ -1,0 +1,173 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 509001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "65efdf72-b08e-4115-bed0-561c924e2797",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 191,
+      "labels": [
+       "Drug"
+      ],
+      "start": 179,
+      "text": "gorilla glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6e0b95ab-f19a-4cb1-b2cc-bf99bd38f7d0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 229,
+      "labels": [
+       "Drug"
+      ],
+      "start": 212,
+      "text": "pineapple express"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a33ef23f-a4ec-487d-bc27-17a4cf695245",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 250,
+      "labels": [
+       "Drug"
+      ],
+      "start": 239,
+      "text": "lemon skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9fb6f4af-70e9-4818-a5d5-197f9710fce2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 264,
+      "labels": [
+       "Drug"
+      ],
+      "start": 253,
+      "text": "sour diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cb0b41d2-0c75-48fb-84c7-6d1051b769aa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 276,
+      "labels": [
+       "Drug"
+      ],
+      "start": 267,
+      "text": "black ice"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fc1df209-f104-4d4e-ab7e-1335d47e1ebd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 294,
+      "labels": [
+       "Drug"
+      ],
+      "start": 279,
+      "text": "granddaddy purp"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8f69cdb8-b800-48e6-9a00-995596ee3871",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 309,
+      "labels": [
+       "Drug"
+      ],
+      "start": 297,
+      "text": "purple urkle"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1cd1054f-8ffb-47cd-b0d7-592f3df286db",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 176,
+      "labels": [
+       "Drug"
+      ],
+      "start": 172,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "190b4df1-6b43-4a29-939e-42406844460b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 203,
+      "labels": [
+       "Drug"
+      ],
+      "start": 196,
+      "text": "gorilla"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "15955c95-ce54-4bb6-a41b-66d7b143de7f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 209,
+      "labels": [
+       "Drug"
+      ],
+      "start": 205,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "47440233-e63b-492a-892e-7a3a9481cc05",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 236,
+      "labels": [
+       "Drug"
+      ],
+      "start": 232,
+      "text": "papa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We are looking to take on a few new clients that are in need of a bulk supplier. All bud is grown indoor and strains change frequently. These are all top shelf quality. OG Kush , gorilla glue 4 , gorilla. Kush , pineapple express , papa , lemon skunk , sour diesel , black ice , granddaddy purp , purple urkle. List goes on and on. Usually around 4 or 5 different strains available for 25 lbs. Safe meets only. Super chill here and expect the same. Lbs are 1800 per but can do a discount if you are getting a decent amount. I also give incentives and extras to loyal customers. If interested in doing good business and making GREAT money shoot me a text.",
+  "dream_id": 420766,
+  "golden": true,
+  "name": "USA Bulk marijuana. Indoor top shelf. Lbs",
+  "p_id": 2787
+ },
+ "id": 509
+}

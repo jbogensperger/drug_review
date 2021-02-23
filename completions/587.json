@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 587001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "61cc7a4a-8541-402f-976c-fe28dd268ce3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 216,
+      "labels": [
+       "Drug"
+      ],
+      "start": 207,
+      "text": "Marijuana"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a guide that I pulled off the net that puts everything in plain and simple english , and does nt go to deep into advanced botony and gardening. I find this one to be the best guide out there. Indoor Marijuana Cultivation.",
+  "dream_id": 60774,
+  "golden": false,
+  "name": "Beginner's Guide to Growing Marijuana",
+  "p_id": 241
+ },
+ "id": 587
+}

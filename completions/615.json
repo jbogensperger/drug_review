@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 615001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bb2602b4-6052-410f-8800-99262e99d71e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Dilaudid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dilaudid 8 mg 20 per pill X 1000 10000. These pills are direct from USA pharmacies. They are not pressed replicas , they are pharmaceutical grade. Wickr vannel. We are Only Available for Serious Clients Follow our rules and procedue and i assure you the greatest vendor ever.",
+  "dream_id": 425957,
+  "golden": false,
+  "name": "Dilaudid 8mg $20 per pill",
+  "p_id": 276
+ },
+ "id": 615
+}

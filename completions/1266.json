@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1266001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2fdb8073-a0ba-469b-87ab-470065a8752e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dc8262d7-78ad-45aa-905c-0d4ca1432764",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We have connections other vendors can only dream of. Whether it be cocaine , our super fire meth , or some of the hardest pills to come by. We are always in stock of the highest quality products and we pride ourselves in good prices and escrow listings.",
+  "dream_id": 388641,
+  "golden": false,
+  "name": "Hydrocodone 10mg == 4 Pills for $45",
+  "p_id": 917
+ },
+ "id": 1266
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 810001,
+   "lead_time": 3482.398,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "RAfYoEAsAY",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "SFV. OG"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "20 Pre Rolled SFV. OG ,. This is 20 FAT pre-ROLLED.",
+  "dream_id": 225343,
+  "golden": false,
+  "name": "20 Pre-Rolled SFV OG Joints ",
+  "p_id": 313
+ },
+ "id": 810
+}

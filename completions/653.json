@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 653001,
+   "lead_time": 921.453,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1e6ea726-63d6-46b4-ba21-661f0e37ab7b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 145,
+      "labels": [
+       "Drug"
+      ],
+      "start": 139,
+      "text": "Ketama"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8beecd48-9e52-4dbb-8615-8c486361b0d7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 620,
+      "labels": [
+       "Drug"
+      ],
+      "start": 614,
+      "text": "Ketama"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cV0jM__D6-",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Ketama Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5TzLSdgFeI",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 105,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "hash "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is for 10g of Ketama Hash from Amsterdam , good moroccan quality , not commercial quality. The hash is quite smooth and very nice for Ketama. The price is very good compared to other offers , please check for yourself. We just want to sell this quick at a small margin as we are able to get high stock of it. THIS IS AN EXCEPTIONAL OFFER , VERY GOOD VALUE FOR MONEY , GRAB IT WHILE YOU CAN. It comes from a coffeeshop of Amsterdam , and due to the quantities of hash sold here and the competition , they have the best sources to get the best products. It is produced in the moroccan region of the same name , Ketama , and is 100 pure. Color dark. Effect Compared to other kinds of Hash it produces a quite cerebral and active high.",
+  "dream_id": 292218,
+  "golden": false,
+  "name": "10g Ketama VERY GOOD VALUE FOR MONEY",
+  "p_id": 324
+ },
+ "id": 653
+}

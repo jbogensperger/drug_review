@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1271001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "94fa9ff7-a71c-4605-9941-4ed6e4ec8a6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "suboxone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "suboxone 2\/8 mg STRAIGHT FROM HEALTH MEDICS CARE 15 PER PILL. BULK DEALS 400 PILLS FOR 6000 FOR MORE INFOR POR ANY CUSTOM ORDER , YOU CAN JUST DOWNLOAD KIK OR WICKR ON YOUR PHONE APP AND ADD ME FOR A FAST AND MORE DISCREET CHAT. MY WICK ID burpboob MY KIK ID burpboob.",
+  "dream_id": 425422,
+  "golden": false,
+  "name": "suboxone 2\/8mg",
+  "p_id": 922
+ },
+ "id": 1271
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 694001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4b46c197-c3e7-423d-a88a-dc58365f1c5e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 gram pure uncut Colombian Fish scale Cocaine. Straight from the brick. Cheapest on the Dark Markets.",
+  "dream_id": 170677,
+  "golden": false,
+  "name": "1 Gram SOCIABLE COCAINE ( 2 GRAMS GET 0.3 FREE)",
+  "p_id": 371
+ },
+ "id": 694
+}

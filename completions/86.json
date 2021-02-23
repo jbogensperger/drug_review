@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 86001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bfd98138-5214-4111-8171-c624ed27b751",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "MDA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "666cd5bf-d087-4afb-81cb-3d2f8fa6a058",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 354,
+      "labels": [
+       "Drug"
+      ],
+      "start": 350,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "MDA Crystal recrystallized , purified , powdered - 1 \/ 2 gram. Amazing quality , very clean , and super potent for ultimate experience. This is recommended dosage. 50 - 60 mg - enough for sensitive and \/ or low weight folks. A nice , mellow experience for normal users. 70 - 100 mg - typical dose for average users , who had previous experience with MDMA. 100 mg - we do nt recommend such doses because they increase the bodyload and comedown , but it s up to you , considering you re experienced. Enjoy responsibly , and have a great one , thx.",
+  "dream_id": 311050,
+  "golden": false,
+  "name": "INTERSTELLAR MDA - 1\/2 gram",
+  "p_id": 102
+ },
+ "id": 86
+}

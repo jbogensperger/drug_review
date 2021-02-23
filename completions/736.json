@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 736001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d21a3558-72af-475c-ad95-7d7405590c1d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Zopiclone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "678506e2-15f4-47c5-9025-3eeeda72944c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 61,
+      "text": "Zopiclone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Bristol Labs Zopiclone 75 mg X 56 Tabs. Pharmacy \/ NHS Grade Zopiclone.",
+  "dream_id": 12655,
+  "golden": false,
+  "name": "2 X Zopiclone 7.5mg X 56 Tabs. Pharmacy Grade",
+  "p_id": 101
+ },
+ "id": 736
+}

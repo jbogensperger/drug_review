@@ -1,0 +1,341 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 550001,
+   "lead_time": 746.726,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3b0619d8-08d9-4da7-a7b3-f73340952490",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Gorrila Glue 4"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "442fe7e4-78b2-4b7b-b6bd-54558c146593",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 357,
+      "labels": [
+       "Drug"
+      ],
+      "start": 340,
+      "text": "granddaddy purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "16839616-4d04-4ad4-9545-6fc1e9fb4a00",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 496,
+      "labels": [
+       "Drug"
+      ],
+      "start": 487,
+      "text": "mary jane"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7fa411c6-04ee-44f8-ae4d-3d421ecc0a4f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 311,
+      "labels": [
+       "Drug"
+      ],
+      "start": 302,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "05c40484-f606-4de2-93fe-8815a93c4243",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 318,
+      "labels": [
+       "Drug"
+      ],
+      "start": 314,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "34c008c8-a816-4688-86a8-4060f8c477b4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 325,
+      "labels": [
+       "Drug"
+      ],
+      "start": 321,
+      "text": "kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "171087e8-9009-4911-b9c0-bc68546e0e59",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 382,
+      "labels": [
+       "Drug"
+      ],
+      "start": 377,
+      "text": "ganja"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "466e6f5c-01ed-4622-a298-f5aede482305",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 393,
+      "labels": [
+       "Drug"
+      ],
+      "start": 385,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9c4e65da-a5ea-4192-bfb4-6a55628aa4a8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 431,
+      "labels": [
+       "Drug"
+      ],
+      "start": 427,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f2ccfcb5-8344-4580-8c95-2a60026dbe21",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 438,
+      "labels": [
+       "Drug"
+      ],
+      "start": 434,
+      "text": "dope"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c075210a-ec3c-4c43-b302-7e55a30ec3ba",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 457,
+      "labels": [
+       "Drug"
+      ],
+      "start": 449,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "96f23e91-40f1-4922-84ed-f1b216452988",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 465,
+      "labels": [
+       "Drug"
+      ],
+      "start": 460,
+      "text": "ganja"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ccd6f659-cce4-4b30-ab3e-d96f888cf69a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 484,
+      "labels": [
+       "Drug"
+      ],
+      "start": 475,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "29531b1a-3f03-4ddb-b305-7cd85916799d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 520,
+      "labels": [
+       "Drug"
+      ],
+      "start": 517,
+      "text": "pot"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d28767da-9b5d-4b60-892b-3b57240c5db1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 541,
+      "labels": [
+       "Drug"
+      ],
+      "start": 537,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fbd5421f-4ea1-49b6-ada6-a812afb47524",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 554,
+      "labels": [
+       "Drug"
+      ],
+      "start": 550,
+      "text": "kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0cbdbeb9-ba04-411b-aa5f-e969e8759c9a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 561,
+      "labels": [
+       "Drug"
+      ],
+      "start": 557,
+      "text": "haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "041c41de-1e8a-4048-b9f2-072a852f9726",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 527,
+      "labels": [
+       "Drug"
+      ],
+      "start": 523,
+      "text": "herb"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aa034c40-4899-474b-b0bc-9ee4f1bd28e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 534,
+      "labels": [
+       "Drug"
+      ],
+      "start": 530,
+      "text": "hemp"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f16056bf-a2cb-4410-8223-badf92fd9b1d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 547,
+      "labels": [
+       "Drug"
+      ],
+      "start": 544,
+      "text": "420"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "yd7zDzxKi1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 403,
+      "labels": [
+       "Drug"
+      ],
+      "start": 396,
+      "text": "OG kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-zI0RcB15x",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 417,
+      "labels": [
+       "Drug"
+      ],
+      "start": 406,
+      "text": "afgahn kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "To2eSkIk3z",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 105,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Gorrila Glue 4. one of the most popular strains in the US right now. A potent and high - yielding hybrid , this bud produces a heavy yet. comfortable high that knocks away pain. Contact Us at. KIK highlord 6 wickr highlord. What you see is what you get 100 Real Pics. Stealth Shipping on every package marijuana , weed , kush , wax , oil , granddaddy purple , fruity pebbles , ganja , cannabis , OG kush , afgahn kush , mine , weed , dope , smoke , cannabis , ganja , high , marijuana , mary jane , stoner , stoned , pot , herb , hemp , hash , 420 , kush , haze , dank , buds , spliff , bong , blunt , joint. All orders will go out the following day. Contact Us at. KIK ID highlord 6 wickr ID highlord.",
+  "dream_id": 425923,
+  "golden": false,
+  "name": "TOP QUALITY GORILLA GLUE 4",
+  "p_id": 181
+ },
+ "id": 550
+}

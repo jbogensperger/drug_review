@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 861001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f38fbff7-b3d9-4c49-b4d4-33606ea379e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Tapentadol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "32455792-0eb4-4b38-932e-ee17e2778d07",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "Tapentadol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a9357f1d-3178-47fc-92f7-cf92cc6e6638",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 124,
+      "labels": [
+       "Drug"
+      ],
+      "start": 114,
+      "text": "Tapentadol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "979dac53-1fc1-4855-867c-6fa3bea69268",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 137,
+      "labels": [
+       "Drug"
+      ],
+      "start": 127,
+      "text": "tapentadol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "173834c9-eae3-4ef4-a509-d479219c11d8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 145,
+      "labels": [
+       "Drug"
+      ],
+      "start": 140,
+      "text": "tapal"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Tapentadol 100 mg 200 pills - ONLY 170 usd. Picture is FYI only. It could be different brand. Tapentadol 100 mg , Tapentadol , tapentadol , tapal.",
+  "dream_id": 60889,
+  "golden": false,
+  "name": "200 pills Tapentadol 100mg ONLY 170$ usd ",
+  "p_id": 435
+ },
+ "id": 861
+}

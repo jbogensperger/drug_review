@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 359001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "143ebe69-b4f3-4092-80ea-636396c955ba",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fdfe2a1d-745b-4b6b-9a6c-432c365c51ea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 166,
+      "labels": [
+       "Drug"
+      ],
+      "start": 160,
+      "text": "Indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "DISCOUNT FOR BULK ORDERS. Indica strains are more relaxing and calming body buzz or couch lock and are very effective in pain management and relieves insomnia. Indica strains are also helpful in reducing spasms and seizures and in relieving stress , anxiety , headaches and even migraines. Best Suited Night. Highest quality available in the market. Shipped from within EU.",
+  "dream_id": 285224,
+  "golden": false,
+  "name": "DISCOUNT SALE - Premier Indian Charas - 20 Grams",
+  "p_id": 154
+ },
+ "id": 359
+}

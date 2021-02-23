@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1255001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dca5d956-8c79-48f8-98db-78d9ff19bd92",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 228,
+      "labels": [
+       "Drug"
+      ],
+      "start": 221,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "14G. Best listing of BLOWs rocket fuel un cut straight from the docks of montreal Blow from AB ,. We ship it as a rock unless we need to flatten a bigger chunk for stealth would be the only reason to ever expect powdered cocaine from our crew high purity high quality customer care and fast shipping.",
+  "dream_id": 363142,
+  "golden": false,
+  "name": "14G 93+\/-% HIGH HIGH HEAT TRIPLE H *TRY it YOU'LL",
+  "p_id": 906
+ },
+ "id": 1255
+}

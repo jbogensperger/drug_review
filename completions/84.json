@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 84001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e007da5d-a897-43d4-be2d-f27ff75e6344",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "TIBISLA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "faee13a2-f472-46f3-90bc-2c1b019a33f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fcad9333-3a3d-4461-ae80-06dc546f72cd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e239e640-4dfa-4a14-b32c-29786af817bd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 195,
+      "labels": [
+       "Drug"
+      ],
+      "start": 191,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 gram TIBISLA hash. Looking for a soft hash that creates a big stoned at start and then becomes a nice high without the side effects of sleep effect , buy this one. One of the best kinds of hash i smoked for several years , taste , burns very good , and nice soft. For more info please read our profile.",
+  "dream_id": 260191,
+  "golden": false,
+  "name": "TIBISLA HASH 5 gram",
+  "p_id": 100
+ },
+ "id": 84
+}

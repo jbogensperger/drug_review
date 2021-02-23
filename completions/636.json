@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 636001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c4c71c98-8764-4e96-a3b5-cd0cde19999e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7d20de82-e33a-412f-b7d0-6fe2e12a9bd4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 1000psc of highest quality XTC pills Orange Crown rolex design made from purest MDMA crystals , labtested , smooth design , hard pressed , satisfaction guaranteed. We can stamp any color design and potency pills for you if bulk order. Worldwide guaranteed delivery. 100 satisfaction. For bulk orders can provide special delivery service. Feel free to contact if any questions.",
+  "dream_id": 332196,
+  "golden": false,
+  "name": "1000psc Orange Crown Rolex 200mg XTC pills hard pr",
+  "p_id": 301
+ },
+ "id": 636
+}

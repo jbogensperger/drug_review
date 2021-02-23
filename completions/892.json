@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 892001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3f0291cb-acb9-40a1-8acf-938b411d1467",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "gsc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ada66478-5eb3-4c40-8c31-5dd86cbd8bc6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "bd"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "4 lb gsc or bd depending on availability.",
+  "dream_id": 157148,
+  "golden": false,
+  "name": "4 LB Custom",
+  "p_id": 475
+ },
+ "id": 892
+}

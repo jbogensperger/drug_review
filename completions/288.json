@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 288001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "531b2ae0-bf60-4f47-aa17-1fdb805826ef",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0e397b0e-b5d0-4c14-84ce-411a8c26fea6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Oxycodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1000 pc 30 mg Oxycodone M30. Warning. Oxycodone is not Nasal friendly , sniff at your own risk. Free expedited shipping 1 - 3 business days.",
+  "dream_id": 315482,
+  "golden": true,
+  "name": "New Vendor Intro Offer Generic Oxycodone M30 x1000",
+  "p_id": 7659
+ },
+ "id": 288
+}

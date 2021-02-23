@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1114001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b3251357-1d21-4135-a582-16fd4739bb53",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "88d9981a-6d7a-4caf-a91d-8965dad27a48",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 163,
+      "labels": [
+       "Drug"
+      ],
+      "start": 159,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9d8c4590-9c66-4ddb-9c76-a6d8b83a1c85",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 279,
+      "labels": [
+       "Drug"
+      ],
+      "start": 275,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b4bdd3b5-c4d8-4fbc-8734-cb184aa17b76",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 342,
+      "labels": [
+       "Drug"
+      ],
+      "start": 338,
+      "text": "Hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hash Heads Premium Royal Moroccan. Orders will be shipped same day if processed before 2 PM. Great taste. High potency. soft. Even if you do nt normally smoke hash , you should buy this now. All clients and staff who have tested it can vouch for it s quality. Morocco is the Hash capital of North Africa and is said to produce the finest Hash in the world. price list 1g 8 35g 30 7g 50 14 90 28g 150 50g 240 100g 400.",
+  "dream_id": 429345,
+  "golden": false,
+  "name": "3.5g  Premium Royal Moroccan  30 ",
+  "p_id": 736
+ },
+ "id": 1114
+}

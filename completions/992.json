@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 992001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "12de85bf-d7b9-4dcc-ab0b-5471807714fc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "Ephedrine HCL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Manufacturer OSEL TR Substance Ephedrine HCL Pack 5 x50mg\/ 1mlamp.",
+  "dream_id": 284055,
+  "golden": false,
+  "name": "EPHEDRINE AMP * Ephedrine HCL* 50mg\/1ml amp. OSEL ",
+  "p_id": 603
+ },
+ "id": 992
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 825001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e1d94a41-68d2-47b8-9da0-2de1ad0a88c5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 56,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "659e26df-816b-417f-bc80-d19d8d093e9d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 128,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "Levamisole"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8b24e382-936b-4cb4-aadd-1a2e0139e7e9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 142,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "ephedrine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "14 g 1 \/ 2 oz. Colombian pure uncut shiny flakes cocaine with no active cuts. Tested 999 Good for IV use and cooking. Levamisole and ephedrine free.",
+  "dream_id": 249025,
+  "golden": false,
+  "name": "14g (1\/2oz) shiny flakes 100% PURE COCAINE no leva",
+  "p_id": 356
+ },
+ "id": 825
+}

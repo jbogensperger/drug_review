@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 333001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "216a0ae7-7675-4960-9e48-7c46bdc7989d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Blue Widow"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- 7g Blue Widow -. The highest grade of indoor bud you can get anywhere - Better , cheaper bud than the other vendors.",
+  "dream_id": 225885,
+  "golden": false,
+  "name": "SALE!-7g Blue Widow-Grade A++++ Hydro Indoor Weed",
+  "p_id": 119
+ },
+ "id": 333
+}

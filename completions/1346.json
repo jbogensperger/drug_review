@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1346001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "25ccf7df-c242-4d30-a5a8-59efc7e9ce93",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6ebf77f5-7419-4568-a0b8-2ec497d3a82e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "sativas"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "AK - 47 is 3 sativas and 1 indica hybrid lineage. We only provide the best of the best. Medical grade bud. Everything listed is grown by us. Orders are shipped out usps priority.",
+  "dream_id": 298928,
+  "golden": false,
+  "name": "HP AK-47 indoor topshelf Bud",
+  "p_id": 1016
+ },
+ "id": 1346
+}

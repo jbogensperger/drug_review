@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1012001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f6f6f88a-3d9a-47bd-b8ee-284a3210ff93",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 119,
+      "labels": [
+       "Drug"
+      ],
+      "start": 111,
+      "text": "suboxone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 strip pack 10 strip pack avail. what u see if what u get. These are genuine name brand usa-sourced strips of suboxone 8 \/ 2 fresh from USA pharmacy. Same day handling. Express \/ overnight shipping available. Limited qty each month. Enjoy.",
+  "dream_id": 196711,
+  "golden": false,
+  "name": "Suboxone 8mg x 1 Strip",
+  "p_id": 627
+ },
+ "id": 1012
+}

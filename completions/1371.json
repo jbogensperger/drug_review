@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1371001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2f5bc729-ca5c-4b60-8a65-ece2e51dc8dc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "weeds"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d0861c70-883f-4829-b476-34d952d5285c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "AK47"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7cedfb54-4ba1-4a13-a42c-c91bcdd548b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 142,
+      "labels": [
+       "Drug"
+      ],
+      "start": 138,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "The AK47 strain has been one of the best weeds on the Dutch market for the last 10 years. The taste and strength of this fine Dutch grown weed speaks for itself. Please contact us for bulk orders or information.",
+  "dream_id": 200811,
+  "golden": false,
+  "name": "AK 47 DUTCH WEED A+++ 25 GRAMS ",
+  "p_id": 1047
+ },
+ "id": 1371
+}

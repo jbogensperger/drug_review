@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1192001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "69153660-21ba-4edc-a2fd-a36abc235c1d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Buprenorphine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Very rare item. Transtec 70 ug \/ h Buprenorphine Transdermal patch NAPP brand. Only 4 available.",
+  "dream_id": 302507,
+  "golden": false,
+  "name": "Sale: 70 ug\/h Buprenorphine Transdermal patch",
+  "p_id": 836
+ },
+ "id": 1192
+}

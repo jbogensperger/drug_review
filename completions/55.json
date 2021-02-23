@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 55001,
+   "lead_time": 939.267,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dhUjtCRn5D",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Crystal Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "224g Crystal Meth Shards. Strong Euphoric. If you need to finish that project or pull an all nighter to prepare for a test or get your homework done , this will help you get through the night , morning and afternoon. But we must warn you. If you already have your sexual partner around , you re in good shape. If not , you may end up doing a solo Pornhub and Chill marathon. Then nothing done. Please read our guidelines found on our profile page or on the Dream forum. Failure to do so may cause delays and \/ or we may cancel your order as well as cease doing future business with you. Grams Link. Reddit Link.",
+  "dream_id": 218164,
+  "golden": false,
+  "name": "Crystal Meth Shards 224g Fire & Ice_S2241",
+  "p_id": 66
+ },
+ "id": 55
+}

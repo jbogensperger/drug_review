@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 107001,
+   "lead_time": 1328.202,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "45f56ac0-7bbd-42c6-912e-2886677de8e2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "50a0553c-22c7-4b9e-a700-8643089fbe51",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4373c319-94a5-42d3-8e0a-6d1e9815a0ac",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 99,
+      "labels": [
+       "Drug"
+      ],
+      "start": 96,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Dn0esy8nlf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 171,
+      "labels": [
+       "Drug"
+      ],
+      "start": 163,
+      "text": "ALCOHOL "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "LIQUID GHB SYRUP THIS GHB IS READY FOR USE - NO PREPPING REQUIRED STRONG PURE. 99 ,95 PURE BASF GHB. ULTIMATE STEALTH AAA. DELIVERY GUARANTEED. NEVER COMBINE WITH ALCOHOL CHECK FAQ. BEFORE USE.",
+  "dream_id": 206195,
+  "golden": false,
+  "name": "GHB LIQUID SYRUP  250ml  GHB (BASF)",
+  "p_id": 1444
+ },
+ "id": 107
+}

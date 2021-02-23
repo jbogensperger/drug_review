@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 589001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "556ba950-1e32-464d-846c-0eb224228708",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 42,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0575562e-682a-462e-963e-af9966cc136a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Here you re purchasing Heissenberg Cocaine. Pure uncut Cocaine. - We ship all our products worldwide from Germany. - Please note. It is extremely important that you provide me your correct address in the correct format for your country , as well as your full name for more information about this please refer to my profile. - Once your order has been marked as Sent it will be shipped within 24 hours.",
+  "dream_id": 169593,
+  "golden": false,
+  "name": "Heissenberg Cocaine 4g UNCUT",
+  "p_id": 243
+ },
+ "id": 589
+}

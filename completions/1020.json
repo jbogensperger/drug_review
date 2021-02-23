@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1020001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eb89a27c-8192-4a70-9fff-200f7f8cd68d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c588ef37-dc50-482c-89fd-c6fc11db0fd6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 110,
+      "labels": [
+       "Drug"
+      ],
+      "start": 106,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7ca7be04-4ad6-4387-9577-b99e34a24d70",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 122,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Donald Trump. Makes partying great again. Top quality dutch XTC pills with NL trademark containing 220 mg MDMA 275 mg MDMA HCl. They will blow you away. These are from the famous Silver SimCards \/ Gold Ikea Pencil producers in Holland. Befor you order please read my profile for exceptions.",
+  "dream_id": 292294,
+  "golden": false,
+  "name": "500 XTC pills, Trump! Makes partying great again! ",
+  "p_id": 637
+ },
+ "id": 1020
+}

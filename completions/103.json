@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 103001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d52188fd-32af-4f66-9ba1-956d6535dbc4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Ecstasy"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ce590760-a138-4515-b195-ffb05109e239",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 254,
+      "labels": [
+       "Drug"
+      ],
+      "start": 253,
+      "text": "E"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Ecstasy is a powerful stimulant and mood changer that speeds up your body system and alters your perception of the world. It can make you feel both uplifted and relaxed and feeling very happy , usually with an overwhelming urge to dance. The effects of E vary considerably from one person to the next , depending on who you re with , where you are and how you re feeling at the time.",
+  "dream_id": 180248,
+  "golden": true,
+  "name": "sample listing XTC 160mg NEW BLUE HEART STAMP!! 2x",
+  "p_id": 7927
+ },
+ "id": 103
+}

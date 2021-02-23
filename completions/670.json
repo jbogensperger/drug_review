@@ -1,0 +1,187 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 670001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a4afeddf-8896-4cd8-996c-0f072aa440c7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 133,
+      "labels": [
+       "Drug"
+      ],
+      "start": 130,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "543dbf66-5be2-467a-ac2b-bc60c1c3a37d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 141,
+      "labels": [
+       "Drug"
+      ],
+      "start": 138,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eccea708-4d9b-4147-b5b1-039469457b81",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 199,
+      "labels": [
+       "Drug"
+      ],
+      "start": 196,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "27898afc-45d9-4196-86c6-814b1d78eda1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 235,
+      "labels": [
+       "Drug"
+      ],
+      "start": 232,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f587175c-6cfe-4c23-b694-2cabd52437d9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 446,
+      "labels": [
+       "Drug"
+      ],
+      "start": 443,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "62c882f8-516f-49fd-80fa-38a50d39c925",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 454,
+      "labels": [
+       "Drug"
+      ],
+      "start": 451,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c5ca2036-9698-4f54-ac5f-a2140359f9f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 535,
+      "labels": [
+       "Drug"
+      ],
+      "start": 532,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "288acae3-a87e-4efd-8193-5aa696eb3479",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 543,
+      "labels": [
+       "Drug"
+      ],
+      "start": 540,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c393ec48-ada8-40c6-bef4-8792d7f8bd62",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 743,
+      "labels": [
+       "Drug"
+      ],
+      "start": 740,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "53282cb7-afc4-452a-8200-718abae6df52",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 752,
+      "labels": [
+       "Drug"
+      ],
+      "start": 749,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "46d0137d-b33a-4e9d-98ef-dcc8203befc7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d7c60191-141c-49fb-9b75-19b55209e720",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5x Level Blends Uplift 11 CBD \/ THC ratio Pure Co2 oil cartridges 500 mg. Harmonic Uplift. Exploring the synergistic interplay of CBD and THC. Our Harmonic range of blends combine the euphoria of THC with the therapeutic effects of CBD. Product details Propylene , Glycol Free , Pesticide Free. All our products are additive free , pesticide free and solvent free. Uplift , elevate , well - being. Elevate your everyday with a balanced mix of THC and CBD. Encourage tranquility in both mind and body. Uplift is a perfect balance of CBD and THC. An equal amount of each produces a pleasant experience with gentle psychoactivity. Presence of mind , and a warm body buzz adds a shine to any afternoon whether at work or relaxing with friends. CBD 3231 THC 4013 11 ratio. Priority shipping 2 - 3 business days 7. Stealth , MBB \/ Mylar , printed business labels on all orders.",
+  "dream_id": 264453,
+  "golden": false,
+  "name": "5x Level 1:1 CBD\/THC ratio Pure Co2 cartridge",
+  "p_id": 344
+ },
+ "id": 670
+}

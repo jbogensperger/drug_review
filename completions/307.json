@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 307001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "59983914-501e-4578-8ac0-341400e3b48b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "amnesia haze"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "amnesia haze high quality , introductary price limited time only. free uk delivery on all orders. same day postage on orders placed before 4 pm. 1 - 2 day delivery gb only. this is the genuine article , very strong , a huge ammount of stock. honest reviews appreciated. 35g - 3250 gbp 7g - 63 gbp 14g - 120 gbp. free first class delivery with high class stealth. MYLAR.",
+  "dream_id": 421997,
+  "golden": true,
+  "name": "amnesia haze 14g 120 gbp, uk free delivery",
+  "p_id": 1767
+ },
+ "id": 307
+}

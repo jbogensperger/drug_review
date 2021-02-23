@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 69001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "98fd0794-1bb0-4398-b067-7e4547e00082",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 148,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "The Fifty - One - Fifty. Bar is a super potent blend of a award winning chocolate chip cookie baked on top of a Triple Chocolate Brownie. 500 mg THC Extremely Potent. All items are sealed by manufacturer and are well withing freshness dates. As always my items are packed well with zero smell.",
+  "dream_id": 47322,
+  "golden": false,
+  "name": "Korova 5150 Bar 500mg Unrivaled",
+  "p_id": 83
+ },
+ "id": 69
+}

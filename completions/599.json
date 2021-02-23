@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 599001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6346fac1-f6b9-443a-824d-6d5b438dab66",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Great Quality MDMA with 84. We ship very fast in 0 - 2 days , this is average 1 day. AVERAGE SHIPPING DAYS. - Germany 1 - 3D - Europe 2-10D - USA 7-14D - World 7-28D.",
+  "dream_id": 424292,
+  "golden": false,
+  "name": "3 G MDMA 84 %  >> EXPRESS",
+  "p_id": 257
+ },
+ "id": 599
+}

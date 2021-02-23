@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 379001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c9a7ad25-82ce-42de-857e-b2d206183bde",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 118,
+      "labels": [
+       "Drug"
+      ],
+      "start": 112,
+      "text": "Apotex"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pharmacy fresh. Better than your 30s - Crushable - No Gelling - Abusable - Injectable. Strength mg Manufacturer Apotex. We are VERY FAST , ship the same day , and login everyday. You will get your order , fast. As usual , we are always available for inquiries at any time concerning shipping , product , overnight , etc.",
+  "dream_id": 393593,
+  "golden": false,
+  "name": "Oxycodone 40mg Overnight or 2-3D Ship",
+  "p_id": 180
+ },
+ "id": 379
+}

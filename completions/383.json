@@ -1,0 +1,159 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 383001,
+   "lead_time": 1262.123,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "l1a4sSYkoF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 119,
+      "labels": [
+       "Drug"
+      ],
+      "start": 110,
+      "text": "Zkittles "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "xtmekClaIt",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 130,
+      "labels": [
+       "Drug"
+      ],
+      "start": 119,
+      "text": "Fruit Punch"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7jkRcoDF7g",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 146,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "Tangerine Dream"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bnpNSDN8gJ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 147,
+      "text": "G - 13"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9Bh2xVBAiD",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 163,
+      "labels": [
+       "Drug"
+      ],
+      "start": 154,
+      "text": "Skywalker"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "beevbCXVQi",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 176,
+      "labels": [
+       "Drug"
+      ],
+      "start": 165,
+      "text": "Green Crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "hw2kyojIES",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 187,
+      "labels": [
+       "Drug"
+      ],
+      "start": 177,
+      "text": "Strawnana "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "kua28ojz0E",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 198,
+      "labels": [
+       "Drug"
+      ],
+      "start": 187,
+      "text": "Lemon Skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "q0esyj2YpA",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 210,
+      "labels": [
+       "Drug"
+      ],
+      "start": 199,
+      "text": "Blackberry "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-Hm1y5kvQk",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 227,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "Pineapple Express"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 10 Cosmic Vape Cartridge 500 mg. We will ship a mix or what s in stock. Stains available. Zkittles Fruit Punch Tangerine Dream G - 13 Skywalker. Green Crack Strawnana Lemon Skunk Blackberry Pineapple Express. Works with most vape products using industry standard universal 510 threading. We test all cartridges before they are sent out. We will NOT give refunds or replacements for cartridges that are not working.",
+  "dream_id": 394195,
+  "golden": false,
+  "name": "10 Cosmic Vape Cartridge 500mg",
+  "p_id": 184
+ },
+ "id": 383
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1027001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a75d66e2-3583-4cbd-b964-dfdfbc12a767",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fad69b30-0871-45d4-bf79-eb36b0ebf907",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 410,
+      "labels": [
+       "Drug"
+      ],
+      "start": 402,
+      "text": "ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "156560a1-dc8d-407e-ad2e-cae094388baa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 579,
+      "labels": [
+       "Drug"
+      ],
+      "start": 571,
+      "text": "ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PRODUCT DESCRIPTION. This is top grade racemic ketamine. As with all of my products I do nt cut it and sourced the best stuff for you guys even if it cost me more. Why are my prices lower. Because the ketamine prices here are absolutely fucking ridiculous. Honestly try it you can reagent test each and every one of em for purity. If you get a chance check out some of my grams profile comments on the ketamine I had on abraxas as it s the same stuff. How much should you have. If you are new to it , start up with maybe 40 - 50 mg just to warm up to it , the come up on ketamine sort of happens all at once so it s a bit unsettling to get used to if you are the sort of person who wants to be in control. Once you get the hang of it , move on to like 70 - 100 mg doses and slowly work your way up from there.",
+  "dream_id": 107303,
+  "golden": false,
+  "name": "[FE] Ketamine (Racemic) 3.5g",
+  "p_id": 644
+ },
+ "id": 1027
+}

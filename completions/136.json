@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 136001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c4b51d73-beeb-40c6-af2a-f641e7b45561",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3b5b7741-354c-4361-bca3-ba49509b1b30",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "937affaa-5eed-442f-bb71-e6ec50fc2b95",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "Alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "AlprazolamPowder \/ Xanax Powder 10 g 400 USD. We send Alprazolam Powder all over the world. Highest purity. You will recieve tracking after a few days. This is shipped from Hong Kong. Sometimes other parts of China. All Escrow. Most arrivals is 10 - 14 days some places a little longer. See refund policy. Thanks for looking have a nice day. REFUNDS 100 reship after 35 days non arrival. If it gets returned to sender YOU take the loss. Contact us for questions or first time buyer discount.",
+  "dream_id": 373500,
+  "golden": true,
+  "name": "10g Alprazolam Powder \/ Xanax Powder ",
+  "p_id": 1662
+ },
+ "id": 136
+}

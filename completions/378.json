@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 378001,
+   "lead_time": 626.638,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "_sgGprB36T",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "ritalin "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "sP-nZKh3Wf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "methylphenidate hcl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Madalin ritalin methylphenidate hcl 10 mg x 10.",
+  "dream_id": 262374,
+  "golden": false,
+  "name": "Madalin (ritalin) methylphenidate hcl 10mg x 10",
+  "p_id": 179
+ },
+ "id": 378
+}

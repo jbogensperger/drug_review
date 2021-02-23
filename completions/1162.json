@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1162001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "44421c49-cf94-49c7-92fd-c5f3368f3ed0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strongest MDMA on the Market. Directly source from the Netherlands. We send it as rocky as possible. READ PROFILE AND OUR POLICY BEFORE ORDER.",
+  "dream_id": 344575,
+  "golden": false,
+  "name": "1 Gr [-] Best MDMA [-] 84 % [-] Ultra Strong ",
+  "p_id": 802
+ },
+ "id": 1162
+}

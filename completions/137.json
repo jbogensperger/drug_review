@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 137001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5502a9ed-7a72-4630-8ed8-9f9ca887a0b4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "91bdb826-51d2-4ba7-b4fb-68f397b23572",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "250 gr of Cocaine 150gr of MDMA 1000x 240 mg Turtles.",
+  "dream_id": 69043,
+  "golden": false,
+  "name": "CUSTOM ORDER",
+  "p_id": 2315
+ },
+ "id": 137
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 811001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c1fe8ce4-ee85-41b6-ab72-aded5d041b5e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cabergoline"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cabergoline 05 mg tablets cabaser \/ Teva \/ Pfizer brand. Listing for 10 of these.",
+  "dream_id": 367708,
+  "golden": false,
+  "name": "Cabergoline 0.5mg UK Pharmacy tablets  x10",
+  "p_id": 314
+ },
+ "id": 811
+}

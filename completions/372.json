@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 372001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "98ffd798-6b11-48d9-a5f2-6fa7b4140f34",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eb6729fd-82bd-47cf-a0a8-4fc7a54e4c9a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5g DRY Amphetamine Sulfate \/- 71. Dry Amphetamine \/-. 71 Small rocks and powder form Drying weight loss 0.",
+  "dream_id": 311670,
+  "golden": false,
+  "name": "5g DRY Amphetamine Sulfate +\/- 71% ",
+  "p_id": 169
+ },
+ "id": 372
+}

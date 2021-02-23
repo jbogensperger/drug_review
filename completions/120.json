@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 120001,
+   "lead_time": 890.719,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7a06b529-ed3f-434b-8808-b126e6d24b16",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Oxycontin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "CO2-NztgP2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "OP - 20"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2lHxs-BdrB",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 187,
+      "labels": [
+       "Drug"
+      ],
+      "start": 180,
+      "text": "OP - 20"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your Purchasing Oxycontin OP - 20 1 Tablet 20mg. Tablet is light pink with OP embossed on one side , embossed on the opposite side is the number 20. Shown is Photo is OC , This is OP - 20.",
+  "dream_id": 285423,
+  "golden": false,
+  "name": "SOLD OUT - OXYCONTIN 20mg - (1-Tablet) OP-20",
+  "p_id": 7823
+ },
+ "id": 120
+}

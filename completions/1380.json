@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1380001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7b09f476-cfba-40f1-8c30-ecebb522dc35",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "01818f1e-4d8d-4c60-b892-1ef5dd47a175",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 72,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "444c30c3-e0d3-4d7e-bf42-f721bfbaa32d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 189,
+      "labels": [
+       "Drug"
+      ],
+      "start": 183,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "82639025-f458-447a-af9e-1376193c9b81",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 236,
+      "labels": [
+       "Drug"
+      ],
+      "start": 230,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "52e5c3d0-6fb1-4c61-9a19-635d1dedc2e6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 275,
+      "labels": [
+       "Drug"
+      ],
+      "start": 272,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This offer is for 1 gram of our highest quality caviar hash. Our caviar hash smokes great with a water pipe , pipe , or sprinkled on a joint. You can expect a strong , but functional sativa high from this product. Variety Hybrid. Sativa Origins Skywalker OG , Platinum OG THC Range 60 - 70 percent Characteristics Effects Relaxed , Happy , Euphoric , Sleepy , Hungry Symptom Relief Depression , Stress , Pain , Fatigue , Lack Of Appetite Flavors \/ Aromas Earthy , Skunk , Pungent. Your order will ship within 24 hours of your purchase. Shipping is free. Thank you.",
+  "dream_id": 174971,
+  "golden": false,
+  "name": "1G OF HIGH QUALITY CAVIAR HASH *FREE SHIPPING*",
+  "p_id": 1057
+ },
+ "id": 1380
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 901001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3567c8e3-9040-4b82-9e20-8e86dee5214d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "KR"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "839fcdaa-7196-4094-99f9-181575b92578",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 82,
+      "labels": [
+       "Drug"
+      ],
+      "start": 80,
+      "text": "LH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "COMBO PACK. We like to offer you our Combo Pack. The Pack will contain 5g KR 5g LH. Buds A. Smell. A. High A. Taste A. - We take pride in what we do and all our Strains coming from professional Growers and we insure no chemicals , or what so ever were used. - For any questions feel free to contact us right over the Market. Thank you for stopping by , we hope you enjoyed your stay.",
+  "dream_id": 286369,
+  "golden": false,
+  "name": "--- 10g Caramelicous + 10g  Critical Widow --- ",
+  "p_id": 490
+ },
+ "id": 901
+}

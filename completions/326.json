@@ -1,0 +1,173 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 326001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b9f2d152-ecf6-482a-a938-7bdfce05003a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Skywalker . OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d68ecb0e-c7c4-493a-b481-1d8cc0560c27",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "indica-dominant hybrid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7442f24e-3a0c-4432-b5fd-3bfde248f2fa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 172,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1f8c2bea-5f92-4eba-a479-d8ce54bebcaa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 283,
+      "text": "jet fuel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2412e6b0-84d6-4076-bac8-77a286b821ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 486,
+      "labels": [
+       "Drug"
+      ],
+      "start": 474,
+      "text": "Skywalker OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "15f274bc-e921-458d-941a-a08e3aac7b14",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 549,
+      "labels": [
+       "Drug"
+      ],
+      "start": 534,
+      "text": "sativa dominant"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fd10b7ce-eab8-42e2-b0bb-b6e3c1166e16",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 617,
+      "labels": [
+       "Drug"
+      ],
+      "start": 605,
+      "text": "Skywalker OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "07e2f535-d8c4-4232-bca7-77a1c6b1f853",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 630,
+      "labels": [
+       "Drug"
+      ],
+      "start": 621,
+      "text": "Sativa OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "982ec2b1-7231-4261-ac33-2ffd7325838d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 167,
+      "labels": [
+       "Drug"
+      ],
+      "start": 158,
+      "text": "Skywalker"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1629fd7b-25bb-4688-899f-5d937ac4dd24",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 227,
+      "labels": [
+       "Drug"
+      ],
+      "start": 223,
+      "text": "kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bce7bb17-5f51-46d8-b817-7695992a9de1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 570,
+      "labels": [
+       "Drug"
+      ],
+      "start": 561,
+      "text": "Skywalker"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Skywalker. OG is a potent indica-dominant hybrid strain that may just take you to a galaxy far , far away. No Sith genetics herethis plant is a cross between Skywalker and OG Kush and has the strong aroma characteristic to kush strains that includes a spicy herbal scent tinged with jet fuel. This strain makes relaxation your only mission , and some users report strong body effects that include mild tingling and numbness. If pain and physical limitations are the issue , Skywalker OG is here to rescue you. The galaxy also holds a sativa dominant variety of Skywalker that is also often referred to as Skywalker OG or Sativa OG.",
+  "dream_id": 353996,
+  "golden": true,
+  "name": "Skywalker OG (Greenhouse) Only $7501\/2lb",
+  "p_id": 2166
+ },
+ "id": 326
+}

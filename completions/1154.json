@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1154001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "84fa609e-b1c9-4cd2-8bb8-22afe9f090e9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Fentayl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "361964e1-37b3-44e9-ab65-022aa6c5b06a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 209,
+      "labels": [
+       "Drug"
+      ],
+      "start": 201,
+      "text": "Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "de95f47c-8789-47ed-9ccb-4e51818070c7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 353,
+      "labels": [
+       "Drug"
+      ],
+      "start": 345,
+      "text": "Fentanyl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SPECIAL STOCKBUSTER OFFER. No nonsense 100 mg Fentayl freebase shipped from UK Water soluble. QUALITY Sample it and we will leave the rest up to you. VERY POTENT COMPOUND. If you are not familiar with Fentanyl please check out as it is a very potent substance and must be treated as such. APPEARANCE Very light white powder 998 purity lab grade Fentanyl. SHIPPING. All orders are dispatched Mon - Fri and processed within 24 - 48 hours Discreet and professional. Anything else. Ask.",
+  "dream_id": 294893,
+  "golden": false,
+  "name": "100mg 99.8%+ pure Fentanyl freebase **WORLDWIDE",
+  "p_id": 785
+ },
+ "id": 1154
+}

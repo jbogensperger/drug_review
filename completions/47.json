@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 47001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c5acfb6a-0c2c-44db-961a-70ba13ed4e08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "UKBENZO"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "414eb37d-f0bd-4e95-aac7-57a56afd6ed4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 107,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "UKBenzo"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bb04b071-805e-432c-a197-bdd51ba23c08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 224,
+      "labels": [
+       "Drug"
+      ],
+      "start": 219,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4318aebf-02d3-4517-9f81-75ee91899788",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 260,
+      "labels": [
+       "Drug"
+      ],
+      "start": 255,
+      "text": "XANAX"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "UKBENZO BARS , BEAUTIFUL , SOLID , CRISP , STRONG BARS. You will truly love these. Same old perfect UKBenzo bars as you know them , Look no further. Please check homepage for all updates. This listing is for. 10 x 2 mg Xanax Bars. Brand Pfizer. Bars have XANAX engraved on the front and 2 engraved on the back. The pictures we have taken show this clearly. Each bar is 2 mg and split into 4 sections making each section 05 mg. Have fun and be safe.",
+  "dream_id": 336800,
+  "golden": false,
+  "name": "10 x 2mg - Pfizer - UKBenzo Xanax - *FREE P&P*",
+  "p_id": 58
+ },
+ "id": 47
+}

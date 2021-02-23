@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1074001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cf21f6b4-fb2a-4aee-a68a-e1630a57784c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 175,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Also available as a FE listing for only 650. This is a full escrow listing for one hundred Jack Skellington pills , each containing at least 200 mg high of high quality Dutch MDMA. These pills are hard , shiny and double sided a truly unique and beautiful press.",
+  "dream_id": 332478,
+  "golden": false,
+  "name": "100x  Jack Skellington MDMA Pills  200mg+ ",
+  "p_id": 700
+ },
+ "id": 1074
+}

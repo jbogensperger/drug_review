@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1217001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7a352311-4eca-419d-ac36-27e770dee373",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d1445261-e883-4e46-93a0-2820a99b9803",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "618d7072-dba5-4800-9133-9c20a511747e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 558,
+      "labels": [
+       "Drug"
+      ],
+      "start": 555,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "87953dff-9e08-4701-9ac4-756dd885768a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 313,
+      "labels": [
+       "Drug"
+      ],
+      "start": 310,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "LSD 200g Trips. - Pure Crystal 995. Our LSD is manufactured in France by person over 20 years experience in this field. It is a quality close to perfection. No bad trip , superb visual effects , a pronounced euphoria , the best trip of your life. Satisfied or refund. No products Deep Web can compete with our LSD. Our crystal , manufactured with the ergot Claviceps purpurea Tul. Is pure , very pure 995 , lab tested. Dosages -. Threshold 20 ug Light 25 - 75 ug Common 50 - 150 ug Strong 150 - 400 ug Heavy 400 ug. The chart above shows dosages for pure LSD measured in micrograms ug. Micrograms are 1\/1,000,000 of a gram.",
+  "dream_id": 171278,
+  "golden": false,
+  "name": "LSD 200g x 10 Trips - Pure Crystal 99.5%",
+  "p_id": 864
+ },
+ "id": 1217
+}

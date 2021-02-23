@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 125001,
+   "lead_time": 1259.777,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "768b16ad-610f-4fd8-b054-576bf265198d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "Adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c1TyxCSO0i",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 53,
+      "text": "b 974 Teva"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Total Available 0 updated 10\/1. One 1 30 mg Adderall b 974 Teva. Genuine USA pharmaceutical grade. Full escrow.",
+  "dream_id": 91167,
+  "golden": false,
+  "name": "(OUT OF STOCK) 30mg Adderall IR (b974 Teva)",
+  "p_id": 9713
+ },
+ "id": 125
+}

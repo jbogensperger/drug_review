@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 34001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3e8bb65e-fad4-4e6e-be58-e49dfec3aa7d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a8b22a93-79ef-42ad-a067-f471846b60f0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 56,
+      "labels": [
+       "Drug"
+      ],
+      "start": 52,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- High quality Cola colored MDMA Crystals - All our MDMA batches are tested for purity and quality -. This is strong gear -. When you crush this you get nice with powder. -. Please read our Terms and Conditions before ordering. -.",
+  "dream_id": 163645,
+  "golden": false,
+  "name": "2 gram MDMA 84% Dutch Cola Crystals - FE",
+  "p_id": 45
+ },
+ "id": 34
+}

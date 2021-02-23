@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 8001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6920a432-57df-4e50-82f8-a26b19c7ac3b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 178,
+      "text": "."
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This stuff is really potent and will burn. If you snort it it will burn , or you can mix it with water. Ingesting it requires double the dosage. Ingestion dosages are 20 to 40 mg.",
+  "dream_id": 312141,
+  "golden": false,
+  "name": "2CB .1g",
+  "p_id": 11
+ },
+ "id": 8
+}

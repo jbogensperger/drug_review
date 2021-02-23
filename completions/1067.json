@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1067001,
+   "lead_time": 3796.162,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7d36a01c-bc36-496c-a002-dd42ee1af321",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 99,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "Sative"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b9b3f67f-fb3c-4af8-80ae-325110b0ccac",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 111,
+      "labels": [
+       "Drug"
+      ],
+      "start": 105,
+      "text": "Indika"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Xl28pf1in7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Fy0MkM2fGu",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "LEMON - CHEESE - CAKE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for strong , clean and tasty LEMON - CHEESE - CAKE Weed. Amazing flavour. 70 Sative \/ 30 Indika. Take it , roll it , love it. Please feel free to ask me if you have any questions. Much love.",
+  "dream_id": 432816,
+  "golden": false,
+  "name": ">25 GRAM LEMON-CHEESE-CAKE 21%< QUALITY GUARANTEE ",
+  "p_id": 693
+ },
+ "id": 1067
+}

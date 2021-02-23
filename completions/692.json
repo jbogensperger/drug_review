@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 692001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7f6a5fea-948b-484b-8246-455b29f41aa0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "sweet"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "sweet smell , potent , light color.",
+  "dream_id": 226459,
+  "golden": false,
+  "name": "1 G Fire Og Crumble",
+  "p_id": 368
+ },
+ "id": 692
+}

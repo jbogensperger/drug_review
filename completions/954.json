@@ -1,0 +1,187 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 954001,
+   "lead_time": 546.893,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9c253aeb-9ae7-48c0-8033-4e31369cced3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 53,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6fd7fb75-9caa-4487-81d9-e245810f5c48",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 91,
+      "labels": [
+       "Drug"
+      ],
+      "start": 83,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ed16326b-49ca-45ca-8459-c1cbf1095810",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 166,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7dfe24aa-4424-43cd-84b4-2fb51066c609",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 214,
+      "labels": [
+       "Drug"
+      ],
+      "start": 206,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e98ed864-77e8-4548-a3b9-1ae49a5dad0e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 316,
+      "labels": [
+       "Drug"
+      ],
+      "start": 308,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "27e5bde4-85d5-4ea1-9bc1-66a7085a0cf3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 429,
+      "labels": [
+       "Drug"
+      ],
+      "start": 423,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "adf38eaf-d07c-4dac-bd9b-6ed579ac4c1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 438,
+      "labels": [
+       "Drug"
+      ],
+      "start": 432,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8796bec1-b8d8-47c6-bab8-c342f435ecd3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 490,
+      "labels": [
+       "Drug"
+      ],
+      "start": 487,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "94cbfcfb-9edf-46ec-b3d9-5b8e73c5f4f5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 512,
+      "labels": [
+       "Drug"
+      ],
+      "start": 509,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6y0wXtEsRf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 456,
+      "labels": [
+       "Drug"
+      ],
+      "start": 446,
+      "text": "Jack Herer"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "SEH5Kybg9o",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 470,
+      "labels": [
+       "Drug"
+      ],
+      "start": 458,
+      "text": " White Widow"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "q5ucANCRLF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 535,
+      "labels": [
+       "Drug"
+      ],
+      "start": 532,
+      "text": "CBN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This offer is for one 500 mg cartridge of Apple Jack Cannabis Oil extract. All Co2 Cannabis oil products have been lab tested to produce the most organic and healthy cannabis oil concentrates possible. The cannabis oils are produced through CO2 cold - extraction process and there is NO butane in any of our cannabis oil extracts. Cartridges are compatible with industry standard vape pens using 510 thread. Variety Hybrid Sativa , Indica Origin Jack Herer , White Widow Cartridge 500mg THC Range 819 Percent CBD. Range 043 Percent CBN. Range 060 Percent Characteristics Effects Uplifting , Happy , Relaxed , Talkative , Euphoric Symptom Relief Stress , Depression , Pain , Fatigue Flavors \/ Aromas Vapor , Apple , Sweet , Pine. Shipping is free. Please message us for larger orders.",
+  "dream_id": 382175,
+  "golden": false,
+  "name": "500mg Apple Jack Grade A+ Cannabis Oil Cart *FREE ",
+  "p_id": 552
+ },
+ "id": 954
+}

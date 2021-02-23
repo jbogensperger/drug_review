@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1226001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2082e6c9-4409-4bde-8e3e-a6d5b7d78674",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "10"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 per blister , have about 250 in stock. Ships From the USA.",
+  "dream_id": 268744,
+  "golden": false,
+  "name": "Viagra Super Active 100 mg x 10 pills US to US",
+  "p_id": 874
+ },
+ "id": 1226
+}

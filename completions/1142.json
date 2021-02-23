@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1142001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c7d778a4-4cbe-4c38-aa1d-57a8740d0199",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "These"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These are firm and strong 2 mg bars. Do nt believe other vendors with there low quality shit. Get it from the best.",
+  "dream_id": 366367,
+  "golden": false,
+  "name": "5000 XANAX-2mg FIRE SALE",
+  "p_id": 769
+ },
+ "id": 1142
+}

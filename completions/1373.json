@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1373001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1ebdb5ed-bbe6-4d20-b578-9c0a6127b60f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Endone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 mg Endone x 10 Tablet Sent in blister packs 5 pm same - day shipping cutoff. Product Description. Strong Opiate for pain relief. If interested in other benefits one can you feel a comforting warmness all over your body and stimulates the brain which brings a wonderful bliss. recommended 10 mg 2x5 g. Avoid Alcohol AUSSIE STOCK ONLY. Shipping Super Stealth and Tracking for yours and our safety.",
+  "dream_id": 235802,
+  "golden": false,
+  "name": "Endone 5mg - Oxycodone HCL x 10 Tablets",
+  "p_id": 1049
+ },
+ "id": 1373
+}

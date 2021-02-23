@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 729001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f90d3d46-4e3a-473c-b0e9-cefad777367f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f6d829a4-6b34-4c41-8d2a-27c8c640d1cb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 136,
+      "labels": [
+       "Drug"
+      ],
+      "start": 126,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Minimum of 20 per order. This is per 1 Xanax 2 mg Bar These Bars ARE NOT pressed. These are US pharmaceutical grade bars with alprazolam straight from the pharmacy.",
+  "dream_id": 425753,
+  "golden": false,
+  "name": "2mg Xanex bar straight from the pharmacy ",
+  "p_id": 410
+ },
+ "id": 729
+}

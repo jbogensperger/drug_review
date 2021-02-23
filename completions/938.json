@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 938001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8a482ac9-43a0-42fd-839d-e7401f663a7d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This weed will always be a step above our commercial grade listing. This is the go to if you want something that you can show off to your friends without burning a hole in your pocket. All QP , HP and Full Pound orders will come in 2 boxes , 4 boxes , and 8 boxes respectively.",
+  "dream_id": 364558,
+  "golden": false,
+  "name": "28 Grams of Blue Dream Weed",
+  "p_id": 533
+ },
+ "id": 938
+}

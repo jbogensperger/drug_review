@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 480001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b65b1c1c-7fb9-4d20-89ae-a27334826ef7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Strawberry Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "11240606-f3dc-4bd9-89cb-a65c70948eec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 134,
+      "labels": [
+       "Drug"
+      ],
+      "start": 119,
+      "text": "Strawberry Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9998ba94-4447-4c87-9455-fd4f195d6053",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 225,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "Strawberry Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b90b06b0-80ca-4ac4-bfd2-6d4e960b21f3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 532,
+      "labels": [
+       "Drug"
+      ],
+      "start": 529,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "86e3aa85-4b64-44bc-8d6e-236b2ea6f60a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 555,
+      "labels": [
+       "Drug"
+      ],
+      "start": 552,
+      "text": "CBD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Indoor , best Coffeeshop quality. Strawberry Haze was created by Arjan and introduced on the market in 2006. In 2005 , Strawberry Haze won 1st prize at the Green House Very Important Smokers Panel. The buds of Strawberry Haze smell of strawberries and provide a sweet taste , which is heightened when roots are given free reign in soil. It is characterized as a tall plant with long branches. It is a simple plant to grow and maintain , as it is known to be adaptable to humidity. Flowering time is approximately 10 weeks with a THC level up to 20 and CBD of 12. This offer is for 10 gramm. Need more information. Just write a message.",
+  "dream_id": 270306,
+  "golden": true,
+  "name": "Strawberry Haze 10g",
+  "p_id": 4602
+ },
+ "id": 480
+}

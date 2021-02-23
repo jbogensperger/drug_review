@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 484001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c6ded9ce-5a2a-44db-878a-7c9144605cd4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Ksalol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "464ea48e-3f41-4162-a451-b4b6d87f8430",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "192ea72a-7ae2-47a3-837d-7176ad84c5ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Galenika Ksalol Xanax \/ Alprazolam 1 mg X 60 Tabs. Pharmacy Grade Tabs in original sealed blisters.",
+  "dream_id": 351964,
+  "golden": true,
+  "name": "Galenika Xanax\/Alprazolam 1mg X 60 Tabs. Pharmacy ",
+  "p_id": 7924
+ },
+ "id": 484
+}

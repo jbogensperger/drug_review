@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1304001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "38f28bfd-0f03-436e-8c4f-3bbfbe309009",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Biogene"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bfad4130-1d1f-4441-a7f4-0c1c41b329c8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 334,
+      "labels": [
+       "Drug"
+      ],
+      "start": 327,
+      "text": "Biogene"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Recombinant Human Growth Hormone. Biogene is a man -made form of growth hormone called recombinant Human Growth Hormone. Although it s made in a lab , produced by recombinant DNA technology , it is identical to the growth hormone your body makes. This means you can feel confident in making it your own growth hormone therapy. Biogene recombinant Human Growth Hormone - r DNA origin has 191 amino acid sequence and its structure are identical to the dominant form of this human pituitary growth hormone. It has a molecular weight of 22,125 daltons.",
+  "dream_id": 242260,
+  "golden": false,
+  "name": "Biogene (rHGH) - 3.33 mg (10 IU) - Bio-Peptide",
+  "p_id": 961
+ },
+ "id": 1304
+}

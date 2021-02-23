@@ -1,0 +1,145 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 672001,
+   "lead_time": 324.838,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cb36cd77-8754-4709-a7cd-a19c1bc6beb5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Super Silver"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a18bbbcf-8dbe-498c-adf7-aa143afeebe4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 425,
+      "labels": [
+       "Drug"
+      ],
+      "start": 413,
+      "text": "Super Silver"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eeb3908a-75bc-42f1-9469-d9c38bb631dc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 565,
+      "labels": [
+       "Drug"
+      ],
+      "start": 561,
+      "text": "Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "614d70ff-b871-4aa6-8ef4-348e0297e2f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3b9898f-23f8-47de-9400-473fa04b116d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 431,
+      "labels": [
+       "Drug"
+      ],
+      "start": 427,
+      "text": "Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "jCJHaxLVfo",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 556,
+      "labels": [
+       "Drug"
+      ],
+      "start": 541,
+      "text": "Northern Lights"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7ALUsko-zl",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 539,
+      "labels": [
+       "Drug"
+      ],
+      "start": 533,
+      "text": "Skunk "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_I7ITXwY4N",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 589,
+      "labels": [
+       "Drug"
+      ],
+      "start": 582,
+      "text": "Indica "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8dA2iIm98B",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 628,
+      "labels": [
+       "Drug"
+      ],
+      "start": 620,
+      "text": "Sativas "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product Description. Super Silver. Haze better than the most on the Darknet. A great strain. the smell is a composition of lemons , easy smoke without any coughing. Intensive , yet mellow cerebral high , makes u smile like an happy idiot for at least two hours. Definitely a social smoke , but not as up - lifting as other haze strains , so you wo nt regret smoking before bedtime. THIS IS SURELY A GOOD QUALITY. Super Silver. Haze gewann den ersten Preis im HTCC im Jahre 1997 , 1998 und 1999. Sie wurde durch die Kreuzung zwischen Skunk , Northern Lights und Haze entwickelt. Die Indica - Typischste Pflanze unter den Sativas , eine wirklich gelungene Mischung. Das. High ist sehr stark , langanhaltend und explosionsartig. WER`S NICHT GLAUBT SOLL SELBST TESTEN.",
+  "dream_id": 233494,
+  "golden": false,
+  "name": "Super Silver Haze 2g, high potent weed PROMO AKT",
+  "p_id": 346
+ },
+ "id": 672
+}

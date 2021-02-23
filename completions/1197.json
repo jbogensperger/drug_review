@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1197001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d0600f9f-fd2e-4eb9-a2c8-853795310454",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a6b398c0-2154-4bdf-8104-9a20d367b465",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 334,
+      "labels": [
+       "Drug"
+      ],
+      "start": 326,
+      "text": "CANNABIS"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- 5g Shatter - NYC. Sour Diesel - Some very potent shatter. - Brittle more so than others -. This has a glassy stability and breaks easily at room temperature. I AM NOT LIABLE IF PROVIDED ADDRESS UNDELIVERABLE , MANAGMENT OF DROP ADDRESSES IS YOUR BUSINESS NOT MINE. I CANNOT RECOVER PACKAGES THAT ARE RETURNED TO SENDER. ALL CANNABIS PRODUCTS ARE SHIPPED USA TO USA ONLY , BY MEANS OF TRACKED PRIORITY MAIL ONLY. TRACKING IS THE FINAL ARBITER OF DISPUTES IF TRACKING SAYS YOU ARE DELIVERED YOU ARE DELIVERED. ATTEMPTING TO STRONG ARM ME WITH NEGATIVE FEEDBACK IS A FOOLS GAME.",
+  "dream_id": 399019,
+  "golden": false,
+  "name": " 5g Shatter NYC Sour Diesel Extract",
+  "p_id": 842
+ },
+ "id": 1197
+}

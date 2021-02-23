@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 877001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bc717699-1b30-4d46-8072-15e2c35732e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "Cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "25 Grams of potent , and clean Rick Simpson Style Cannabis oil. Express Shipping Included.",
+  "dream_id": 58446,
+  "golden": false,
+  "name": "2 x 5 gram vials of RS Style Cannabis Oil",
+  "p_id": 454
+ },
+ "id": 877
+}

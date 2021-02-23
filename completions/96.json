@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 96001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "26f61f7c-0871-4d1b-b57a-0ad50bf6c4b2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6da30e17-a40a-4385-af07-cabd23e971b8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "RP30"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Oxycodone 30 mg straight from the pharmacy. Personal prescription. RP30 pill. Quantity left 0. THE MARKETS HAVE BEEN PRETTY HECTIC LATELY. WHEN YOU RECEIVE YOUR ORDER , I KINDLY ASK THAT YOU GO RIGHT ONLINE AND FINALIZE THE FUNDS IN ESCROW. THANK YOU FOR YOUR CONSIDERATION.",
+  "dream_id": 356762,
+  "golden": false,
+  "name": "RP30 - Oxycodone 30mg - $30 each - TEMP OUT",
+  "p_id": 112
+ },
+ "id": 96
+}

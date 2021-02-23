@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 62001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "88e20bbf-f160-4ec7-8fd5-56c73a1603be",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "Ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Out of stock Pure Ketamine.",
+  "dream_id": 365878,
+  "golden": false,
+  "name": "**Out of stock**0.5g of Pure Ketamine - 15 - UK P",
+  "p_id": 76
+ },
+ "id": 62
+}

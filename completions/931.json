@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 931001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "31b34bb1-100e-43e1-a282-c57e6abea9fa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "Platinum OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "88d84317-e3b4-4eb2-ab98-b98ebb2b062a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 229,
+      "labels": [
+       "Drug"
+      ],
+      "start": 218,
+      "text": "Platinum OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7660a091-2ff9-42f6-92c1-9cfb7cfb9fcf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 281,
+      "labels": [
+       "Drug"
+      ],
+      "start": 270,
+      "text": "Master Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a13ff8aa-8a2c-435b-862a-7826dc82bddd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 284,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0ecd5bfb-57c1-43b8-9994-0436c231b7da",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 101,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8bed3884-5345-4bec-9c8c-621208d36a33",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 438,
+      "labels": [
+       "Drug"
+      ],
+      "start": 435,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "022bccd4-7b74-4501-a18d-ce6986602fd1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 156,
+      "labels": [
+       "Drug"
+      ],
+      "start": 141,
+      "text": "indica-dominant"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "SEAPS OUT THE BAG. Strong Odor. Platinum OG is just as precious as the metal its named after. With a THC content regularly topping 20 , this indica-dominant hybrid asserts itself as one of the heaviest strains around. Platinum OG is purported to stem from three strains Master Kush , OG Kush , and a third unknown parent. Flowers are lime green and plump , with prominent orange hairs and a platinum coating thanks to the abundance of THC crystals. A brief , heady onset settles into a powerful physical sedation suitable for nighttime use and pain , stress , or anxiety relief , making this precious strain a robust healer.",
+  "dream_id": 413492,
+  "golden": false,
+  "name": "3.5g - INDOOR PLATINUM OG - AAA LOUD",
+  "p_id": 524
+ },
+ "id": 931
+}

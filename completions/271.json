@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 271001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ccac6a6d-4758-40c5-acce-cfd24c530ffd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "Speed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10g High Quality Speed Wet 72.",
+  "dream_id": 424392,
+  "golden": true,
+  "name": "10g High Quality Speed Wet 72%",
+  "p_id": 7879
+ },
+ "id": 271
+}

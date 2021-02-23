@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 771001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c2e2dcb2-20c6-4730-b767-7424e641f843",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pure 92 MDMA , Must try. 2 -3 Day FAST SHIPPING EXACTLY LIKE PICTURE SAME SAME. New Product , USA ONLY. Champagne Color.",
+  "dream_id": 25716,
+  "golden": false,
+  "name": "250g MDMA TOP QUALITY USA TO USA 3800$ 2-3Days shi",
+  "p_id": 205
+ },
+ "id": 771
+}

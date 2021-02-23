@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 113001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4d49caab-1fc3-4526-ac0e-64cd7d6ccaa2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b64fa477-cc51-46ee-b236-dc1b9f776b19",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 137,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75869449-d716-428d-9d69-29f2e8d25922",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 175,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fec2dda0-cdf4-4804-a99a-86517fe7775e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 336,
+      "labels": [
+       "Drug"
+      ],
+      "start": 333,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "19cb3ea7-f83a-481c-955f-2cb74f717f18",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 386,
+      "labels": [
+       "Drug"
+      ],
+      "start": 382,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Grade A Origin Morocco Jerada region. Type Sativa \/ Indica Hybrid Texture Sticky and dense Effects. Very powerful stone. Very much a hash type of high. This is a high quality hash from the Jerada region of Morocco. The smell is classical Maroccan landrace , but is a very fine sift that has been preserved well , meaning a very high THC content and amount of terpenes. A very tasty hash.",
+  "dream_id": 289335,
+  "golden": true,
+  "name": "10g 'Jerada Deluxe' Hash",
+  "p_id": 6400
+ },
+ "id": 113
+}

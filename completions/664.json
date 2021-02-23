@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 664001,
+   "lead_time": 1982.327,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "t7lwJsKknV",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "Cocaine "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "iykACFZrKv",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 109,
+      "labels": [
+       "Drug"
+      ],
+      "start": 101,
+      "text": "Cocaine "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bELmJLBvmr",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 280,
+      "labels": [
+       "Drug"
+      ],
+      "start": 272,
+      "text": "Cocaine "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "56 grams - Colombian Fishscale Cocaine - Disco Shit. - SPECIAL INTRO PRICE. - High Quality Fishscale Cocaine - Never Crushed , Straight off the Brick - Never Cut ,. Always the highest purity 80 - 90. This listing is for 56 Grams of the highest quality Colombian Fishscale Cocaine money can buy. You wo nt find a better product shipped out of the US. This product is always taken straight off the brick. It is never cut , crushed up , or tampered with. This stuff will have you feeling like a million bucks and ready to fuck. 85 - 90 , tests at the highest level on EZ Purity test everytime. We ship within 24 hours , guaranteed to be in your mailbox within 5 Days of sale.",
+  "dream_id": 164894,
+  "golden": false,
+  "name": "56 Grams of Colombian Fishscale Cocaine 85-90%",
+  "p_id": 337
+ },
+ "id": 664
+}

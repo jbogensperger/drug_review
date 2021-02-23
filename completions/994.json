@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 994001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d367866a-c625-4969-9c95-6bb65c392c78",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "34d8cfe3-529c-4ff2-9fbd-9e392aa62ff6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 111,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your Moms. Box presents , Lego Gummy 100 mg THC. Each one is infused with 100 mg Shatter Oil. Lego Gummy 100mg THC Only 25 5 pk.",
+  "dream_id": 363614,
+  "golden": false,
+  "name": "Lego Gummy 100mg THC Only! $30 (5pk)",
+  "p_id": 605
+ },
+ "id": 994
+}

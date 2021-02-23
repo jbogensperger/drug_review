@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 628001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3a0c11d4-c7c5-4e9e-9239-692af012e6c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "29993c9c-d552-4341-a030-fa0cc64a1145",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 84,
+      "labels": [
+       "Drug"
+      ],
+      "start": 77,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a listning for Amazing Quality Cocaine. LIMITED TIME PRICES. This is Cocaine straight from the brick and it is as pure as it gets. if that s what you are looking for you are at the right place. WE ALWAYS DELIVER TOP QUALITY.",
+  "dream_id": 112561,
+  "golden": false,
+  "name": "1gr PURE COCAINE 89-91%     ******LIMITED TIME DIS",
+  "p_id": 292
+ },
+ "id": 628
+}

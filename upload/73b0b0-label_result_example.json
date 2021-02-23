@@ -1,0 +1,237 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1610963709,
+        "id": 641001,
+        "lead_time": 11.385,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "9HDYDBGmSQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 40,
+              "labels": [
+                "Drug"
+              ],
+              "start": 30,
+              "text": "Lorazepam "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Unnamed: 0": 11228,
+      "category": "DRUG",
+      "description": "You are purchasing one box of Lorazepam 5 mg with 60 pills packaged in flaskYou will receive exactly the box in the picture because I took the photo of the box I am sellingAll my medicines come from a pharmacy in Europe and are according to EMEA rules  ( European Medicines Agency )  . Our products are shipped in registered mail with tracking number and are carefully packaged .  For more information about the product please contact me",
+      "keywords": "[('AA, Benzos', 30, 39)]",
+      "lang": "en",
+      "market_name": "DREAM",
+      "name": "Lorazepam 5 mg  60 pills  tavor 5 mg Ativan Temest",
+      "subcategory": "Drugs, Benzos",
+      "vendor": "jasonjohnson"
+    },
+    "id": 641
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1610896289,
+        "id": 150001,
+        "lead_time": 3.941,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "8HYFMy9dia",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26,
+              "labels": [
+                "Drug"
+              ],
+              "start": 20,
+              "text": "Speed "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Unnamed: 0": 5821,
+      "category": "DRUG",
+      "description": "10 Gram of our Pink Speed Paste . Paste !  You will loose about 10%-15% of the weight when you dry it . ",
+      "keywords": "[('Stimulants, Amphetamin', 20, 31)]",
+      "lang": "en",
+      "market_name": "DREAM",
+      "name": "10 Gram Pink Speed Amphetamin Pep   Promo  ",
+      "subcategory": "Drugs, Stimulants, Speed",
+      "vendor": "gregoryevans"
+    },
+    "id": 150
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1610898020,
+        "id": 1796001,
+        "lead_time": 10.191,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "IrG7GCGTtX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8,
+              "labels": [
+                "Drug"
+              ],
+              "start": 3,
+              "text": "MDMA "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Unnamed: 0": 10486,
+      "category": "DRUG",
+      "description": "1g MDMA White / Champagne Colour 83% DON ' T BE STUPID KNOW YOU LIMITSENJOY RESPONSIBLYPlease read our profile before placing an order ! ",
+      "keywords": "[('Ecstasy / MDMA', 3, 7), ('Cannabis', 16, 25), ('AA, MDMA', 3, 7)]",
+      "lang": "en",
+      "market_name": "DREAM",
+      "name": "1g MDMA White / Champagne Colour 83% ",
+      "subcategory": "Drugs, Ecstasy, MDMA",
+      "vendor": "meganross85"
+    },
+    "id": 1796
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1610897999,
+        "id": 1188001,
+        "lead_time": 14.055,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "2qZO5aqWnC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20,
+              "labels": [
+                "Drug"
+              ],
+              "start": 13,
+              "text": "COCAINE"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OAi8IwN3q-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 185,
+              "labels": [
+                "Drug"
+              ],
+              "start": 178,
+              "text": "Cocaine"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pncereh2TS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 267,
+              "labels": [
+                "Drug"
+              ],
+              "start": 259,
+              "text": "cocaine "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Unnamed: 0": 8500,
+      "category": "DRUG",
+      "description": "0 . 5g VALUE COCAINECountry of origin :  BoliviaPurity :  Twice as good as Street  &  Half the Price .  You will EnjoyPrices1g  $ 2003 . 5g  $ 6507g  $ 120014g  $ 225028g  $ 4250Cocaine is our number one business !  We have over a decade of experience in the cocaine business . You Will Not be dissapointed . Vac Sealed Read My Profile for additional information . ",
+      "keywords": "[('Stimulants,Cocaine', 259, 266)]",
+      "lang": "en",
+      "market_name": "DREAM",
+      "name": "0 . 5g COCAINE  { ESCROW } ",
+      "subcategory": "Drugs, Stimulants, Cocaine",
+      "vendor": "kirknelson25"
+    },
+    "id": 1188
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1610967009,
+        "id": 1586001,
+        "lead_time": 6.69,
+        "result": []
+      }
+    ],
+    "data": {
+      "Unnamed: 0": 5200,
+      "category": "DRUG",
+      "description": "Thanks for visiting our companyWe offer top quality cocaine from dutch borders .  Pure bricks no mix actions . For the scammers everything goes with track and trace . 9 stripes guaranteed .  lot of types available more pictures soon . --------------------------------------We also offer bulkorders .  For bulkorders and prices please send us a message .  ----------------------------------------",
+      "keywords": "[('Stimulants,Cocaine', 52, 59)]",
+      "lang": "en",
+      "market_name": "DREAM",
+      "name": "100 GRAM DUTCH COCAINE PURE UNCUT COLUMBIAN",
+      "subcategory": "Drugs, Stimulants, Cocaine",
+      "vendor": "lucasdonovan65"
+    },
+    "id": 1586
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1610895195,
+        "id": 437001,
+        "lead_time": 2.563,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "LpXA7giel6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 37,
+              "labels": [
+                "Drug"
+              ],
+              "start": 28,
+              "text": "Zolpidem "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Unnamed: 0": 19398,
+      "category": "DRUG",
+      "description": "392 pills  ( 14 boxes )  of Zolpidem 10mg",
+      "keywords": "[('Prescription', 28, 36)]",
+      "lang": "en",
+      "market_name": "DREAM",
+      "name": "Custom for supa",
+      "subcategory": "Drugs, Benzos",
+      "vendor": "KimberlyJohnson"
+    },
+    "id": 437
+  }
+]

@@ -1,0 +1,145 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 972001,
+   "lead_time": 1576.108,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "_fVtnBZbbI",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 149,
+      "labels": [
+       "Drug"
+      ],
+      "start": 137,
+      "text": "Green Dragon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "M6TQSXdFtC",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 157,
+      "labels": [
+       "Drug"
+      ],
+      "start": 150,
+      "text": "Indica "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "iIEvn13Q8i",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 157,
+      "text": "Girl Scout Cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bVaVEDUGL3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 194,
+      "labels": [
+       "Drug"
+      ],
+      "start": 184,
+      "text": "Blue Dream"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "qxoJj-ezrx",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 240,
+      "labels": [
+       "Drug"
+      ],
+      "start": 218,
+      "text": "Hybrid Blackberry Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "jmzjI7GSmg",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 213,
+      "labels": [
+       "Drug"
+      ],
+      "start": 198,
+      "text": " Hybrid OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "T_02Wk5l07",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 263,
+      "labels": [
+       "Drug"
+      ],
+      "start": 252,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PMpEl-xQQh",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 270,
+      "labels": [
+       "Drug"
+      ],
+      "start": 264,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "tTCDl5U1CR",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 252,
+      "labels": [
+       "Drug"
+      ],
+      "start": 245,
+      "text": "Hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a bulk order for 10 Absolute Xtracts Vape Cartridges. This price is unbeatable , and it may not last long. Here are the flavors. Green Dragon Indica Girl Scout Cookies I\/S Hyb Blue Dream I\/S Hybrid OG Kush I\/S Hybrid Blackberry Kush I\/S Hybrid Sour Diesel Sativa. Please see my other listings for a breakdown of each strain s profile. You may mix n match IF you communicate accurately with me about exactly what you want. There will be no returns or exchanges for obvious reasons. NEW CUSTOMERS - PLEASE FINALIZE YOUR ORDER AFTER YOU RECIEVE IT. THERE HAVE BEEN ISSUES WITH ORDERS SITTING FOR 2 WEEK AFTER DELIVERY - THATS UNACCEPTABLE.",
+  "dream_id": 134218,
+  "golden": false,
+  "name": "10x Absolute Xtracts Vape Cartridge - mix and matc",
+  "p_id": 575
+ },
+ "id": 972
+}

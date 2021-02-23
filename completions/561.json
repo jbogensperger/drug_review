@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 561001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "69f45b16-83f4-4e5e-94a9-73476cea6d31",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7d4fbb8-b4bf-45ad-863e-524fb008b3b5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 78,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c3043da2-efe8-4142-961f-8fcf371c0980",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 171,
+      "labels": [
+       "Drug"
+      ],
+      "start": 167,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dark Morrocan. Hash , shipped with extra Stealth , Next Day Postage. This Hash is a lovely Dark Morrocan , with a great Texture and a nice smelling burn but also hard hash. For Additional Info Visit my Vendor Page. This shop uses Escrow Only.",
+  "dream_id": 51879,
+  "golden": false,
+  "name": "1 Gram  old school RockySoap  Bar",
+  "p_id": 197
+ },
+ "id": 561
+}

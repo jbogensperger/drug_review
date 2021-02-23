@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 905001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d7717baf-2b84-4193-b257-7d727c8d3b6b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "Crystal"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Out of stock Very strong dutch Crystal.",
+  "dream_id": 330217,
+  "golden": false,
+  "name": "**Out of stock**3.5g of Pure Crystal Meth - 230 -",
+  "p_id": 494
+ },
+ "id": 905
+}

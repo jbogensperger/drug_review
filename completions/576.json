@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 576001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "73c1363f-ad9c-414c-a06a-06e1682bc249",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "afe9bee1-de97-42d0-96e6-fdd2dc7a0855",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cannabis oil made from the pure sativa strain durban poison , infused with the finest organic coconut oil all combined in a gelatine capsule. 5 CAPSULES.",
+  "dream_id": 388116,
+  "golden": false,
+  "name": "5x SATIVA CANNABIS CAPSULES 25mg",
+  "p_id": 222
+ },
+ "id": 576
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 538001,
+   "lead_time": 2685.771,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "QuWSKLwpD7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Are "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Are you tired of being scam. We are back with high quality buds and a wild variety of very potents strains. We offer paid sample and we do whole sale only , minimuim order is 3 LB. Shipping is Fast and 100 discrete. For more info , wickr drpabiloray.",
+  "dream_id": 396222,
+  "golden": false,
+  "name": "A grade++ top shelf",
+  "p_id": 161
+ },
+ "id": 538
+}

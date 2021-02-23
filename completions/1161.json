@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1161001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "427e53d4-7ffc-44cd-bd32-30cea8d31339",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 Gram Ketamine. Maybe the price is high. But this is PURE rocks. Not cut up shit like others on Darknet or the streets.",
+  "dream_id": 400372,
+  "golden": false,
+  "name": "1 Gram Ketamine",
+  "p_id": 798
+ },
+ "id": 1161
+}

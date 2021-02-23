@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1057001,
+   "lead_time": 912.409,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6c80ffe2-3b1a-4c30-b95b-6ba0e28b7b26",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 226,
+      "labels": [
+       "Drug"
+      ],
+      "start": 223,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Ar9tSwRAdN",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 149,
+      "labels": [
+       "Drug"
+      ],
+      "start": 108,
+      "text": "2 , 5 - dimethoxy-4-Bromoamphetamine HCl."
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3t-X-mDs6I",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 176,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "DOB 14"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "YlBQObJLaL",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 533,
+      "labels": [
+       "Drug"
+      ],
+      "start": 529,
+      "text": "2CB "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "OJ9NYCuNqw",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 538,
+      "labels": [
+       "Drug"
+      ],
+      "start": 535,
+      "text": "DOB"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Exclusive New Blotter. Art. We DOB tabs , self - laid by GammaGoblin himself Each tab contains 14 mg of DOB 2 , 5 - dimethoxy-4-Bromoamphetamine HCl. Each tab is labeled DOB 14 mg on the backside to prevent reselling it as LSD. We have dealt with many blotters like this throughout the years. That being said we have to salute GammaGoblin for laying these blotters out proper. A hit with psychonauts on a global scale , these blotters are hard to hold onto after users realize it s magical properties. A relative of the infamous 2CB , DOB. This listing is for x 50 doses.",
+  "dream_id": 315044,
+  "golden": false,
+  "name": "GammaGoblin presents: DOB 1.4mg  x50 doses",
+  "p_id": 683
+ },
+ "id": 1057
+}

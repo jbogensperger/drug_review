@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1064001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4166e932-7ac4-48f6-ba04-443972d6d83e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Oxycodone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eeb1980d-e772-46d7-b184-f43fcf45577b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bbd1b897-dbca-4494-9622-3a5db484db2c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "OXY"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "92ca1392-38ff-4ed3-8b26-e512bc020ef7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 157,
+      "labels": [
+       "Drug"
+      ],
+      "start": 150,
+      "text": "ALCOHOL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9720b9fd-35a6-4d36-98d0-106f1a8b779c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 166,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "BENZO"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Oxycodone 30 MG pressed with Fentanyl 08 MG which is equal 100 MG OXY as active substance. the product has accurated dosage. Attention DO NOT COMBINE ALCOHOL OR BENZO WITH THIS DRUG. shipping from US to US only shipping is discrete and professional. look at all our listings - always updating products of all kinds. prices 25X - 185 50X - 370 100X - 700 250X 1600 500X 3000 1000X 5000.",
+  "dream_id": 302153,
+  "golden": false,
+  "name": "500 Oxycodone 30mg (A215) WE SHIP WITHIN 24 HOURS!",
+  "p_id": 690
+ },
+ "id": 1064
+}

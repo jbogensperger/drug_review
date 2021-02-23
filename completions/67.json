@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 67001,
+   "lead_time": 807.232,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "88210665-4a01-4c3c-ab2e-a3c054ce6777",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "FUEF"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9PkMuaXJDF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "fent "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FUEF is a fent analog research chem. Legal for everything accept human use. Get the beakers out. We have read about trials with human use and limited euphoria strange feelings was a reported description. Please do not misuse our products.",
+  "dream_id": 383916,
+  "golden": false,
+  "name": "FUEF FENTANYL 200mg*Domestic*10% 4-FE",
+  "p_id": 81
+ },
+ "id": 67
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1365001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "53e834f4-df88-4bda-a315-d0f3bb602a50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "rick simpson"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "75g rick simpson syringes 1g each and 400 capsules - 100 mg strength.",
+  "dream_id": 174476,
+  "golden": false,
+  "name": "custom offer for nobudget7",
+  "p_id": 1041
+ },
+ "id": 1365
+}

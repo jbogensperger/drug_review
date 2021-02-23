@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 997001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "acccc9fa-0f2b-45d9-9262-623301428c18",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Classic sativa - dominant , fresh pine \/ spicy scent , lovely purple coloring , cerebral high.",
+  "dream_id": 263607,
+  "golden": false,
+  "name": "Ounce (28g) Jack Herer",
+  "p_id": 608
+ },
+ "id": 997
+}

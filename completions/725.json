@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 725001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e4098ba1-b98c-4e3a-9827-e595be14337a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "Sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sweet Tooth 1792 grams 4 pounds. Cost 4800usd Total Amount Available 15 units Strain Genome Sativa Environment Outdoor Growing Medium Organic. Soil Density Medium Aroma Medium Organic. Yes Seeds No Lab Tested No Mold \/ Pests None Location Grown San Diego , Ca.",
+  "dream_id": 428704,
+  "golden": false,
+  "name": "4 LbsSweet Tooth $4800",
+  "p_id": 405
+ },
+ "id": 725
+}

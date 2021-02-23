@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 78001,
+   "lead_time": 110.32,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "655bc8e1-1072-4d4f-9606-dc4347aca6ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9V_I4bGIDP",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "THC "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "BFkLDMnhfd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "Amnesia Haze"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THC 22 CBD Medium Genetic Background. Original Amnesia Haze. Type Sa 70 In 30 Ru 0 Effect Extremely high , long - lasting , body relaxing. Climate Mild Cold. Also usable for medical consumption.",
+  "dream_id": 332275,
+  "golden": false,
+  "name": "-5 GRAMS- Amnesia Haze 22% THC",
+  "p_id": 94
+ },
+ "id": 78
+}

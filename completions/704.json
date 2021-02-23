@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 704001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dc389d2b-25d6-43bb-935e-95e208d3ff2d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Top"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Top quality big bud strain. Indoor grown in hydro. Ask us for bulk buy. Check delivery information and desciption under.",
+  "dream_id": 272316,
+  "golden": false,
+  "name": "5g Big Bud high quality hydro weed",
+  "p_id": 383
+ },
+ "id": 704
+}

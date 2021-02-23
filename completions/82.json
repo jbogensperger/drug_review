@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 82001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4fac7607-7588-481b-b6bd-3fb9a5d1c2cb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Master Kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "4 oz of top shelf dispensary. Master Kush. Fast shipping and full escrow. BUY NOW.",
+  "dream_id": 338978,
+  "golden": false,
+  "name": "4 oz Master Kush Full Escrow",
+  "p_id": 98
+ },
+ "id": 82
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1291001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "25170fd6-40ec-4d32-842a-61a37154a5d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ba0d61f8-d559-49fd-89d2-d5d28dae496d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5 x pack of Gummy cannabis infused edibles 400 THC per bag FAST SHIPPING.",
+  "dream_id": 316796,
+  "golden": false,
+  "name": "5x pack of EDIBLES 400THC per bag",
+  "p_id": 945
+ },
+ "id": 1291
+}

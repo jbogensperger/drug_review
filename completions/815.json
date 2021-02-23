@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 815001,
+   "lead_time": 1824.124,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d9aa4459-aa7b-4545-bac0-338f6b38c31c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "65cb2e33-6d1b-4835-aa7e-ed0bfa50b998",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f8b729dc-f2ff-4a9e-a988-f79ab46667b1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 228,
+      "labels": [
+       "Drug"
+      ],
+      "start": 224,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8b495360-ccbe-49e6-9ea9-defe75e8c67a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 237,
+      "labels": [
+       "Drug"
+      ],
+      "start": 233,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_9SS-j_ZIb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "XTC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1000x Flugel XTC-units. 230 mg MDMA Contains our own cooked MDMA Green Escrow Priority tracked shipping from Germany No arrival. 100 reship. Free shipping. Shipping Germany - Europe. Australia - Australia \/ New Zealand only MDMA see MDMA domestic Australia listing. Read our terms of service and profile page before ordering. We are also vending on Trade Route. Questions about our servce product or else. Feel free to send us a PM or direct mail to KyleAliwingorg.",
+  "dream_id": 345434,
+  "golden": false,
+  "name": "1000x Flugel XTC-units  230mg+  escrow ",
+  "p_id": 327
+ },
+ "id": 815
+}

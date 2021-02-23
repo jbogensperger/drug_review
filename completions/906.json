@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 906001,
+   "lead_time": 751.649,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f61bf08a-afa2-4a11-a4f8-b1ff5d6d22b4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 195,
+      "labels": [
+       "Drug"
+      ],
+      "start": 190,
+      "text": "NaGHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-30w_qscfE",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 391,
+      "labels": [
+       "Drug"
+      ],
+      "start": 387,
+      "text": "GHB "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "OxqocTxo4E",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 622,
+      "labels": [
+       "Drug"
+      ],
+      "start": 614,
+      "text": "alcohol "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product for this listing will be sent in bottle by default , if you would prefer your product in vials please request so in the shipping details when checking out. Made in the UK with love. NaGHB Concentration - 065 g \/ ml Made from Pharmaceutical grade precursors. Solution has been concentrated as much as possible without reaching saturation point. Instructions for use PLEASE VISIT. GHB can be very dangerous if not taken carefully with respect. Each vial contains 5 ml , estimated concentration is - 065 g \/ ml. Take on an EMPTY STOMACH to avoid delayed effects or low absorption of the drug. DO NOT mix with alcohol or other depressants , very carefull with this and potency is greatly increased.",
+  "dream_id": 137327,
+  "golden": false,
+  "name": "50ml GHB Solution",
+  "p_id": 496
+ },
+ "id": 906
+}

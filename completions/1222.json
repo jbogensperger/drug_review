@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1222001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "576b32ca-2dfa-4999-b3bd-3b972ab325a0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "viagra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "hi guys , this is a listing for 50 strips of 10 x 100 mg viagra tablets 500 qty total. i am sure you guys know what this med is for so be carefull yeah as you do nt want a hard problem to get rid of. if you have any questions at all then please message me before buying. i am here to help guy so have fun. please note that delivery time may vary and be faster than listed and in some cases may be NDD depending on the service used. I ca nt accept refunds on this item once it has been delivered safe and sound however i will offer a re-ship if proved that the item does not turn up and if for some reason that the second item does not turn up and you have checked it s not with a neighbor then i will offer a 50 refund. if you do not accept the above then please do not buy.",
+  "dream_id": 74800,
+  "golden": false,
+  "name": "viagra \/ sildenafil 100mg ( 500 qty )",
+  "p_id": 869
+ },
+ "id": 1222
+}

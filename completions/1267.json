@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1267001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c14730d7-1021-4737-a6f3-e039329dfc72",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c838a779-0873-4737-bfe3-05971d4f23f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 507,
+      "labels": [
+       "Drug"
+      ],
+      "start": 504,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "34625060-b820-4418-a33e-f20c5a5497eb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 628,
+      "labels": [
+       "Drug"
+      ],
+      "start": 625,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "27bcca47-72dc-44d4-80ed-038ca188337f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 697,
+      "labels": [
+       "Drug"
+      ],
+      "start": 694,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0fbe5823-e990-4522-9850-746db24f0d18",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 573,
+      "labels": [
+       "Drug"
+      ],
+      "start": 566,
+      "text": "Crystal"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "67d88b46-dd2a-47a0-9c97-c29119baca74",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 761,
+      "labels": [
+       "Drug"
+      ],
+      "start": 754,
+      "text": "Crystal"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hikuri333 Over 99 Positive Feedback on Alphabay. RECOGNIZED W \/ AWARD OF SHINING STAR VENDOR BY THE LSD AVENGERS. American Made the Legendary Diamond Fluff Raw Xtal and FRESH Family Shard newest Batch. Photo. Family Shard \/ White Shard - IN STOCK. This Well Known Crystal hails from a Master Chemist in their 80s whose experience w alchemical creations dates back to the late 60s. Close knit Family from the formative years of the Grateful Dead. Apprenticed n Learned w Old School Key Chemists of Lore n LSD Distribution Families of West Coast , America. This FINE. Crystal has been touted as the Holy Grail \/ Caviar of Pure LSD Sacrament. Truly a Sacrament of Love. and very well known in Old LSD Afficionado Circles and more recently upon Darknet This Crystal really speaks for itself. Bright White \/ Transparent Sparkly \/ Iridescent Crystals. Instantly Dissolving in H2O solutions. ATM we are offering Family Shard Vials - 13mg \/ vial - 120ug\/120 drops for 274.",
+  "dream_id": 329271,
+  "golden": false,
+  "name": "99% *Diamond Fluff LSD* - Vials 120ug\/115+ Drops",
+  "p_id": 918
+ },
+ "id": 1267
+}

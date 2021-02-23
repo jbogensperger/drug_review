@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1149001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c32eb1de-a873-4fae-99b4-785315df4233",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "MOBY DICK"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ddc7a795-ae6e-4ad1-a184-2a4cae26a85c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "HASH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1g of MOBY DICK 100 KIEF , THIS IS THE HIGHEST QUALITY HASH \/ KIEF WHAT YOU CAN GET , ONLY TRICHOMES HEADS.",
+  "dream_id": 392604,
+  "golden": false,
+  "name": " MOBY DICK KIEF  100 SUPREME QUALIT",
+  "p_id": 778
+ },
+ "id": 1149
+}

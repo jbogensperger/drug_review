@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 25001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "dd8a0f59-1c23-4657-be99-69f4ec4ba267",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Codeine Phosphate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Crescent Codeine Phosphate 60 mg x 28 tablets.",
+  "dream_id": 277038,
+  "golden": false,
+  "name": "Crescent Codeine Phosphate 60mg x 28 tablets",
+  "p_id": 33
+ },
+ "id": 25
+}

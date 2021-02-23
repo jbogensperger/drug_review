@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 255001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a45e2448-6726-4b21-b0e0-4eb173606658",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2 box Pfizer 1 mg IR alprazolam - each 39 euros. total - 78 euros.",
+  "dream_id": 429408,
+  "golden": true,
+  "name": "custom order 55",
+  "p_id": 3271
+ },
+ "id": 255
+}

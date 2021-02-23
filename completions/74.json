@@ -1,0 +1,215 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 74001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5ee177d6-b540-404f-a6fa-d903296b3370",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "ETIZOLAM"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c7a38fb7-0801-475b-96b5-0475f11c6279",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "371ee3f8-b63b-4f47-8b35-e03b259b7632",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "84a7cc5a-9a97-4328-8d62-01e47aaddb46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 61,
+      "text": "Diazapam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0c1d31bf-ec3c-45e6-abe0-eacc9df00ed9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d2ce33b3-b177-4998-8c92-94a957ca5f64",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 231,
+      "labels": [
+       "Drug"
+      ],
+      "start": 223,
+      "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "122eb630-2e71-45b9-9275-87d3724b387d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 328,
+      "labels": [
+       "Drug"
+      ],
+      "start": 313,
+      "text": "benzodiazepines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b06a38c7-105d-4c09-8f11-e1a83c10d823",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 342,
+      "labels": [
+       "Drug"
+      ],
+      "start": 337,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a9910658-ef2b-478f-af3b-52ce88411556",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 365,
+      "labels": [
+       "Drug"
+      ],
+      "start": 351,
+      "text": "Benzodiazepine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c72daedf-7598-47cd-80cc-044022305afb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 380,
+      "labels": [
+       "Drug"
+      ],
+      "start": 372,
+      "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "92218150-1a59-4e99-aba5-472c0843dc72",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 422,
+      "labels": [
+       "Drug"
+      ],
+      "start": 416,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "67d1e9de-1464-4b81-bbfb-92d397d560c8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 431,
+      "labels": [
+       "Drug"
+      ],
+      "start": 423,
+      "text": "Diazapam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b7d254a8-eed0-4817-b9e9-e024df995c06",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 484,
+      "labels": [
+       "Drug"
+      ],
+      "start": 478,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3cf2bde1-a7b3-4744-b42c-d0e98867be68",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 493,
+      "labels": [
+       "Drug"
+      ],
+      "start": 488,
+      "text": "Xanax"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ETIZOLAM. Etizolam 1 mg is the equivalent of 10 mg of Valium Diazapam. Etizolam possesses , anti anxiety , anticonvulsant , hypnotic , sedative and skeletal muscle relaxant properties. It has a half life of about 35 hours. Etizolam possesses potent hypnotic properties and is comparable with other short - acting benzodiazepines such as Xanax. On the Benzodiazepine Chart Etizolam 1 mg is the equivalent of 10 mg of Valium Diazapam which makes it a rather potent alternative to Valium or Xanax. Please check the Profile page for shipping cut off time as it is subject to change , Thank you.",
+  "dream_id": 310961,
+  "golden": false,
+  "name": " 200MG ETIZOLAM POWDER 99.8% PURE~ 200 TAB",
+  "p_id": 88
+ },
+ "id": 74
+}

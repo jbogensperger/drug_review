@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1025001,
+   "lead_time": 1371.556,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c3add388-624a-4a97-bf58-3259145f2952",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Subutex"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Lw_4CfwA8t",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": " 54-411"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Subutex mg Roxanne brand 54-411.",
+  "dream_id": 312694,
+  "golden": false,
+  "name": "Subutex Roxanne 54-411",
+  "p_id": 642
+ },
+ "id": 1025
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1381001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2760abb8-f203-4c4b-84e7-3a303cd456d1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Gorilla Glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4ad0502f-5562-4df6-bea0-523edf346142",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 649,
+      "labels": [
+       "Drug"
+      ],
+      "start": 637,
+      "text": "Gorilla Glue"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f516607e-4766-4f46-babd-7478e5556334",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 347,
+      "labels": [
+       "Drug"
+      ],
+      "start": 338,
+      "text": "Sour Dubb"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "032d3b9c-1d2e-4b4f-bcdc-b1ed239bef1c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 370,
+      "labels": [
+       "Drug"
+      ],
+      "start": 354,
+      "text": "Chocolate Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2c823e31-1455-46e8-8216-0c76c30a7a89",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 441,
+      "labels": [
+       "Drug"
+      ],
+      "start": 433,
+      "text": "Cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Perfect for cooking , blasting , etc. Gorilla Glue 4 , developed by GG Strains , is a potent hybrid strain that delivers heavy - handed euphoria and relaxation , leaving you feeling glued to the couch. It s chunky , resin - covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains , Chems Sister , Sour Dubb , and Chocolate Diesel. Taking first place in both the Michigan and Los Angeles 2014 Cannabis Cups as well as the High Times Jamaican World Cup , this multiple award - winning hybrid s supremacy is no longer a secret , and consumers will search far and wide to get their hands sticky with Gorilla Glue 4.",
+  "dream_id": 317047,
+  "golden": false,
+  "name": "Gorilla Glue #4 Super Frosty Shake Only $350 a QP",
+  "p_id": 1058
+ },
+ "id": 1381
+}

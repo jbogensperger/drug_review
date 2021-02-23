@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 402001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "36ee2141-702d-4eb6-b342-138e4eac91f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 116,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "Phenergan promethazine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "799c09ff-9cba-4df5-99fa-42410716f756",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Promethazine Hcl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "52a85762-c6eb-42df-ba79-c2ac078621e8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Phenergan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f74977e8-8822-4bc8-a8da-3336e7b7b925",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 83,
+      "text": "Phenergan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "96d4b3ca-69b3-40f9-9e2b-641775e4cb8c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 166,
+      "labels": [
+       "Drug"
+      ],
+      "start": 152,
+      "text": "phenothiazines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "efd88a29-cfc6-4e4b-953c-521c3d7239b4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 241,
+      "labels": [
+       "Drug"
+      ],
+      "start": 229,
+      "text": "Promethazine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "74026ece-5f85-442a-8ca7-da0695582686",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 364,
+      "labels": [
+       "Drug"
+      ],
+      "start": 355,
+      "text": "Phenergan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3eeb45d-1639-429f-86f2-03f96bc6fa98",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 271,
+      "labels": [
+       "Drug"
+      ],
+      "start": 258,
+      "text": "antihistamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product - Promethazine Hcl Brand - Phenergan 25 mg Manufactured by - Abott What is Phenergan. Phenergan promethazine belongs to a group of drugs called phenothiazines. It works by changing the actions of chemicals in your brain. Promethazine also acts as an antihistamine. It blocks the effects of the naturally occurring chemical histamine in your body. Phenergan is used to treat allergy. Shipping Options Delivery time 1 Express Delivery \/ With sign. - Full tracking - 8 Days. 2 Registered Air mail \/ with sign - Tracks up to leaving India - 12 Days. 3 Air mail \/ No sign - No tracker - 14 Days. For any other info , please message me.",
+  "dream_id": 276966,
+  "golden": false,
+  "name": "Promethazine tablets - 200Pills-for purple dank",
+  "p_id": 204
+ },
+ "id": 402
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1198001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c99b38f5-c657-466a-8290-20723b9c052c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 133,
+      "labels": [
+       "Drug"
+      ],
+      "start": 124,
+      "text": "Methadone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9f730618-87af-482a-9e30-1a8c9111d800",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 221,
+      "labels": [
+       "Drug"
+      ],
+      "start": 212,
+      "text": "Methadone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "de72a55e-81b2-4e99-a5a1-3b33cbc1ad2f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 259,
+      "labels": [
+       "Drug"
+      ],
+      "start": 250,
+      "text": "Methadone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This an escrow listing. It is more expensive than my FE listings but you can stay in Escrow. This listing is for one bottle Methadone directly from a drug - store in Germany. Each bottle contains 8 ml with 80 mg Methadone. It is bottled on 27042016. Methadone Solution for oral take. Not for injection use , risk of death. The containing dose could be deadly for not accustomed people. Conserved with 0,11 Caliumsorbat. It s directly from a doctor so really absolutely best quality.",
+  "dream_id": 91802,
+  "golden": false,
+  "name": "8ml liquid Methadone 10mg\/ml (80mg)ESCROW",
+  "p_id": 843
+ },
+ "id": 1198
+}

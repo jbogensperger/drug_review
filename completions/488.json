@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 488001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "78572bc4-2675-4e55-a402-a9a75f300ca0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "Pineapple Express Strain"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1f548466-9888-464d-9a9a-a386f6f972cf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Pineapple Express"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ff30da5-55ff-468b-a41b-43f6587db9d4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 109,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "Pineapple express"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2f528279-31da-49a3-8c85-4c5c65ee01c5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 217,
+      "labels": [
+       "Drug"
+      ],
+      "start": 200,
+      "text": "Pineapple express"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9d2277be-6314-4c62-98b9-346d1f18931e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 271,
+      "labels": [
+       "Drug"
+      ],
+      "start": 265,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3016b129-d4ef-40f0-8b3a-51ee3d83f2a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 287,
+      "labels": [
+       "Drug"
+      ],
+      "start": 281,
+      "text": "Hybrid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pineapple Express | Potent Apple Mango | Incredible quality buds. Pineapple Express Strain. Pineapple express is an extremely popular strain , a product we take huge pride to sell. We absolutely love Pineapple express , and we re sure you will too. A very potent , sativa dominant Hybrid. This is a bud lovers dream , with a strong smell of Apple and Mango and the obvious and evident taste of pineapple. All shipments are shipped out with maximum stealth , we promise to provide you with. Top Quality buds for an incredible value. All shipments will be wrapped with Mylar layers and Vacuum sealing. All shipments are double checked before shipment. the product you will receive will be as listed. Shipments are sent out twice a day , Monday to Saturday. Feedback on this product can be viewed here on the listing page , through the tabs. We promise you will love the buds.",
+  "dream_id": 201963,
+  "golden": true,
+  "name": "PINEAPPLE EXPRESS 3.5G",
+  "p_id": 7837
+ },
+ "id": 488
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1233001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "88a1720d-074f-48b7-b828-cb1fcc86a585",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 121,
+      "labels": [
+       "Drug"
+      ],
+      "start": 117,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7beb1d1d-7d19-43f0-8d46-6fd468c5ca75",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 233,
+      "labels": [
+       "Drug"
+      ],
+      "start": 230,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "43232179-102d-4e94-9ee8-1477ee869693",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 409,
+      "labels": [
+       "Drug"
+      ],
+      "start": 405,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "828b54e3-8c79-4b1c-8f43-a73db52c6807",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 614,
+      "labels": [
+       "Drug"
+      ],
+      "start": 610,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cf47842c-4dee-4f51-8660-917dc2863799",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 550,
+      "labels": [
+       "Drug"
+      ],
+      "start": 546,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "UK EU ONLY. PRODUCT DESCRIPTION. 19\/4\/2017. Right Guy s ,. Roll the Difference is back. When you place any order for MDMA and leave the note Roll the Difference in with your address not in buyers feedback and we will throw in one XTC pill for FREE. This could be a Pink Bear , VW or a Dom Perignon s. No choosing , it is picked at random. They are all 200 mg pills. Please note that if you order multiple MDMA orders for example 1 x 1g plus 1 x 35g you will still only get ONE pill. Enjoy guy s. th. We would like to present our well known Dutch MDMA 80 - 85 - 1g listing - FE ONLY. We do sell rather a lot of MDMA so the batches do change quite often but are always of the highest quality.",
+  "dream_id": 25593,
+  "golden": false,
+  "name": "1g | 80-85% Dutch MDMA | UK Vendor",
+  "p_id": 882
+ },
+ "id": 1233
+}

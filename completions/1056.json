@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1056001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1bd74f25-1007-4817-ad66-9402a38947ec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 339,
+      "labels": [
+       "Drug"
+      ],
+      "start": 335,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FREE EXPRESS POST. - WE NOT LIKE OTHER VENDORS CHARGING UP TO 20 FOR SHIPPING WE ARE FREE HERE _. FRESH NEW ROCK BATCH - People always argue over whats better imported or locally manufactured stuff. The truth lies in the synthesis however its alot easier to get good quality precursors overseas than it is here , and as it stands this meth will blow your socks off and burns clean as a whistle. Remember to have fun but not abuse this stuff. WE SEND EVERYTHING VIA EXPRESS POST. SENDING DAYS MON - FRI EXCLUDING PUBLIC HOLIDAYS \/ SATURDAYS. POST CUT OFF TIME WE CUT ALL ORDERS OFF AT 3PM -. TRACKING ASK ANYTIME. ENJOY YOUR ORDER.",
+  "dream_id": 266948,
+  "golden": false,
+  "name": "1.1g -METH IMPORT- INC.",
+  "p_id": 682
+ },
+ "id": 1056
+}

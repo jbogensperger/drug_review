@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1094001,
+   "lead_time": 1419.729,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "27664ba6-d5bb-44c3-9c28-69403135bbb5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3cd603f3-b826-44d0-9511-69a407db44a2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Cannabis sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "718ee1ed-fc60-4ef1-85be-6e3365d1873c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 88,
+      "labels": [
+       "Drug"
+      ],
+      "start": 80,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "940xeYu4Zx",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 102,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "caffeine "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Sour Diesel is a hybrid strain of Cannabis sativa. Described as a cross between cannabis and caffeine , it is known for its uplifting qualities and its pungent aromas of fuel and citrus. KIK legitdeal312.",
+  "dream_id": 417965,
+  "golden": false,
+  "name": "224 grams Indoor Sour Diesel (TOP SHELF)",
+  "p_id": 725
+ },
+ "id": 1094
+}

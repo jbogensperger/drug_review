@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 132001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0a77038a-230b-4105-9cd6-9ed70261ecc7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "Methylfenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7be01311-156c-448d-807d-5ec083d268a7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 53,
+      "text": "Ritalin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "52a9db41-f8ea-4f65-875b-53ff13f893d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 406,
+      "labels": [
+       "Drug"
+      ],
+      "start": 392,
+      "text": "Methylfenidate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Authentic , original Dutch Methylfenidate by Sandoz. Ritalin. Each Package contains 30 x 10 mg tablets. Buy four packages and receive free tracked shipping. As we supply the four Dutch brands , feel free to order a variety and get your order shipped for free once your order consists of four packages or more. Hi ,. We are a company specialized in the distribution of genuine authentic Dutch Methylfenidate. Besides being the sole supplier of the Dutch Association of Hospital Pharmacists , we also supply companies and individuals who choose to stay out of the healthcare system.",
+  "dream_id": 307859,
+  "golden": true,
+  "name": "Ritalin | Sandoz Methylfenidate 30 x 10mg  40,- ",
+  "p_id": 7941
+ },
+ "id": 132
+}

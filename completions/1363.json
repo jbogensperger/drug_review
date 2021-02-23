@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1363001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b7c2cc6b-169e-403c-a588-ac439a521de6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Small Buds"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "15 lbs of Small Buds for 2150.",
+  "dream_id": 306749,
+  "golden": false,
+  "name": "1.5 lbs of Smalls Buds for 2150! ",
+  "p_id": 1039
+ },
+ "id": 1363
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 888001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e902abe0-4cf2-46d3-b589-3307baa49932",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 2,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- cocaine for everybody at this price. - get in whilst it lasts. - cheap and affordable.",
+  "dream_id": 330101,
+  "golden": false,
+  "name": "1g COKE",
+  "p_id": 470
+ },
+ "id": 888
+}

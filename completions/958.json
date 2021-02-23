@@ -1,0 +1,159 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 958001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fc1b8459-0948-466d-9240-fee64f096f48",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Dexamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "153caf29-8915-44b8-81a5-c5b1438c5c5f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 176,
+      "labels": [
+       "Drug"
+      ],
+      "start": 162,
+      "text": "Dexamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ff807731-b304-4506-88b3-d4551654b621",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 196,
+      "labels": [
+       "Drug"
+      ],
+      "start": 179,
+      "text": "Dextroamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b24e9a39-a8db-4ac3-9806-ba5ba6c6071e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 277,
+      "text": "Dexamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6a1d55b6-a3c3-4905-81d6-2bba61dc0fbe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 329,
+      "labels": [
+       "Drug"
+      ],
+      "start": 318,
+      "text": "amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e58aee39-3030-44d7-b7d0-e95e8001fe53",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 351,
+      "labels": [
+       "Drug"
+      ],
+      "start": 334,
+      "text": "dextroamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2a414cfd-a006-4b5e-a5f4-167c3a1e1cf6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 364,
+      "labels": [
+       "Drug"
+      ],
+      "start": 353,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "51db2865-7f51-47df-b522-59fb5c36c527",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 539,
+      "labels": [
+       "Drug"
+      ],
+      "start": 525,
+      "text": "Dexamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d81b5b28-63b2-4f7e-8004-4597da7a83a6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 386,
+      "labels": [
+       "Drug"
+      ],
+      "start": 369,
+      "text": "dextroamphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ec70da12-05eb-4e8f-af1b-0973c40c9378",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 796,
+      "labels": [
+       "Drug"
+      ],
+      "start": 782,
+      "text": "Dexamphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "20 x Dexamphetamine Tablets PHARMACY SPECIAL OFFER EXTRA 100 FREE 40 TABS. Ships to Worldwide including USA. Great STEALTH No Signature No Fakes No Worries. Name Dexamphetamine , Dextroamphetamine Strength 2 , 5 mg Manufacturer. Magistrale apotheek Color \/ Shape White , Rond. Dexamphetamine contains a combination of amphetamine and dextroamphetamine. Amphetamine and dextroamphetamine are central nervous system stimulants that affect chemicals in the brain and nerves that contribute to hyperactivity and impulse control. Dexamphetamine is used to treat narcolepsy and attention deficit hyperactivity disorder ADHD. All my medications are straight from the dutch pharmacy , so there is no need to worry about fake pills with unknown ingredients. This is one of the top brands of Dexamphetamine available on the market.",
+  "dream_id": 300505,
+  "golden": false,
+  "name": "20x Dexamphetamine + GET 100% XTRA FREE = 40x DEX",
+  "p_id": 558
+ },
+ "id": 958
+}

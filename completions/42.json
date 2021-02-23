@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 42001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0c5951ac-906f-4d80-b012-3222c890788d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "05g meth Quality AAA. Uncut Great Prices Escrow payment. Buy with confidence.",
+  "dream_id": 405898,
+  "golden": false,
+  "name": "0.5g MethCANADA ONLY",
+  "p_id": 53
+ },
+ "id": 42
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 91001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "014a2b56-b737-40a2-bfcd-48d186810cf1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Kamagra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Kamagra Oral Jelly 100 mg | 50 weekpacks 350 satchets.",
+  "dream_id": 278061,
+  "golden": false,
+  "name": "Kamagra Oral Jelly 100mg | 50 weekpacks (350 satch",
+  "p_id": 107
+ },
+ "id": 91
+}

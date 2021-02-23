@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 471001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c965a1fe-129b-49e0-869b-0e7b2ac37e09",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "ALPRAZOLAM"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2f7a3b5c-8f5a-4d2a-979f-ea0fedd78346",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "ALPRAZOLAM"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ALPRAZOLAM POWDER RATES. HIT WICKR ID drcoke 10 g 497 25g 997 50 g 1697 100 g 2797 250 g 5997 ALPRAZOLAM TABLETS 100tabs300 200tabs 580 400tabs 850 1000tabs 1860.",
+  "dream_id": 416407,
+  "golden": true,
+  "name": "ALPRAZOLAM POWDER,ALPRAZOLAM TABLETS",
+  "p_id": 9119
+ },
+ "id": 471
+}

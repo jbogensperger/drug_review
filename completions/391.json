@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 391001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0f140a2b-312d-4aef-8153-33dcdd250143",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1b5ded07-b453-47e3-91e2-775ab1a4babd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "Grass"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5e156202-aef5-4818-b6ae-9c93333bdf21",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9294e485-7743-4d4c-b082-2fd683011403",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cc49aa4b-3363-4ea0-bae4-885c9afd8bb0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 53,
+      "text": "Grass"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "23d8d6fa-0f25-47e3-8c8d-d391c38947a3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 67,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "Ganja"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1f4e54c1-4c6a-4915-80dd-2fe7c4801e0b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 127,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "Weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Item Weed , Grass. Type Amnesia. Streetnames. Weed , Grass ,. Ganja. COLOR Green. STRENGTH Strong Dutch Clean Quality. Our Weed is homegrown , Dutchbulk s team has over 25 years of experience with growing and are considered to be experts in our circle. - - - - - - Shipment Times - - - - - -. Western Europe approx. 3 to 5 days Eastern Europe approx. 7 to 12 days Southern America approx 10 to 15 days Asia approx. 9 to 14 days Russia approx. 10 to days. DUTCHBULK does not ship to the following country s under any circumstance. X The Netherlands X USA X Australia. FREE SHIPPING - SHIPMENT COSTS INCLUDED. DUTCHBULK - BULK AND WHOLE SALE SPECIALISTS.",
+  "dream_id": 108588,
+  "golden": false,
+  "name": "WEED - 2.5KG - AMNESIA - HIGH QUALITY DUTCH GRASS",
+  "p_id": 192
+ },
+ "id": 391
+}

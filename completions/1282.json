@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1282001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0d7bb84d-30dd-48ed-9ec5-9a5d4c1855d8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 48,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "Winstrol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "566b356e-4623-437b-baf9-708d08494b3b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "Stanozolol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "935d33ba-d7da-4b3c-a25c-ea635363c6f6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 154,
+      "labels": [
+       "Drug"
+      ],
+      "start": 144,
+      "text": "Stanozolol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7e001b92-4914-49ac-b630-2a123b1afc31",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 204,
+      "labels": [
+       "Drug"
+      ],
+      "start": 196,
+      "text": "steroids"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7a87600f-9e30-4535-8ce9-88536d125b80",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 306,
+      "labels": [
+       "Drug"
+      ],
+      "start": 298,
+      "text": "steroids"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3dd470d9-6071-4589-a72b-5c76c29dd29c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 565,
+      "labels": [
+       "Drug"
+      ],
+      "start": 557,
+      "text": "Winstrol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 vials for the price of 5. Injectable Winstrol , commonly known as Winstrol Depot or Stanozolol Depot is simply the injectable version of the Stanozolol hormone. Unlike most injectable anabolic steroids , injectable Winstrol is an aqueous based solution it is suspended in water. Most injectable steroids are suspended in oil , and this is a good thing due to oil based products carrying a much safer nature due to the greater probability of an aqueous solution being infested with bacteria. Of course , by its crystalline nature , this is why injectable Winstrol is water based. Now that we ve gotten that out of the way , and it s state of nature is the true significant difference over its counterpart , we can now look at what defines injectable Winstrol or rather differentiates its mode of action from its counterpart.",
+  "dream_id": 43320,
+  "golden": false,
+  "name": "Winstrol Inject Ice - 2 for the price of 1 (10 via",
+  "p_id": 935
+ },
+ "id": 1282
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 903001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2bccf3a8-4a2a-40cd-b5c0-2fbc980c11a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Carisoma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ab456f02-f5bc-443d-8b9c-cbd031fa23d5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "Carisoprodol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7e1e6870-2982-49e6-b9ad-1cd47bb77316",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 133,
+      "labels": [
+       "Drug"
+      ],
+      "start": 121,
+      "text": "carisoprodol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Brand - Carisoma 350 mg Product - Carisoprodol. Manufactured by - Wallace Carisoma tablets contain the active ingredient carisoprodol , which is a type of medicine called a muscle relaxant. It is thought to act on the brain and spinal cord central nervous system. It is used to treat acute musculo- skeletal disorders associated with painful muscle spasm , where sedation is acceptable. Shipping Options Delivery time 1 Express Delivery \/ With sign. - Full tracking - 8 Days. 2 Registered Air mail \/ with sign - Tracks up to leaving India - 12 Days. 3 Air mail \/ No sign - No tracker - 14 Days. For any other info , please message me.",
+  "dream_id": 278165,
+  "golden": false,
+  "name": "Carisoprodol\/Soma by wallace 350mg - 60Pills",
+  "p_id": 492
+ },
+ "id": 903
+}

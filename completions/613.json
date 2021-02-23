@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 613001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ab0ad06f-97d2-4f54-9801-dc0939892198",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fc006874-8ecb-4fdd-b34c-47f2ffd477eb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3a46b023-a5fd-4d59-873c-3d9910b079c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 108,
+      "labels": [
+       "Drug"
+      ],
+      "start": 105,
+      "text": "PMK"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Item MDMA CRYSTALS. We are proud to deliver crystal clear MDMA produced from high quality double refined PMK oil. Beautiful crystal rocks of 84 maximum purity. Direct from the manufacturer so straight from the source guarantee. Spread the love. AURORABULK only the best for our scandinavian friends.",
+  "dream_id": 366833,
+  "golden": false,
+  "name": "250g MDMA CRYSTALS - 84% PURE - BULK",
+  "p_id": 274
+ },
+ "id": 613
+}

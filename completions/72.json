@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 72001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c59f66ed-e9fe-4624-8353-1459392d0008",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Amnesia Lemon"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 gram of Amnesia Lemon Dutch Import. Excellent smoke every time , consistent quality , super dense nugs packed with crystals and covered in trichomes. Smell is pure pine and lemons when you crack the nugs open. Better than Amsterdam coffee shops in my opinion.",
+  "dream_id": 329661,
+  "golden": false,
+  "name": "1 gram of Amnesia Lemon Dutch Import ",
+  "p_id": 86
+ },
+ "id": 72
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 358001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5832e77b-1007-4f3c-8279-d1a99226a96e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Oil"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Oil w express shipping included.",
+  "dream_id": 57388,
+  "golden": false,
+  "name": "4 oz RS Cannabis Oil",
+  "p_id": 153
+ },
+ "id": 358
+}

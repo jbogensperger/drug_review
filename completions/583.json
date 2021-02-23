@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 583001,
+   "lead_time": 272.118,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "928c5826-4946-4e47-932f-213a98c2dec3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Purple Euforia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "QyK8JHV-aZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "erry White"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "N5ZtoiL4LI",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "Pineapple Dream"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "lgcnyl_dLH",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 81,
+      "labels": [
+       "Drug"
+      ],
+      "start": 74,
+      "text": "OG Kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Available strains Select one. Purple Euforia. Berry White Pineapple Dream OG Kush. 22 ADD - ON ITEMS. For an extra 22 you can get a CO2 cartridge or edible item added to your order regular price 30. Select USPS Plus Extra Item shipping option. - SHIPPING -. Please make sure your shipping info is accurate and correctly formatted. SAMPLE ADDRESS. JOE DRAKE 585 MAIN ST APT 284 CHICAGO , IL 48392. Due to security issues and high order volumes , I do not provide tracking numbers unless there is a problem with the shipment. Please do not request a tracking number unless it has taken more than 5 days excluding Sundays from the day your order was marked shipped. If you do have to request a tracking number , be sure to include the sale number in the message with your tracking request.",
+  "dream_id": 315728,
+  "golden": false,
+  "name": "1 OZ OUTDOOR -- PURPLE EUFORIA \/ BERRY WHITE \/ PIN",
+  "p_id": 235
+ },
+ "id": 583
+}

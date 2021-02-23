@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 80001,
+   "lead_time": 1230.246,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a1e00f83-e31e-4693-adcc-041cf48a47f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b3c73dfc-f6b1-4dd3-8d35-428a9d314a1d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "105fb54a-2c74-48ab-8dd5-1138959db96f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 258,
+      "labels": [
+       "Drug"
+      ],
+      "start": 254,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7865e323-c964-4635-868c-d7005569c722",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 267,
+      "labels": [
+       "Drug"
+      ],
+      "start": 263,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3rXifdZBMR",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "XTC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "500x Pineapple XTC-units. \/- 160 mg MDMA Contains MDMA from our own kitchen. Green , orange and pink Escrow Priority tracked shipping from Germany No arrival. 100 reship. Free shipping. Shipping Germany - Europe. Australia - Australia \/ New Zealand only MDMA see MDMA domestic Australia listing. Read our terms of service and profile page before ordering. We are also vending on Trade Route. Questions about our servce product or else. Feel free to send us a PM or direct mail to davidsingh77airorg.",
+  "dream_id": 404500,
+  "golden": false,
+  "name": "500x Pineapple 3 color XTC-units  160mg+",
+  "p_id": 96
+ },
+ "id": 80
+}

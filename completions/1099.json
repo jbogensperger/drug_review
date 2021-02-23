@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1099001,
+   "lead_time": 2279.025,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7qenhS8oZK",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 93,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "5000 iu"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "please read profile before messaging. item is different then picture. 1 vial contains 5000 iu no water is included. sterile water can be found many places legally. this is pharmacy grade. very high quality and high mg \/ ml. PM with any questions. will do custom \/ bulk orders and cycles.",
+  "dream_id": 329254,
+  "golden": false,
+  "name": "HCG 5000iu",
+  "p_id": 4140
+ },
+ "id": 1099
+}

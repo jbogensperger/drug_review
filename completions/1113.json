@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1113001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "59d85d0f-52fb-49cf-ac7b-384b15025745",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Cytotec"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "732bf5aa-6b1f-438f-91bc-8cbd0e64237d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 163,
+      "labels": [
+       "Drug"
+      ],
+      "start": 152,
+      "text": "misoprostol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Item Cytotec 200 mcg x 5 blister packs of 10 tablets per pack. Description. This is the genuine Pfizer product , manufactured in Australia. Not generic misoprostol from India. Expiration. All my products have an absolute minimum expiration of 1 year. And most commonly 2 - 4 years. Origin Australia. Quality Pfizer branded medication. Shipping. This item ships to customers in the US only. Shipping is free via USPS First Class mail and delivery takes 2 - 6 days. Resellers. If you would like to resell any of our products locally please get in touch , we can arrange huge discounts for bulk sales of up to 40 off.",
+  "dream_id": 268231,
+  "golden": false,
+  "name": "Genuine Pfizer Cytotec - 50 tablets - Free Ship",
+  "p_id": 735
+ },
+ "id": 1113
+}

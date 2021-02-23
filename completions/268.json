@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 268001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ca8624e0-872f-4c50-b7d1-a362488e6ace",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "This"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a sample offer. We only accept one order from a single user in DM. -. There are 3 different color with the product White , Pink , and brown. Our lab produces very fine Chemicals. The shipping method can be Express. We also offer 100 shipping warranty. In case customs seized your order , we will reship or refund.",
+  "dream_id": 331988,
+  "golden": true,
+  "name": "Ephylone (BK-EBDP) 25g (sales promotion for Sep.",
+  "p_id": 4914
+ },
+ "id": 268
+}

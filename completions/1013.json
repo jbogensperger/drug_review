@@ -1,0 +1,20 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1013001,
+   "lead_time": 10.0,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a thyroid hormone responsible for many things but namely metabolism. this is effective for weightloss. 100 pills 25 m cg each.",
+  "dream_id": 178794,
+  "golden": false,
+  "name": "T3 100x25mcg Pharmaceutical grade",
+  "p_id": 628
+ },
+ "id": 1013
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 448001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "02e6ee6f-d79a-4850-b406-206e5fe33e0c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Mapacho"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d5dde8cf-6c3e-40f2-912b-2cced83ba7f2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "tobacco"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a4882b22-375a-4a65-bcfe-f47754b554fa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "tobacco"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "48a0f535-8f37-4071-8ab6-e1850a756534",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 128,
+      "labels": [
+       "Drug"
+      ],
+      "start": 121,
+      "text": "tobacco"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6ee51650-f9a5-47ef-b629-c93882bb38c8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 229,
+      "labels": [
+       "Drug"
+      ],
+      "start": 222,
+      "text": "Mapacho"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Mapacho is traditional ritual tobacco. It is the strongest tobacco in the world , around 9x stronger than normal rolling tobacco. Used as an admixture to ayahausca , or just smoked for a heavy head rush , this top quality Mapacho is from Peruvian Amazon , around Iquitos.",
+  "dream_id": 166807,
+  "golden": true,
+  "name": "\"28g \/ 1oz \"\"Mapacho\"\" - N. Rustica\"",
+  "p_id": 4550
+ },
+ "id": 448
+}

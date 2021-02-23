@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 693001,
+   "lead_time": 5286.349,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "-vdi8FZrqs",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "IR Oxycodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a listing for 1 x Maynepharma 5 mg IR Oxycodone Pill. They are Instant release so can be crushed and snorted.",
+  "dream_id": 371106,
+  "golden": false,
+  "name": "Oxycodone 5mg IR genuine",
+  "p_id": 370
+ },
+ "id": 693
+}

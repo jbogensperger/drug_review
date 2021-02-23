@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1169001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0c90ac51-2fad-4f6c-9c9b-08d315d6ba3d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 336,
+      "labels": [
+       "Drug"
+      ],
+      "start": 332,
+      "text": "haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0ec96378-547f-4012-84a1-326d5403be35",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 426,
+      "labels": [
+       "Drug"
+      ],
+      "start": 422,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "87f32bf5-98ac-423c-8a1b-210f7d86d879",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 664,
+      "labels": [
+       "Drug"
+      ],
+      "start": 660,
+      "text": "Haze"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "50g SSH. Product Description. Super Silver. Haze better than the most on the Darknet. A great strain. the smell is a composition of lemons , easy smoke without any coughing. Intensive , yet mellow cerebral high , makes u smile like an happy idiot for at least two hours. Definitely a social smoke , but not as up - lifting as other haze strains , so you wo nt regret smoking before bedtime. Believe me this is better than Weed from KRONKEL and for Promo just for 1250 normally 15. THIS IS SURELY A GOOD QUALITY. Super Silver. Haze gewann den ersten Preis im HTCC im Jahre 1997 , 1998 und 1999. Sie wurde durch die Kreuzung zwischen Skunk , Northern Lights und Haze entwickelt. Die Indica - Typischste Pflanze unter den Sativas , eine wirklich gelungene Mischung. Das. High ist sehr stark , langanhaltend und explosionsartig. WER`S NICHT GLAUBT SOLL SELBST TESTEN.",
+  "dream_id": 240260,
+  "golden": false,
+  "name": "Custom Listing SnakeHaze",
+  "p_id": 809
+ },
+ "id": 1169
+}

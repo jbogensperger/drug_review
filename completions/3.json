@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 3001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "77f745c3-f55f-408d-b2e6-dac0a13b618b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 314,
+      "labels": [
+       "Drug"
+      ],
+      "start": 311,
+      "text": "DMT"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "INTRODUCTION SALE THIS LISTING IS FOR 05G OF OUR WHITE DREAM SAND. THIS IS THE BEST STUFF ON THE NET HANDS DOWN. WE WILL CONTINUE TO RUN THE SALE UNTIL WE GET OUR NAME OUT IN THE COMMUNITY. TRIPLE RECRYSTALIZED FOR FLAVOR. Energy Control Tested Results Sample code D12017. Substance dmt Lab code 102537. Result DMT 93. APPROVED BY HIPPIES.",
+  "dream_id": 322316,
+  "golden": false,
+  "name": " 0.5G White Dream Sand 30$ ** BEST ON THE WEB",
+  "p_id": 3
+ },
+ "id": 3
+}

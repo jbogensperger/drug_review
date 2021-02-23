@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1061001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3637e445-a7d2-470f-a60e-5dc76ec51cf4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "KIGTROPIN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "KIGTROPIN 100 IU KITS - HUMAN GROWTH HORMONE HGH PHARMACY GRADE PRODUCT. GUARANTEED DELIVERY FREE EXPRESS SHIPPING. From China - 100 Quality Product. ONLY 200 usd. Not shipped to Australia.",
+  "dream_id": 53585,
+  "golden": false,
+  "name": "KIGTROPIN 100 IU KITS !!!FREE SHIPPING!!! $200",
+  "p_id": 687
+ },
+ "id": 1061
+}

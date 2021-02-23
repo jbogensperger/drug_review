@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 949001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d86863cb-42e5-4aff-b219-41fb2e5fac81",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "HINDU KUSH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "075caabc-d6b1-446e-8a1b-ef453c47ffee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Hindu Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75baaa6e-bb35-4eee-81fc-cc21a143127b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "HINDU KUSH. FE PRICE. Hindu Kush is a Pure Indica Strain. It is named after the mountain range between Pakistan and Afghanistan , where it originated. Has a mild spice aroma. Induces a deep sense of calmness. It is used for a number of medical ailments , both physical and mental. Please contact us for custom orders. -. TSC lives by these 2 rules. - Customer Satisfaction - Product Quality. All goodies are sealed tightly and discreetly in a Moisture Barrier Bag MBB. Please note that we do change packaging styles and formats regularly. Every package is prepared with care and a high standard of stealth. Estimated Shipping. Time. SPAIN 1 to 3 working days EUROPE 3 to 5 working days USA CANADA 5 to 15 working days AU , CHINA , ME 7 to 21 working days. The Shipping Address must be in this format. Mr Joe Bloggs Title. First - Name Surname 143 Ocean Road Number , Road \/ Street Name Gainsborough Town \/ City Oklahoma 34556 Province \/ State Postcode USA Country.",
+  "dream_id": 228741,
+  "golden": false,
+  "name": "!!!SALE!!!250G Hindu Kush (Indica) ~ FE PRICE ~",
+  "p_id": 547
+ },
+ "id": 949
+}

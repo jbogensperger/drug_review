@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 924001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5c088c90-f308-4f22-ab83-c9f4749268e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 72,
+      "labels": [
+       "Drug"
+      ],
+      "start": 68,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "89091b10-c26b-4dfb-9534-dbdab58eeb6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 307,
+      "labels": [
+       "Drug"
+      ],
+      "start": 304,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dbbd972c-957d-4c94-acb6-e5348d73ca35",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 315,
+      "labels": [
+       "Drug"
+      ],
+      "start": 312,
+      "text": "CBD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Price per 35 grams 1 \/ 8 oz. Produced from the fields of the famous Hash producing area of Ketama in the Rif Mountains of Morocco. Soft and oily with a slight bubble with heat applied. Aromatic with a fruity and grassy fragrance when torn apart. A Sweet , earthy spice when smoked. Fully India with good THC and CBD levels making a well balanced stone.",
+  "dream_id": 256261,
+  "golden": false,
+  "name": "Morrocan Ketama A grade Rif Hashish 3.5 grams",
+  "p_id": 517
+ },
+ "id": 924
+}

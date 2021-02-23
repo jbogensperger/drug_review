@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 349001,
+   "lead_time": 657.177,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "633d54f8-47a6-4a44-a7e3-9b31126629fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "winstrol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0lXhUuWXmV",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "stano "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "genuine BIOSIRA stano winstrol 10 mg x100 tablets.",
+  "dream_id": 28919,
+  "golden": false,
+  "name": "BIOSIRA stano (winstrol) 10mg x100 tablets",
+  "p_id": 138
+ },
+ "id": 349
+}

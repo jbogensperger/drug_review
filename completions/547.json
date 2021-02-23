@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 547001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "10a5308a-305f-4e9e-94c4-01fc5a898de2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "crystal meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "448g of good quality crystal meth.",
+  "dream_id": 375002,
+  "golden": false,
+  "name": "448g Good quality crystal meth",
+  "p_id": 177
+ },
+ "id": 547
+}

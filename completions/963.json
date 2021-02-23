@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 963001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6aab5742-d342-41dc-a96c-6fbd68400782",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 152,
+      "labels": [
+       "Drug"
+      ],
+      "start": 144,
+      "text": "Etizolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3b7c88d1-dbd8-47e4-bd66-2744d9753217",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "Benzos"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Our lab produces very fine Chemicals. We have gain great reputation for our quality Benzos. the purity is more than 998. You will find that our Etizolam is top the market by quality. We have already stocked our products in USA.",
+  "dream_id": 345053,
+  "golden": false,
+  "name": "Methoxyacetyl Fentanyl (MAF) 5g",
+  "p_id": 563
+ },
+ "id": 963
+}

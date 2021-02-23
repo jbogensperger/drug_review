@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 864001,
+   "lead_time": 4991.179,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f3010328-136a-49b9-af02-e6053e2b5ad2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Critical Mass"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f18337d0-1a28-4248-848c-af955df0f0f2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 162,
+      "text": "Critical Mass"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f6ddb8fc-894e-4c70-b5ff-bdf04a1b9dca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 271,
+      "labels": [
+       "Drug"
+      ],
+      "start": 258,
+      "text": "Critical Mass"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d9930cc6-21d6-41b3-baed-9e59b9789565",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9bc9022a-69bf-4d9d-a317-8878682256e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a011a1ca-9db2-4ecc-8238-163fe2326666",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "176ad211-5696-4ca3-b0c3-52cda2804992",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 198,
+      "labels": [
+       "Drug"
+      ],
+      "start": 195,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "HlzTKcCz3i",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Critical Mass is an indica dominant hybrid 80 indica \/ 20 sativa strain. These buds are dark green in color with brownish orange hairs and a coating of crystals. Critical Mass has a mild 19 - 22 THC level. With a sweet and earthy smell and an herbal taste , Critical Mass is ideal to smoke during a lazy afternoon where you want to relax , but still need to be functional.",
+  "dream_id": 388794,
+  "golden": false,
+  "name": "Critical Mass 5g - Promotion Price!!!",
+  "p_id": 439
+ },
+ "id": 864
+}

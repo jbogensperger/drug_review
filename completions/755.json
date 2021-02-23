@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 755001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c1551db6-6793-459a-9433-6ef9208039d6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "Meth"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1b11e9a5-22a5-46ae-9766-89228e3e332c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Just Gone Say The Best Meth On the Net with the Best Prices in Best Bang For your Buck. This Meth is the clearest , most potent.",
+  "dream_id": 93125,
+  "golden": false,
+  "name": "1g Supreme Meth",
+  "p_id": 162
+ },
+ "id": 755
+}

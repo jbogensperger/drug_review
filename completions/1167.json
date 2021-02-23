@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1167001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f21ef95d-fc41-4656-9b8c-58a4ccbe5877",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3c3e893-e892-46a8-9777-203b46a4e5f3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This Ketamine is the most pure , strong uncut Ketamine that s available right know on the market. For other quantities feel free to send us a message so we can make a special listing for you.",
+  "dream_id": 432805,
+  "golden": false,
+  "name": " 5 Gram  Ketamine PURE ",
+  "p_id": 807
+ },
+ "id": 1167
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 878001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3a02eeea-a8c5-486d-bcc6-7e87714aec2e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Thc"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These gummies are amazing ,. They have aprox. 450 mg of Thc in each Packet of 10. Made with strong concentrate and they really do get you high as a kite. Especially if you smoke with them.",
+  "dream_id": 405510,
+  "golden": false,
+  "name": "The Best weed Gummies on the market (10pcs )",
+  "p_id": 455
+ },
+ "id": 878
+}

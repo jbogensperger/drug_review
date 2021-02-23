@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 423001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fb368e41-3ee1-4001-a721-c0eefea410a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 157,
+      "labels": [
+       "Drug"
+      ],
+      "start": 151,
+      "text": "Heroin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75019693-b101-4fdc-942f-b079ee6edb5d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 201,
+      "labels": [
+       "Drug"
+      ],
+      "start": 195,
+      "text": "Heroin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "You are purchasing. OUT OF STOCK. 1 Gram , of straight off the brick purest \/ cleanest , unadulterated and without a doubt - some of the most Potent 4 Heroin on the entire Dark Net Market. Our 4 Heroin truly is always a beautiful piece of product. Always in rock form with very , very minimal powder. Enjoy.",
+  "dream_id": 417493,
+  "golden": false,
+  "name": "Heroin #4  1G $140 High Quality  OUT OF STOCK!",
+  "p_id": 230
+ },
+ "id": 423
+}

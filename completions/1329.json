@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1329001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "533f20e4-f642-4455-88f9-26665725c43d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "hydro"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Escrow listing. Lowest prices. Best pills. If the 10 mg hydro is not in stock , we will gladly send you another brand. Thanks.",
+  "dream_id": 309380,
+  "golden": false,
+  "name": "NORCO HYDROCODONE 5MG\/325 $4.50 EACH! X 80 PILLS ",
+  "p_id": 990
+ },
+ "id": 1329
+}

@@ -1,0 +1,397 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 781001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8fe0c42a-2996-44a9-ac3b-52a51bc1f004",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "edf36d69-5c5e-486c-a06c-bc31b71d29e9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 171,
+      "labels": [
+       "Drug"
+      ],
+      "start": 164,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "60f0c580-bacb-4eda-a65c-44056a8e9a86",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 246,
+      "labels": [
+       "Drug"
+      ],
+      "start": 239,
+      "text": "Og Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e9640906-3433-4cf6-820a-6650ff4b221d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 388,
+      "labels": [
+       "Drug"
+      ],
+      "start": 381,
+      "text": "OG kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "98117181-d528-44ac-9d84-6041336e6bf2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 186,
+      "labels": [
+       "Drug"
+      ],
+      "start": 183,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "616adbd4-0f08-46ab-95e2-e9423a91729f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 393,
+      "labels": [
+       "Drug"
+      ],
+      "start": 389,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "36903c47-ae22-4491-8b06-dd6417314ed6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 613,
+      "labels": [
+       "Drug"
+      ],
+      "start": 607,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "06c64cda-dbcf-44ce-b20c-f84b4b3c9b11",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 622,
+      "labels": [
+       "Drug"
+      ],
+      "start": 616,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4e73b47a-5133-40e2-9b78-8979203b9c08",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 705,
+      "labels": [
+       "Drug"
+      ],
+      "start": 696,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "08417f00-fbc5-4d07-849b-e29d37b4d2bd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 767,
+      "labels": [
+       "Drug"
+      ],
+      "start": 760,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dcd2823e-28d9-4550-8610-ff72641e1389",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 796,
+      "labels": [
+       "Drug"
+      ],
+      "start": 789,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d69ea7ab-3d9e-4b0a-b108-0565a029d212",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 825,
+      "labels": [
+       "Drug"
+      ],
+      "start": 818,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "569eb0aa-e5a2-4d1d-838e-cc712b785e75",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 854,
+      "labels": [
+       "Drug"
+      ],
+      "start": 847,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a6d6d635-5ebc-4f16-8938-ad1d2993ec6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 886,
+      "labels": [
+       "Drug"
+      ],
+      "start": 879,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6633a69c-f0f4-4b07-9532-e3604f442c9b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 918,
+      "labels": [
+       "Drug"
+      ],
+      "start": 911,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "027e0d88-f6a7-4fa4-90ae-fa3c80cad3e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "16bb2b52-1fde-45bc-a589-fabdbf83c948",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 181,
+      "labels": [
+       "Drug"
+      ],
+      "start": 177,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c355c904-5fc0-41aa-893c-77a55be3c5f0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 215,
+      "labels": [
+       "Drug"
+      ],
+      "start": 211,
+      "text": "Weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "af335d9f-8345-47e1-af6e-641d0e536a12",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 282,
+      "labels": [
+       "Drug"
+      ],
+      "start": 278,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "de707601-c883-4b9e-9631-33a27c27519b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 350,
+      "labels": [
+       "Drug"
+      ],
+      "start": 346,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1d2d85e3-c531-4824-9f39-2a8e166407cd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 633,
+      "labels": [
+       "Drug"
+      ],
+      "start": 629,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1667b551-7784-401b-8e3a-7e9b906092f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 777,
+      "labels": [
+       "Drug"
+      ],
+      "start": 773,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "af757c6a-3907-401e-8d0c-5c736283d802",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 806,
+      "labels": [
+       "Drug"
+      ],
+      "start": 802,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d276f8e4-c65c-4a82-875b-dda54acb082e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 835,
+      "labels": [
+       "Drug"
+      ],
+      "start": 831,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d937fb1a-5512-44ac-b2bf-5641d508afb1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 864,
+      "labels": [
+       "Drug"
+      ],
+      "start": 860,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "92dba253-222e-4db3-a817-eb36046023c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 896,
+      "labels": [
+       "Drug"
+      ],
+      "start": 892,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "03f9833c-f452-4d43-8b56-6ea5052dd252",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 928,
+      "labels": [
+       "Drug"
+      ],
+      "start": 924,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OG Kush Rest Weed. Limited offer to prove our fast shipping Quality FOR THIS LISTING YOU WILL ONLY PAY FOR THE SHIPPINGCOST QUANTITY WILL BE ABOVE 1G. Product Name OG Kush Rest Weed. THC percentage 11 Type Rest Weed. Following on from the Og Kush strain , here we have the rest weed. A very strong , relaxing stone , setting you back into , rest weed are the remains of our normal OG kush weed. a nice chilled environment where you can really appreciate this for what it is , and with little effecting your bank. If you are a lover of your rest weeds , give this a try. You wo nt regret it. 50\/50 Hybrid of Sativa \/ Indica. Rest weed , amazing price and will get you stoned to another level. Our marijuana is available in bulk as well. take a look below. 5 Gr Amnesia rest weed 2000 10 Gr Amnesia rest weed 3500 20 Gr Amnesia rest weed 6000 50 Gr Amnesia rest weed 13000. 100 Gr Amnesia rest weed 25000. 250 Gr Amnesia rest weed 47500.",
+  "dream_id": 326697,
+  "golden": false,
+  "name": " 20 G Og Kush REST WEED",
+  "p_id": 229
+ },
+ "id": 781
+}

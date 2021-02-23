@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 917001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6a334773-3e16-4b36-bf5b-c210a9d900f0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c8ea38dc-955b-4aef-abb7-8b9c8aa7c1da",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Tadalafil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "db55f759-0324-46dd-b384-ee64877a66d8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 116,
+      "labels": [
+       "Drug"
+      ],
+      "start": 110,
+      "text": "Cialis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bafd4e79-5189-4243-8f9e-a386900136fe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 145,
+      "labels": [
+       "Drug"
+      ],
+      "start": 138,
+      "text": "Adcirca"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cialis - Tadalafil is a PDE5 inhibitor marketed in pill form for treating erectile dysfunction under the name Cialis , and under the name Adcirca for the treatment of pulmonary arterial hypertension. Minimum order of 5. - ships canada to canada - arrives 2 - 4 business days - express - arrives 3 - 7 business days - regular - if you choose regular shipping no refunds will be given if product not received. Best generic product out there. This will keep you hard and stay on your system for up to 3 - 4 days. does nt mean you are walking around stiff but works when you need it. price is per pill - get the good stuff. tracking is only provided for disputes. This is for your safety and mine.",
+  "dream_id": 322240,
+  "golden": false,
+  "name": "Cialis",
+  "p_id": 509
+ },
+ "id": 917
+}

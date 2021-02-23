@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1148001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ed58c08a-b181-40f4-95a8-ee5acf5ff5ac",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "SPUTNIK Hashish"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10g top quality SPUTNIK Hashish. Free uk post No Contaminants.",
+  "dream_id": 19912,
+  "golden": false,
+  "name": "10g top quality SOFT SPUTNIK Hash + Free uk post ",
+  "p_id": 777
+ },
+ "id": 1148
+}

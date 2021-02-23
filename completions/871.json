@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 871001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4c1db2cf-1d99-4aa1-8fe8-f31a65be9ee8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "37a11ab5-8b4c-4384-a5e4-1e0bd6f5781e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 273,
+      "labels": [
+       "Drug"
+      ],
+      "start": 265,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f38084dc-0c29-4da4-8129-59a79d54878d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 318,
+      "labels": [
+       "Drug"
+      ],
+      "start": 312,
+      "text": "Sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "With earthy flavors of lemons and citrus , Amnesia Haze is a perfect strain to start your day with a smile. The uplifting , energetic buzz is one you wo nt soon forget. It s genetics have been traced back to the South Asian and Jamaican landrace strains , and this Cannabis Cup winner 1st place 2004 , 1st place Sativa Cup 2012 has since been popularized in the coffee shops of Amsterdam.",
+  "dream_id": 197764,
+  "golden": false,
+  "name": "Amnesia haze : 1 gr",
+  "p_id": 446
+ },
+ "id": 871
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 390001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c0aae9e2-8a30-463f-9fb3-26964d21336a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 73,
+      "labels": [
+       "Drug"
+      ],
+      "start": 68,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fa3516b2-52de-4fee-a8fb-703863e18d8f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "Alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Originally Babyrice0301 from Alphabay. Description Authentic GG249. Xanax bars at 2 mg Alprazolam Bulk order available. Contact for more details. Please understand that a few might break during transport but we will always have extras for situations like that Always extra , never short. Shipping Ship from and to US ONLY 1 - 2 days max to process order Free USPS Overnight takes 1 - 2 days depends on location Will provide tracking for customers. Payment Escrow only. Do not finalize early Provide your address in PGP with your order. Refund \/ Reship. Please keep your tracking number because its status determines whether we will refund \/ reship for you Will reship for free only if package is seized. If it is marked as delivered but you claim it s lost then we are not responsible.",
+  "dream_id": 329248,
+  "golden": false,
+  "name": "5000 GG249 Xanax 2mg Alprazolam FREE SHIPPING",
+  "p_id": 191
+ },
+ "id": 390
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 435001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7fc4edc7-970d-482a-bff1-f5c716beb93a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Cabaser"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pfizer Cabaser 1 mg x 20 tablets.",
+  "dream_id": 394530,
+  "golden": true,
+  "name": "Pfizer Cabaser 1mg x 20 tablets",
+  "p_id": 10701
+ },
+ "id": 435
+}

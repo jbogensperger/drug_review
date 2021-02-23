@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 17001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "53973b41-18f6-4be9-a757-77908bca01a4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5fb0c836-e760-4b5e-ba7e-118a094de1a6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 125,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cc013855-316d-454c-af3c-32121838dc17",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 186,
+      "labels": [
+       "Drug"
+      ],
+      "start": 179,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hello there customer. Welcome at LaFarmacia. - Description -. This is a listing for 1 GRAM of Cocaine. Our product is Cocaine of the highest standard coming out of Colombia. This Cocaine is shining bright 90 pure and coming straight off the brick. take a look at the picture. We at LaFarmacia always aim for the best possible product. Try this and you wo nt ever change for something else.",
+  "dream_id": 264779,
+  "golden": false,
+  "name": "1G Colombian Cocaine +90% PROMO",
+  "p_id": 21
+ },
+ "id": 17
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 695001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4fa11394-6e61-498c-a4f8-1c93d882a6f0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Commercial weed like you see on photos but smells like chocolate.",
+  "dream_id": 361689,
+  "golden": false,
+  "name": "7g Pleasure Chocolate Commercial ++  20",
+  "p_id": 372
+ },
+ "id": 695
+}

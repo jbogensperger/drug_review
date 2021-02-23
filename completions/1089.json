@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1089001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c6773ffe-f23f-474d-89cb-a049c5cd4418",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5196a675-85b6-43cf-b342-51c70cf173b7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c0f1afd6-74de-48cc-85bb-303e8b0c681e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 465,
+      "labels": [
+       "Drug"
+      ],
+      "start": 461,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "14 GRAMS OF EXTREME GRADE MDMA. FE IS REQUIRED ON THIS LISTING. New batch of EXTREME GRADE MDMA in stock. This gear is a beautiful light grey colour made up of small crystals. This batch is from the same supplier as our previous batch which has been lab tested by energy control in Spain at 98 HCL purity. We estimate this batch to be the same if not very similar. This batch has been tested on Mecke , Mandelin and Marquee and passed with flying colours. This MDMA is simply some of the best on the market right now and you will not be disappointed. Shipping will include MBB Moisture Barrier Bag as a standard. FREE EXPRESS POST WITH SUPER STEALTH.",
+  "dream_id": 120119,
+  "golden": false,
+  "name": " 14 GRAMS OF EXTREME GRADE *IMPORTED* MDMA ",
+  "p_id": 719
+ },
+ "id": 1089
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1173001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "78bba93a-2312-47d2-8534-5defa7efaf59",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "534eb8a8-d400-476a-8749-427f69bdc3de",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "xtc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2a404b76-bea1-4da2-9193-3360bc759155",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 81,
+      "labels": [
+       "Drug"
+      ],
+      "start": 78,
+      "text": "xtc"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "strong mdma xtc from the netherlands we have always top on dream market super xtc.",
+  "dream_id": 220516,
+  "golden": false,
+  "name": "5 xtc 220 mg super dutch mdma AAA+++",
+  "p_id": 814
+ },
+ "id": 1173
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 916001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4a3d7739-6876-4b4e-96ed-1a2acd7d52ae",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "King Hassain hashish"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "28g top quality hand pressed King Hassain hashish.",
+  "dream_id": 143789,
+  "golden": false,
+  "name": "28g hand pressed King Hassain hash",
+  "p_id": 508
+ },
+ "id": 916
+}

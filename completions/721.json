@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 721001,
+   "lead_time": 689.417,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3c0682e0-97bf-4c61-a41b-547e7b1f659e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "benzodiazepine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Vsac3Vg3o6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Valium apaurine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "EQQcE9lksO",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 222,
+      "labels": [
+       "Drug"
+      ],
+      "start": 214,
+      "text": "alcohol "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Valium apaurine is a benzodiazepine used for treating anxiety disorders or for the short - term relief of the symptoms of anxiety. It is also used to relieve certain types of muscle spasms and to treat symptoms of alcohol withdrawal eg , agitation , tremor , hallucinations. Manufactory - KRKA - Slovenia.",
+  "dream_id": 9134,
+  "golden": false,
+  "name": "2000 tab Apaurine 10 mg (blue valium) ",
+  "p_id": 400
+ },
+ "id": 721
+}

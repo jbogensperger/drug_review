@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 259001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0a70d0f9-3717-4503-b390-c46ba28053a5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "5 - MeO - MiPT"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 100 mg of 5 - MeO - MiPT.",
+  "dream_id": 325565,
+  "golden": true,
+  "name": "100mg 5-MeO-MiPT",
+  "p_id": 5742
+ },
+ "id": 259
+}

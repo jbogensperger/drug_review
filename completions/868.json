@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 868001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eda2e0aa-61fe-45d1-903d-682a146839be",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 27,
+      "text": "Methylfenidate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cd718e8c-71eb-4471-b278-3e79ebcbb8a1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "Ritalin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7a0a9f6e-8df3-4df8-ac50-eee4f6189ba7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 88,
+      "text": "Ritalin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e0a3f521-6529-40b8-8a0b-81e020b543ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 186,
+      "labels": [
+       "Drug"
+      ],
+      "start": 179,
+      "text": "ritalin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Authentic , original Dutch Methylfenidate by Novartis. Ritalin this is the best quality Ritalin on the market. This order contains 60 x 10 mg tablets. We supply the four Dutch of ritalin brands , feel free to order a variety of brands.",
+  "dream_id": 429204,
+  "golden": false,
+  "name": "Ritalin | Novartis Methylfenidate 60x10mg  100,-",
+  "p_id": 443
+ },
+ "id": 868
+}

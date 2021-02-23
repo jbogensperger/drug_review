@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 918001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5748c0f8-c4b5-434b-b067-8cf26c57342b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Zenatane"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "72a9378c-3933-4b31-aa37-025a53390519",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "Isotretinoin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9c491ef1-b445-4b2b-a5c3-93efd8b5a2b2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 205,
+      "labels": [
+       "Drug"
+      ],
+      "start": 193,
+      "text": "Isotretinoin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f9050bb2-fa6c-4289-b614-b7c3482e08dd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 323,
+      "labels": [
+       "Drug"
+      ],
+      "start": 311,
+      "text": "Isotretinoin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Zenatane for sale at an affordable price. Isotretinoin is a form of vitamin A. It reduces the amount of oil released by oil glands in your skin , and helps your skin renew itself more quickly. Isotretinoin is used to treat severe nodular acne that has not responded to other treatments , including antibiotics. Isotretinoin is available only from. 30 mg - 4 3000 pills \/ 6500 minimum order 100 pills. For more information please contact us KIK ID tortrader420. WICKR ID tortrader420.",
+  "dream_id": 428488,
+  "golden": false,
+  "name": "Zenatane for sale at an affordable price.",
+  "p_id": 510
+ },
+ "id": 918
+}

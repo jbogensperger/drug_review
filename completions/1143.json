@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1143001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ec9084ac-4d40-41c7-a39a-c902c480f0f9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "hybrid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b8776226-1be6-43d2-b06d-f34f2c912aee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 78,
+      "text": "gorilla-glue"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "VERIFIED. EMAIL ONLY NO MARKET MESSAGES ritaroblesairde Info leaflycom\/hybrid\/gorilla-glue-4. Alpha Bay - Invite -. -Shop -. Dark Heroes League - Invite - - Shop -. Dream - Invite - -Shop -. Hansa - Invite - -Shop-. Valhalla - Invite - - Shop -.",
+  "dream_id": 4474,
+  "golden": false,
+  "name": "~ 7g 1\/4 oz ~ GORILLA GLUE #4 Cannabis ~ FREE S&H ",
+  "p_id": 771
+ },
+ "id": 1143
+}

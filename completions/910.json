@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 910001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "77b2bd13-a81b-43d6-b800-10e39ae23164",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 51,
+      "labels": [
+       "Drug"
+      ],
+      "start": 48,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fd8b56b8-4614-47ac-9118-ee2760a60ce6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 95,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Title says it all. This listing is for 1 tab of LSD. 110 UG. Very clean hits ,. Very powerful. LSD like you know it.",
+  "dream_id": 378522,
+  "golden": false,
+  "name": "1X 110 UG LSD TAB Blotter ",
+  "p_id": 502
+ },
+ "id": 910
+}

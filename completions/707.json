@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 707001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0a8e824f-f67b-4877-9192-613bdef6c9e5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "Sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Thin buds. Sativa lEANING good nose good frost.",
+  "dream_id": 432132,
+  "golden": false,
+  "name": "4lbs Sour D(outdoor)",
+  "p_id": 386
+ },
+ "id": 707
+}

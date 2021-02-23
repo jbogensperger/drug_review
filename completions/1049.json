@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1049001,
+   "lead_time": 4707.706,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3b0d6329-9615-4917-b21c-0347931226af",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Master Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "61d54ad7-d002-4087-a167-1b5a53ab858a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 151,
+      "labels": [
+       "Drug"
+      ],
+      "start": 140,
+      "text": "Master Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1e973f41-8b7d-4d32-b325-70f130e9d976",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 385,
+      "labels": [
+       "Drug"
+      ],
+      "start": 374,
+      "text": "Master Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2df4604f-eedc-4443-adcb-40c36c141c2c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 592,
+      "labels": [
+       "Drug"
+      ],
+      "start": 581,
+      "text": "Master Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "50a1136b-9508-4e50-8cae-611dc63bf125",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 553,
+      "labels": [
+       "Drug"
+      ],
+      "start": 547,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "mt3IwLUDtT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 51,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "indica "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strain Highlights. Master Kush is a popular indica cross created out of two landrace strains from different parts of the Hindu Kush region. Master Kush is bred by the Dutch White Label Seed Company , located in Amsterdam. During maturation the plant produces a subtle earthy , citrus smell with a hint of incense , which is often described as a vintage flavor. The taste of Master Kush is reminiscent of the famous hard - rubbed charas hash. This strain holds a superb balance of full - body relaxation without the mind - numbing effect that many indica strains produce. Instead , Master Kush offers a sharpened sensory awareness that can bring out the best of any activity.",
+  "dream_id": 257213,
+  "golden": false,
+  "name": "0.5G Master Kush AAA Grade",
+  "p_id": 674
+ },
+ "id": 1049
+}

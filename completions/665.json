@@ -1,0 +1,173 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 665001,
+   "lead_time": 1941.028,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d549684a-4981-49db-a9f5-b7e31b41522c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "543a37ef-f5dc-44a5-a698-91575b668045",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "68fda49d-4751-4907-a003-ea28b773b03a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "Diclazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b8373145-69b8-4bda-a708-37ae13d409d6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 126,
+      "labels": [
+       "Drug"
+      ],
+      "start": 112,
+      "text": "Chlorodiazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aedfc476-9c88-42ed-b73c-5901db2234f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 241,
+      "labels": [
+       "Drug"
+      ],
+      "start": 233,
+      "text": "diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "606e0fe7-59e8-4d63-9f0e-70994820d1be",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 532,
+      "labels": [
+       "Drug"
+      ],
+      "start": 524,
+      "text": "diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "96435de8-dc66-4ec3-af1e-dcb9d9994c1d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 581,
+      "labels": [
+       "Drug"
+      ],
+      "start": 571,
+      "text": "Diclazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "41236e47-c944-4495-a197-8b7796aef444",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 801,
+      "labels": [
+       "Drug"
+      ],
+      "start": 789,
+      "text": "lormetazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "90b2dfcf-cb60-4fcb-b123-00590b532072",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 852,
+      "labels": [
+       "Drug"
+      ],
+      "start": 841,
+      "text": "delorazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1e39a551-6afa-416c-9da0-297e4469dd49",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 899,
+      "labels": [
+       "Drug"
+      ],
+      "start": 891,
+      "text": "diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "o1wDy5SsGs",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 185,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "benzodiazepine "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Wonderful Diazepam Valium analogue , please research before ordering. Contact for bulk Diclazepam also known as Chlorodiazepam is a synthetic depressant substance of the benzodiazepine chemical class that produces effects similar to diazepam , such as anxiety suppression , disinhibition , anticonvulsant , hypnotic , muscle relaxing , and amnesia when administered. 2 It was first synthesized by Leo Sternbach and his team at Hoffman - La Roche in 1960. 3 in animal models with a potency of approximately ten times that of diazepam , of which it is a structural analog. Diclazepam is not currently marketed as a medication , but rather sold online as a research chemical. It s potency has not been systematically tested in humans , but it s closest relatives and two main metabolites are lormetazepam 4 with a potency value of x 10 - 12 of delorazepam 5 which is roughly x10 the potency of diazepam. 6.",
+  "dream_id": 313757,
+  "golden": false,
+  "name": "Diclazepam 1g High quality! ",
+  "p_id": 338
+ },
+ "id": 665
+}

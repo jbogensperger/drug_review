@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 81001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cc425ac8-f9fc-48b6-b1b5-2d78a0dc9350",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cialis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cialis Pharma. Grade Lilly brand 20 x 20 mg tablets.",
+  "dream_id": 37619,
+  "golden": false,
+  "name": "Cialis Pharma Grade Lilly brand 20 x 20mg tablets",
+  "p_id": 97
+ },
+ "id": 81
+}

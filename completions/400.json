@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 400001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "91046710-15a5-4c7d-9634-426fba5bd375",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS IS A SAMPLE LISTING. MDMA is Top Quality Imported from Netherlands. ORDER BEFORE 2-3 PM AND GET IT NEXT DAY Guaranteed. ORDER WITH ParcelForceUK only if you agree to our terms and conditions.",
+  "dream_id": 300389,
+  "golden": false,
+  "name": "**0.3g**MDMA 85% Tan Crystals HQ**GUARANTEED NDD",
+  "p_id": 202
+ },
+ "id": 400
+}

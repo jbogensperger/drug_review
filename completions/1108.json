@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1108001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1df6190e-85a6-4c64-9a64-3918895595c7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "Lowryder"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2f092db0-3a3a-440f-b860-40fb4dddb95a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 221,
+      "labels": [
+       "Drug"
+      ],
+      "start": 218,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strain name Lowryder 2 Grade B Type ruderalis hyb Looks like some fire exotic. Smell fruity , kinda skunky Taste fruity , with hints of spicy Effects relaxing , calm , not overwhelming , good for ruderalis. Potency 12 THC Reviewed by TEARDROP. Good Strain For ANXIETY , RESTLESSNESS.",
+  "dream_id": 414844,
+  "golden": false,
+  "name": "2.5g LOWRYDER . FF",
+  "p_id": 7827
+ },
+ "id": 1108
+}

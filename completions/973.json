@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 973001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3ff229df-669e-479d-80b3-2770f0bdd12f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9d872a75-7adc-418e-9c71-d413add920f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ae5889db-69e2-4414-aa07-1406647d6f06",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 126,
+      "labels": [
+       "Drug"
+      ],
+      "start": 122,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product Info - Best selling hash in the coffee - shops - Cold pressed hash - Perfect high - perfect taste - perfect clean hash - Best quality.",
+  "dream_id": 412113,
+  "golden": false,
+  "name": "1g Kosher Kush Blok! [AAAA++++]",
+  "p_id": 576
+ },
+ "id": 973
+}

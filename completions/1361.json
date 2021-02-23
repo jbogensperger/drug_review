@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1361001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "37fe90f6-bd4a-40ae-b028-ddfa200ce817",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 212,
+      "labels": [
+       "Drug"
+      ],
+      "start": 204,
+      "text": "Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "55e50a39-4d59-4504-846b-7602cf652ab4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 356,
+      "labels": [
+       "Drug"
+      ],
+      "start": 348,
+      "text": "Fentanyl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "INTRODUCTORY OFFER. No nonsense 5000 mg Fentayl freebase with worldwide delivery. Water soluble. QUALITY Sample it and we will leave the rest up to you. VERY POTENT COMPOUND. If you are not familiar with Fentanyl please check out as it is a very potent substance and must be treated as such. APPEARANCE Very light white powder 998 purity lab grade Fentanyl. SHIPPING. All orders are dispatched Mon - Fri and processed within 24 - 48 hours Discreet and professional. Anything else. Ask.",
+  "dream_id": 216512,
+  "golden": false,
+  "name": "5000mg 99.8%+ pure Fentanyl freebase **WORLDWIDE**",
+  "p_id": 1036
+ },
+ "id": 1361
+}

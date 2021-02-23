@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 988001,
+   "lead_time": 3582.315,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "HjhDdHwRiu",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "s-isomer ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Very potent s-isomer ketamine comes in very small crystals as shown on picture.",
+  "dream_id": 32617,
+  "golden": false,
+  "name": "Quality ketamine 1 gram",
+  "p_id": 598
+ },
+ "id": 988
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 863001,
+   "lead_time": 5695.15,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ab8380b3-df35-41d3-aa4a-f592d9a0ebe9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 68,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eSz3WGHjon",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 76,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "Molly "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These capsules are very popular with a very dance festival vibe. XTC. Molly Capsule. 3 pill. Min. 1 - 10 pill 10 Each 10 pill 9 Each total 90 25 pill 8 Each total 200 50 Pill 7 Each total 350 100 Pill 6 Each total 600.",
+  "dream_id": 404047,
+  "golden": false,
+  "name": "XTC Molly Capsule",
+  "p_id": 437
+ },
+ "id": 863
+}

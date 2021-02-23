@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 730001,
+   "lead_time": 4702.478,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2de0a77f-050e-4ae2-8e61-87e0ab04cc36",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "645d77b5-fcec-4f7e-8559-f161e460f16f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "af6fde71-45d7-4f24-9e07-b711eed8ed69",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 217,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "BB7yv1askU",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 161,
+      "text": "crack cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Up for sale is the strongest crack available ANYWHERE on the darknet. Tan in color and rock hard so the purity has been tested at 80 cocaine content. Buy others crack cocaine and you will most certainly get 25 cocaine , 50 baking soda , and 25 water. Norco. King will be a household name for anyone that uses the darknet within months because of my high quality products , excellent customer service , and very fast shipping.",
+  "dream_id": 76721,
+  "golden": false,
+  "name": ".5G SUPER FIRE CRACK COCAINE- STRONGEST ON DNM",
+  "p_id": 412
+ },
+ "id": 730
+}

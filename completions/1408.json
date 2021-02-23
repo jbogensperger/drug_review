@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1408001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c12ed8b7-0b83-48ab-af00-468f99a286c1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "35g - cocaine for everybody at this price. - get in whilst it lasts. - cheap and affordable.",
+  "dream_id": 336210,
+  "golden": false,
+  "name": "3.5 g oz COKE",
+  "p_id": 1091
+ },
+ "id": 1408
+}

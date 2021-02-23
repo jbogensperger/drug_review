@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 1,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "58ec3e2a-56a7-4c92-88dc-19d998466772",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High Quallity. MDMA - Crystals - 84. Details hue brown brauner Farbton. Crystals Kristalle. very strong sehr stark.",
+  "dream_id": 246145,
+  "golden": false,
+  "name": "Promotion 1g MDMA- Crystals Promotio",
+  "p_id": 0
+ },
+ "id": 0
+}

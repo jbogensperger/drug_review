@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 53001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ac7d0812-8cf2-4187-80a0-86dc65a051ba",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pure shiny cocaine flakes. Straight from the brick. No cuts. Before you order please read profile for exception.",
+  "dream_id": 47396,
+  "golden": false,
+  "name": "20g Pure Cocaine Flakes",
+  "p_id": 64
+ },
+ "id": 53
+}

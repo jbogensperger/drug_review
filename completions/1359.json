@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1359001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "af9d2a7f-7ad9-41f3-b8bf-492dec6fb9db",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 289,
+      "labels": [
+       "Drug"
+      ],
+      "start": 281,
+      "text": "Ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Bigger volume Bigger discounts. Check out our other listings. Contact us for custom deals. Please be so kind to leave feedback after receiving and testing our products and stay in touch for more amazing offers to come. Remember to encrypt all personal details for both our safety. Ketamine S-isomer Pure Uncut. This is as pure as it gets Pharmaceutical quality. You wo nt find better quality anywhere on the deep web. You wo nt find a better price \/ quality comparison ANYWHERE. Do nt hesitate to contact us with any questions , concerns , suggestions , offers , requests or feedback.",
+  "dream_id": 275893,
+  "golden": false,
+  "name": "1 GR  83% Pure Ketamine S-isomer!!!",
+  "p_id": 1032
+ },
+ "id": 1359
+}

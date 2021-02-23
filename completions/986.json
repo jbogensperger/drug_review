@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 986001,
+   "lead_time": 4930.164,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e0212b37-0c08-4624-a3a1-6aef43a71e29",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Red Dragon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8ad9da31-de8d-4130-8a73-6cfda808697b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 118,
+      "labels": [
+       "Drug"
+      ],
+      "start": 107,
+      "text": "Utopia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ec971103-3c92-446d-a324-aca65de2be64",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 227,
+      "labels": [
+       "Drug"
+      ],
+      "start": 217,
+      "text": "Red Dragon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a4b71bc9-bb5d-4fb6-8813-dc69657ca9d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 271,
+      "labels": [
+       "Drug"
+      ],
+      "start": 263,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eb81643b-bff9-4776-ad51-dfbf8e295290",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 299,
+      "labels": [
+       "Drug"
+      ],
+      "start": 293,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c0bef04d-3cb0-4045-a1fc-7b5e1e6d0de1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 102,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b1974aa4-7661-4c74-a8b1-e62c0f9cd2a8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 137,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "leBrdqG-av",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 152,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strain Highlights. Red Dragon is one exotic flower. A Barneys Farm cross between a West Himalayan Kush and Utopia Haze a Brazilian sativa , this hybrid is a strain for connoisseurs. Featuring a sweet , fruity aroma , Red Dragon offers consumers a truly different cannabis experience. Slightly sativa - dominant , this strain is giggly and upbeat.",
+  "dream_id": 408175,
+  "golden": false,
+  "name": "3.5g Red Dragon Himalayan Kush B++ Exotic Bud ",
+  "p_id": 594
+ },
+ "id": 986
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 10001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9f20470a-2f06-4ddd-ac82-569ddba68182",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "35 gram of quality cocaine. Other batch found on my page is stronger. However this being better than most other stuff found out there. Strong smell and pearly. All products will be posted at the highest of stealth methods.",
+  "dream_id": 379825,
+  "golden": false,
+  "name": "SALE** QUALITY PEARL COCAINE 3.5 gram",
+  "p_id": 13
+ },
+ "id": 10
+}

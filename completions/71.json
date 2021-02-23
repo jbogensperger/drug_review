@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 71001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7c04f7b1-20f7-430e-91cf-af23f1dca242",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "BHO"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ea834add-bdcb-444c-96ea-3f258bad5327",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I have on offer 1 gram of BHO extracted from high quality cannabis , vacuum purged for a very clean and stable product with a beautiful flavor. Released in limited runs so if this add is up do nt hesitate. Cheers. Utopia.",
+  "dream_id": 344894,
+  "golden": false,
+  "name": "1 GRAM HIGH QUALITY BHO - SHATTER - DAB",
+  "p_id": 85
+ },
+ "id": 71
+}

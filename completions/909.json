@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 909001,
+   "lead_time": 3650.236,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "345504b8-a3d6-4ae4-b9e5-bb421b23b8b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Psilocybe Cubensis Albino"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d8a2c9a8-1e5d-4411-a0be-9370a3e461e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 255,
+      "labels": [
+       "Drug"
+      ],
+      "start": 246,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "943d14e2-fd78-40ba-b884-d84acfe73eb1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 343,
+      "labels": [
+       "Drug"
+      ],
+      "start": 334,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "oD7KbvkZmD",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 124,
+      "text": " Psilocybe Cubensis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Current special Psilocybe Cubensis Albino. A psychedelic chocolate bar made from the finest Belgian chocolate and 3 grams of Psilocybe Cubensis mushrooms. Cacao contains small amounts of psychoactive compounds which work well in combination with mushrooms. Due to the overpowering chocolate taste you will barely be able to taste the mushrooms. Eat on an empty stomach in proper set and setting for best effect. Storage. Atleast 1 year , then potency starts to decrease unless kept air - tight in a cool , dark place eg freezer.",
+  "dream_id": 259914,
+  "golden": false,
+  "name": "Mushroom chocolate SPECIAL (3G, Pure)",
+  "p_id": 501
+ },
+ "id": 909
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 907001,
+   "lead_time": 4083.036,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "11e59d1c-925e-457e-a26e-925b097c2271",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Blue cheese"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "39c92f57-9dfd-479b-b5d9-1fef91cbe0d4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 251,
+      "labels": [
+       "Drug"
+      ],
+      "start": 240,
+      "text": "Blue cheese"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eqctA5S0ua",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 204,
+      "labels": [
+       "Drug"
+      ],
+      "start": 193,
+      "text": "blue cheese"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "UNK22ry6BM",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 226,
+      "labels": [
+       "Drug"
+      ],
+      "start": 209,
+      "text": "Big Buddha Cheese"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "zcfAIZjEn7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 238,
+      "labels": [
+       "Drug"
+      ],
+      "start": 229,
+      "text": "Blueberry"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Blue cheese is one of the all time favorites for pain relief and many other ailments. it has a wonderfully unique flavor with the undertone of cheese and a smell of blue cheese. The parents of blue cheese are Big Buddha Cheese x Blueberry. Blue cheese is a personal favorite because of the uplifting \/ energetic high it produces this works wonderful for those clients who need to medicate to relieve pain and countless other elements but that also need to focus and have drive for a job , taking care of a family or more.",
+  "dream_id": 259556,
+  "golden": false,
+  "name": "UK - Blue Cheese - 1 Gram ",
+  "p_id": 499
+ },
+ "id": 907
+}

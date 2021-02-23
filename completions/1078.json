@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1078001,
+   "lead_time": 1276.768,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "495e094b-d582-458c-bca0-b945724ebcbf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Mitragynine Speciosa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b23ae141-e7b4-4979-b57a-452dd4965902",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Kratom"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "69pfONJrxS",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 317,
+      "labels": [
+       "Drug"
+      ],
+      "start": 310,
+      "text": "opiate "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "H1hU4312z-",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 363,
+      "labels": [
+       "Drug"
+      ],
+      "start": 355,
+      "text": "opiates "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Kratom , Mitragynine Speciosa , Acts as a stimulant in small dosages , a sedative at higher doses. Generally brewed as a tea and has effects which last for around 6 - 7 hours. Add honey when making tea , as its quiet bitter. Tollerance does build up after a while , so infrequent usage is advised. It works on opiate receptors and has a similar effect to opiates , but is far less addictive - although does have some degree of post use pull. Green and white strains tend to be more stimulating , red strains more sedative. Perfect to make tea and veg to 3 movies an a good evening in , or take a small amount for stimulating properties and get on with your day.",
+  "dream_id": 166815,
+  "golden": false,
+  "name": "\"28g \/ 1oz - Kratom \"\"White Vein Sumatra\"\"\"",
+  "p_id": 705
+ },
+ "id": 1078
+}

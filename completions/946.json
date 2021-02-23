@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 946001,
+   "lead_time": 4795.583,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b667b6a5-8a8b-45a0-84bc-92f3a6899fea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 219,
+      "labels": [
+       "Drug"
+      ],
+      "start": 216,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9ffcc9c5-76e4-4d70-93ca-30454f78e28e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 240,
+      "labels": [
+       "Drug"
+      ],
+      "start": 232,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fd0acf36-07c7-448f-8172-c3565c7766a3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 303,
+      "labels": [
+       "Drug"
+      ],
+      "start": 296,
+      "text": "canabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "AnTzovQq98",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 133,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "Blue Dream"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We have slightly more expensive escrow listings for this product also. FREE SHIPPING WORLDWIDE. Shatter. Current strain is Blue Dream Stability - Medium \/ Low Taffy. Shatter is a product which lab tests at very high THC percentage. Cannabis concentrates are a discreet way to consume and receive canabis around the globe. Another listing from vendor DankServices bringing dank services to you. PGP address encryption is required. Our ship methods utilize mylar bags. Current batch of shatter is darker than usual and less stable than usual. We still think it is a good value for the price. Just do nt expect pictured shatter. Will update when we get better product in.",
+  "dream_id": 287436,
+  "golden": false,
+  "name": "1 Gram World-Famous Shatter",
+  "p_id": 544
+ },
+ "id": 946
+}

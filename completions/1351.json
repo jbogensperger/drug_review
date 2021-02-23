@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1351001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e8a5cd56-66bc-4b11-a5d9-b244864c6a91",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a24b3d38-633d-4489-b535-74dcc0999b91",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 199,
+      "labels": [
+       "Drug"
+      ],
+      "start": 190,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1f137c6b-cc60-4810-af7e-66ef61c299e2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 237,
+      "labels": [
+       "Drug"
+      ],
+      "start": 228,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4be2963d-b170-4962-a369-34fa4309aa13",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 269,
+      "labels": [
+       "Drug"
+      ],
+      "start": 260,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "45113977-21e8-4af5-9425-bd8560321129",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 576,
+      "labels": [
+       "Drug"
+      ],
+      "start": 567,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ce0daa36-88b7-4acb-94d5-4dad00fabb36",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 627,
+      "labels": [
+       "Drug"
+      ],
+      "start": 618,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2d051d7d-894f-4eb9-9ceb-33c19ac2fcd7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 664,
+      "labels": [
+       "Drug"
+      ],
+      "start": 655,
+      "text": "mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "717ed599-dd91-4e97-be17-82d794a8c57a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 604,
+      "labels": [
+       "Drug"
+      ],
+      "start": 596,
+      "text": "mushroom"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Introducing our psychedelic chocolate mushrooms containing Golden Teacher psilocybin shrooms. We ve added vanilla to our dark chocolate gannache which almost entirely hides the taste of the mushrooms. Each piece contains 05g of mushrooms. Sold in packs of two mushrooms and best taken on an empty stomach , be careful because these take effect fast. One chocolate mushroom will give a nice gentle trippy effect with light visuals two will give a more full - on experience. We would advise beginners to start with 1 - 2 each. This listing is for a pack of 2 chocolate mushrooms. Dosage. Light - 1 mushroom Moderate - 2 mushrooms. Heavy - you ll need 3 - 4 mushrooms each.",
+  "dream_id": 96657,
+  "golden": false,
+  "name": "Fat Freddy's Psychedelic  Chocolate Mushrooms",
+  "p_id": 1021
+ },
+ "id": 1351
+}

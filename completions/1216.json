@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1216001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d05503b4-db43-4287-aebe-5169efb8747c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 36,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a7349b4d-8659-4fdb-ada7-d2f7eb571382",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 52,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "82fdd348-7727-42e1-9ad0-f3f2b2dc3223",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ebf02a8e-bda4-4845-9e25-2a298a4d67c3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 212,
+      "labels": [
+       "Drug"
+      ],
+      "start": 209,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "986bf490-c420-4be4-8319-fe6416361363",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 276,
+      "labels": [
+       "Drug"
+      ],
+      "start": 273,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f77bbda3-5cdc-4c3d-b3d9-f2e7cff69671",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 516,
+      "labels": [
+       "Drug"
+      ],
+      "start": 513,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "300 ug White on White Unperf FAMILY LSD. 100 x Real LSD Blotter 300ug Real Needlepoint LSD - 25 99 Needlepoint grade 300 ug per unit. White on white non-perforated blotter. No taste , very clean. Real 99 pure LSD. This is non-perforated white blotter 25 x25 300 ug of REAL LSD. Family sacrament , laid by Family for Family. this listing if for 100 hits at 300 ug per hit. I encourage you to test our product with reagent and even Lab test if you wish. We offer a free 20 strip to anybody who has any batch of our LSD lab tested and send up a link of online results to advertise. thanks.",
+  "dream_id": 412651,
+  "golden": false,
+  "name": "100 x 300ug White on White Unperf FAMILY LSD!!",
+  "p_id": 863
+ },
+ "id": 1216
+}

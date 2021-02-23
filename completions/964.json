@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 964001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2e26686d-41f6-47f1-9c32-c8f03268ccc3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "50522b99-3c05-44cb-846c-d78ccc499877",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f727d2c2-3ebd-4ef6-8cf2-1b018325ea35",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "762e1a16-90b7-4f09-86fe-f9031ba0eb86",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8b4a86a4-4826-4d80-8946-c308d3f0c8f9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 273,
+      "labels": [
+       "Drug"
+      ],
+      "start": 269,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "King Pollen. Hash. From Morocco Grade. A. Type Sativa \/ Indica Hybrid. THC High Approximately 912. Texture Very soft and gummy. Effects Cerebral and active high with nice body buzz. Tastes very smooth in the throat with very delicate flavor. One of the greatest pollen hash around.",
+  "dream_id": 145116,
+  "golden": false,
+  "name": "King Pollen Hash 100g ",
+  "p_id": 564
+ },
+ "id": 964
+}

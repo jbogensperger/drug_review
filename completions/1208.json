@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1208001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9259e58f-9be5-45ad-aec2-72f7cb0114a1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 208,
+      "labels": [
+       "Drug"
+      ],
+      "start": 204,
+      "text": "mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a269e78b-418b-4f31-8357-814795d7dfe5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 294,
+      "labels": [
+       "Drug"
+      ],
+      "start": 285,
+      "text": "MDMA-TEAM"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PINK ANONYMOUS. LOOK GOOD THE REPORT BEST PILLS RATED PILLREPORT. This is superstrong better NOT FOR BEGINNERS. We maked the pills with PINK flueride color. Most famous pills of europe we have put 250 mg mdma bruto in the press machine ZP9 so this pills are 200 netto. for bulk pm me. MDMA-TEAM.",
+  "dream_id": 406296,
+  "golden": false,
+  "name": "100  'PINK ANONYMOUS  XTC 200MG by MDMA-team",
+  "p_id": 853
+ },
+ "id": 1208
+}

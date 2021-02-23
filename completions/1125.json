@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1125001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "794f16d6-3ce4-4549-b98f-131f7d0c451f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "COCAINE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "UNCUT COCAINE. Straight from the brick smooth as silk. try it once and you will come back for more. satisfaction guaranteed.",
+  "dream_id": 98078,
+  "golden": false,
+  "name": "0.5gr UNCUT COCAINE  89% ++",
+  "p_id": 748
+ },
+ "id": 1125
+}

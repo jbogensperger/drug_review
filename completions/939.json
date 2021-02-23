@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 939001,
+   "lead_time": 5320.066,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c95c9bf1-df12-4b27-9555-f39f875f39b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 84,
+      "labels": [
+       "Drug"
+      ],
+      "start": 77,
+      "text": "Goji OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e57bfce7-e9d6-4a11-9f76-39a89c4b937a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 90,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "nSp861sGtG",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 160,
+      "labels": [
+       "Drug"
+      ],
+      "start": 151,
+      "text": "Nepali OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ZUB5LWEhBA",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 175,
+      "labels": [
+       "Drug"
+      ],
+      "start": 165,
+      "text": "Snow Lotus"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8m7wr5P0mf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "Goji OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "TR_3mI5Xt_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 108,
+      "text": "hybrid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "New Organic Goji OG Greenhouse. Super Frosty. Just Harvested. Only 150 a oz. Goji OG is a sativa - dominant hybrid bred by Bodhi Seeds crossed between Nepali OG and Snow Lotus. The flavor is as unique as the berry it s named after , offering a dynamic aroma including red berry , black cherry , strawberry , hawaiian punch , and licorice. Indoor or outdoor grows offer high yields with a flowering time of around 9 weeks.",
+  "dream_id": 318532,
+  "golden": false,
+  "name": "Goji OG(Greenhouse) Frosty Only $150 an oz!!!",
+  "p_id": 534
+ },
+ "id": 939
+}

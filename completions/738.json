@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 738001,
+   "lead_time": 165.526,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eB0J9QNE8V",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "2 cb"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Before you order read our profile page. - Light brown 2 cb powder - Very Potent - Free shipping - fast shipment. Just a lovely product. Regards ,. Pacho.",
+  "dream_id": 188217,
+  "golden": false,
+  "name": "0.5G Lightbrown 2cb powder",
+  "p_id": 116
+ },
+ "id": 738
+}

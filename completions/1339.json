@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1339001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b4f975c9-5a49-44c8-a092-4de6b4fa7849",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Rivotril Clonazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2 x Rivotril Clonazepam by Roche 75.",
+  "dream_id": 379697,
+  "golden": false,
+  "name": "2x Rivotril Clonazepam by Roche 7.5",
+  "p_id": 1004
+ },
+ "id": 1339
+}

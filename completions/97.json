@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 97001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8d82e66a-6e2b-404e-aed2-4f9c09352888",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "."
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "A Brief History of Designer Drugs e-book.",
+  "dream_id": 201594,
+  "golden": false,
+  "name": "A Brief History of Designer Drugs e-book",
+  "p_id": 113
+ },
+ "id": 97
+}

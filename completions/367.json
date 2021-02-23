@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 367001,
+   "lead_time": 207.404,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4694869b-a229-4d9f-8568-2c1906f0b03e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "CHMICA MMB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75759609-e511-4fd6-a6dd-91b2ad0da30a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 62,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "MDMB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2204ad47-1774-4d80-bb7d-ff12a5387894",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 86,
+      "labels": [
+       "Drug"
+      ],
+      "start": 78,
+      "text": "CHMINACA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5awcwqUEYc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 95,
+      "text": "spice "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I was cleaning recently when I came across a few grams of MDMB - CHMICA MMB - CHMINACA from my spice days. I made this E-juice with PEG PG containing approximately 10 mg \/ mL of the noid. The flavor is Apple Blueberry Crunch Pie. This juice will work best with variable voltage mods and boxes. 10 m L is the smallest size pictured.",
+  "dream_id": 378191,
+  "golden": false,
+  "name": "Synthetic Cannabinoid E-juice 10mL",
+  "p_id": 163
+ },
+ "id": 367
+}

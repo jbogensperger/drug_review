@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1207001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3519847c-6c20-4d66-8edd-805734f79736",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Blackberry Diesel"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- 7g Blackberry Diesel - Some high grade indoor bud - Better , cheaper bud than the other vendors.",
+  "dream_id": 225878,
+  "golden": false,
+  "name": "SALE!-7g BBDiesel-Grade A+++ Premium Indoor Weed",
+  "p_id": 852
+ },
+ "id": 1207
+}

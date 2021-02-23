@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 110001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b2353cb0-7dfc-425f-aeb6-c6d014599b4f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This meth is super clean smooth going down even smoother coming up. NO CLOG , NO DAMPNESS , NO CHEMICAL TASTE AT ALL.",
+  "dream_id": 62558,
+  "golden": true,
+  "name": "Fresh Clean Vape Ice .5 ",
+  "p_id": 4527
+ },
+ "id": 110
+}

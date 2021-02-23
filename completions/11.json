@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 11001,
+   "lead_time": 814.18,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "52982301-70cb-442e-9e06-d55d6a85671f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "isobutyrfentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7fd1ca3-2c29-4aca-8e94-0bedef090af4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 61,
+      "text": "fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "geW8z8WKnl",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "opioid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "isobutyrfentanyl is an opioid analgesic that is an analog of fentanyl. Price list. 10g - 200 50g - 400 100g - 750 250g - 1450 500g - 2600 1000g-5100.",
+  "dream_id": 408800,
+  "golden": false,
+  "name": "10g (4-FIBF) 4-Fluoroisobutyrfentanyl ",
+  "p_id": 15
+ },
+ "id": 11
+}

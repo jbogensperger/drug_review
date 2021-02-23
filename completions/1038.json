@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1038001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "88b6f0c8-b4ff-4dfd-b172-572b464a32fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 50,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f1d29f67-57a6-499e-b703-a0ed629de202",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2fa22bf0-b6fa-47a7-949a-32ba08ad4ef4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is a listing for HIGH QUALITY DUTCH MADE MDMA. 84 PURE MDMA. Our MDMA is synthesized from PMK oil.",
+  "dream_id": 145572,
+  "golden": false,
+  "name": "1gr  MDMA  CRYSTALS  -  84% PURE",
+  "p_id": 658
+ },
+ "id": 1038
+}

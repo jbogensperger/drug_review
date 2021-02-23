@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1088001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2c40245b-bfcd-4732-a76a-d7c9cabcd172",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 120,
+      "text": "Somango Caramelicous"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "eac90c64-f3de-44b3-8eb5-17e6d1bfebf1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 156,
+      "labels": [
+       "Drug"
+      ],
+      "start": 142,
+      "text": "Critical Widow"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "-. We like to offer you our Triple Sack as an addition to our Variety Packs. This Pack will contain 10G of each Strain. Somango Caramelicous. Critical Widow. Buds A. Smell. A. High A. Taste A. - We take pride in what we do and all our Strains coming from professional Growers and we insure no chemicals , or what so ever were used. - For any questions feel free to contact us right over the Market. Thank you for stopping by , we hope you enjoyed your stay.",
+  "dream_id": 345255,
+  "golden": false,
+  "name": "15g --- Triple Sack --- (A+++ Quality)",
+  "p_id": 718
+ },
+ "id": 1088
+}

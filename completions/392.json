@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 392001,
+   "lead_time": 83.668,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6356f78a-0d91-40c9-af85-25b990c5431b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 166,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "QTR6q5jkC0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 56,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "PINEAPPLE CHUNK"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "CAPZCwVfsa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 93,
+      "labels": [
+       "Drug"
+      ],
+      "start": 78,
+      "text": "PINEAPPLE CHUNK"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "u88a3rdXBY",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 119,
+      "labels": [
+       "Drug"
+      ],
+      "start": 112,
+      "text": "TOBACCO"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PRE - ROLLED KINGSIZE PURE GREEN JOINT - PINEAPPLE CHUNK. - PURE BARNEYS FARM PINEAPPLE CHUNK SKUNK JOINT. - NO TOBACCO. - THIS JOINT CONTAINS 08 - 1g of your chosen cannabis - Only the best of the best from pluk2 uk xx. - ONLY 1250 each - ROYAL MAIL 24 POSTAGE. PLEASE READ OUR VENDOR PROFILE PAGE FOR ALL OF OUR TERMS AND CONDITIONS - INCLUDING REFUND POLICY. YOU SHOULD ALWAYS DO THIS WITH A NEW VENDOR ANYWAY.",
+  "dream_id": 301562,
+  "golden": false,
+  "name": "KINGSIZE PURE SKUNK JOINT - PINEAPPLE CHUNK ",
+  "p_id": 193
+ },
+ "id": 392
+}

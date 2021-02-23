@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1269001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a2fa0a91-e9f7-459e-85c3-66ac2b2b6518",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 125,
+      "labels": [
+       "Drug"
+      ],
+      "start": 118,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e87cc226-9a3c-464e-b041-90616014b0fa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 133,
+      "labels": [
+       "Drug"
+      ],
+      "start": 128,
+      "text": "speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "698e4bb4-87a6-415c-b69b-59f099d68d5a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 140,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "94aefad9-1c9d-457a-9b3b-be8e76e5a063",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 146,
+      "labels": [
+       "Drug"
+      ],
+      "start": 143,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7d875938-e767-477b-a0b8-226d7df6e9dd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 149,
+      "text": "Hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Prices 50 150,00 100 250,00 250 550,00 500 900,00 1000 1400,00 2000 2400,00. Also check out our other offers. We sell cocaine , speed , MDMA , XTC , Hash any many more.",
+  "dream_id": 408635,
+  "golden": false,
+  "name": "100x 180mg XTC (yellow Armanis)",
+  "p_id": 920
+ },
+ "id": 1269
+}

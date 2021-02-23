@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 607001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4f410d30-5c3f-454a-a9d5-abea03e77a2c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "84c0e4da-150d-4635-8946-77ca2b5b1d2a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cannabis Infused THC Syrup Strawberry - Mix this Syrup with any Soda like Fanta , Sprite , 7 UP. Pour it up and Lean. 2000 mg per bottle 4 oz.",
+  "dream_id": 82260,
+  "golden": false,
+  "name": "THC Infused Cough Syrup - Cannazine - Strawberry ",
+  "p_id": 266
+ },
+ "id": 607
+}

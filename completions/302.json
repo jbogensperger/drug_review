@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 302001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b503d85c-e59b-43af-9b0c-a2f81f58f783",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Tamoxifen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2f3d243d-84b6-40f6-baae-ae75f2e993af",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 43,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Nolvadex"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Tamoxifen 20 mg x 10 tablets. AKA. Nolvadex used to combat estrogen. International will be sent Tracked Airmail.",
+  "dream_id": 14832,
+  "golden": true,
+  "name": "Tamoxifen 20mg (Nolvadex)",
+  "p_id": 6099
+ },
+ "id": 302
+}

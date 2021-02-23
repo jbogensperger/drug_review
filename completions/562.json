@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 562001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "727177d6-3f9b-481a-84f4-4f5a5c1ab416",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "COUGH SYRUP"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7315c4fe-faf8-4c6c-80b7-92fe26d53241",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "ACTAVIS PROMETH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "COUGH SYRUP AND ACTAVIS PROMETH FOR SALE. 1 32 oz pint 500 MOQ 3 pints. 16 oz pint 300 MOQ 5 pints. 8 oz pint 200 MOQ 8 pints. WHAT DO WE PROVIDE. 1 The Best Prices Available ,. We will match or beat any other domestic price. 2 Perfect Customer Service ,. We will respond to ALL messages within 24 hours. 3 We always test our products in the Lab before we offer it. 4 We ship orders in the most of the time on the Same day. 5 Packages will fit through any standard letter box. WE accept only order When finalized is Early or When you got your Tracking Number and see your package on transit. IMPORTA NT SHIPPING OPTION SELECTION INSTRUCTION. MAKE SURE TO SELECT Priority Mail Shipping ON A SINGLE ORDER. DO NOT SELECT Combined Shipping ON A SINGLE ORDER. Sometimes the shipping option.",
+  "dream_id": 426586,
+  "golden": false,
+  "name": "Buy Quality Actavis Promethazine Codeine",
+  "p_id": 200
+ },
+ "id": 562
+}

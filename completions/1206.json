@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1206001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2373de50-d68f-4a99-9a64-e7fb4c4bdcec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 57,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 gram ORION OG. New Strain. A special strain with much THC crystals on the buds. Famous from medical users , made his way to Europe. CannaCrew has it. Very pleasant stoned , sweet taste and no paranoia. Try it out. Please read our profile before you buy any product of us , thank you.",
+  "dream_id": 157092,
+  "golden": false,
+  "name": " 10 gr  ORION OG",
+  "p_id": 851
+ },
+ "id": 1206
+}

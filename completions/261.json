@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 261001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7232c882-5e19-407f-84b0-08bf5ac4c1af",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Zolpidem"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0f42541d-74a5-47d5-a32f-b8d3cfcb3328",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "Zolpidem"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Name Zolpidem Brand PCH. Original name Stilnoct Substance Zolpidem Strength 10 mg Quantity 30 Tablets. -. NOTES. For better stealth this product is shipped without blisters and is highly recommended. If you want the tablets inside the original blisters write this in the order comments , but shipping will be 100 on your own risk and no refund of reship if order does nt show up. If no special instructions are written the order will be shipped without blisters.",
+  "dream_id": 328487,
+  "golden": true,
+  "name": "[ 30 Pills ] [ Zolpidem ] [ 10mg ] [ 3 Blisters ]",
+  "p_id": 1884
+ },
+ "id": 261
+}

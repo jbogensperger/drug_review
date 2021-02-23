@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1066001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "35c7ec49-d767-4169-b2a6-5244649275f1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Colombian Cocaine Highest grade , no cuts. Tested.",
+  "dream_id": 328673,
+  "golden": false,
+  "name": "1 GR__ Colombian Cocaine__Uncut 90% Pure",
+  "p_id": 692
+ },
+ "id": 1066
+}

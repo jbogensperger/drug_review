@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1008001,
+   "lead_time": 776.192,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "14MwpE0RzV",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "2C - B Hydrochloride"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10g of 2C - B Hydrochloride salt , more than 90 pure. Same price as 1g , but with 50 bonus as this is an FE item where you pay in advance. Ships from Norway. Norske henvendelser besvares s klart p norsk. Norske henvendelser besvares selvsagt p norsk. RESHIP \/ REFUND POLICY. Australia \/ New Zealand - no reship \/ refund in any case. Regular customers with 100 success rate - 100 reship. New customers - 50 reship.",
+  "dream_id": 275431,
+  "golden": false,
+  "name": "10g of 2C-B Hydrochloride salt",
+  "p_id": 623
+ },
+ "id": 1008
+}

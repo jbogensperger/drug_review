@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 727001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cc28f7cf-8521-4a01-92cc-db11292f0673",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 1,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "A"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "A natural substance made by the adrenal gland. used to treat arthritis , blood , hormone , immune systems disorders , skin , breathing problems , cancer , and allergies.",
+  "dream_id": 236855,
+  "golden": false,
+  "name": "5 x1 Hydrocortisone tablets  20mg",
+  "p_id": 408
+ },
+ "id": 727
+}

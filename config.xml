@@ -1,0 +1,9 @@
+<View>
+  <Labels name="label" toName="text">
+    <Label value="Drug" background="red"/>
+    <Label value="None" background="black"/>
+  </Labels>
+  <Header name="name" value="$name"/>
+  <Text name="text" value="$clean_description"/>
+</View>
+

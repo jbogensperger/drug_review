@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1257001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "de74866b-eb17-4a21-8ef0-c2ba58f71efe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d2781aeb-cc6e-4023-a30f-d5218798489d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 381,
+      "labels": [
+       "Drug"
+      ],
+      "start": 377,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a44d07f7-7a0d-4932-8d61-1175caaf48a4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 387,
+      "labels": [
+       "Drug"
+      ],
+      "start": 384,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0da5c864-0d8e-46de-9755-f6e66ced5b41",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 114,
+      "labels": [
+       "Drug"
+      ],
+      "start": 110,
+      "text": "Kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "King s Kush - AAA Imported from Cananda compressed Medical Grade 1g. Bred by greenhouse seeds derives from OG Kush and the excusive Grape stain. Gradual but powerful effects. King s Kush is famous for its potency , shiny trichromes when flowering and at around 9 weeks blue veins appear on the plant. Sweet and sour strain with a tangy grape scent with hints of lavender. King Kush s THC content can be up to 20. -. FE preferred or release ASAP. Thanks ,. R4L. -. Fire product at fair prices for your enjoyment. _. Btc released when satisfied_mylar sealed_smellproof_stealth. CONTACT FOR MARIJUA NA ONLY _ By Ordering With R4L You Are Agreeing To Our Terms And Conditions. Please use REAL NAME FULL ADDRESS UK and Europe 1st Class. SIGNATURE PRODUCTS ARRIVING SOON. _.",
+  "dream_id": 391146,
+  "golden": false,
+  "name": "Medical Grade King Kush AAA+ 1g Imported from Cana",
+  "p_id": 908
+ },
+ "id": 1257
+}

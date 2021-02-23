@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 855001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c1aac24c-b5c9-41db-aa4e-5c047f5a6c29",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aa10ee40-a42f-41a9-896f-8e110410b43e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 775,
+      "labels": [
+       "Drug"
+      ],
+      "start": 771,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This is euphoric Cola MDMA. These are only available at a high quality , the purity of these are 84. which will guarantee a very nice trip. Be careful with how much of this you take , because this is very strong stuff here. You have been warned. Read our profile page for more information. It contains everything you need to know before you place an order. Be sure the read this through before placing and order , it contains everything that s important. There you will be able to find the shipping time , warranty and allot more useful information. Short info on our stealth. We will vacuum seal to prevent any odor. Second we ll put it into a mylar bag. Last but not least , we wash the bag with alcohol and then was it again with water before packing it. Prices. Cola MDMA. 3 833 2499 5 780 3999 10 669 6699 20 669 13399 50 669 33499 100 499 49999 250 399 99999 500 349 174599 1000 299 299999.",
+  "dream_id": 265021,
+  "golden": false,
+  "name": "3gr Cola MDMA  84%",
+  "p_id": 425
+ },
+ "id": 855
+}

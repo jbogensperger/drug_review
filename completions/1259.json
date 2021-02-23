@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1259001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "42a82695-ea3c-48ba-b3fd-ed3748ec89ca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 194,
+      "labels": [
+       "Drug"
+      ],
+      "start": 186,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0cf957c6-a761-4652-82ce-6f9fe130242c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 257,
+      "labels": [
+       "Drug"
+      ],
+      "start": 254,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These organik bars are made with 100 organic ingredients consisting of a peanut butter center nestled in a bed of organic , gluten - free oats , and a vegan chocolate coating. Made with cannabis infused coconut oil and sweetened with agave syrup. 300 mg THC.",
+  "dream_id": 47334,
+  "golden": false,
+  "name": "300MG THC ORGANIC CHOCOLATE & PEANUT BUTTER BAR",
+  "p_id": 910
+ },
+ "id": 1259
+}

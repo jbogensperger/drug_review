@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1065001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "828dfad3-e647-4062-9533-d7e62cc378d9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 85,
+      "labels": [
+       "Drug"
+      ],
+      "start": 81,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "64746d19-fd50-4bc1-b062-f4f9653d2ad6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 99,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c9dfb89e-3cbd-4ed2-b331-330a8daae814",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 181,
+      "labels": [
+       "Drug"
+      ],
+      "start": 178,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7c358750-b004-4dfe-9810-7d1506935df0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 288,
+      "text": "XTC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Please read our conditions before placing an order. Name 2 K Color Yellow Amount MDMA 220 MG netto MDMA. Labtested. Break line Yes Press 1st Solid hard press. High Quality Dutch XTC. Pills from the same presser like silverbar , heineken , tesla , yellow and red Ups. -. We have different XTC pills for sale. See our listings.",
+  "dream_id": 399738,
+  "golden": false,
+  "name": "200x Yellow 2K 220MG XTC Pills",
+  "p_id": 691
+ },
+ "id": 1065
+}

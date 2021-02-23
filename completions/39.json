@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 39001,
+   "lead_time": 152.743,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "83ff80e0-9e8b-4b79-b9df-246faaa24715",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "SHATTER"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "PR6xG6m8uj",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 41,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Sour Diesel"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 Lb of High Quality SHATTER. Sour Diesel. As many as you want available Made by professionals with much experience.",
+  "dream_id": 428743,
+  "golden": false,
+  "name": "1 lb of High Quality SHATTER Sour Doesel",
+  "p_id": 50
+ },
+ "id": 39
+}

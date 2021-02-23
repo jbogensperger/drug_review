@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1035001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "54a2d34c-3d23-42a8-bfbb-db5cde6ce881",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "Amnesia kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1b0e61f2-67fa-406f-adec-78f13304ad63",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d79e9b35-bf6d-4936-84bc-30b51df47164",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b851240b-b8aa-4d78-ac7b-b35b791221ff",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 197,
+      "labels": [
+       "Drug"
+      ],
+      "start": 190,
+      "text": "Amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5fe0838c-392a-4f57-93d4-81a5d9e35c76",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 303,
+      "labels": [
+       "Drug"
+      ],
+      "start": 296,
+      "text": "amnesia"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "66f39c9a-72af-4c4d-a94e-f9c221aa765a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 447,
+      "labels": [
+       "Drug"
+      ],
+      "start": 443,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "From a mix from Amnesia and Kush , here you have Amnesia kush. The buds from this more new genotype are incredible. The effect will provide you a high brain stimulation , inherited from the Amnesia genotype , mixed with a relax sensation in your brain too. The efect is mental. The taste is from amnesia , and the buds smelt how it. When you see the buds you can see that it are top quality. Not normal in the markets , it s a real incredible weed. Read our Policy Terms for the general information , thx.",
+  "dream_id": 406912,
+  "golden": false,
+  "name": "2G Amnesia Kush Indoor",
+  "p_id": 654
+ },
+ "id": 1035
+}

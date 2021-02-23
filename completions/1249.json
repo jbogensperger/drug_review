@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1249001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "87a80d0a-55b8-4388-ae3e-bbfb21a0300e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These are delicious Jolly Rancher hard candies in a variety of flavors. Each piece contains 25 mg THC.",
+  "dream_id": 275592,
+  "golden": false,
+  "name": "25 Mg each piece- Jolly Ranchers 10 pieces for $40",
+  "p_id": 899
+ },
+ "id": 1249
+}

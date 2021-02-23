@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1087001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d5cecb4c-0ca9-4a1d-9c6e-bbd605ae444e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "heroine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Top heroine AAA content 1 gram uncut h3.",
+  "dream_id": 408919,
+  "golden": false,
+  "name": "1 Gram Afghan Uncut Heroin #3 DISCOUNT!! ",
+  "p_id": 717
+ },
+ "id": 1087
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 369001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a0f9d1d8-8757-4ec2-bf96-0eb1320af18f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "Yohimbine hcl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "895fdb46-da16-4c87-9d6d-a0feab7a39b6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 101,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "Synephrine hcl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "00b4138d-ecdd-4c16-b448-cf4d73ab2080",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Dimethylamylamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75fd87ec-f7fb-4435-a334-dd39c45a27b8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 117,
+      "labels": [
+       "Drug"
+      ],
+      "start": 109,
+      "text": "Caffeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "79f1ca3a-38de-495e-b796-58d4004c039f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 135,
+      "labels": [
+       "Drug"
+      ],
+      "start": 124,
+      "text": "Sibutramine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dimension Labs Super trim x 50 tabs. 30 mg Dimethylamylamine 10 mg Yohimbine hcl 10 mg Synephrine hcl 200 mg Caffeine 10 mg Sibutramine.",
+  "dream_id": 182400,
+  "golden": false,
+  "name": "Dimension Labs Ultraburn x 50",
+  "p_id": 166
+ },
+ "id": 369
+}

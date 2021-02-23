@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 975001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a1023463-3e54-4964-b57c-36e625b4ef3e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "gabapentin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "gabapentin capsules are used to treat various epilepsy also used to treat long lasting pain caused by damage to the brain.",
+  "dream_id": 382456,
+  "golden": false,
+  "name": "gabapentin medreich (300mg) 1000 capsules (10 boxs",
+  "p_id": 578
+ },
+ "id": 975
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 929001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7ba25415-3c64-4544-ac26-c5bd449046d8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "BTH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 14 grams of very good BTH. I have gone through several suppliers until I found the best and I have constant access to a large supply. This stuff is awesome and you will NOT be disappointed. The product comes sealed in a mylar bag which will be inside of a decoy so stealth is top notch. Currently I m only shipping to US customers.",
+  "dream_id": 428687,
+  "golden": false,
+  "name": "Uncut Black Tar Heroin - 14 Grams - $980",
+  "p_id": 522
+ },
+ "id": 929
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1229001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c347d782-6d23-46cb-ac1c-4e12fe8e9c5c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "DIAZEPAM"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3a742203-87f8-4b72-a5b6-6969ed28f880",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1ab8cb6d-0dd7-4dde-af10-72c31a3039c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 72,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "33d1d70e-50df-434c-b17a-c4a5ad19e1fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 112,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "benzodiazepine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "DIAZEPAM 50 x 5 MG. - ANTENEX BRAND. Diazepam , first marketed as Valium , is a medication of the benzodiazepine family that typically produces a calming \/ sedating effect. It is commonly used to treat a range of conditions including anxiety and insomnia. Our products are sealed in air tight stealth packaging with free express shipping within 24 hours of order placement. We take pride in our customer service and feedback. If you have any queries or are unsatisfied for any reason please do not hesitate to contact us. Refer to our terms and conditions below for more information.",
+  "dream_id": 430726,
+  "golden": false,
+  "name": "DIAZEPAM [50 x 5MG] FREE EXPRESS",
+  "p_id": 877
+ },
+ "id": 1229
+}

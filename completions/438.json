@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 438001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1eaccd8c-db00-484d-bece-8e05018a4b68",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "ADDERALL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9c38fefe-cef5-4288-a961-ce17757c67bd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 68,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "ADDERALL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "669b5ab2-669a-4a72-8b5f-9d8e35ebd5d5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 164,
+      "labels": [
+       "Drug"
+      ],
+      "start": 160,
+      "text": "METH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS LISTING IS FOR 10 ADDERALL 30 MG EXTENDED RELEASE. ALL ADDERALL IF FROM A UNITED STATES PHARMACY. THESE ARE NOT PRESSED. BEWARE OF PRESSED PILLS MADE WITH METH. WE ONLY SHIP WITHIN UNITED STATES Imprint R 3061 Strength 30 mg Color Orange. Address Format Name , Surname Street City , Postal code Country. Shipping. All orders are shipped next business day.",
+  "dream_id": 423668,
+  "golden": true,
+  "name": "10 x Adderall 30MG XR (BEST PRICE OF MARKET)",
+  "p_id": 3633
+ },
+ "id": 438
+}

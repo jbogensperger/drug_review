@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1225001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ffa4f67a-352b-4cc3-83e0-7bb919aeee1f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "Ativan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a9fd5dbb-63b0-4397-90e7-58d75ca3b690",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 151,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "Ativan"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We are back Offering TOP Generics. This listing is for 60 Counts Ativan 2 mg Generic Fresh Product Imported from India. Sealed Stuff Best Price. Ativan 2 mg , or Any Quality Available Generic. Will be shipped. We Source Best available product. We do nt get same brands all times , It depends on availability.",
+  "dream_id": 383612,
+  "golden": false,
+  "name": "Ativan 2mg(Lorazepam) x 60 Pills US-US Domestic ",
+  "p_id": 873
+ },
+ "id": 1225
+}

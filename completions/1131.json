@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1131001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b22e76e1-aadc-4985-a43c-a83fcec53934",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 148,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "New Organic Medicated Double Chocolate. Chunk Cookies120 mg each Only 125 for 30 cookies. We design our cookies for people that consume a lot of THC. We first started making our edibles for cancer patients to deal with their pain. All of our edibles are made with love. We use all high end kosher ingredients. A lot of are edibles are gluten free. We hope you enjoy what we have to offer. Ingredients Organic Canna - butter made from the WTF strain , Organic cane sugar , Organic Coco powder , Organic Chocolate Chunks , Organic flour , Baking soda , Salt and Lots of love.",
+  "dream_id": 323043,
+  "golden": false,
+  "name": "Chocolate Chunk Cookies.Only$125 for 30 cookies",
+  "p_id": 756
+ },
+ "id": 1131
+}

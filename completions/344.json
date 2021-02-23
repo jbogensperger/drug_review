@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 344001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "75d2e9ef-fbc7-47dc-a64b-0edb1c01f6fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Potassium Cyanide"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3dc28ff1-8396-4083-b83d-9a9ce1d2a455",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "KCN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Potassium Cyanide , KCN available now. Message for Quantity and Price. For secured fast and direct chat on your order , Get Get Get WICKR ME or KIK apps and message me jerrystam.",
+  "dream_id": 415396,
+  "golden": false,
+  "name": "high quality kcn",
+  "p_id": 132
+ },
+ "id": 344
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 291001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b258d354-5308-468b-be85-c0ee700bc199",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Diesel OG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c4c4fb60-3836-48c6-9209-3ab6a23e71ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 225,
+      "labels": [
+       "Drug"
+      ],
+      "start": 216,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1d4dc510-d33d-4706-96ee-a7c23471679f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 274,
+      "labels": [
+       "Drug"
+      ],
+      "start": 271,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1572cc78-f52b-4646-b440-e60e6d70cdb6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 303,
+      "labels": [
+       "Drug"
+      ],
+      "start": 300,
+      "text": "CBD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "448g of Diesel OG Shatter STEAL PRICE. 6600. This is the real deal and not a misprint. Huge SALE. Stable and light in color when held up like it is in the picture. GREAT RESALE VALUE HERE. OG Diesel Kush is a hybrid marijuana strain with frosty dark green buds. It has a THC content of up to 195 and CBD levels of up to 036.",
+  "dream_id": 304135,
+  "golden": true,
+  "name": "FULL POUND 448g of Diesel OG Shatter; STEAL PRICE!",
+  "p_id": 2784
+ },
+ "id": 291
+}

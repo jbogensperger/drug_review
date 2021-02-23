@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 9001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "faba1e2e-888d-4384-a869-0574b849f49b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 228,
+      "labels": [
+       "Drug"
+      ],
+      "start": 221,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ada2cc1c-f664-497f-a37d-40f7c6d11b6d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 627,
+      "labels": [
+       "Drug"
+      ],
+      "start": 623,
+      "text": "WEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ecf8301b-7cc4-4f0e-84ea-813ee7bc1bb0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 779,
+      "labels": [
+       "Drug"
+      ],
+      "start": 775,
+      "text": "WEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6dac035c-81b9-4d96-b199-6c924edcce96",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 860,
+      "labels": [
+       "Drug"
+      ],
+      "start": 856,
+      "text": "WEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "06113bce-2ee2-40aa-b82c-ec6c884e5f26",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 911,
+      "labels": [
+       "Drug"
+      ],
+      "start": 907,
+      "text": "WEED"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f1b1d87f-e8ea-41f2-840a-3ef4db7d728b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 370,
+      "labels": [
+       "Drug"
+      ],
+      "start": 363,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Good Day Dreamers. Please FE account if possible , this is not a matter of trust , just with the fluctuation of the BTC it makes restocking difficult , very much appreciated. TYT. FREE WEED WITH ORDER OVER 2 GRAMS OF TOP COCAINE or 3 GRAMS OF SOCIABLE. Hi Guys. Many thanks from all the Team , straight to the point with out boring you , To You Team high quality cocaine. Top Quality. You know how we roll and the quality will not disappoint you. Kind regards. To You Team. Hi Guys. It seems that a lot of the members are very happy wit this current offer , so here we go again until stocks last. SPECIAL WEEKS OFFER. FREE WEED WEEK. With every order over 2 grams Top product or 3 grams of sociable product and above we will dispatch with the order a FREE BAG of your finest WEED. Yes that s right FREE no cost to you , if you do not wish to have the FREE WEED please inform us on the address details. FREE WEED. Trade Safe with the TYT.",
+  "dream_id": 6646,
+  "golden": false,
+  "name": "0.5 g of Top Quality Cocaine ",
+  "p_id": 12
+ },
+ "id": 9
+}

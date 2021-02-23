@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1136001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2ff4287f-a8d7-40a6-9046-bc63d6149ae9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "MDMA 500 gram - stealth track free shipping.",
+  "dream_id": 233064,
+  "golden": false,
+  "name": "MDMA 500 gram - stealth + track free shipping",
+  "p_id": 763
+ },
+ "id": 1136
+}

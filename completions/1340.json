@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1340001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1f066ac7-a6ae-4013-b9c4-787f4c2c8215",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f9dceeaf-08ea-46a6-a63b-e517c51ac3c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 95,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3ed7f8ac-d5d1-4fea-8d8c-207510e406d8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 151,
+      "labels": [
+       "Drug"
+      ],
+      "start": 148,
+      "text": "GHB"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "df5d97b2-08a8-46ed-b4d7-4bfbc390da0f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "GHB"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 GR CRYSTALLIZED GHB THAT IS MADE FROM OUR OWN GHB. THIS IS THE MOST PURE AND SOLID FORM GHB CAN GET. BE THE BOSS OVER YOUR OWN STRENGHT OF YOUR GHB.",
+  "dream_id": 395822,
+  "golden": false,
+  "name": "100GR CRYSTALLIZED GHB ~ USA DISTILLED GBL 99.99%",
+  "p_id": 1006
+ },
+ "id": 1340
+}

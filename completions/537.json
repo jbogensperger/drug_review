@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 537001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "23521efe-9d03-4055-aaf2-8fe1dcf4bb0f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "tramadol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 x 50 mg tramadol capsules in genuine blister strip. Brand may vary from picture - always UK PHARMA grade ALWAYS genuine. long expiry.",
+  "dream_id": 23809,
+  "golden": false,
+  "name": " TRAMADOL 50MG X 100 CAPSULES ",
+  "p_id": 159
+ },
+ "id": 537
+}

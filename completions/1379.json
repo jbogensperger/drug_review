@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1379001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c8c4a702-e007-40e3-88fc-8cfcd848cf5f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 267,
+      "labels": [
+       "Drug"
+      ],
+      "start": 264,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Lemon Rainbow Crunch Cookies - 25 5 pk. Our expert Master Culinary experts in medicated edibles put lots of love and years of experience into each and every one of these delicious , heavily medicated cookies. We design our cookies for people that consume a lot of THC. We first started making our edibles for cancer patients to deal with their pain. All of our edibles are made with love. We use all high end kosher ingredients. A lot of are edibles are gluten free. We hope you enjoy what we have to offer. If you pick more than x 3 of this listing , please make sure to pick USPS Bulk Edibles shipping option or your order will be rejected. Ingredients Cannabutter made from the WTF Hybrid strain , Organic wheat flour , Organic fruity rice crisps , Organic Cane sugar , Organic Lemon zest , Organic lemon juice , Organic vanilla extract , Organic eggs , A hint of salt and lots of love.",
+  "dream_id": 323012,
+  "golden": false,
+  "name": "Lemon Rainbow Crunch Cookies-$25 (5pk)",
+  "p_id": 1056
+ },
+ "id": 1379
+}

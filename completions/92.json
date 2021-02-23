@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 92001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e447e0c8-4900-4d1b-8d72-504edd006b95",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "Adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PRIVATE LISTING DO NT ORDER 200 Adderall 30 mg IR pills directly from the pharmacy. Highest quality and best prices around.",
+  "dream_id": 425288,
+  "golden": false,
+  "name": "x200 Adderall 30mg IR Pills",
+  "p_id": 108
+ },
+ "id": 92
+}

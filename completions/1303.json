@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1303001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ac544ffd-75aa-42b0-945b-020b6c1e7c24",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Coumadin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "60 pills Coumadin 5 mg - 72 usd.",
+  "dream_id": 295602,
+  "golden": false,
+  "name": "Custom listing ! ",
+  "p_id": 960
+ },
+ "id": 1303
+}

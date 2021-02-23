@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 889001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "10062672-2693-4649-bd08-8a9e9fb2b14f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "adderall"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "985d3f01-525f-4118-9dc5-62097cf20187",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "30 mg adderall IR , amphetamine salts 30 mg str 8 from the arm x 60 express shipping.",
+  "dream_id": 306345,
+  "golden": false,
+  "name": "30mg adderall IR, amphetamine salts 30mg x60 expre",
+  "p_id": 472
+ },
+ "id": 889
+}

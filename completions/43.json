@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 43001,
+   "lead_time": 141.234,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "637e86c6-22ab-49f1-9809-7fc1517ba013",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "XANAX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "df8577dc-cf66-4d52-bb48-a0584f977024",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 80,
+      "labels": [
+       "Drug"
+      ],
+      "start": 75,
+      "text": "XANAX"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0a885489-f1f9-4a2d-9d38-089419f4a757",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 202,
+      "labels": [
+       "Drug"
+      ],
+      "start": 192,
+      "text": "Alprazolam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "B8ceq0h7AQ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "GG249 "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2gT89VAq5Y",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 69,
+      "text": "GG249 "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "GNFsmS0Djk",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 327,
+      "labels": [
+       "Drug"
+      ],
+      "start": 321,
+      "text": "GG249 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "GG249 XANAX. Bars. OUT OF STOCK. You will be receiving a total of 50 GG249 XANAX BARS. Pressed Perfectly by our well knowledge and highly experienced team. team , using the highest of quality Alprazolam Powder which is almost EC tested by our supplier , the results never drop below 99. The texture and hardness of these GG249 Bars is incredibly perfect.",
+  "dream_id": 413048,
+  "golden": false,
+  "name": "XANAX 2mg (GG249) - 50x - $75 - OUT OF STOCK!",
+  "p_id": 54
+ },
+ "id": 43
+}

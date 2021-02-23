@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1121001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ef8624a4-8d84-4fdf-adc1-6ff4966dbe29",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "hardala"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This fantastic hardala is really nice to see and even more to smoke. By approaching the flame , one can immediately see the substance that begins to bubble. Smoking it is a pleasure for the aroma that it leaves in the mouth and for the average strong effect it gives. Tested and guaranteed - kurama shop.",
+  "dream_id": 328510,
+  "golden": false,
+  "name": "10GR__Hardala Hash__ A+++ HIGH Q",
+  "p_id": 744
+ },
+ "id": 1121
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1321001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "132e2941-f1da-4c2e-990d-8267f0d2b73b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Quantity"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Quantity and Free Shipping as we agreed. Important Carefully read our Profile before ordering from us. You can find all information about our Terms Conditions as well as about the Shipping on our Profile. When ordering from us , you accept our Terms Conditions. We have decided to FE Finalize Early because people do nt seem to understand the risk letting the sale run to auto-finalization. Please understand that as long you have nt finalize your purchase and place a feedback , the coins a blocked on the site for 5 days until Auto - Finalization. Who know what can happen during that period , remember BRM , SR1 2 , C9 , Sheep and Evolution. That s why we choose the FE Finalize Early option so that the coins wo nt be lost in case of a new problem. REMINDER. If there is any problem with your order please contact us. DO NT START A USELESS DISPUTE OR WRITE A BAD FEEDBACK WHEN A PROBLEM CAN WILL BE SOLVED QUICKLY. We ll make all possible to fix it keep you happy with our service.",
+  "dream_id": 101232,
+  "golden": false,
+  "name": "Custom for    B.....t h.........er",
+  "p_id": 979
+ },
+ "id": 1321
+}

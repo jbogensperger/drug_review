@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 277001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ce07363f-9356-4bcd-84eb-fb2b6eca3491",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 273,
+      "labels": [
+       "Drug"
+      ],
+      "start": 265,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b693a32c-6597-44ba-8746-2b6618c7df11",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 302,
+      "labels": [
+       "Drug"
+      ],
+      "start": 294,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0997c7d0-7d28-4ca6-9c5c-bbb7a605f7bb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 379,
+      "labels": [
+       "Drug"
+      ],
+      "start": 370,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8afb20b6-1aaa-4ca7-abce-14bf6e2faf43",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 517,
+      "labels": [
+       "Drug"
+      ],
+      "start": 509,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Please Choose from 3 of these flavors or we can do it for you. if item is not in stock , we will sub in another flavor. -. 180 mg Bhang Bars Cherries Cream 180 mg Bhang Bars Cookies Cream 180 mg Bhang Bars Ice Chocolate. -. America s best tasting , most consistent cannabis chocolate bars. 5 x Cannabis Cup Champion edible category. Bhang s culinary infusion of medical marijuana begins with fairly traded Venezuelan criollo cacao and only the finest natural ingredients. Then it ends up as gourmet chocolate cannabis bars are made buy hand in their revolutionary labaratory kitchen located in the heart of California.",
+  "dream_id": 226220,
+  "golden": true,
+  "name": "Bhang Bars\/\/ 180mg Chocolate Edibles \/\/3 Pack",
+  "p_id": 9633
+ },
+ "id": 277
+}

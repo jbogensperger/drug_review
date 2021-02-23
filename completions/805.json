@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 805001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "313f8375-e28a-4ffd-9703-9e516a54407b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Platinum Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2fc896db-e25c-426a-ba5f-e14098780c38",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 425,
+      "labels": [
+       "Drug"
+      ],
+      "start": 421,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d2c66ef3-3dd5-47dc-bdbb-98c6244d5bdd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 51,
+      "labels": [
+       "Drug"
+      ],
+      "start": 45,
+      "text": "Indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Platinum Kush Indoor Quarter Pound. - Strain Indica , Indoor Grown. - Very potent high , after inhaling your mind and body quickly begin to feel uplifted , narcotic like euphoria that leads to a relax and soothing experience. - Small to medium sized , super dense green and orange bud with crystal covered hairs. - Taste wonderful , smells earthy with hints of pine. - Great for stress , insomnia , and nausau. Mid grade weed for exellent price , will not dissapoint.",
+  "dream_id": 332630,
+  "golden": false,
+  "name": "112g Platinum Kush (Indoor) BACK IN STOCK!",
+  "p_id": 299
+ },
+ "id": 805
+}

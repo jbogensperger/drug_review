@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 363001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "19aeabca-0af8-4400-be16-29602c9ffbb4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "M924"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "13ccab53-1c13-420f-aadc-4bd43655bac2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "Mylan"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Your viewing a listing of 5 x 8 MG M924 Mylan 5x for 150 - fresh from pharmacy.",
+  "dream_id": 370680,
+  "golden": false,
+  "name": "Bupenorphine Mylan(5x tabs) OUT OF STOCK",
+  "p_id": 158
+ },
+ "id": 363
+}

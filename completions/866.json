@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 866001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "49157020-8d39-4b48-b952-46537e492d65",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Trenbolone Enanthate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Trenbolone Enanthate Axio Labs 200 ml \/ ml 10 ml.",
+  "dream_id": 378408,
+  "golden": false,
+  "name": "Trenbolone Enanthate (Axio Labs) 200ml\/ml 10ml",
+  "p_id": 441
+ },
+ "id": 866
+}

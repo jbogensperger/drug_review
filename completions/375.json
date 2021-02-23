@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 375001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6ab1f692-dae1-4791-b532-4f8a26a480b7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Escrow"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Escrow listing. Lowest prices. Best pills. May be another brand sent that is in stock but will always be the same medicine and will always be from USA pharmacies.",
+  "dream_id": 309371,
+  "golden": false,
+  "name": "NORCO HYDROCODONE 10MG\/325 $10.50 EACH X 10 PILLS ",
+  "p_id": 173
+ },
+ "id": 375
+}

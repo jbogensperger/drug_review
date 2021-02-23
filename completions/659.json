@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 659001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "aafcb6e6-702e-4120-8836-fde7e6cfc280",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 24,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "Hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Mazar Sharif Afghan Hash FREE UK NDD.",
+  "dream_id": 418202,
+  "golden": false,
+  "name": "Mazar Sharif Afghan Hash 3.5g FREE UK NDD",
+  "p_id": 330
+ },
+ "id": 659
+}

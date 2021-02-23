@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 971001,
+   "lead_time": 3998.202,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "p5hWpD_hFM",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "lean "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Actavis \/ lean 16 oz - 300 and 32 oz - 500. check out my profile for contact information. discounts for bulk order.",
+  "dream_id": 421266,
+  "golden": false,
+  "name": "Actavis\/lean 16 oz-$300 and 32oz-$500",
+  "p_id": 574
+ },
+ "id": 971
+}

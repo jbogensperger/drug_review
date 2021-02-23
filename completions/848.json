@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 848001,
+   "lead_time": 1068.069,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7d4479ce-d123-4dac-86cc-1ad0654e2d10",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 123,
+      "labels": [
+       "Drug"
+      ],
+      "start": 120,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d5b5cc53-5db0-4fee-865f-10e4e7518bf3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 247,
+      "labels": [
+       "Drug"
+      ],
+      "start": 239,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2ab19adb-f146-4431-b744-bac2dc216f3d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 217,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "Shatter"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "S1Dzez2JF_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "OG Shark"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "OG Shark Shatter. Intro pricing get it while supplies. This rare strain is a Canadian through and through With its high THC content this strain offers powerful relief from nausea pain insomnia and inflammation Shatter is a pure extract of cannabis resulting in a product that has an amber glass transparency. An e nail rig or dab rig is recommended. We ship all of our concentrates in parchment paper.",
+  "dream_id": 318330,
+  "golden": false,
+  "name": "14G OG Shark Shatter - Top quality Canadian concen",
+  "p_id": 416
+ },
+ "id": 848
+}

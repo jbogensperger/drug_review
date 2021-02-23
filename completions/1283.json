@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1283001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "61a0e3d2-8536-4cc8-88d4-fd54cdf85858",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "da1de165-ae32-4c8a-88b3-e295149f5681",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 47,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This Nepal hash is a black and really soft hash from the temples in Nepal and give a really nice high. Shipping really stealth with vacuum seal.",
+  "dream_id": 317353,
+  "golden": false,
+  "name": "3g Nepalese Temple Hash (FE)",
+  "p_id": 936
+ },
+ "id": 1283
+}

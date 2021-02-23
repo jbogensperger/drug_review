@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1273001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d9875a18-bf95-44bd-ae7b-244bf6a36f1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "JEW STAR"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "626ba633-08a9-4bfb-9701-b59a682dd030",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 41,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "10a0f2b8-dfb8-4871-a759-660acff43f28",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 127,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Class A JEW STAR with a classic taste of hash and a great high feeling. Top JUDEN STERN mit eine klassischer geschmack von hash und ein super high gefuhl.",
+  "dream_id": 326972,
+  "golden": false,
+  "name": "*JEW STAR CLASS A 100gr*",
+  "p_id": 924
+ },
+ "id": 1273
+}

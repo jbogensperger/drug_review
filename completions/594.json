@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 594001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f8c6639e-b16e-439a-bb77-9105bddf4fa8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e9b7ead1-97fc-4ae7-b9c8-ba5970dc62f5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "Marijuana"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "total of 50 of Gummy Marijuana Leaf 80 mg each total of 25 of Marijuana Leaf 100 mg each total of 50 of Assorted Lollipops 120 mg total of 50 of Gummy Bears 80 mg Chocolate Chunk Cookies Only 25. This extra special Easter Egg for nerdsfrosty.",
+  "dream_id": 409562,
+  "golden": false,
+  "name": "\"Easter Egg for \"\"nerdsfrosty\"\"\"",
+  "p_id": 248
+ },
+ "id": 594
+}

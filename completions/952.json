@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 952001,
+   "lead_time": 2110.616,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "165171ab-72dc-4b2a-a848-1d5f203fe9ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 246,
+      "labels": [
+       "Drug"
+      ],
+      "start": 236,
+      "text": "CANDY KUSH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "aa87b020-5d47-479e-a215-6631a74fe7ab",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 208,
+      "labels": [
+       "Drug"
+      ],
+      "start": 201,
+      "text": "AMNESIA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "008bd687-aa98-4b55-a6a8-b3ef943bca6f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 214,
+      "labels": [
+       "Drug"
+      ],
+      "start": 211,
+      "text": "G13"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4ebf52ac-79fe-4141-ad1d-70f8585ea4e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 224,
+      "labels": [
+       "Drug"
+      ],
+      "start": 217,
+      "text": "CHRONIC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bcb92b1c-4530-4b49-8b80-e3f5345d63e3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 233,
+      "labels": [
+       "Drug"
+      ],
+      "start": 227,
+      "text": "CHEESE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "776f4531-8222-438c-85dd-9b7490de0d46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "thc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "F0MlYHGwic",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 198,
+      "labels": [
+       "Drug"
+      ],
+      "start": 189,
+      "text": "ZERO ZERO"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "These are 500 mg thc vape juices of highgrade coffeeshop strains. Please state which strain is required with order. Usually all strains are available. Please allow a few days for shipping. ZERO ZERO , AMNESIA , G13 , CHRONIC , CHEESE , CANDY KUSH and many more.",
+  "dream_id": 389514,
+  "golden": false,
+  "name": "5ml HIGHGRADE OIL VAPE JUICE various strains 2",
+  "p_id": 550
+ },
+ "id": 952
+}

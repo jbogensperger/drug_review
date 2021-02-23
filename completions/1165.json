@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1165001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a15b0868-3a04-4c07-a0ec-95a7b7d383a9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 335,
+      "labels": [
+       "Drug"
+      ],
+      "start": 324,
+      "text": "Cherry . Pie"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9a8cd284-9c7f-42fe-9fba-b12368eb9e79",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 129,
+      "labels": [
+       "Drug"
+      ],
+      "start": 112,
+      "text": "Granddaddy Purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "746c3bd2-4907-4c40-a174-a523876ebff7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 241,
+      "labels": [
+       "Drug"
+      ],
+      "start": 231,
+      "text": "cherry pie"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3f6f245c-ad8c-426f-b1aa-266a738eda28",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 253,
+      "labels": [
+       "Drug"
+      ],
+      "start": 243,
+      "text": "Cherry Pie"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7915983d-f5be-4469-afa4-8bc6fa7ff0b3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 428,
+      "labels": [
+       "Drug"
+      ],
+      "start": 418,
+      "text": "Cherry Pie"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 1 Oz of our A grade Hydroponic Cherry Pie. Strain Highlights. Cherry Pie is a cross between Granddaddy Purple and Durban Poison. This bud tastes and smells as you would expect , like sweet berries and delicious cherry pie. Cherry Pie s effects come on very quickly and have been known to last for hours. Cherry. Pie can be very relaxing and euphoric , providing you with lots of smiles and laughs. Cherry Pie is known for dense buds with a touch of purple and lots of orange hairs.",
+  "dream_id": 417039,
+  "golden": false,
+  "name": " $125 Ounces!! Hydroponic Cherry Pie",
+  "p_id": 805
+ },
+ "id": 1165
+}

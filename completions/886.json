@@ -1,0 +1,145 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 886001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "07d76acb-7f2c-4a01-95ab-336880b514cf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "2C - B"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5066b562-9110-48b2-b651-ae4730ed0963",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 281,
+      "labels": [
+       "Drug"
+      ],
+      "start": 275,
+      "text": "2C - B"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ca8d0a10-6b98-492d-a3ef-f28e663c4737",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 466,
+      "labels": [
+       "Drug"
+      ],
+      "start": 460,
+      "text": "2C - B"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cee01256-7dbe-4e4b-8810-f2252760efc9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 587,
+      "labels": [
+       "Drug"
+      ],
+      "start": 581,
+      "text": "2C - B"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e9b9a85f-1586-479d-b2ab-166156d63c16",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 76,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "39d8c4ea-ec7f-495f-9a1f-674915b337f7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 88,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "73142e8a-4dd3-453e-9074-9c22724bfc16",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 238,
+      "labels": [
+       "Drug"
+      ],
+      "start": 235,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f93feeb6-bf55-4711-9b13-6dcf3f9fcae2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 273,
+      "labels": [
+       "Drug"
+      ],
+      "start": 269,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "02adfbfa-14e4-4df3-a132-2fcfdcb530c3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 323,
+      "labels": [
+       "Drug"
+      ],
+      "start": 319,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "The effects of 2C - B have been described as a cross between the effects of LSD and MDMA , but that it is nothing like a combination of the two. It is mildly psychedelic , much less mind - expanding or disassociative than mushrooms or LSD , but much less directed than MDMA. 2C - B can be used in some of the same ways MDMA is used for working through interpersonal issues and dealing with emotional conflicts. Inappropriate smiling or giggling is common with 2C - B and other psychedelics. These square solid pressed tablets are lab tested and cotains 15 mg of the finest quality 2C - B available. These tablets come exactly as shown in the picture.",
+  "dream_id": 218508,
+  "golden": false,
+  "name": "2C-B 'Netflix & Chill' tablets 15mg: 10 pc",
+  "p_id": 465
+ },
+ "id": 886
+}

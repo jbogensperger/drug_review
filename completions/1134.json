@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1134001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "00348759-4a8d-40c8-90ff-809ddac3c842",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "89882a51-0680-49bd-a08e-39147f948810",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 164,
+      "labels": [
+       "Drug"
+      ],
+      "start": 157,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ea7d9219-299d-4bc1-a85e-4c28e7f1afc3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 284,
+      "labels": [
+       "Drug"
+      ],
+      "start": 277,
+      "text": "cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Our Cocaine is pure uncut to delivery a powerful high. It is totally unaltered meaning as pure as we get it is as pure as you ll receive it. We lab test our cocaine which comes in at an absolute minimum of 85 usually around 90 - 92. There s no nasty crash or comedown with our cocaine you can rest assured you ll get a lovely clean buzz throughout. Your friends wo nt be disappointed you wo nt be embarrassed. Our stealth is outstanding as maintaining your privacy safety comes as a top priority to us. Orders taken until 6 PM. Next day delivery for UK orders. All other destinations delivery times are as follows. Europe 3 - 4 Days Worldwide 4 - 6 Days.",
+  "dream_id": 97627,
+  "golden": false,
+  "name": "*** 7g Pure Uncut Cocaine  *** FREE NDD UK!",
+  "p_id": 760
+ },
+ "id": 1134
+}

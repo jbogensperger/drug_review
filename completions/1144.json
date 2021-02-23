@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1144001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ca270713-7ed0-4b1d-aaaa-a2d5b2b161e9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 87,
+      "text": "xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "816c6dd8-0eab-445c-a4b0-6f496e23b2cf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 125,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "alprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FE. SOLD OUT WO NT SHIP TILL TUESDAY 10\/02\/17. This listing is for 10000 GG249 stamped xanax pressed with 25 mg of alprazolam. The shape pressure and size is complete on point with pharmas as well as the gloss effect. We strive to create the best product for our customers that they are so identical to pharmas you can surpass your normal profit margin. As of now we will only be doing 1500 Minimums on the ggs because of the price discount. b Address Format \/ b. Name Street Address. Apt \/ Unit Number. City , State , Zip. b Important Information b. - All orders placed after 8 am Est will go out the following day - Shipping time varries from 2 - 3 days - WE DO NOT OFFER EXPRESS - There is no guranteed extras EVER you will always receive atleast what you ordered and more than likely it ll be over. - We do not provide reships unless the package is seized \/ lost on shipments marked as undeliverable you are responsible. We appreciate all the continued support.",
+  "dream_id": 344083,
+  "golden": false,
+  "name": "10000 GG249 Xanax 2.5mg SALE!!! SOLD OUT!!!",
+  "p_id": 772
+ },
+ "id": 1144
+}

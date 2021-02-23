@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 114001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "22681b40-7e28-4e89-9580-41f2bf877068",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "METH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fefbee65-22a7-491d-9c87-568e3eb52d63",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 78,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "Methamphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BEST METH OF DREAM MARKET BACK IN STOCK. Pharmaceutical grade. Methamphetamine PureUncut. Always comes in nice big shards. Straight from the Lab. This is as good as it gets like all our products.",
+  "dream_id": 161859,
+  "golden": true,
+  "name": "0.5G Crystal Meth ICE Pure&Uncut A+++",
+  "p_id": 8365
+ },
+ "id": 114
+}

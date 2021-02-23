@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1022001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "82bb393d-fc90-4910-8c63-4f1033561a63",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 39,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Midazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "You are purchasing one box of Midazolam 15 mg with 14 pills packaged in blister. You will receive exactly the box in the picture because I took the photo of the box I am selling All my medicines come from a pharmacy in Europe and are according to EMEA rules European Medicines Agency. Our products are shipped in registered mail with tracking number and are carefully packaged. For more information about the product please contact me.",
+  "dream_id": 318074,
+  "golden": false,
+  "name": "Midazolam 15 mg  14 pills dormicum versed buccolam",
+  "p_id": 639
+ },
+ "id": 1022
+}

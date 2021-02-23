@@ -1,0 +1,20 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 40001,
+   "lead_time": 10.0,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I ve had requests to put up a tip jar , so here it is. Although I do nt expect tips , I try to go out of my way to treat people well , and give as good of deals and as low of prices as I possibly can. And if you ve talked to me , you know I ll bend over backwards to help good people out in any way I can , so if for some reason you feel the need to say thanks here it is. OR hey , if for some reason you ve got an extra couple grand , or even million bucks or two that you do nt really want or is just sitting around collecting dust and you do nt know what to do with it , I ve set up another couple tip jars for thousand and million dollar tips too. Feel free to use those many many times D.",
+  "dream_id": 367640,
+  "golden": false,
+  "name": "H2o $1 tip jar",
+  "p_id": 51
+ },
+ "id": 40
+}

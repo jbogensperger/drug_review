@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1053001,
+   "lead_time": 3907.526,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9a8f814c-02b2-4c5b-87f7-38e49d5c4260",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 358,
+      "labels": [
+       "Drug"
+      ],
+      "start": 335,
+      "text": "Testosterone Propionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3d439b37-49a6-4e9f-83ae-114ab5812721",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Nexium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1adde45e-f6f9-4ba6-87d6-8702cae55daf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 165,
+      "labels": [
+       "Drug"
+      ],
+      "start": 159,
+      "text": "Nexium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "J7T2PZXKJ6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 366,
+      "labels": [
+       "Drug"
+      ],
+      "start": 359,
+      "text": "NEXIUM "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We are general distributor of Nexium in Europe. That means , we have full control on restrictive standards , purity and dosing of products. You can check your Nexium product using a website and auth. codes. The product is such good , that you have 100 guaranteed satisfaction from our shop. Listing contains. 100 mg \/ ml 10 ml vial of Testosterone Propionate NEXIUM brand. Dosing min 100 mg every 2 days. Almost 100 shipping rate and quick delivery guaranteed usually up to 7 days within EU Shipping within 1 working day.",
+  "dream_id": 317429,
+  "golden": false,
+  "name": "NEXIUM TESTosterone PROPionate  100mg\/ml  10ml ",
+  "p_id": 678
+ },
+ "id": 1053
+}

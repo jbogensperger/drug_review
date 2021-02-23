@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 577001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6695f527-46f8-437f-8ff3-f9cb912e609c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 42,
+      "text": "hashish"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "There is not much to say except that this hashish is really beautiful and powerful. Top Quality.",
+  "dream_id": 328630,
+  "golden": false,
+  "name": "10 GR__Charas Cream Hash__A++++ High Q",
+  "p_id": 224
+ },
+ "id": 577
+}

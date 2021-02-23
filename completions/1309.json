@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1309001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d9d9ac2a-94c9-489d-88ec-abc6b4a90ce1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 163,
+      "labels": [
+       "Drug"
+      ],
+      "start": 158,
+      "text": "Skunk"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3ed64179-16a3-4d2e-a929-331c69fb9819",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 639,
+      "labels": [
+       "Drug"
+      ],
+      "start": 633,
+      "text": "indica"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Cheese also called UK. Cheese or Exodus Cheese is a famous clone - only strain that originated in England around 1989 , reportedly from a pack of Sensi Seeds Skunk 1. An extremely potent and high - yielding plant with a pungent cheese - like odor , it was passed around the underground to various growers and breeders over the years until it became one of the most popular and ubiquitous strains in the UK. Sometime around 2004 , the breeder known as Big Buddha took this clone and crossed it with a carefully selected Afghani indica to create a seed version of Cheese. Big Buddha. Cheese won the High Times 2006 Cannabis Cup in the indica category and went on to become probably the most popular and widely available Cheese hybrid produced in seed form. It is known for its sweet , tropical fruit meets skunky - cheese smell and large yields of high potency flowers.",
+  "dream_id": 121186,
+  "golden": false,
+  "name": "Big Buddha Cheese125g ",
+  "p_id": 966
+ },
+ "id": 1309
+}

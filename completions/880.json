@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 880001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7fc95e39-6826-4555-8289-f68c9214ddda",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "OxyContin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7e70dfda-c55b-4582-bc48-e79d6dea796c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 65,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "oxycontin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "80 mg OxyContin OP formula. This is the real deal 80 mg oxycontin. Cuff off time for shipping is 33 pm mon-fri.",
+  "dream_id": 418454,
+  "golden": false,
+  "name": "1 X OxyContin 80mg OP formula new vendor",
+  "p_id": 457
+ },
+ "id": 880
+}

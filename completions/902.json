@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 902001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "64b492ec-823f-45af-86ea-591b7d7906d8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "IF"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "IF YOU ORDER MORE THAN 1 AND WA NT THE EACH WEIGHED OUT SEPERATE PLEASE MESSAGE ME OTHERWISE YOU WILL JUST GET THE OVERALL QUANTITY IN 1 PACKAGE. I sell 10oz of this repo weekly and never get any complaints so now it s time to spread it out a bit further. WHY SO CHEAP. I m pretty high up in the chain so get some amazing prices already. So I m passing them on. WHATS THE QUALITY. It s decent , I use it myself and enjoy it all night on a sesh. I could nt give you a percentage without lying so I m not gon na bullshit you.",
+  "dream_id": 90824,
+  "golden": false,
+  "name": "1G Cheap Cheerful Cocaine.",
+  "p_id": 491
+ },
+ "id": 902
+}

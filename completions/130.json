@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 130001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8a7c10ec-e39d-4580-bc09-ca39f06b41c5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "COCAINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c876da6a-f502-4086-abd3-085b315c30fe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2 GRAM CLEAN FLAKES COCAINE. Clean Colombian. Cocaine straight of the brick Very strong smell with a very nice warm euphoria. Please read our terms and conditions before ordering.",
+  "dream_id": 316238,
+  "golden": true,
+  "name": " PROMOTION 75 EURO 2 GR CLEAN COCAINE ",
+  "p_id": 10839
+ },
+ "id": 130
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 698001,
+   "lead_time": 1778.841,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "yK7-RHp8hm",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 3,
+      "text": "hybrid haze"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "uk hybrid haze high quality , introductary price limited time only. free uk delivery on all orders. same day postage on orders placed before 4 pm. 1 - 2 day delivery gb only. this is the genuine article , very strong , a huge ammount of stock. honest reviews appreciated. 35g - 3250 gbp 7g - 63 gbp 14g - 120 gbp. free first class delivery with high class stealth. MYLAR.",
+  "dream_id": 422010,
+  "golden": false,
+  "name": "uk hybrid haze 3.5g 32.50 gbp, uk free delivery",
+  "p_id": 375
+ },
+ "id": 698
+}

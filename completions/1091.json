@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1091001,
+   "lead_time": 3921.425,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e02b0a15-ea50-4a28-a641-117c19b92196",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Norcos"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "qC8htwfF75",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 64,
+      "labels": [
+       "Drug"
+      ],
+      "start": 59,
+      "text": "M367 "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Selling my script of 120 Norcos. These are the 10 mg ones. M367 ones to be exact , made by Mallinckrodt. I do nt ship international.",
+  "dream_id": 339437,
+  "golden": false,
+  "name": "qty 120 - Norco 10-325mg (Acetaminophen & Hydrocod",
+  "p_id": 721
+ },
+ "id": 1091
+}

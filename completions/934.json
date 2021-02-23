@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 934001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "012a002a-b7a6-4fc0-a09f-41398c6075da",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "ADDERALL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ADDERALL 125 mg x 50 Pills 10 each. USA. Instant Release. MFG MFG. Varies.",
+  "dream_id": 429411,
+  "golden": false,
+  "name": "ADDERALL 12.5mg x 50 Pills $11 each!!!! USA",
+  "p_id": 529
+ },
+ "id": 934
+}

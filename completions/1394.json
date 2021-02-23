@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1394001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7c8ed896-6896-40d1-b967-7a54c3075fb1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 88,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "meth"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f6636c1f-da32-44fb-9943-7ed63aa330d4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 208,
+      "labels": [
+       "Drug"
+      ],
+      "start": 204,
+      "text": "Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is 08g Euphoric in her purity with a Beautiful body high. UNTAINTED HA meth. UNcut ,. NO. Re-rocked garbage ,. Any route of administration will act fast. Unlike , other Narcotic Dealers , my Meth is insured \/ GUARANTEED to release dopamine Quicker than most Methylated forms. Your cargo will contain 02 g - 17g more in the slim to none chance of finding higher quality of mind altering , eye poppin , vapors. The potency will leave the avid connoisseur feeling satisfied in every fix , hit , or parachute. All shards are 100 untainted , and untouched. Beakers. Pyrex. Yours Truly YOU. FE listing.",
+  "dream_id": 145,
+  "golden": false,
+  "name": "H.Q. 'Thunder Mountain' Shards 0.8g",
+  "p_id": 1074
+ },
+ "id": 1394
+}

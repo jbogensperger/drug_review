@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1383001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "31f5c27f-35d6-4990-af19-7d84fd9add9c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 54,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d302d641-e944-4f47-a752-7294f1f3b1d3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 70,
+      "labels": [
+       "Drug"
+      ],
+      "start": 64,
+      "text": "Sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "11d3a1f4-b1df-4b0f-bbed-fdd9efd0dd46",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 108,
+      "labels": [
+       "Drug"
+      ],
+      "start": 100,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4069e699-0045-4037-8ef7-2df17d0e7f3a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 178,
+      "labels": [
+       "Drug"
+      ],
+      "start": 170,
+      "text": "cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9d529046-7338-4d5f-bb92-e5211b406cb8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 199,
+      "labels": [
+       "Drug"
+      ],
+      "start": 196,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "18910e02-7e58-4475-a859-509c29d2b6cd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 353,
+      "labels": [
+       "Drug"
+      ],
+      "start": 344,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75ceebc6-df8d-4b0c-be7e-bff1d5e9c6ed",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 389,
+      "labels": [
+       "Drug"
+      ],
+      "start": 380,
+      "text": "marijuana"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS IS FOR 30 CARTRIDGES 1 BOX - Assorted Flavors. - Indica or Sativa or Hybrid. - 100 Organic CO2 cannabis oil - Solvelentless , lab tested , no butane , medical grade cannabis. By vaporizing , THC and other medically active Cannabinoids are emitted with little to none of the carcinogenic tars and noxious gases found in smoke. Many medical marijuana patients who find smoking marijuana highly irritating , report effective relief through vaporizers. Users who are concerned about the respiratory hazards of smoking are strongly advised to use vaporizers.",
+  "dream_id": 301267,
+  "golden": false,
+  "name": "*30 pc (1 BOX)- 500 mg CO2 Clear Vape CARTRIDGES*",
+  "p_id": 1060
+ },
+ "id": 1383
+}

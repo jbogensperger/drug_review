@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 876001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cb05f6f9-b52e-4e96-b102-3cd77812ad41",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "100 mg of fine meth. Buy this same item for 40 USD when you fe.",
+  "dream_id": 396168,
+  "golden": false,
+  "name": "100mg Meth ESCROW",
+  "p_id": 453
+ },
+ "id": 876
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 111001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3a9fb8e6-4350-4248-92c7-b7bc13e6a192",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 60,
+      "labels": [
+       "Drug"
+      ],
+      "start": 52,
+      "text": "Adderall"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "this listing is for ninety 90 30 MG Instant Release Adderall perfect for partying , studying , and concentrating easy to split up into halves 15 m g or quarters 75 mg. I ve been a long time DNM vendor with successful stints on SR , Agora , Abraxas and MEM. Looking forward to building more meaningful relationships on Dream. Delivery GUARANTEED w\/ in 1 week.",
+  "dream_id": 411950,
+  "golden": true,
+  "name": "90X Adderall 30MG Instant Release ",
+  "p_id": 11561
+ },
+ "id": 111
+}

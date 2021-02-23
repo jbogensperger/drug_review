@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1244001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0aa24ebc-9a75-40df-b508-8579839c7f50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "68d88a5d-d569-40db-8e76-90f6f60655ec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 38,
+      "text": "Amphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Amphetamine Strong. Very strong Dutch Amphetamine , not cutted. 73 Purity. PartyNL.",
+  "dream_id": 308757,
+  "golden": false,
+  "name": "AMPHETAMINE STRONG73% PURITY 5 G",
+  "p_id": 894
+ },
+ "id": 1244
+}

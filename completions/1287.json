@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1287001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8fd315f1-6d03-4d09-9c7d-dbfbbca5bdac",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "Vicodin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8cc7016b-9abe-4927-9400-1759441afde5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 167,
+      "text": "Vicodin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We provide safe and fast services , in supplying best quality Vicodin in bulk. 10 mg tabs \/ 6 250tabs \/ 1000 min order Pharmacy based in USA. we have the best quality Vicodin of which have been confirmed by our buyers in other markets. So placing your order will be our gratitude for you to receive your package ASAP. PLEASE FOR QUICK AND FAST RESPONDS CONTACT US VIA. Wickr Me ID highlighter. kik ID highlighter199.",
+  "dream_id": 402904,
+  "golden": false,
+  "name": "Vicodin 10mg \/250tabs for $1000 ",
+  "p_id": 940
+ },
+ "id": 1287
+}

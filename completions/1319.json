@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1319001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7b48a4e7-342f-4299-b87b-9b2a6dba3390",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Hashish"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Hashish straight from the routes no bullshit or cuts. Gives a chilling high and good feel.",
+  "dream_id": 398348,
+  "golden": false,
+  "name": "10 Grams - Moroccan Hash 43% THC (WORLD)",
+  "p_id": 977
+ },
+ "id": 1319
+}

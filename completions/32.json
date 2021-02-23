@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 32001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6723b5ad-958b-4011-a353-117a3e0be7c9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "A recently acquired vial of liquid LSD that will be laid to order. Dose to a drop is approximately 100 mcg give or take.",
+  "dream_id": 27391,
+  "golden": false,
+  "name": "LSD blotter - 10x - Freshly laid",
+  "p_id": 42
+ },
+ "id": 32
+}

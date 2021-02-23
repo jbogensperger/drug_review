@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 655001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1e2631d8-2ac3-4293-8ffd-4f2ac9ac1000",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 79,
+      "labels": [
+       "Drug"
+      ],
+      "start": 67,
+      "text": "crystal meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 2g GUARANTEE OVER WEIGHT. Very good quality of crystal meth. All orders are vac sealed with stealth packaging.",
+  "dream_id": 315548,
+  "golden": false,
+  "name": "2g Crystal Meth ***High Quality***",
+  "p_id": 326
+ },
+ "id": 655
+}

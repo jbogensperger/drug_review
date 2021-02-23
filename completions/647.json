@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 647001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "03342f52-a040-499c-a6c6-526d3948cfb1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Methoxyacetylfentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5c1bd3bc-3a1c-4ece-afea-697b91f1f2e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "HCL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Methoxyacetylfentanyl , CLOSELY RELATED TO HCL IN STRENGTH BUT SURPASSES IN HALF - LIFE. HIGH QUALITY PRODUCT FOR YOUR LAB WORK. EASILY DISSOLVES IN H20W \/ BA. RATIO IS DEPENDENT ON QUANTITY BUT OUR LAB WORK SAYS A 85\/15 RATIO IS SUFFICIENT. NOT FOR HUMAN CONSUMPTION.",
+  "dream_id": 406089,
+  "golden": false,
+  "name": "300MG MAF-DOMESTIC USA! EXPRESS OK!10%4FE",
+  "p_id": 317
+ },
+ "id": 647
+}

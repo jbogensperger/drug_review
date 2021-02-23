@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 722001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8728a9c4-f33b-4a77-9bf6-e6e32622fa1b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "Oxymetholone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "13586ae6-47df-43a0-b4c4-c5948ff13aca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 171,
+      "text": "steroids"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "32538f73-1251-4bf9-a7ca-e045b3059848",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 267,
+      "labels": [
+       "Drug"
+      ],
+      "start": 260,
+      "text": "steroid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "BIONICHE Oxy - Med Oxymetholone 50mg \/ tab , 60tabs \/ box. 100 positive feedback on Alphabay. 3000 sales EU shipping with tracking. Unbeatable prices. Wholesale prices on steroids without resellers - EU shipping avoid all borders. Become Big or Build your own steroid empire localy. Even more discounts on volume 1000 orders contact in pm.",
+  "dream_id": 311138,
+  "golden": false,
+  "name": "BIONICHE - Oxymetholone 60tabs",
+  "p_id": 402
+ },
+ "id": 722
+}

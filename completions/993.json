@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 993001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d0eb225b-89f3-413f-b6b0-f6423f9f16ee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "Sativa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "All - time favorite Sativa dominant strain , organically grown. Good medicine.",
+  "dream_id": 263609,
+  "golden": false,
+  "name": "Ounce(28g) Blue Dream",
+  "p_id": 604
+ },
+ "id": 993
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 54001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "300198ce-f184-4fff-9595-266b223be79c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Jintropin100"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ce69fca6-6295-4f60-9c68-28a96557da7c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 58,
+      "labels": [
+       "Drug"
+      ],
+      "start": 55,
+      "text": "HGH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Jintropin100 IU 100 usd per KIT - HUMAN GROWTH HORMONE HGH Minimum. ORDER 35 KITS PHARMACY GRADE PRODUCT. Our minimum order is 35 kits because we are wholesalers and recently on promotion with our products. We also give 15 discount for huge orders and some free gifts. GUARANTEED DELIVERY FREE EXPRESS SHIPPING From USA and EUROPE - 100 Quality Product. For more details download WICKR ID or KIK ID OUR CONTACT EMAIL is TylerNicholswingorgWICKR. ID steroidshghpep. KIK ID steroidshghpep. Please use our private email to contact us whenever you want to find out any information about your existing order you ve placed with us or looking to place a new order. We will be happy to assist you.",
+  "dream_id": 424400,
+  "golden": false,
+  "name": "Jintropin100 IU HGH kit ONLY 100$ usd per KIT",
+  "p_id": 65
+ },
+ "id": 54
+}

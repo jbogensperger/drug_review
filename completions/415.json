@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 415001,
+   "lead_time": 425.003,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1ec932a2-9d8a-4786-9e88-a8d5a2f1b491",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 293,
+      "labels": [
+       "Drug"
+      ],
+      "start": 284,
+      "text": "melanotan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "495cf4a0-2d92-4b18-95d0-72e7d6e5d4a2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "melanotan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "24K1nhyssd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 364,
+      "labels": [
+       "Drug"
+      ],
+      "start": 356,
+      "text": "alcohol "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "qwBNv2wkYW",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 355,
+      "labels": [
+       "Drug"
+      ],
+      "start": 294,
+      "text": "2 ing - Ac - NIe cyclo Asp - His -D - Arg - Trp - Lys. benzyl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Is a synthetic analogie of the naturally occuring melanotan in your bidy , has been proven to enhance the tanning process by increasing the darkening pigmintation in the skin. they also have been known to increase aphrodisiac affects sexual drive and help with a lack of amino acids. melanotan 2 ing - Ac - NIe cyclo Asp - His -D - Arg - Trp - Lys. benzyl alcohol 2 benzyl benzoate 20.",
+  "dream_id": 267622,
+  "golden": false,
+  "name": "Melanotan 2 ",
+  "p_id": 220
+ },
+ "id": 415
+}

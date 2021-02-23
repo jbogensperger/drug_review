@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 904001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d890511f-d0e8-4839-82fb-ed538ed8f178",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Actual"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Actual item shown above. 1 gram directly from Mexico no cut. A.",
+  "dream_id": 284441,
+  "golden": false,
+  "name": "HIGH QUALITY BLACK TAR HEROIN - 1gr + Full Escrow",
+  "p_id": 493
+ },
+ "id": 904
+}

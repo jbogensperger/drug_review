@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1170001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5d65348c-7e8a-4482-8685-f97dc8d0ea84",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Heroin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1300 for 1 oz of our pure Gun Powder Blacktar Heroin sourced directly from the chef who manufactures it himself. USA CUSTOMERS SELECT OPTION 1 OR 2 FOR SHIPPING. ALL INTERNATIONAL CUSTOMERS MUST USE INTERNATIONAL. SHIPPING OPTION AND THE PRICE IS MUCH HIGHER THAN DOMESTIC USA BECAUSE THAT IS MAKING IT EASIER FOR ME TO NOT CREATE AN ALTERNATIVE LISTING FOR INTERNATIONAL CUSTOMERS. The reason for the high price for my international customers is not so much shipping costs but mostly to cover material expenses to package and ship the product to guarantee that it reaches your drop location in prestine condition the same way it was when it left our factory. Trust me it will be worth the extra cost to ensure that your product reaches you , think about what negative effects it will have if your package does not make it to you then that s money out of your pocket that you are stuck waiting for us to negotiate a reship or refund etc. AUSTRALIAN CUSTOMERS. See my Australian Listing.",
+  "dream_id": 359482,
+  "golden": false,
+  "name": "1 Ounce of Gunpowder Blacktar Heroin",
+  "p_id": 811
+ },
+ "id": 1170
+}

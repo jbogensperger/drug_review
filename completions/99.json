@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 99001,
+   "lead_time": 1385.539,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "Vb3CqYB7cF",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Hash "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "17g Super Hash Pollen \/ Rif Al Hoceima.",
+  "dream_id": 367562,
+  "golden": false,
+  "name": "17g Super Hash Pollen \/ Rif Al Hoceima",
+  "p_id": 115
+ },
+ "id": 99
+}

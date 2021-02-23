@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1040001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1a33d3c9-53b2-4c52-b06e-6612f3deb512",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 14,
+      "text": "2 CT2"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Great quality 2 CT2. This might be some of the last stuff to be produced in a real lab in China. They nailed the synth on this one. Sorry about the price. But I do nt have much left after I take out my personal supply. This batch is white and a little sparkly.",
+  "dream_id": 62788,
+  "golden": false,
+  "name": "500 mg 2CT2",
+  "p_id": 660
+ },
+ "id": 1040
+}

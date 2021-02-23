@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 404001,
+   "lead_time": 874.377,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f3ed0a8d-7223-4096-baf2-d8abdbd80c98",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "Xanax"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3powUA5DRj",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 332,
+      "labels": [
+       "Drug"
+      ],
+      "start": 326,
+      "text": "Benzos"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Dear Customers ,. We proudly present our next Product. AUTHENTIC. Xanax Pfizer 2mg. With 4 Stripes , so you can split it in 4 parts each 05 mg. Means you basically have 4 days without Anxiety or sleeping problems with 1 pill. The Dosage is big , take with Caution and do nt take the whole thing if you have no experience with Benzos. BATMAN.",
+  "dream_id": 402109,
+  "golden": false,
+  "name": "+++ 3x 2MG Xanax -Aplrazolam-- PFIZER",
+  "p_id": 206
+ },
+ "id": 404
+}

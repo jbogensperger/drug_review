@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 494001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f91a533d-8a5c-4bb4-9e5f-38cfc8881139",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e835bcfa-38c8-462f-80f0-952abb890cc6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d637c918-c477-4a1b-8dc9-2fb690f4e300",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 119,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3ffb98c-ab3f-4298-b2aa-27ca17a0d307",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 177,
+      "labels": [
+       "Drug"
+      ],
+      "start": 173,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e4f9cbce-8b4a-4182-8450-b90c54773912",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Marlboro Hash. original marokkan hash with holland genetiks this hash is made from the plant Jack herrer very nice hash. it is very soft without heating it very nice earthy hash taste. Quality B.",
+  "dream_id": 372603,
+  "golden": true,
+  "name": "10g Marlboro Hash ",
+  "p_id": 4753
+ },
+ "id": 494
+}

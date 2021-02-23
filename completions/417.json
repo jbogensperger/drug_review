@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 417001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4ae91077-0a60-4208-91d5-c1bd9ed3b850",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 440,
+      "labels": [
+       "Drug"
+      ],
+      "start": 428,
+      "text": "HCL Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f7644432-1948-4956-902c-ab719d5e1122",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1723aeb5-ac1d-4a8a-833c-fcf501d99528",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "HCL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "20 Gram Fentanyl. HCL very potent stuff on sale as we would like to move this very potent product to someone who can handle and dose it properly , We Suggest at this amounts to open the package with gloves and it will have multiple seals for everyones safety , , Rememeber this is a very highly toxic to those in tolerant to it , Those who have high tolerance or are pressing pills. Know more we just know this was tested at 89 HCL Fentanyl we will offer free tracked shipping on this amount. Once funds are released the tracking will be updated upon package moving.",
+  "dream_id": 347138,
+  "golden": false,
+  "name": "Fent HCL Pure Gram, 20 Gram sale",
+  "p_id": 223
+ },
+ "id": 417
+}

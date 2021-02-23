@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1221001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cce56fe2-ac1b-4aa5-8891-d866b121c17c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "TEMPORARY ACTION PRICE MDMA 10 gram - stealth tracknumber. SEE OUR PROFILE FOR THE TERMS AND CONDITIONS.",
+  "dream_id": 234164,
+  "golden": false,
+  "name": "ACTION MDMA 10 gram - stealth + track",
+  "p_id": 868
+ },
+ "id": 1221
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1196001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bafa50cb-b497-4e61-9010-9be06653c89c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 36,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "225886ed-fe20-4b81-9398-822a9c4cc607",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 144,
+      "labels": [
+       "Drug"
+      ],
+      "start": 137,
+      "text": "Cocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "05g. Pure Untouched Bolivian Cocaine. Keeping it short sweet. As stated in our profile , this stuff is real top of the range. Fantastic. Cocaine that is real smooth on the nose , and gives a lovely sense of euphoria. Pure white in colour with a lovely shine and glint. Full Escrow available. Free delivery on all standard shipping to the UK mainland. Please read our profile before ordering , any questions - feel free to drop us a message.",
+  "dream_id": 29519,
+  "golden": false,
+  "name": "Pure Untouched Bolivian Cocaine - 0.5g",
+  "p_id": 841
+ },
+ "id": 1196
+}

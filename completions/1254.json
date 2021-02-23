@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1254001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "67e1115b-dd5b-4933-a13c-e7925d5c4313",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 33,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6c93e6c3-f7dc-400d-94bb-7b1f72103b01",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 91,
+      "labels": [
+       "Drug"
+      ],
+      "start": 79,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "35809faf-815a-4bc4-91b4-589b98fe287f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Somango"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5f309051-01ab-4b40-ac7a-7bcb498f22ae",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 49,
+      "text": "Critical"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "39c80d09-1e8a-4d8e-ae2b-ede404ae701d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 67,
+      "labels": [
+       "Drug"
+      ],
+      "start": 60,
+      "text": "Somango"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "92338cce-74a1-4c72-8e85-50ff29cfa4fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "NYCD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1g C 1g White Widow x Somango 1g Amnesia Haze 1g Critical x Somango 1g NYCD 1g Amnesia Haze P2.",
+  "dream_id": 428032,
+  "golden": false,
+  "name": "Custom list for og-locco17",
+  "p_id": 905
+ },
+ "id": 1254
+}

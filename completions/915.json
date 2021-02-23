@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 915001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a892a1f7-cacc-4662-ad1a-942f839c1021",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Loprazolam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "You are purchasing one box of Loprazolam 1 mg with 15 pills packaged in blister. You will receive exactly the box in the picture because I took the photo of the box I am selling All my medicines come from a pharmacy in Europe and are according to EMEA rules European Medicines Agency. Our products are shipped in registered mail with tracking number and are carefully packaged. For more information about the product please contact me.",
+  "dream_id": 318080,
+  "golden": false,
+  "name": "Loprazolam 1 mg 15 units Dormonoct Sanofi",
+  "p_id": 507
+ },
+ "id": 915
+}

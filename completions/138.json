@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 138001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "338593b5-abd1-44ae-851f-775340913e17",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 10,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "DMT Changa"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "DMT Changa 35g 500 AUD Express Post Australia only.",
+  "dream_id": 373914,
+  "golden": true,
+  "name": "DMT Changa 3.5g @ 500 AUD Express Post Australia o",
+  "p_id": 11086
+ },
+ "id": 138
+}

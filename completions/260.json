@@ -1,0 +1,145 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 260001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cde6894d-948b-47e1-ad6b-72bd97f8605e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 74,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "N - Ethylhexedrone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "404aa5d4-6788-4a43-b74c-cf27a4e4c82e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 208,
+      "labels": [
+       "Drug"
+      ],
+      "start": 190,
+      "text": "N - Ethylhexedrone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "43b3256d-bc4f-401e-9ae1-dd1f14bc68d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 112,
+      "labels": [
+       "Drug"
+      ],
+      "start": 90,
+      "text": "ethylaminocaprophenone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e45efa8d-f25c-4fe7-8a7b-9729a26ca36c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 134,
+      "labels": [
+       "Drug"
+      ],
+      "start": 115,
+      "text": "N-ethylnorhexedrone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9aa6959f-c31f-4f54-82d7-07b4b3d65bb0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 142,
+      "labels": [
+       "Drug"
+      ],
+      "start": 137,
+      "text": "hexen"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1039b808-8e01-4e5b-86a0-cc4c58f56fd6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 150,
+      "labels": [
+       "Drug"
+      ],
+      "start": 147,
+      "text": "NEH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "91f8340a-a160-495b-9632-46ab56608b5a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 371,
+      "labels": [
+       "Drug"
+      ],
+      "start": 345,
+      "text": "methylenedioxypyrovalerone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3847dab0-3fd1-4881-aea7-108e957992fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 376,
+      "labels": [
+       "Drug"
+      ],
+      "start": 372,
+      "text": "MDPV"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "810ea4be-2050-4872-b2b1-606b70d30139",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 416,
+      "labels": [
+       "Drug"
+      ],
+      "start": 400,
+      "text": "N-ethylhexedrone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Please read my terms conditions before ordering thanks. N - Ethylhexedrone also known as -ethylaminocaprophenone , N-ethylnorhexedrone , hexen and NEH is a stimulant of the cathinone class. N - Ethylhexedrone was first mentioned in a series of patents by Boehringer Ingelheim in the 1960s which led to the development of the better - known drug methylenedioxypyrovalerone MDPV. Since the mid-2010s , N-ethylhexedrone has been sold online as a designer drug.",
+  "dream_id": 314597,
+  "golden": true,
+  "name": "N-Ethyl Hexedrone 1g **Hexen**",
+  "p_id": 4885
+ },
+ "id": 260
+}

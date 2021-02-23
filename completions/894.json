@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 894001,
+   "lead_time": 4410.515,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "253dbf3f-330b-4563-a9d3-e8434a56f8f5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "SHYMQHeP1p",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 83,
+      "text": "chem dawg"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "jVWyLygFOs",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 115,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "ice - o - lator hashes"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1goAEe-_q-",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Chem Dawg "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9skAmnHZ2V",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": " Chemical Kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Strain Chemical Kush Chem Dawg THC 40 - 45. Delicious mix of very mixed low micron chem dawg ice - o - lator hashes. The smell is extremely pungent and the strain is easily reckognized. It s easily handled and stays solid at room temp. Good for mixing in joints.",
+  "dream_id": 246088,
+  "golden": false,
+  "name": "0.5g Chem Dawg Ice-O-Lator Hash 73-120micron",
+  "p_id": 480
+ },
+ "id": 894
+}

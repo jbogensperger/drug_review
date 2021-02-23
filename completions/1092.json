@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1092001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "090be7e2-9113-4085-a9d4-882c2b176f20",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "KETAMIN"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "KETAMIN STRONG BEST QUALITY 100 PER GRAM. BULK DEALS OF 50 GRAMS WILL GO FOR 4000. For more questions or any custom order. just download kik or wickr app from your phone and add me for a fast and more personal chat. My kik userdonald L50 My Wickr userdonald50.",
+  "dream_id": 422540,
+  "golden": false,
+  "name": "KETAMIN STRONG BEST QUALITY",
+  "p_id": 722
+ },
+ "id": 1092
+}

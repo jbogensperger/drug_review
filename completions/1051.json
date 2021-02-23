@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1051001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3bc3c9ea-f940-4bc9-88a7-4937cd163a73",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "Diazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "5000. Pills Diazepam Valium 10 mg. Good quality and great value. What you see in the image is what you will receive. Looking for bigger quantity. Contact for bulk discount.",
+  "dream_id": 256112,
+  "golden": false,
+  "name": "5000 Pills Diazepam (Valium) 10mg | UK Shipping",
+  "p_id": 676
+ },
+ "id": 1051
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 980001,
+   "lead_time": 2079.461,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "eaad2234-5756-41f7-b003-f7c107177106",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 147,
+      "text": "sativa"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b40fbefc-40a0-45ba-825a-9bd884d11627",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 219,
+      "labels": [
+       "Drug"
+      ],
+      "start": 210,
+      "text": "Iceolator"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ce73ac92-c8ab-4c22-8454-c56016550dca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 480,
+      "labels": [
+       "Drug"
+      ],
+      "start": 476,
+      "text": "weed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d6YuALT-Ob",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 395,
+      "labels": [
+       "Drug"
+      ],
+      "start": 388,
+      "text": "hybrid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "0 5 gr Iceolator Mix. The effect is incredible , really powerful. The taste it s perfect. We recommend you to try it. This extraction is done with sativa strains and gives you a very psychoactive effect. 05 gr Iceolator of a Big bud skunk x white widow. The effect is incredible , really powerful. The taste it s perfect. We really recommend you to try it. This extraction is done with a hybrid variety with a very powerful narcotic effect. - Bests qualities extractions with weed 100 bio. We only use organic products like Root Juice , Biogrow for growth and Delta 9 , Bio Bloom for flowering. Our soil is complemented with humus and bat guano. Smoking organic products wo nt get you sore throat and you wo nt get up next day with hangover or headache. Please read our conditions and politics carefully before buying.",
+  "dream_id": 297710,
+  "golden": false,
+  "name": "Sample listing of our hash products",
+  "p_id": 586
+ },
+ "id": 980
+}

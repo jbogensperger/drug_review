@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 716001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "43c4d8a3-0b72-458f-b6c6-dd54ea051971",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Viagra"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f9ae1bab-3ead-4d1a-a345-eed7f41f9a85",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 24,
+      "text": "Sildenafil"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "50 pills Viagra. 100 mg Sildenafil. ONLY 39 usd. Shipped from USA to USA. Good price , guaranteed delivery via USPS. No customs issues or long waiting. We are also providing the best price on the market. Save your money. BOOKMARK THIS LISTING CTRL D OR Command D For Mac Users.",
+  "dream_id": 110758,
+  "golden": false,
+  "name": "[US to US] 50 pills Viagra 100mg Sildenafil $39",
+  "p_id": 395
+ },
+ "id": 716
+}

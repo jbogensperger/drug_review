@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1193001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "57502bea-79ea-4221-a4ec-473c7af8121d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 7,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "AMNESIA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ea40ccd9-a946-4c61-bb5f-c66483ef3bd9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 28,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3e5f4958-aa3e-4ce2-99a6-583f28510520",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 78,
+      "labels": [
+       "Drug"
+      ],
+      "start": 71,
+      "text": "AMNESIA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "730cd7ac-6121-4df1-9f25-e6c7892a6c16",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 97,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "AMNESIA crumbs full with THC and strong taste and strong high feeling. AMNESIA krmel voll mit THC und starker gesmack und starken high gefuhl.",
+  "dream_id": 327129,
+  "golden": false,
+  "name": "*AMNESIA CRUMBS 100gr*",
+  "p_id": 837
+ },
+ "id": 1193
+}

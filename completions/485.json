@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 485001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f46ccdb3-ef22-412b-945d-fba990822861",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 181,
+      "labels": [
+       "Drug"
+      ],
+      "start": 171,
+      "text": "MANGO KUSH"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "380cb2bd-f261-40c4-a800-ce3a4214d82b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 136,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "THC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 5 x 500 ml shatter cartridges. Hi , I m very excited to bring my extract products back. This top grade oil is 80 THC. The concentrate is made from 100 MANGO KUSH all first nug run. Straight from the shatter that all my customers loved so much and made with 100 Kosher and organic PG. You will not be disappointed. Each cartridge is good for 150 -200 nice fat hits. These cartridges are grade A and a couple puffs will get you nice and feeling good. You will not find a better product at this price. I m willing to create custom listings , feel free to message me any questions. Thank You ,. FFT. Specifications. Cartridge suitable battery voltage 32-37V Size 5 ml D92 mm L575 mm Cartridge resistance 21-23ohm.",
+  "dream_id": 355401,
+  "golden": true,
+  "name": " 5x MANGO KUSH Cartridges!! 500mg FFT",
+  "p_id": 5545
+ },
+ "id": 485
+}

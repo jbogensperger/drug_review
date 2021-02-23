@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 387001,
+   "lead_time": 322.241,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "hw_1XXeMm0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 94,
+      "labels": [
+       "Drug"
+      ],
+      "start": 85,
+      "text": "Knockout "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "AccQQPBaSZ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 105,
+      "labels": [
+       "Drug"
+      ],
+      "start": 94,
+      "text": "Trainwreck "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "lyAbDJvnTJ",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 115,
+      "labels": [
+       "Drug"
+      ],
+      "start": 105,
+      "text": "Cherry Pie"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ImUS90EMCS",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 127,
+      "labels": [
+       "Drug"
+      ],
+      "start": 120,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b0jtlP4C1U",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 120,
+      "labels": [
+       "Drug"
+      ],
+      "start": 116,
+      "text": "SFV "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Available strains Select first and second choice. No mixed strain orders. Sensi Star Knockout Trainwreck Cherry Pie SFV OG Kush. 22 ADD - ON ITEMS. For an extra 22 you can get a CO2 cartridge or edible item added to your order regular price 30. Select USPS Plus Extra Item shipping option. - SHIPPING -. Please make sure that your shipping info is accurate and correctly formatted. SAMPLE ADDRESS. Joe Drake 585 MAIN ST APT 284 CHICAGO , IL 48392. Due to security issues and high order volumes , I do not provide tracking numbers unless there is a problem with the shipment. Please do not request a tracking number unless it has taken more than 5 days excluding Sundays from the day your order was marked shipped. If you do have to request a tracking number , be sure to include the sale number in the message with your tracking request.",
+  "dream_id": 319081,
+  "golden": false,
+  "name": "QP GREENHOUSE -- CHERRY PIE \/ KNOCKOUT \/ MORE",
+  "p_id": 188
+ },
+ "id": 387
+}

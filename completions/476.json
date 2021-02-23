@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 476001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7bd5dbbd-ba78-4085-bf74-17b2dd28cf89",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "white widow"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Beautiful and dank white widow.",
+  "dream_id": 412698,
+  "golden": true,
+  "name": "**DANK** White Widow 3.5g",
+  "p_id": 1138
+ },
+ "id": 476
+}

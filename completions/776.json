@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 776001,
+   "lead_time": 464.169,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "5dfdd408-be41-4f0f-a90d-a503f457cac2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 59,
+      "labels": [
+       "Drug"
+      ],
+      "start": 50,
+      "text": "melanotan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75370325-a029-4f4f-bcda-1d341073df09",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 293,
+      "labels": [
+       "Drug"
+      ],
+      "start": 284,
+      "text": "melanotan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "LJyE5X1OMd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 384,
+      "labels": [
+       "Drug"
+      ],
+      "start": 294,
+      "text": "2 ing - Ac - NIe cyclo Asp - His -D - Arg - Trp - Lys. benzyl alcohol 2 benzyl benzoate 20"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Is a synthetic analogie of the naturally occuring melanotan in your bidy , has been proven to enhance the tanning process by increasing the darkening pigmintation in the skin. they also have been known to increase aphrodisiac affects sexual drive and help with a lack of amino acids. melanotan 2 ing - Ac - NIe cyclo Asp - His -D - Arg - Trp - Lys. benzyl alcohol 2 benzyl benzoate 20.",
+  "dream_id": 267622,
+  "golden": false,
+  "name": "Melanotan 2 ",
+  "p_id": 220
+ },
+ "id": 776
+}

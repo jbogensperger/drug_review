@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 851001,
+   "lead_time": 5068.996,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "859cfe12-10d5-4bb5-8884-4c9ba139bf50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 65,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "mT-RIkCMgb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "OG Krumble "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is OG Krumble made from the buds and trim of OG Kush. It is very stable , even at room temperature. It does nt stick to your fingers. This is an introductory Special offer. We are releasing this item to test the quality and get some feedback. We guarantee that this Krumble \/ Wax is the top shelf quality you are looking for. Limit only 1 per customer. PM if you would like a small sample. We are new to this market , and are willing to lose a little to gain some product reviews. If you are a first time buyer , be sure to type your name and address into the order info box and then check the small box to the bottom right that reads encrypt to vendors key , this is for your safety. No samples , please do not ask - Please encrypt only messages that contain your sipping address \/ personal info , thank you.",
+  "dream_id": 30944,
+  "golden": false,
+  "name": "OG Kush Crumble 1oz",
+  "p_id": 421
+ },
+ "id": 851
+}

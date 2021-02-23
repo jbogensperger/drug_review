@@ -1,0 +1,131 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 440001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "89043e1a-b25c-4a0b-951f-03b359dfe05e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 39,
+      "text": "Dihydrocodeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3545a578-7ff3-4d8b-8c8f-1fb9c942e375",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 147,
+      "labels": [
+       "Drug"
+      ],
+      "start": 133,
+      "text": "Dihydrocodeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "75b9e718-011a-4369-b8bf-ab67505ec2b5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 280,
+      "text": "paracetamol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6e1f9e1e-58e4-4604-9b23-af0e5a6d2a17",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 320,
+      "labels": [
+       "Drug"
+      ],
+      "start": 313,
+      "text": "aspirin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "954541c3-260f-4994-af0b-78150a28e602",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 411,
+      "labels": [
+       "Drug"
+      ],
+      "start": 397,
+      "text": "Dihydrocodeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "87d3aa13-ecdc-4fbe-9fb9-889de5ed33ec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 496,
+      "labels": [
+       "Drug"
+      ],
+      "start": 482,
+      "text": "Dihydrocodeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "2d6cda9c-05a6-48b3-8272-60c2c6e58d92",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 174,
+      "labels": [
+       "Drug"
+      ],
+      "start": 168,
+      "text": "opioid"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9cc7deb4-e555-4e27-96ae-7a971985982c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 309,
+      "labels": [
+       "Drug"
+      ],
+      "start": 298,
+      "text": "co-dydramol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This BULK listing is for. 50 Boxes of. Dihydrocodeine 30 mg x 28 Tablets. 28 tablets 15 Box and instructions included. 053 \/ tablet. Dihydrocodeine is a semi-synthetic opioid analgesic prescribed for pain or severe dyspnea , or as an antitussive , either alone or compounded with paracetamol as in co-dydramol or aspirin. It was developed in Germany in 1908 and first marketed in 1911. Wikipedia. Dihydrocodeine can cause euphoria , reduced anxiety and users say they feel relaxed. Dihydrocodeine can also cause drowsiness , confusion and disorientation for the user. schoolbeatorg.",
+  "dream_id": 335836,
+  "golden": true,
+  "name": "*BULK* Dihydrocodeine 30mg x 28 Tablets - 50 BOXES",
+  "p_id": 4359
+ },
+ "id": 440
+}

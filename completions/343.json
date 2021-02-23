@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 343001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "709a93d4-d9a1-4b45-b9c2-29d9740dde07",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "xtc"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Listing for 100x xtc pills FULL ESCROW. ORANGE TESLA MODEL 3 GOOD ROLL , HIGH Quality. Check pill report for MODEL 3 FAST SHIPPING.",
+  "dream_id": 320966,
+  "golden": false,
+  "name": "100x XTC PILLS ORANGE TESLA MODEL 3 [USA to USA] ",
+  "p_id": 131
+ },
+ "id": 343
+}

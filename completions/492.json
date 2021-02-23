@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 492001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0752b2ca-7055-4f7d-8047-f4fff6c3eeee",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Purple Dominos"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5ae9e423-c921-4df9-bcec-f9becf795bd4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 30,
+      "labels": [
+       "Drug"
+      ],
+      "start": 16,
+      "text": "purple dominos"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Purple Dominos. purple dominos , very strong for 200 mg. Working after 30 - 60 minutes. PartyNL.",
+  "dream_id": 353781,
+  "golden": true,
+  "name": " PURPLE DOMINOS  200MG 5 PCS",
+  "p_id": 4868
+ },
+ "id": 492
+}

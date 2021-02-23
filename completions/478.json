@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 478001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "37fc0a0a-745a-4055-bd51-738dc4bb435f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 25,
+      "text": "Buprenorphine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2x Subutex 8 mg ORIGINAL Buprenorphine. - Original Blister Packaging. - Same Day Dispatch b4 330 GMT.",
+  "dream_id": 232679,
+  "golden": true,
+  "name": "SUBUTEX 8mg x2 ORIGINAL   (Buprenorphine)",
+  "p_id": 10219
+ },
+ "id": 478
+}

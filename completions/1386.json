@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1386001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "fba00819-d287-4927-a6aa-bcebfeb494fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "Modafinil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ad57ae57-c259-4a17-b819-22b0cf73a4fb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Modvigil"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "67568c8e-1c12-48f5-9259-c10b0e13c028",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 575,
+      "labels": [
+       "Drug"
+      ],
+      "start": 566,
+      "text": "MODAFINIL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "TYPE Modafinil 200mg Modvigil. QTY 100 - count. USE Wakefulness - promoting agent in patients with excessive sleepiness associated with narcolepsy or other sleep disorders. It may also be used for other conditions as determined by your doctor. DOSING One 200 mg pill studies show that 2 pill doses do not improve effectiveness. SHIPPING Fast turnaround and usually arrives within 2 - 3 business days. STEALTH Good with protective barrier. Pills arrive in the original blister packaging from the manufacturer. Product dating is excellent and freshness is guaranteed. MODAFINIL IS NOT A PARTY DRUG OR INTENDED FOR RECREATION PURPOSES.",
+  "dream_id": 137102,
+  "golden": false,
+  "name": "100-ct Modafinil 200mg (Modvigil)",
+  "p_id": 1063
+ },
+ "id": 1386
+}

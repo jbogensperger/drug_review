@@ -1,0 +1,187 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1407001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "13597ef1-62c4-4432-b5cd-19b92e7d113c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 458,
+      "labels": [
+       "Drug"
+      ],
+      "start": 435,
+      "text": "Testosterone Propionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6752335f-7bb2-4a13-bc79-bef95d037048",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 510,
+      "labels": [
+       "Drug"
+      ],
+      "start": 488,
+      "text": "Testosterone Cypionate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a53939dc-8cf7-4cb4-87ec-13dec9762885",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 562,
+      "labels": [
+       "Drug"
+      ],
+      "start": 540,
+      "text": "Testosterone Enanthate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a3a0ea54-d76a-48e7-b9e5-ed0324f14b41",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 645,
+      "labels": [
+       "Drug"
+      ],
+      "start": 631,
+      "text": "Deca Durabolin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "597b17c2-6c74-4ae6-b9c1-c16616b2c22c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 772,
+      "labels": [
+       "Drug"
+      ],
+      "start": 752,
+      "text": "Trenbolone Enanthate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "de02f3fd-4308-456f-8dee-6b138f2a6932",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 820,
+      "labels": [
+       "Drug"
+      ],
+      "start": 802,
+      "text": "Trenbolone Acetate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7a4cf6c9-81e3-4750-bd9d-6c706866e445",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 866,
+      "labels": [
+       "Drug"
+      ],
+      "start": 850,
+      "text": "Primobolan Depot"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a77c8217-74a9-4562-bf8a-45c81da35bb9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 405,
+      "labels": [
+       "Drug"
+      ],
+      "start": 397,
+      "text": "Winstrol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4fcdec94-8726-4689-8a90-2f588d8445d9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 600,
+      "labels": [
+       "Drug"
+      ],
+      "start": 592,
+      "text": "Sustanon"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3f255a5e-c473-415e-bc92-c9144384f0b7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 684,
+      "labels": [
+       "Drug"
+      ],
+      "start": 675,
+      "text": "Equipoise"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "e7dfc341-154b-48d9-ae0e-30336de4043d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 722,
+      "labels": [
+       "Drug"
+      ],
+      "start": 714,
+      "text": "Masteron"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8a7f53e3-1c65-435d-9abd-85640df1ecdf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 905,
+      "labels": [
+       "Drug"
+      ],
+      "start": 896,
+      "text": "Parabolan"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10x mix and match special. Order 10 or more bottles of any combination and take 10 off. Per Bottle of our regularly priced items. Just message us and let us know what combination of 10 or more you would like and we will create a custom listing for you with the discount of 10 off per bottle you order. This offer does not apply to our current bulk listings of 10 or more bottles of the same item. Winstrol 100mg \/ ml 10 ml Bottle 3500 Testosterone Propionate 100mg \/ ml 10 ml Bottle 2500 Testosterone Cypionate 300mg \/ ml 10 ml Bottle 3500 Testosterone Enanthate 300mg \/ ml 10 ml Bottle 3500 Sustanon 300mg \/ ml 10 ml Bottle 3500. Deca Durabolin 300mg \/ ml 10 ml Bottle 4500 Equipoise 300mg \/ ml 10 ml Bottle 4500 Masteron 100mg \/ ml 10 ml Bottle 4500 Trenbolone Enanthate 200mg \/ ml 10 ml Bottle 5500 Trenbolone Acetate 100mg \/ ml 10 ml Bottle 5500 Primobolan Depot 100mg \/ ml 10 ml Bottle 5500 Parabolan 75mg \/ ml 10 ml Bottle 5500.",
+  "dream_id": 152927,
+  "golden": false,
+  "name": "10X Mix and match special! $10 off each bottle of ",
+  "p_id": 1090
+ },
+ "id": 1407
+}

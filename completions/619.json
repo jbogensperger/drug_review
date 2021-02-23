@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 619001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c1681825-044b-4b71-91a3-249d17d0dbfb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Amnesia Haze"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "794b4f9b-90f6-4903-b1bd-44678c60642f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 130,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "AMNESIA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f1b5a9c5-f018-4e16-a7f9-ce6b48c72e33",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 277,
+      "labels": [
+       "Drug"
+      ],
+      "start": 270,
+      "text": "Amnesia"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 gram of the finest Amnesia Haze. One of my own favorites. 10 gram for only 90 euros. You want the BEST of the BEST. Our AMNESIA is in the offer for the few next weeks. Crazy sick strain. Stinks like hell , and stoned as hell. We assure you one of the finest and best Amnesia there is to get on the markets. AAA. Coffee shop material. Only the best at CannaCrew. Please read our profile before you buy any product of us , thank you.",
+  "dream_id": 184914,
+  "golden": false,
+  "name": " 10 gr  AMNESIA HAZE ",
+  "p_id": 281
+ },
+ "id": 619
+}

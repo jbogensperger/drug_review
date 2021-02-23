@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 56001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e1b1f303-f800-4736-8558-1781c782f62f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 537,
+      "labels": [
+       "Drug"
+      ],
+      "start": 536,
+      "text": "."
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FEATURES INCLUDE - Security Thread ,. - Raised Printing , - Micro Printing , - Portrait Watermark , - Color Shifting ink , - Pen test Passed , - Dimension and thickness same as that of original bills - Different serial numbers. Bills come treated already. Bills are aged before shipping Bills pass ATM machines , but ca nt guarantee all will pass. Can be used in Casinos , stores , etc. FOR QUICK RESPONSE , YOU CAN REACH US ON. KIK shemag1 Wickr. shemag margaretweiss10hotmailorg. SHIPPING Stealth Package - Vacuum sealed thick plastic.",
+  "dream_id": 431736,
+  "golden": false,
+  "name": "20 Best Quality Counterfeit Notes (250 Bills)",
+  "p_id": 67
+ },
+ "id": 56
+}

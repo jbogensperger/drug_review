@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048030,
+   "id": 293001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "abc7dc0a-4053-4786-ae88-854399efed3a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "moon rock"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Up for sale is 56g of moon rock 2 oz.",
+  "dream_id": 432362,
+  "golden": true,
+  "name": "2oz moon rock 56g",
+  "p_id": 2188
+ },
+ "id": 293
+}

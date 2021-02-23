@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 643001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "437b0086-2a1f-494d-a836-8540a2bd3120",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "Weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Quantity 7 g 1\/4 oz. This is a 100 escrow listing for AAA Indoor Weed straight from California. This is the best product for the price on the market. No nitrogen canning fees here. We take pride in the level of stealth we offer the community while maintaining the most competitive prices on the market. All shipping is done via USPS Priority Mail which only takes 2 days , 1 more than express while providing us both with the highest level of anonymity , no signature etc. Check our stealth section , Q A table of contents below for more detailed info.",
+  "dream_id": 388107,
+  "golden": false,
+  "name": "7g AAA Top Shelf Indoor Weed {Extreme Stealth}",
+  "p_id": 312
+ },
+ "id": 643
+}

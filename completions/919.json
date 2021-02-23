@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 919001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "34a2b31a-a7b3-4da5-b22e-c8438d37cb9b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 103,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "Proscaline"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6e53f103-f826-4fbf-b7fb-f6d2c5e00914",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 257,
+      "labels": [
+       "Drug"
+      ],
+      "start": 248,
+      "text": "mescaline"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c2eb0a16-798a-4421-b42a-c4a390eff5cb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 273,
+      "labels": [
+       "Drug"
+      ],
+      "start": 260,
+      "text": "isoproscaline"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c3f2f7e1-3271-426e-b1b3-c3dbf522427c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 284,
+      "labels": [
+       "Drug"
+      ],
+      "start": 276,
+      "text": "escaline"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Lab tested product purity around 98. Do not miss your chance to purchase this great product. Proscaline is a psychedelic and hallucinogenic drug , used by some as an entheogen. Chemical has similar pharmacological properties to following products. mescaline , isoproscaline , escaline. Delivery directly from China. A fake invoice and value will be used to avoid any delays with your domestic customs. Please provide following information that we can ship your order. First and Second name Street name , house number Zip code , City Country Tel can be fake. Check our reviews by yourself for your safety on grams. Found cheaper price elsewhere. Provide vendor name and we will match the price. PLEASE CHECK LATEST REFUND POLICY ALWAYS ON OUR VENDOR PAGE. PM with any questions. ALL PRODUCTS SOLD ARE NOT FOR HUMAN CONSUMPTION. DO NOT ORDER IF YOU DO NOT ACCEPT THESE CONDITIONS.",
+  "dream_id": 78870,
+  "golden": false,
+  "name": "Proscaline 1000g",
+  "p_id": 511
+ },
+ "id": 919
+}

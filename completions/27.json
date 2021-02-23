@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 27001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "703eeab1-ec53-47c1-8ed3-14083e054393",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 6,
+      "text": "HYDROMORPHONE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "16 mg HYDROMORPHONE Jurnista. From laboratory. High quality.",
+  "dream_id": 408009,
+  "golden": false,
+  "name": "2x 16mg *** HYDROMORPHONE (Jurnista) *** Slow libe",
+  "p_id": 37
+ },
+ "id": 27
+}

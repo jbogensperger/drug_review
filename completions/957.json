@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 957001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bce99415-c180-40ee-937d-ed0e5871aaa0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 9,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "oxycodone"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "oxycodone. STRAIGHT FROM HEALTH MEDICS CARE 20 PER PILL. BULK DEALS 400 PILLS FOR 6000 FOR MORE INFOR POR ANY CUSTOM ORDER , YOU CAN JUST DOWNLOAD KIK OR WICKR ON YOUR PHONE APP AND ADD ME FOR A FAST AND MORE DISCREET CHAT. MY WICK ID burpboob MY KIK ID burpboob.",
+  "dream_id": 423647,
+  "golden": false,
+  "name": "oxycodone",
+  "p_id": 556
+ },
+ "id": 957
+}

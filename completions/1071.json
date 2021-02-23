@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1071001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "623d5d7c-4cc4-486d-9abc-f0cc48e3ad35",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "118c1428-9012-4e0e-8e12-c421add281b4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 29,
+      "text": "WEED"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "VSOP SHAMAN EDITION THC VAPE WEED E- JUICE - LIMITED EDITION RUN - BUBBLEGUM. FROM MY PRIVATE BATCH , THIS CONCENTRATE IS 50 MORE POWERFUL THAN THE REGULAR PREMIUM EDITION PRODUCT. VSOP - SPECIAL LIMITED EDITION 30 ML BOTTLE. - FREE EXPRESS SHIPPING - FREE PLATINUM LEVEL STEALTH. 30 ML 3000 PUFFS. THIS IS FOR EXPERIENCE SMOKERS , OR THOSE LOOKING TO MAKE THEIR E JUICE LAST , AS YOU WILL ONLY NEED A FEW PUFFS TO GET STONED AS CHEECH AND CHONG. NO WHOLESALE AMOUNTS AVAILABLE , LIMIT OF 2 PER USER - 20 UNITS ONLY - ONCE GONE , ITS GONE. IMAGE USED IS FOR ILLUSTRATIVE PURPOSES ONLY.",
+  "dream_id": 406416,
+  "golden": false,
+  "name": "THC VAPE WEED E-JUICE - VSOP LIMITED EDITION RUN -",
+  "p_id": 697
+ },
+ "id": 1071
+}

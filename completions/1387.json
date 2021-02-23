@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1387001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8ecc5832-ded2-4c05-9577-b63293a52eb9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 19,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "COCAINE"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "HIGH PURITY COCAINE STRAIGHT OFF THE BRICK , SMALL AMOUNTS NEEDED FOR STRONG HIGH.",
+  "dream_id": 281591,
+  "golden": false,
+  "name": "3.5 grams COCAINE HIGH PURITY",
+  "p_id": 1064
+ },
+ "id": 1387
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1059001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "53602d2d-05b1-4df9-8c40-c1bb903c2baf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 31,
+      "text": "mdma"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pure quality champagne crystal mdma from our own batch and made straight of the best oil. Our filosofy is to build and have a longterm business relationship with new customers and excisting customers. Read our profile of how we do business.",
+  "dream_id": 332286,
+  "golden": false,
+  "name": "-5 GRAMS- Pure Dutch MDMA 84%",
+  "p_id": 685
+ },
+ "id": 1059
+}

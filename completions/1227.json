@@ -1,0 +1,215 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1227001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "0a54024b-48b1-4b95-9648-38c5aa26f63a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 136,
+      "labels": [
+       "Drug"
+      ],
+      "start": 132,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "b1871cd1-a842-4eac-9761-f0cc21e1c201",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 193,
+      "labels": [
+       "Drug"
+      ],
+      "start": 190,
+      "text": "CBG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1a47284f-9b96-4e7e-bd1b-c399bacc6bfe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 251,
+      "labels": [
+       "Drug"
+      ],
+      "start": 247,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4b48aa73-ebc5-4603-a118-fd3dcc1ce99d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 299,
+      "labels": [
+       "Drug"
+      ],
+      "start": 296,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1723673d-bd64-477d-a24f-fe7ad3a8a33d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 306,
+      "labels": [
+       "Drug"
+      ],
+      "start": 303,
+      "text": "CBG"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8d9cd68d-95b8-402a-bb9f-47ec20246b99",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 400,
+      "labels": [
+       "Drug"
+      ],
+      "start": 396,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0a24894e-68e4-426a-8c80-51279ca54625",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 446,
+      "labels": [
+       "Drug"
+      ],
+      "start": 443,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4373cc4c-4c0f-4162-a056-0ef9fc6ef2ce",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 523,
+      "labels": [
+       "Drug"
+      ],
+      "start": 519,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4c1649dc-e48c-411b-9ae6-2970c00ddffb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 570,
+      "labels": [
+       "Drug"
+      ],
+      "start": 567,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0a8cf76c-86e6-44bc-adec-7bbc92ab5d29",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 622,
+      "labels": [
+       "Drug"
+      ],
+      "start": 618,
+      "text": "Hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6807ad39-a39b-485d-a641-03c4675f947e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 291,
+      "labels": [
+       "Drug"
+      ],
+      "start": 288,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f74c3ad7-7a8d-42d5-a532-ecfe461ff000",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 439,
+      "labels": [
+       "Drug"
+      ],
+      "start": 436,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6648f460-b977-4bbb-93bd-c2293ff02025",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 562,
+      "labels": [
+       "Drug"
+      ],
+      "start": 559,
+      "text": "CBD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c50f7cc2-cbd0-4001-800d-4ad265bcc0e7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 662,
+      "labels": [
+       "Drug"
+      ],
+      "start": 659,
+      "text": "CBD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "IMPORTANT NOTICE WE WILL REPRESSING THE EGGS IN TO SHAPES FOR SAFETY REASONS. 25g EGG CULERO CRITICAL. Sample Code HQ005. Substance Hash Lab Code 101042. Result THCV THC 23 Canabidiol CBD 3 CBG SAMPLESOFT CREAM CHOCO. Sample Code HQ008. Substance Hash Lab. Code 101045. Result Canabidiol CBD. 04 THC 30 CBG. LAST LAB TEST RESULTS. HQ002 - JungleBoyz. LIMITED BUBBLE. Sample Code HQ002. Substance hash Lab Code 100197. Result Canabidiol CBD. 8 THC47 Canabinol CBN 3. HQ008 SOFT CREAM CHOCO. Sample Code HQ008. Substance Hash Lab Code 101045. Result Canabidiol CBD. 04 THC 30 CBG. HQ009 CA. Sample Code HQ009. Substance Hash Lab. Code 101046. Result Canabidiol CBD. 2.",
+  "dream_id": 298946,
+  "golden": false,
+  "name": "25g SOFT CREAM EGG CULERO HASHFE",
+  "p_id": 875
+ },
+ "id": 1227
+}

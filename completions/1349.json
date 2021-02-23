@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1349001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "9ecec9af-ea16-47a1-b465-15e72f3bf178",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "METH"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "ALL METH IS FROM MEXICO. WHEN I SAY MEXICO I LITERALLY MEAN STRAIGHT FROM THE MEXICO LAB NO MIDDLE MAN. NOTHING GETS TOUCH BY ANYONE ELSE JUST THE LAB IN MEXICO AND US NO ONE ELSE. NOTHING BUT QUALITY SHIT COMES OUT OF THIS LAB YOU WILL NOT BE DISAPPOINTED.",
+  "dream_id": 316786,
+  "golden": false,
+  "name": "1 G CLEAN METH (BEST PRICE YOU WILL FIND) ",
+  "p_id": 1019
+ },
+ "id": 1349
+}

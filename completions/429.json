@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 429001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c80d77f8-c878-4cfb-8b80-99522dd8ce73",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 5,
+      "text": "White Queen"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 gr White Queen , free shipping and stealth packaging , orders placed before 1200.",
+  "dream_id": 114355,
+  "golden": true,
+  "name": "1g White Queen",
+  "p_id": 7744
+ },
+ "id": 429
+}

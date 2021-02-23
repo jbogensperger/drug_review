@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1096001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7474a211-ff48-47bf-90a7-da5885b2522b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Pregyl"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pregyl privat custom listing.",
+  "dream_id": 363656,
+  "golden": false,
+  "name": "Pregnyl\/HCG by MSD 5000 IU for nesting",
+  "p_id": 727
+ },
+ "id": 1096
+}

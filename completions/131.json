@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 131001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "071879f2-9d8c-4b53-a350-21b636010d76",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "crack"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "crack good flach orginail.",
+  "dream_id": 241301,
+  "golden": true,
+  "name": "0,5 gr crack good flach orginail !!!!",
+  "p_id": 2856
+ },
+ "id": 131
+}

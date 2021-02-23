@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1068001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b40d99c8-52b2-4550-a133-5d4fb7fc9e0b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 3,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9092d149-34ef-45df-a1b2-c2415094d261",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 52,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "909ce44d-c4c6-4710-8974-93e9aa4d036a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "222f0b31-b302-4661-841e-940b3fed2da5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 151,
+      "labels": [
+       "Drug"
+      ],
+      "start": 148,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dc2aaacf-7d2c-4dd3-ba49-629dd6eeae54",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 225,
+      "labels": [
+       "Drug"
+      ],
+      "start": 222,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a79f3188-06bc-4a80-9fb0-31786158ce82",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 251,
+      "labels": [
+       "Drug"
+      ],
+      "start": 248,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "393ac6bb-a296-4b45-a871-bdc5ac3a79f2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 341,
+      "labels": [
+       "Drug"
+      ],
+      "start": 338,
+      "text": "LSD"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "LSD - 10 Trips 150 g. -. English -. Highest Quality LSD. 150 g LSD on each Blotter Great looking Blotter Art See picture Ships within 24 hours. The LSD i use to make these blotters has a purity of 99 or more. -. German -. LSD in Top Qualitt. 150 g LSD pro Pappe Die Pappen sehen super aus Siehe Bild Versand innerhalb von 24 Stunden. Das LSD das ich verwende hat einen Reinheitsgrad von mindestens 99.",
+  "dream_id": 101836,
+  "golden": false,
+  "name": "LSD - 10 Trips (150 g)",
+  "p_id": 694
+ },
+ "id": 1068
+}

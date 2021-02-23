@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1046001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2f5b7171-48df-453a-a99d-e3edbe7c0757",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 18,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "orange bud"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "2lbs of orange bud at a discounted price for a special guy.",
+  "dream_id": 362808,
+  "golden": false,
+  "name": "custom for m2",
+  "p_id": 668
+ },
+ "id": 1046
+}

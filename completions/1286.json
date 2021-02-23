@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1286001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c35c8cec-f68e-49ea-8fea-1b96675ef900",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Lorazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "921de3df-90ae-4038-af68-ec581384394e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 51,
+      "text": "Ativan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "42380200-5362-408e-b5bc-57a9ffc3845c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 236,
+      "labels": [
+       "Drug"
+      ],
+      "start": 227,
+      "text": "Lorazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1d4eee24-28c7-46ba-bcd6-5c19a07010ec",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 337,
+      "labels": [
+       "Drug"
+      ],
+      "start": 328,
+      "text": "Lorazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This Full Escrow listing is for 20 x Lorazepam AKA Ativan 25 mg tabs from the Pharmacy. Ships from the USA to the USA within 12 hours of being placed. No Customs No Signature No Fakes No Worries. Drug Description. Generic Name Lorazepam Strength 25 mg Manufacturer Lorsedal Color Light Blue Imprint | on one side Size mm 6 X 3. Lorazepam 25 mg tabs are used to treat Nausea , depression and Anxiety. This drug may also be used to reduce the symptoms of alcohol withdrawal , to prevent nausea and vomiting due to chemotherapy , and for trouble sleeping insomnia. All my medications are from Legitimate pharmacy companies , so there is no need to worry about fake pills with unknown ingredients. Ships vacuum. Sealed in blister packs using proven stealth methods , discreetly to your address \/ mailbox. Thanks , MDMA4USA.",
+  "dream_id": 324525,
+  "golden": false,
+  "name": "LorazepamAtivan2.5mg20 tabs&",
+  "p_id": 939
+ },
+ "id": 1286
+}

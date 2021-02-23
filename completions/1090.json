@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1090001,
+   "lead_time": 1804.496,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "FHPTNsuqRB",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 15,
+      "text": "Testoviron "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "IAMyoyIYt3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Test Enanthate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pharmacy Grade Testoviron Test Enanthate 250 mg X 15 Amps.",
+  "dream_id": 88968,
+  "golden": false,
+  "name": "Testoviron Test Enanthate 250mg X 15 Amps",
+  "p_id": 720
+ },
+ "id": 1090
+}

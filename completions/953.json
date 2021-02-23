@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 953001,
+   "lead_time": 4820.895,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "AzxNqN_Ma_",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 81,
+      "text": "4 - ho- MET"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "INTRODUCTORY PRICE. SUPERIOR QUALITY AND LIMITED QUANTITY. No nonsense legendary 4 - ho- MET. QUALITY Sample it and we will leave the rest up to you. VERY POTENT COMPOUND. SHIPPING. All orders are dispatched Mon - Fri and processed within 24 - 48 hours Discreet and professional. Anything else. Ask.",
+  "dream_id": 143676,
+  "golden": false,
+  "name": "1g 99.8%+ pure 4-ho-MET",
+  "p_id": 551
+ },
+ "id": 953
+}

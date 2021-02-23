@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 337001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "64ae1970-ad83-429e-b75a-1077bc18fe5d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 33,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "blue cheese"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "28g \/ 1 oz high grade blue cheese. Fast delivery within UK with minimal chance of package seizure \/ interception.",
+  "dream_id": 430549,
+  "golden": false,
+  "name": "28g High Quality Blue Cheese Weed",
+  "p_id": 123
+ },
+ "id": 337
+}

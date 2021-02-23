@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 913001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "97adde0c-66e1-4b80-8742-333395a1298d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 12,
+      "labels": [
+       "Drug"
+      ],
+      "start": 4,
+      "text": "Ketamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "51a3967c-694b-48ba-83ab-0c8da98aa839",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 40,
+      "labels": [
+       "Drug"
+      ],
+      "start": 32,
+      "text": "ketamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 G Ketamine. Very high quality ketamine , either cube or shard batch. Check profile for updates. Pre -drought quality. This sells like hotcakes. Top vendor from Alphabay. SHIPPING. Guarenteed Next Day Delivery if ordered before 3 pm. Stealth. Please encrypt addresses for your own protection. Please send correct address format as this is the number one reason for delays in delivery.",
+  "dream_id": 20923,
+  "golden": false,
+  "name": "KETAMINE 1G AAA+++ ",
+  "p_id": 505
+ },
+ "id": 913
+}

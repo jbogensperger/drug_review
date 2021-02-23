@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 362001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3cbd2df9-ece5-423b-892f-dc18f6febb6b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 102,
+      "labels": [
+       "Drug"
+      ],
+      "start": 93,
+      "text": "Lidocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Lab tested product purity around 98. Do not miss your chance to purchase this great product. Lidocaine , is a medication used to numb tissue in a specific area and to treat ventricular tachycardia. It can also be used for nerve blocks. Delivery directly from China. A fake invoice and value will be used to avoid any delays with your domestic customs. Please provide following information that we can ship your order. First and Second name Street name , house number Zip code , City Country Tel can be fake. Check our reviews by yourself for your safety on grams. Found cheaper price elsewhere. Provide vendor name and we will match the price. PLEASE CHECK LATEST REFUND POLICY ALWAYS ON OUR VENDOR PAGE. PM with any questions. ALL PRODUCTS SOLD ARE NOT FOR HUMAN CONSUMPTION. DO NOT ORDER IF YOU DO NOT ACCEPT THESE CONDITIONS.",
+  "dream_id": 78640,
+  "golden": false,
+  "name": "Lidocaine 1000g",
+  "p_id": 157
+ },
+ "id": 362
+}

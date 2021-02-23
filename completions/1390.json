@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1390001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4997b50c-f3ee-46ba-8c00-1fc9ac6e9bad",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "We"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We got 5 , 10 , 20 , 50 , shipping is free and minimum order is 2000 for 6000.",
+  "dream_id": 426013,
+  "golden": false,
+  "name": "5, 10, 20, 50,100 first class counterfeit mon",
+  "p_id": 1070
+ },
+ "id": 1390
+}

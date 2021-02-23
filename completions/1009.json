@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1009001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7671b949-6847-4da7-a109-aa324628104d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 5,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "point"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "point 2 2 Small Sampler. Limited time. Batch 9\/23. You can snort IV and Smoke this stuff.",
+  "dream_id": 315379,
+  "golden": false,
+  "name": "Heroin 4-(.2G)9\/24 ",
+  "p_id": 624
+ },
+ "id": 1009
+}

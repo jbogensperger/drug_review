@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 397001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c56ac24c-da60-4c8c-88d6-2a845cf3d807",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Levitra"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Generic Levitra 20mg. Take 1 hours before sexual activity.",
+  "dream_id": 317970,
+  "golden": false,
+  "name": "50 Pills Generic Levitra 20mg (Vardenafil)",
+  "p_id": 199
+ },
+ "id": 397
+}

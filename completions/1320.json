@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1320001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c134bcd0-b5aa-49d6-a34a-5107ff16b528",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 4,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "made"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "made whit the best a oil on the market right now.",
+  "dream_id": 328316,
+  "golden": false,
+  "name": "10 GR SPEED AMPHETAMINE 76%",
+  "p_id": 978
+ },
+ "id": 1320
+}

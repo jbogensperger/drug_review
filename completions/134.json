@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 134001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d0726022-7b5f-4648-900d-41de258552aa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "089041bf-bda7-4e05-97f3-626aa4f7ab0f",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 62,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5f945bfb-7e4f-426d-bf9b-a37c8c284a24",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 104,
+      "labels": [
+       "Drug"
+      ],
+      "start": 97,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f0bd7104-a4e1-4c6b-bc33-2995f8fb21b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 167,
+      "labels": [
+       "Drug"
+      ],
+      "start": 160,
+      "text": "cocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cceecb54-dd6e-4b55-9b32-45feaa028bdb",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 259,
+      "labels": [
+       "Drug"
+      ],
+      "start": 253,
+      "text": "cocain"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Name Pervian Cocaine Purity 90 Color White Country Peru. This cocaine is one the purest and best cocaine on this market. We buy bricks from the first hand. Our cocaine is not mixed with substances. It s clean and very good for Freebase or sniffing. Our cocain do nt make you paranoid because its clean. It has a smell of Flowers and not the chemical dentist smell. If you want the best quality your on the right place.",
+  "dream_id": 421941,
+  "golden": true,
+  "name": "0.5 GRAM COCAINE FROM PERUVIAN KARTEL",
+  "p_id": 1685
+ },
+ "id": 134
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1364001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "c7d7d08e-e0d0-4acb-b2ca-f09a1722ac9d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a6f0a164-0335-4870-ab79-1f18918255c4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 44,
+      "text": "speed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "25g High Quality Speed Paste. Purity of our speed paste is around 70 When you dry it you will loose around 30 in weight. If you have any further questions please do nt hesitate to contact us.",
+  "dream_id": 4290,
+  "golden": false,
+  "name": "25g High Quality Speed Paste 70-72% - FREE SHIPPIN",
+  "p_id": 1040
+ },
+ "id": 1364
+}

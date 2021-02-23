@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1016001,
+   "lead_time": 1944.065,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d4332938-0c9f-4bf0-9547-3c469b111da8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 259,
+      "labels": [
+       "Drug"
+      ],
+      "start": 253,
+      "text": "indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "i2P7U3O1_Q",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 244,
+      "labels": [
+       "Drug"
+      ],
+      "start": 227,
+      "text": "Royal Purple Kush"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "US DOMESTIC SHIPPING ONLY. ALL INTERNATIONAL. ORDERS WILL BE CANCELLED - TRULY SORRY. We currently will only ship via USPS priority. Repeat clients , we can coordiante other options if desired. This is for 4 oz 112 g of Indoor Royal Purple Kush. A nice indica , with a strong and pungent unique compilation of terpenes. Earthy and skunky ,. It definitely has that nice purp smell.",
+  "dream_id": 380427,
+  "golden": false,
+  "name": "Indoor Royal Purple Kush (4 oz - 112g) Quarter LB",
+  "p_id": 631
+ },
+ "id": 1016
+}

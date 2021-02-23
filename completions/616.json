@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 616001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "54f8f1ff-d5de-4009-a187-c500264ac76a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 16,
+      "labels": [
+       "Drug"
+      ],
+      "start": 12,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 Grams of weed powder mix , Good for low budget smokers.",
+  "dream_id": 327327,
+  "golden": false,
+  "name": "10GR Weed Powder mix - for low budget smokers !!!",
+  "p_id": 277
+ },
+ "id": 616
+}

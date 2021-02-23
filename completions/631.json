@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 631001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a28556d4-50f4-4fc7-b531-44d19987cefd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 29,
+      "labels": [
+       "Drug"
+      ],
+      "start": 20,
+      "text": "Lidocaine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "83155375-5448-4300-9687-e941f457a180",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 52,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Lidocaine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "20 grams 0,02 kg of Lidocaine 99 , 7 Pure. Lidocaine numbing powder. Perfect for pain relif other uses , numbs tounge when licked. Can easily be mixed with other products.",
+  "dream_id": 387723,
+  "golden": false,
+  "name": "Lidocaine 99.7% HCL | 20g EU Pharmac",
+  "p_id": 296
+ },
+ "id": 631
+}

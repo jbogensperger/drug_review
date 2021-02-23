@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 921001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "bf01bb80-405c-4b1e-adf6-29ddcd604773",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 46,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Sour Diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "54aaa669-aec5-420c-b9a8-c51610765458",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 136,
+      "labels": [
+       "Drug"
+      ],
+      "start": 130,
+      "text": "Sour D"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Here is my current inventory list. Sour Diesel -. 400\/ qp. 800 1 \/ 2 lb. 1500 \/ lb 2500\/2lb 3800\/3lb. Very strong sour nose. True Sour D genetics. The tastes are dank , clean and flavorful , very lots of strong terpenes with the strains grown. Great bag appeal. Great nose. kik 420 mate17.",
+  "dream_id": 418703,
+  "golden": false,
+  "name": "A+ Greenhouse 1 lb - 1500 - Sour Diesel - Escrow",
+  "p_id": 513
+ },
+ "id": 921
+}

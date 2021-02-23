@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 14001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "21362423-0ed6-48ab-b025-4735a47c59d2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 153,
+      "labels": [
+       "Drug"
+      ],
+      "start": 135,
+      "text": "Grand Daddy Purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f6d965c3-6fe4-41e4-9cd8-ff875df3f58e",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 13,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "GDP"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Delicious GDP crumble wax. Top shelf medicine extracted from indoor bud trim. Non-stick container included. Northern California Indoor Grand Daddy Purple. Delicious purple flavor , heavy oder heavy effect. Top - tier heirloom genetics , indoor coco \/ hydro , Strict medical growing extracting standards. Picture in listing is always of the product offered in that listing. 3. If you found us you likely know us. 3 Welcome back to FernGully. We offer the highest quality , boutique buds extractions direct from Northern California. All our listings are limited quantities , top tier genetics the highest standards of nurturing extracting these beautiful flowers.",
+  "dream_id": 330058,
+  "golden": false,
+  "name": "Grand Daddy Purple Wax 1g- NorCal Crumble from Fer",
+  "p_id": 18
+ },
+ "id": 14
+}

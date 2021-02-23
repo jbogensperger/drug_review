@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 770001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "94de17a5-ada3-4bb9-b37c-070378805a12",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 26,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Promethazine Hcl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "dff41060-9949-4719-abd0-1bd53821ed0d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "Phenergan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5a87de72-5d7b-4f6f-be54-63d4924f4f19",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 92,
+      "labels": [
+       "Drug"
+      ],
+      "start": 83,
+      "text": "Phenergan"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3166ecfc-b1cc-461e-b1df-26b3f81c6d91",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 166,
+      "labels": [
+       "Drug"
+      ],
+      "start": 152,
+      "text": "phenothiazines"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6c41a468-ab1b-48a2-8b6d-08978f1f7273",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 241,
+      "labels": [
+       "Drug"
+      ],
+      "start": 229,
+      "text": "Promethazine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4a925fb5-79f7-4262-806d-ab71626bdb60",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 364,
+      "labels": [
+       "Drug"
+      ],
+      "start": 355,
+      "text": "Phenergan"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product - Promethazine Hcl Brand - Phenergan 25 mg Manufactured by - Abott What is Phenergan. Phenergan promethazine belongs to a group of drugs called phenothiazines. It works by changing the actions of chemicals in your brain. Promethazine also acts as an antihistamine. It blocks the effects of the naturally occurring chemical histamine in your body. Phenergan is used to treat allergy. Shipping Options Delivery time 1 Express Delivery \/ With sign. - Full tracking - 8 Days. 2 Registered Air mail \/ with sign - Tracks up to leaving India - 12 Days. 3 Air mail \/ No sign - No tracker - 14 Days. For any other info , please message me.",
+  "dream_id": 276966,
+  "golden": false,
+  "name": "Promethazine tablets - 200Pills-for purple dank",
+  "p_id": 204
+ },
+ "id": 770
+}

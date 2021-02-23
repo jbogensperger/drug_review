@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 710001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2b508749-1d7c-41c1-a0ab-d47b476baed9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 72,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "poppers"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Great for a gift or to get high yourself , these are top quality poppers.",
+  "dream_id": 293305,
+  "golden": false,
+  "name": "Poppers 4pk",
+  "p_id": 389
+ },
+ "id": 710
+}

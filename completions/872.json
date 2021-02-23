@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 872001,
+   "lead_time": 4432.98,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a4203945-f3bb-4d39-ba5f-d9b83695cde9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 22,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "Testosterone Enanthate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "57bc49ab-f282-4742-ac48-e9c86caf62f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 131,
+      "labels": [
+       "Drug"
+      ],
+      "start": 109,
+      "text": "Testosterone Enanthate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "RVArVipKBL",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 462,
+      "labels": [
+       "Drug"
+      ],
+      "start": 442,
+      "text": "Nandrolone Decanoate"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "vgzDvTk3Kr",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 182,
+      "labels": [
+       "Drug"
+      ],
+      "start": 169,
+      "text": "testosterone "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "321ynul6K0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 88,
+      "text": "steroid "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Testosterone Enanthate is one of the oldest and perhaps the most commonly used anabolic steroid of all time. Testosterone Enanthate is a slow acting release form of the testosterone hormone and would be the first large \/ long ester testosterone form used. 3 Week -. 3 - 5 Ib muscle. 4 Week -. 5 - 9. Ib muscle. 5 Week - 9 - 15. Ib muscle. - Strong and Powerful - My clients are footballers , bodybuilders , boxers and many more. - Stack with Nandrolone Decanoate for faster result and more endurance.",
+  "dream_id": 275134,
+  "golden": false,
+  "name": "Testosterone Enanthate------>1Vial 3000mg\/10ml*Esc",
+  "p_id": 447
+ },
+ "id": 872
+}

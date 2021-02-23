@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 501001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "8cba6eed-dbd5-42ae-b5ae-03bbdc15bf06",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Cali bud"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a5442fd3-a292-40b1-9c67-180006ab655b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 49,
+      "labels": [
+       "Drug"
+      ],
+      "start": 43,
+      "text": "Sour D"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6e469b23-7aeb-4ce2-b6d5-4fe9eabe43d1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 63,
+      "labels": [
+       "Drug"
+      ],
+      "start": 52,
+      "text": "Berry White"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6c76ea3d-3779-4761-bf62-c95ab5ac23f8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 75,
+      "labels": [
+       "Drug"
+      ],
+      "start": 66,
+      "text": "Skywalker"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "One pound of Cali bud. Will either receive Sour D , Berry White , Skywalker , whatever is available.",
+  "dream_id": 432629,
+  "golden": true,
+  "name": "1LB of Cali Bud, + including shipping +",
+  "p_id": 11353
+ },
+ "id": 501
+}

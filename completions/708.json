@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 708001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a081645e-6614-40eb-9c0f-d3e6b66c8ff3",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 6,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "Actual"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Actual item shown above. 25 grams directly from Mexico no cut. A. 1 per customer order per day.",
+  "dream_id": 284435,
+  "golden": false,
+  "name": "HIGH QUALITY BLACK TAR HEROIN - .25gr-FE-Free Ship",
+  "p_id": 387
+ },
+ "id": 708
+}

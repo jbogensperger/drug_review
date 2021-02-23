@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 808001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3eddf3df-1971-4500-a98f-058970ab6fd8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 23,
+      "text": "BIG DEVIL XL"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Listing is for 3 OZ of BIG DEVIL XL , will ship to anywhere in Europe. Orders outside Europe message me and I ll see if I can sort it out. Pictures coming soon.",
+  "dream_id": 393716,
+  "golden": false,
+  "name": "3 OZ BIG DEVIL XL AUTO 450 FREE SHIPPING",
+  "p_id": 307
+ },
+ "id": 808
+}

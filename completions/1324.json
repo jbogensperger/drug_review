@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1324001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e35186cc-7fe4-4eb2-b75b-a283d4898355",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 11,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "dmt"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "95 pure dmt from Mimosa tenuifolia , shipment takes about 2 - 4 weeks , include track. Professional stealth. btw the picture it s mine , u wo nt find that in anyplace without watermark.",
+  "dream_id": 118081,
+  "golden": false,
+  "name": " 1 gram crystal  NN-dmt freebase (track # availabl",
+  "p_id": 984
+ },
+ "id": 1324
+}

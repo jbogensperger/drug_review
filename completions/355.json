@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613048258,
+   "id": 355001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "1ca96f86-20ad-4daa-9081-dd0e50a163cc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 8,
+      "text": "Crystal Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "94 Pure Crystal Meth Tested in Amsterdam lab. Imported direct from Mexico. We have it smashed for shipping purposes.",
+  "dream_id": 391127,
+  "golden": false,
+  "name": "7.0g Crystal Meth 94% Pure Tested.",
+  "p_id": 147
+ },
+ "id": 355
+}

@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1190001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "7f7649f5-3f5e-421e-a811-27139ae3bbb0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 17,
+      "text": "Northern Light"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "QP 4 oz G 112 of Northern Light California Grown Huge tricombs visible. Outdoor. This is some of cheapest buds papa has right now. But do nt be fooled. This is way better than your average dealer form a fly over state.",
+  "dream_id": 400854,
+  "golden": false,
+  "name": "QP (4 oz) (G 112)Northern Lights",
+  "p_id": 833
+ },
+ "id": 1190
+}

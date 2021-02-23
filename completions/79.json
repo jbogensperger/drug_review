@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 79001,
+   "lead_time": 1005.855,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "03547e1c-1af9-40ba-afb3-659618d15ae9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 87,
+      "labels": [
+       "Drug"
+      ],
+      "start": 83,
+      "text": "meth"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a4a425c7-1e1d-4ac9-87fe-5ab35eba19ad",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 207,
+      "labels": [
+       "Drug"
+      ],
+      "start": 203,
+      "text": "Meth"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is 28 g. Beautiful in her purity and euphoric body high. UNTAINTED HA meth. UNcut ,. NO. Re-rocked garbage ,. Any route of administration will act fast. Unlike , other Narcotic Dealers , my Meth is insured \/ GUARANTEED to release dopamine Quicker than most Methylated forms. Your cargo will contain 02 g - 17g more in the slim to none chance of finding higher quality of mind altering , eye poppin , vapors. The potency will leave the avid connoisseur feeling satisfied in every fix , hit , or parachute. All shards are 100 untainted , and untouched. Beakers. Pyrex. Yours Truly YOU. International Ninjas require FE.",
+  "dream_id": 16278,
+  "golden": false,
+  "name": "H.Q. Thunder Mountain D-methylated 2.8g",
+  "p_id": 95
+ },
+ "id": 79
+}

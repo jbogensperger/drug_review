@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1128001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "94f24304-48d3-46c4-8861-f6c4ae84da50",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 66,
+      "labels": [
+       "Drug"
+      ],
+      "start": 63,
+      "text": "THC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a7b27c60-e84c-486b-b08b-b75288268027",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 183,
+      "labels": [
+       "Drug"
+      ],
+      "start": 175,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "6. Doses per bag. Each gummy contains 60 MG Yes , really 60 of THC. These gummies are more expensive than competitive products because of how much stronger they are. Contains cannabis , wild flower honey , coconut oil , gelatin , jello , water.",
+  "dream_id": 380509,
+  "golden": false,
+  "name": "Stoney Invaders 60 mg Gummies (Blue Raspberry)",
+  "p_id": 751
+ },
+ "id": 1128
+}

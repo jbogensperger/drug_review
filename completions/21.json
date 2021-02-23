@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 21001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d9a8a72c-f55f-4a2d-82d4-8125abee4e30",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 61,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "XTC"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8c06e51d-bc48-4cd4-a10c-82ba5264c4e4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9081aa88-88ba-490c-b0b5-2ef782f05d09",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 102,
+      "labels": [
+       "Drug"
+      ],
+      "start": 98,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "20a28f62-55d7-4a85-91e6-2b2c9b55dd81",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 106,
+      "labels": [
+       "Drug"
+      ],
+      "start": 103,
+      "text": "HCl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "061e3860-70bc-43fb-9ba2-2c6982b80690",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 259,
+      "labels": [
+       "Drug"
+      ],
+      "start": 256,
+      "text": "xtc"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Gold Flake colored Philipp Plein Skull. Top quality dutch XTC pills containing 220 mg MDMA 275 mg MDMA HCl. They will blow you away. The color does not come out right in the picture. But in real life this is the most Beautiful color i have ever seen for a xtc pill. Befor you order please read my profile for exceptions.",
+  "dream_id": 289893,
+  "golden": false,
+  "name": "500 XTC pills, Gold Philipp Plein Skull 275mg",
+  "p_id": 28
+ },
+ "id": 21
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1274001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "4986eb47-bb99-4af7-8f75-3e2bfc10c71c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 414,
+      "labels": [
+       "Drug"
+      ],
+      "start": 407,
+      "text": "OG Kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1d47bae8-ca7b-4e3f-8392-22efcdef99aa",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 430,
+      "labels": [
+       "Drug"
+      ],
+      "start": 417,
+      "text": "Durban Poison"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Quarter - pound of California. INDOOR grown Platinum Girl Scout Cookies indica , from the Top Shelf growers of Humboldt County. This is the highest end product you would find in a medical dispensary in California selling for sixty bucks an eighth. Top shelf triple - A boutique indoor. Only available in ounces at a time. Typically a high - end grower will only produce under 4 pounds per cycle. A cross of OG Kush , Durban Poison , and a third nmystery strain , this herb fills your mouth , nose , and lungs with sweet notes of berry and candy , followed by a fruity spiciness. Physical discomfort and mood - related issues melt away instantly. The Platinum Girl Scout Cookies strain flaunts a heavy coat of crystals \/ trichomes over it s sage green leaves , so you know before you even smell it , that it s some bomb - diggity - dank - dank potent stuff.",
+  "dream_id": 347740,
+  "golden": false,
+  "name": "Quarter lbs of Platinum Girl Scout Cookies (Indoor",
+  "p_id": 925
+ },
+ "id": 1274
+}

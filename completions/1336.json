@@ -1,0 +1,159 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1336001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "48f1aa58-6e65-41a5-8bdb-a91c1a0556be",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 109,
+      "labels": [
+       "Drug"
+      ],
+      "start": 91,
+      "text": "girl scout cookies"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "83965f89-4054-4742-93cf-3bcc226bd0b9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 168,
+      "labels": [
+       "Drug"
+      ],
+      "start": 150,
+      "text": "grand daddy purple"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "08d50eb5-416b-4faa-8c18-44a8576bee15",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 88,
+      "labels": [
+       "Drug"
+      ],
+      "start": 77,
+      "text": "Sour diesel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1fa45822-fdd8-4bb0-b5a2-d4c09cd36817",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 120,
+      "labels": [
+       "Drug"
+      ],
+      "start": 113,
+      "text": "Og kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "43cfcd94-46e4-4b30-a3e0-adf31021ef03",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 133,
+      "labels": [
+       "Drug"
+      ],
+      "start": 123,
+      "text": "blue dream"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d67a1795-32c3-4688-8298-934a515c3ca5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 147,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "green crack"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a649c844-68a5-4005-b7de-c0c6a8ea8cb7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 202,
+      "labels": [
+       "Drug"
+      ],
+      "start": 191,
+      "text": "afghan kush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c1c80d81-9e22-4c80-b20f-c50b1c4cfd49",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 179,
+      "labels": [
+       "Drug"
+      ],
+      "start": 171,
+      "text": "avidekel"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c7d54513-ee24-49d4-a2a6-d7a2b3ce6a35",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 44,
+      "labels": [
+       "Drug"
+      ],
+      "start": 35,
+      "text": "marijuana"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9fcac293-8431-48a1-b495-6bedfd148111",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 186,
+      "labels": [
+       "Drug"
+      ],
+      "start": 182,
+      "text": "ak47"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "We got top shelf real loud medical marijuana at discount prices available -. Sour diesel , girl scout cookies ,. Og kush , blue dream , green crack , grand daddy purple , avidekel , ak47 and afghan kush. Minimium order 1 \/ 2 pound. For more info , wickr me at drpabiloray.",
+  "dream_id": 398552,
+  "golden": false,
+  "name": "TOP SHELF AN REAL LOUD MEDICAL MARIJUANA",
+  "p_id": 1000
+ },
+ "id": 1336
+}

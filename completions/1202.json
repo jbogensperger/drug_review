@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1202001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "88a0edb4-b260-4b60-8c1a-a255e84fcec1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 14,
+      "labels": [
+       "Drug"
+      ],
+      "start": 11,
+      "text": "XTC"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1 SNAPCHAT XTC PILL ESCROW SERVICEORDERS DISPATCHED THROUGHOUT THE WEEK , MOND - SAT HIGHEST AVAILABLE STEALTH IS USEDONE SAMPLES OFFER PER CUSTOMERPLEASE ADD NAMES TO ADDRESSALSO ADD DESINATION NATION.",
+  "dream_id": 259248,
+  "golden": false,
+  "name": "INTRO - VERSACE 1 SNAPCHAT PILL",
+  "p_id": 847
+ },
+ "id": 1202
+}

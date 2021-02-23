@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 37001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "6b924333-93b7-43ce-90d7-c848bba4a3dd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 15,
+      "labels": [
+       "Drug"
+      ],
+      "start": 7,
+      "text": "MANNITOL"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cd668340-51d7-4234-b8f0-4b60037ab6d7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 47,
+      "text": "HEROIN"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3febc9b2-39b3-4013-8905-e048695d47b4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 143,
+      "labels": [
+       "Drug"
+      ],
+      "start": 136,
+      "text": "Furanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "debd8301-546c-476a-8d40-0d5c66d0c180",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 154,
+      "labels": [
+       "Drug"
+      ],
+      "start": 146,
+      "text": "Fentanyl"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "34742800-33fc-4e00-a130-84fb14dc1a97",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 180,
+      "labels": [
+       "Drug"
+      ],
+      "start": 172,
+      "text": "mannitol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "da13f8fb-d577-4377-b395-460ccf961388",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 259,
+      "labels": [
+       "Drug"
+      ],
+      "start": 251,
+      "text": "mannitol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "fcc55a31-5a9b-4549-aeaa-85b35e3c2ece",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 554,
+      "labels": [
+       "Drug"
+      ],
+      "start": 546,
+      "text": "Mannitol"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "FU - F MANNITOL MIX. LEGAL PRODUCT , SYNTHETIC HEROIN. This listing is for synthetic heroin also known as china white. This is a mix of Furanyl - Fentanyl and Pharma grade mannitol professionally mixed in a mixer. Fu - F is very potent. This mix with mannitol is safe to use even if you do nt have exact scale. Good product for beginners. Recommended dosing for users NOT EXPERIENCED USERS 25 - 50 mg should work very well. dosing depends on user s experience and weight. If you are experienced with opioids , check our other products Fu - F 110 Mannitol and pure Fu - F. Routes of administration sniff , smoke , iv , oral , per rectum. Delivery takes up to 14 days , rarely up to 21 days to the US , to AUS. Reship guaranteed only for lost registered mail. Non-registered orders are shipped on your own responsibility.",
+  "dream_id": 10721,
+  "golden": false,
+  "name": "1g China White Synthetic Heroin",
+  "p_id": 48
+ },
+ "id": 37
+}

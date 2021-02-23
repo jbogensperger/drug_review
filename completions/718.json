@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 718001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "35f301aa-0d3b-4b79-931a-fcab2800de52",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Methamphetamine"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Pharmaceutical grade. Methamphetamine PureUncut. Always comes in nice big shards. Straight from the Lab. This is as good as it gets like all our products.",
+  "dream_id": 162231,
+  "golden": false,
+  "name": "2G Crystal Meth ICE Pure&Uncut A+++",
+  "p_id": 397
+ },
+ "id": 718
+}

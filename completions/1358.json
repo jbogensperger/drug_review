@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1358001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "76dc8c8f-7015-466b-a758-930aaccb9fe4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 32,
+      "labels": [
+       "Drug"
+      ],
+      "start": 28,
+      "text": "mdma"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "each cap contains 100 mg of mdma.",
+  "dream_id": 326287,
+  "golden": false,
+  "name": "100pcs KILLA MDMA CAPS ",
+  "p_id": 1031
+ },
+ "id": 1358
+}

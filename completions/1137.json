@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1137001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "a5d2514d-46b9-433d-985a-0633c3488cda",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 2,
+      "labels": [
+       "None"
+      ],
+      "start": 0,
+      "text": "14"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "14 GRAMS OF THE BEST FROM THE MIDWEST , LONG LEGS AND TONS OF EUPHORIA. THE GREY DRAGON AIMS TO PLEASE AND HITS ITS TARGET EVERY TIME. ORDER BY 9 PM CUT OFF FOR TRUE EXPRESS overnight.",
+  "dream_id": 275879,
+  "golden": false,
+  "name": "14 GRAMS OF MY BEST #4 HEROIN *TRUE OVERINGH*",
+  "p_id": 764
+ },
+ "id": 1137
+}

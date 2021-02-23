@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1612790712,
+   "id": 139001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "3ef05921-f061-44f9-993f-ae9e2d8729c2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 99,
+      "labels": [
+       "Drug"
+      ],
+      "start": 96,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3278ae0e-1bda-4739-b9b6-6c8f78cd8872",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 203,
+      "labels": [
+       "Drug"
+      ],
+      "start": 200,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1281179c-7b43-429a-a84f-4ee3f0a3944d",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 237,
+      "labels": [
+       "Drug"
+      ],
+      "start": 234,
+      "text": "LSD"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "763eecbe-14c2-441a-8855-12e498aae66b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 431,
+      "labels": [
+       "Drug"
+      ],
+      "start": 427,
+      "text": "acid"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Also available as a FE listing at a discounted price. This is an escrow listing for ten hits of LSD blotter dosed at 125 ug per tab. All of our blotter is accurately and evenly dosed with high purity LSD - 25. The specific variety of LSD will often change from batch to batch , but will always be of extremely high purity and provide lovely effects. Our products NEVER contain any substance other than what is advertised. This acid provides a clean and very enjoyable experience , with a wonderful body buzz and beautiful visuals. Artwork will vary from time to time. - Visit our shop to view listings for other quantities as well as all our high quality products.",
+  "dream_id": 338697,
+  "golden": true,
+  "name": "10x 125ug LSD Blotter - FREE SHIPPING",
+  "p_id": 11394
+ },
+ "id": 139
+}

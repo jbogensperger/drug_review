@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 933001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "08dd794e-89e5-486c-97f1-2408302e77f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 57,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "Tamoxifen Citrate"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Manufacturer. ASTRA ZENECA TR Substance Tamoxifen Citrate Pack 30 ta bs x 10 mg.",
+  "dream_id": 284311,
+  "golden": false,
+  "name": "TAMOXIFEN 10 (NOLVADEX 10) *Tamoxifen Citrate* 30 ",
+  "p_id": 527
+ },
+ "id": 933
+}

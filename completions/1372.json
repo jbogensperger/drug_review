@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1372001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "368d69bf-a697-4282-a5f5-f8f9153f5327",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 20,
+      "labels": [
+       "Drug"
+      ],
+      "start": 9,
+      "text": "Barry White"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "- 1\/4LB. Barry White -. The highest grade of indoor bud you can get anywhere - Better , cheaper bud than the other vendors.",
+  "dream_id": 288225,
+  "golden": false,
+  "name": "1\/4LB Barry White-Grade A++++ Hydro Indoor Weed",
+  "p_id": 1048
+ },
+ "id": 1372
+}

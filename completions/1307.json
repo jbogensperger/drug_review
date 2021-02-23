@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1307001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "00c8bc1c-0aac-4719-9ad3-fc7a9e8eb708",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 850,
+      "labels": [
+       "Drug"
+      ],
+      "start": 838,
+      "text": "Orange Krush"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "68fd98ff-f7ae-402b-8b2a-f198808c86b0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 84,
+      "text": "Indica"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3d57054c-0cac-4037-99df-becb14379be9",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 711,
+      "labels": [
+       "Drug"
+      ],
+      "start": 707,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This Orange Krush. So named for it s orange hairs , and potency is a special raised Indica dominant. Catering to folks who enjoy more sensual , body highs. Ideal for pain management , relaxation , and to generally get totally stoned in a classic sense. This is the kind of Bud Led Zeppelin and Aerosmith dreamed on to when they wrote their hits , and now so can you. Pro - Grown , Hydro , tended to with the utmost care , Mental effects are positive and a little bit psychedelic. It s almost like this strain has something to it that could be compared to a swig of wine. Not alcoholic , but certainly somewhat intoxicating. Wonderful for experiencing the more body based phenomenon brought on by phenomenal weed. This strains genetic pedigree is praised far and wide , and with two decades of cropping applied to the awesome potential of Orange Krush , the result is astonishing. Beware the munchies with this strain. Come get Krushed.",
+  "dream_id": 144048,
+  "golden": false,
+  "name": "*Orange Krush* +Strain Alert+ Hydro 1g ",
+  "p_id": 964
+ },
+ "id": 1307
+}

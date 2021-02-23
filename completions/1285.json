@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1285001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "ff8b61a2-a6ba-490e-ba97-9c446736b244",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 90,
+      "labels": [
+       "Drug"
+      ],
+      "start": 86,
+      "text": "coke"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "NEW LISTING ALERT. Gorgeously creamy and oily not to mention very soft. This Peruvian coke VERSION 2 is connoisseur standard. Such a euphoric buzz its unbelievable. Strong and tasty. One of Jnenfrancis top sellers on all markets and now we would like to treat you all to it. If you have any questions regarding this item please do not hesitate too asks us. Jnenfrancis.",
+  "dream_id": 94707,
+  "golden": false,
+  "name": "0.2G OF PERUVIAN CREAM COCAINE (VERSION 2) **FREE ",
+  "p_id": 938
+ },
+ "id": 1285
+}

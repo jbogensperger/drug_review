@@ -1,0 +1,159 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 741001,
+   "lead_time": 553.043,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e8dc30f7-0d7f-4676-a668-a8f22cccd816",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "KETAMINE"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "d3a07700-4bd2-4f81-b032-3f57b11b08d6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 17,
+      "labels": [
+       "Drug"
+      ],
+      "start": 10,
+      "text": "Ketaset"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1201daec-2523-4653-b061-dd53c846058a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 25,
+      "labels": [
+       "Drug"
+      ],
+      "start": 18,
+      "text": "Ketalar"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "775fda5c-6f47-40d4-a509-034ec0e016d0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 45,
+      "labels": [
+       "Drug"
+      ],
+      "start": 37,
+      "text": "Ketanest"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "G43w6y7LF4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 35,
+      "labels": [
+       "Drug"
+      ],
+      "start": 26,
+      "text": "Ketalar S"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "7ZPfu2zGRL",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 55,
+      "labels": [
+       "Drug"
+      ],
+      "start": 46,
+      "text": "Ketanest "
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "WChy3eWZLd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 67,
+      "labels": [
+       "Drug"
+      ],
+      "start": 58,
+      "text": "Special K"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "CWW9myP3tM",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 88,
+      "labels": [
+       "Drug"
+      ],
+      "start": 78,
+      "text": "Cat Valium"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "-JnJWDvFT2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 98,
+      "labels": [
+       "Drug"
+      ],
+      "start": 88,
+      "text": " Jet Super"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "AA5i5_1dzx",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 77,
+      "labels": [
+       "Drug"
+      ],
+      "start": 70,
+      "text": "Super C"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "KETAMINE. Ketaset Ketalar Ketalar SV Ketanest Ketanest S. Special K K Super C Cat Valium Jet Super acid Green. CONTACT US. Go to your App Store or play store and download kik or wickr and add uslegitdealer650. KIKlegitdealer650. WICKRlegitdealer650.",
+  "dream_id": 426936,
+  "golden": false,
+  "name": "KETAMINE",
+  "p_id": 129
+ },
+ "id": 741
+}

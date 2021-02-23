@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 517001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "d7498110-1468-45b2-be63-a6b6f498e0fd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 53,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "CRYSTAL ROCKS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9c93599a-38a9-4704-ac70-f81a72fa2cdc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 34,
+      "text": "MDMA"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "0f24ad30-4071-41d6-b2b5-6b40eabb5215",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 69,
+      "labels": [
+       "Drug"
+      ],
+      "start": 65,
+      "text": "MDMA"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "This listing is for 7g Pure Uncut MDMA. CRYSTAL ROCKS. New Batch MDMA 14\/08. Country of Origin Netherlands. Purity Test 92. FIRE BACTCH 10\/10. Please note , unless specifically requested with an attached note alongside your shipping address upon checkout , NOT A SEPARATE MESSAGE ,. For stealth purposes any orders 35 g and below will be sent in crushed rocks due to stealth shipping.",
+  "dream_id": 274526,
+  "golden": false,
+  "name": "FIRE BATCH MDMA!  7G UNCUT IMPORT \/\/\/CRYSTAL ROCKS",
+  "p_id": 122
+ },
+ "id": 517
+}

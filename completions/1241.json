@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1241001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "b2e49861-afb0-4503-b065-c3c41c047e78",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 84,
+      "labels": [
+       "Drug"
+      ],
+      "start": 77,
+      "text": "TOBACCO"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "f3f4b04d-def4-4931-8d9d-4f5cf7136469",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 139,
+      "labels": [
+       "Drug"
+      ],
+      "start": 131,
+      "text": "cannabis"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "PRE - ROLLED KINGSIZE PURE GREEN JOINT - AK47. - PURE AK47 SKUNK JOINT. - NO TOBACCO. - THIS JOINT CONTAINS 08 - 1g of your chosen cannabis - Only the best of the best from pluk2 uk xx. - ONLY 1250 each - ROYAL MAIL 24 POSTAGE. PLEASE READ OUR VENDOR PROFILE PAGE FOR ALL OF OUR TERMS AND CONDITIONS - INCLUDING REFUND POLICY. YOU SHOULD ALWAYS DO THIS WITH A NEW VENDOR ANYWAY.",
+  "dream_id": 301574,
+  "golden": false,
+  "name": "KINGSIZE PURE SKUNK JOINT - AK47 - NO TOBACCO - 24",
+  "p_id": 890
+ },
+ "id": 1241
+}

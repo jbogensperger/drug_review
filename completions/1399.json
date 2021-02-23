@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1399001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "cebce7c7-927c-4687-bbd4-60ff4af20ebf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 21,
+      "labels": [
+       "Drug"
+      ],
+      "start": 13,
+      "text": "Cannabis"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5b53d049-b3d0-4678-a979-38f06d93ce80",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 96,
+      "labels": [
+       "Drug"
+      ],
+      "start": 92,
+      "text": "Weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "High Quality Cannabis Extract. Extraction tech QWISO Quck Wash Isopropanole. Source Outdoor Weed Buds Packaging. Glas syringe or silikone container.",
+  "dream_id": 386572,
+  "golden": false,
+  "name": "0.5g Cannabis Extract",
+  "p_id": 1080
+ },
+ "id": 1399
+}

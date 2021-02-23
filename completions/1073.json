@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1073001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "618597bc-78f5-479c-b529-54f86f318dda",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 34,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "hash"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a1bdce8e-5e40-4ece-9515-7058810426c0",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 117,
+      "labels": [
+       "Drug"
+      ],
+      "start": 113,
+      "text": "hash"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Product Info - Extremely soft hash in cold or warm rooms - lot of oil - Extremely high - very good taste - clean hash - very popular in the Coffeeshops.",
+  "dream_id": 411975,
+  "golden": false,
+  "name": "1g White Widow Golden Eggs [AAA+++]",
+  "p_id": 699
+ },
+ "id": 1073
+}

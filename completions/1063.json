@@ -1,0 +1,187 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 1063001,
+   "lead_time": 2256.16,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "170a1a52-3ea7-437c-a08f-4f9eb15aff40",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 27,
+      "labels": [
+       "Drug"
+      ],
+      "start": 21,
+      "text": "Benzos"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3cbf33dc-b2f9-4729-b942-6b0122848efe",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 37,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "Ritalin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "86829bc9-e26c-4667-ad26-57b795ed7914",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 54,
+      "labels": [
+       "Drug"
+      ],
+      "start": 40,
+      "text": "Dihydrocodeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "edd216df-5852-476f-951f-39b41c442dca",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 260,
+      "labels": [
+       "Drug"
+      ],
+      "start": 252,
+      "text": "Bensedin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "12de7d46-0059-45f3-ba59-945dc6c1c919",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 298,
+      "labels": [
+       "Drug"
+      ],
+      "start": 290,
+      "text": "Zolpidem"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9197ce87-3e22-4263-aafc-3132fdbc5bd2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 318,
+      "labels": [
+       "Drug"
+      ],
+      "start": 311,
+      "text": "Bristol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "ef80dc74-3871-4249-884c-48a81141cdb7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 334,
+      "labels": [
+       "Drug"
+      ],
+      "start": 325,
+      "text": "Zopiclone"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6f4b40bb-4a76-4d53-bb09-2be6738f13ea",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 368,
+      "labels": [
+       "Drug"
+      ],
+      "start": 360,
+      "text": "Tramadol"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "31d0e95a-3298-4891-89b0-49c3c4e64adf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 401,
+      "labels": [
+       "Drug"
+      ],
+      "start": 387,
+      "text": "Dihydrocodeine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "25e2efbe-43e3-4be1-824c-12bf60adb56b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 433,
+      "labels": [
+       "Drug"
+      ],
+      "start": 426,
+      "text": "Ritalin"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a7fd6b02-7389-49e2-a186-5977dfea95c7",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 504,
+      "labels": [
+       "Drug"
+      ],
+      "start": 496,
+      "text": "Diazepam"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "Pjy6cKUkiT",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 476,
+      "labels": [
+       "Drug"
+      ],
+      "start": 458,
+      "text": "Restoril Temazepam"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "MIX AND MATCH OFFER. Benzos , Ritalin , Dihydrocodeine. Choose ANY. 2 of the following items. When placing an order , When leaving your address simply state underneath which 2 items you would like. Please choose from any 2 of the following. 2 X Strips Bensedin 10 mg Diaz 30 Tabs 1 X 10 mg Zolpidem 28 Tabs 1 X Bristol 75 mg Zopiclone 28 Tabs 2 X Strips 50 mg Tramadol 20 Tabs 1 X 30 mg Dihydrocodeine 28 Tabs 1 X Strip 10 mg Ritalin 10 Tabs 1 X Strip 30 mg Restoril Temazepam 10 Tabs 50 X 10 mg Diazepam Loose \/ Not in blisters.",
+  "dream_id": 240413,
+  "golden": false,
+  "name": "MIX AND MATCH OFFER. Benzos, Ritalin, Dihydrocodei",
+  "p_id": 689
+ },
+ "id": 1063
+}

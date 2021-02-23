@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 999001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "393a6894-b32c-480b-a17a-edf6e6f168a1",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 31,
+      "labels": [
+       "Drug"
+      ],
+      "start": 22,
+      "text": "Acetropin"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "10 vials of black top Acetropin , no water included.",
+  "dream_id": 380387,
+  "golden": false,
+  "name": "Acetropin Growth Hormone (100IU)",
+  "p_id": 611
+ },
+ "id": 999
+}

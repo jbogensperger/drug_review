@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012569,
+   "id": 772001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "60f0c3dd-2e47-4d40-ba31-621d29524ebc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 8,
+      "labels": [
+       "Drug"
+      ],
+      "start": 0,
+      "text": "omnadren"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "omnadren x 5 Polish Sus. SALE DUE TO DATE 04\/2015.",
+  "dream_id": 37879,
+  "golden": false,
+  "name": "omnadren x 5 (Polish Sus) ***SALE DUE TO DATE***",
+  "p_id": 208
+ },
+ "id": 772
+}

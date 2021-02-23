@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 597001,
+   "lead_time": 2535.74,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e2bb24a1-9216-4cd8-9458-612112ff80f4",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 319,
+      "labels": [
+       "Drug"
+      ],
+      "start": 297,
+      "text": "Psilocybin B Mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "_aGzR8Fkbj",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 71,
+      "labels": [
+       "Drug"
+      ],
+      "start": 56,
+      "text": "Magic mushrooms"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "xJqMIfw-kB",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 398,
+      "labels": [
+       "Drug"
+      ],
+      "start": 390,
+      "text": "Shrooms "
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "I M BACK Mkay. NEW BATCH. Great price \/ quality dried B Magic mushrooms. Grown and dried professional. Send with great care and a little extra. Great stealth and packaging. Shipped within 24 hours. NO SIGNING. I HAVE 1 FALSE FEEDBACK , PLEASE IGNORE. Any questions. Please ask. Product info Dried Psilocybin B Mushrooms. 3 , 5 grams for a portion. Take half that when it s your first time. Shrooms will be send POWDERED. Prices 1 portion \/ 35 grams \/ 20 , - 2 portions \/ 7 grams 37 ,50 , - 8 portions \/ 28 grams \/ ounce \/ 110 , - 16 portions \/ 56 grams \/ 2 ounces \/ 207 , - Need moar. Ask Mkay. Delivery time UK 3 - 14 days. Other EU countries 3 - 14 days , Asia 7 - 21 days. South America 7 - 21 days. Arabia. 7 - 21 days. 98 Success rate. NO USA OR AUSTRALIA. Address format Name , Surname Street Postal Code City Country. Any questions. Please ask.",
+  "dream_id": 336879,
+  "golden": false,
+  "name": "10 grams of POWDERED dried Psilocybin Mushrooms ",
+  "p_id": 254
+ },
+ "id": 597
+}

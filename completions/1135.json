@@ -1,0 +1,271 @@
+{
+ "completions": [
+  {
+   "created_at": 1614084099,
+   "id": 1135001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f441df9d-8f86-4b04-860e-94779cace8bf",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 142,
+      "labels": [
+       "Drug"
+      ],
+      "start": 137,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3c03f50e-4d04-40a7-a53f-22b8cf11bf65",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 156,
+      "labels": [
+       "Drug"
+      ],
+      "start": 145,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c181cc16-86ae-423b-b717-1f3bf7b65d9b",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 169,
+      "labels": [
+       "Drug"
+      ],
+      "start": 164,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "1458246d-401d-42b5-88ac-0a6bec7b5230",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 183,
+      "labels": [
+       "Drug"
+      ],
+      "start": 172,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8539260b-1c14-4b18-82cc-b83b233ac676",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 197,
+      "labels": [
+       "Drug"
+      ],
+      "start": 192,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "781e5daf-893b-49ec-a49f-72305472a893",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 211,
+      "labels": [
+       "Drug"
+      ],
+      "start": 200,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "cc8b0d78-c416-4ab2-a3cb-acc1852e266c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 226,
+      "labels": [
+       "Drug"
+      ],
+      "start": 221,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "8801c952-a0d5-4945-ae6b-b085c5663149",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 240,
+      "labels": [
+       "Drug"
+      ],
+      "start": 229,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "a81e5a68-eadb-4410-877a-735eb4ba5849",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 255,
+      "labels": [
+       "Drug"
+      ],
+      "start": 250,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "c653685c-d37e-4a99-aa49-2ec599da2e8c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 269,
+      "labels": [
+       "Drug"
+      ],
+      "start": 258,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "3cdfdd3f-8246-4d9d-af81-e38a61a92a1a",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 284,
+      "labels": [
+       "Drug"
+      ],
+      "start": 279,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9079eba0-de28-4a25-838f-d1f98e4d9f17",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 298,
+      "labels": [
+       "Drug"
+      ],
+      "start": 287,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "258fee83-75c4-4821-92ab-4f1cc3dd2d04",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 315,
+      "labels": [
+       "Drug"
+      ],
+      "start": 310,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "5c1c60f3-433f-4eb1-9837-4d40c2277b55",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 329,
+      "labels": [
+       "Drug"
+      ],
+      "start": 318,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "6ea5faa0-4710-43f9-821e-4233d8d57fd8",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 346,
+      "labels": [
+       "Drug"
+      ],
+      "start": 341,
+      "text": "Speed"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "bad22be4-6543-482d-bf5b-389c86970a29",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 360,
+      "labels": [
+       "Drug"
+      ],
+      "start": 349,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "9302ea5e-8c93-4d4c-9c5f-5d4814cdadcc",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 391,
+      "labels": [
+       "Drug"
+      ],
+      "start": 380,
+      "text": "Amphetamine"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "091d9cbd-6a30-4498-b7b8-22455417efa2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 377,
+      "labels": [
+       "Drug"
+      ],
+      "start": 372,
+      "text": "Speed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "It s just decent , good stuff , smelling fishy , for this price , more than words can say. We offer this product in large quantity s. 1g Speed \/ Amphetamine 750 3g Speed \/ Amphetamine 1800 5g Speed \/ Amphetamine 2500 10g Speed \/ Amphetamine 4500 20g Speed \/ Amphetamine 7000 50g Speed \/ Amphetamine 15000 100g Speed \/ Amphetamine 25000 200g Speed \/ Amphetamine 45000 500g Speed \/ Amphetamine 100000.",
+  "dream_id": 247084,
+  "golden": false,
+  "name": "200g Speed \/ Amphetamine \/ Pepp \/ Schnelles PROMOT",
+  "p_id": 761
+ },
+ "id": 1135
+}

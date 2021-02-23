@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 601001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "e51286c4-7b68-463a-b4ee-b369506293a6",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 38,
+      "labels": [
+       "Drug"
+      ],
+      "start": 30,
+      "text": "CANNABIS"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "4ade0890-b7a9-4cd4-ba5d-d6fa9ecbd2b5",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 298,
+      "labels": [
+       "Drug"
+      ],
+      "start": 294,
+      "text": "WEED"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "THIS LISTING IS FOR TOP SHELF CANNABIS EVERYTHING IS GROWN INDOOR TO MAKE SURE BUD IS FREE OF ANY CONTAMINANTS. JUST TO MAKE SURE IT PERFECTIONS YOU WILL NOT SEE ANYTHING BETTER THEN THIS. THE SMELL ITS JUST SO AMAZING ONLY IF WE HAD SMELLIVISION FOR YOU GUYS TO BE ABLE TO SMELL THIS DANK ASS WEED.",
+  "dream_id": 404573,
+  "golden": false,
+  "name": "14 G SKUNK OG A+++ (INDOOR TOP SHELF)",
+  "p_id": 259
+ },
+ "id": 601
+}

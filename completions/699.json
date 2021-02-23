@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1613557285,
+   "id": 699001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "f84400de-5dab-4638-b9f6-0ba3bcada09c",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 437,
+      "labels": [
+       "Drug"
+      ],
+      "start": 434,
+      "text": "Xtc"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "db868c40-edb3-4a11-9723-e07c134cebcd",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 447,
+      "labels": [
+       "Drug"
+      ],
+      "start": 440,
+      "text": "HAshish"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "65f2238e-c327-433d-8f55-ebf53e108991",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 455,
+      "labels": [
+       "Drug"
+      ],
+      "start": 451,
+      "text": "Mdma"
+     }
+    },
+    {
+     "from_name": "label",
+     "id": "10fb00aa-fb11-4bb1-88a2-97f39c83cb15",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 463,
+      "labels": [
+       "Drug"
+      ],
+      "start": 459,
+      "text": "Coca"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "Ladies and Gentleman s. We are new guys on this web page but not new guys on the market. All items which we offer is came from First Hands what mean that it s non cuted , pure , High quality product. In our delivery service included. 3 lvl steals pack. - Mylar pack - Vacuum sealed - Anti dog spray. All our orders send by business type standard sized envelopes and send with priority mail services. I want to offer u best quality. - Xtc - HAshish. - Mdma. - Coca. WE make bulk discounts and sending samples. The prices u can ask in private message.",
+  "dream_id": 371223,
+  "golden": false,
+  "name": "Best XTC ever CAMEL (200mg)  1 pill (Sample)",
+  "p_id": 376
+ },
+ "id": 699
+}

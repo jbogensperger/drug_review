@@ -1,0 +1,33 @@
+{
+ "completions": [
+  {
+   "created_at": 1614012570,
+   "id": 798001,
+   "lead_time": 10.0,
+   "result": [
+    {
+     "from_name": "label",
+     "id": "2051c2bf-b455-4a5a-97ff-c814d1d92ed2",
+     "to_name": "text",
+     "type": "labels",
+     "value": {
+      "end": 23,
+      "labels": [
+       "Drug"
+      ],
+      "start": 19,
+      "text": "weed"
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "clean_description": "1lb of our premium weed with free shipping. Currently offering on Dream 35g - 55 7g - 80 14g - 135 28g - 200 56 g - 390 112g - 725 224g - 1395 1 lb - 2690. What you will get. Finest Quality Bud , Cured to PERFECTION. Express Shipping included Packages are not compressed Photos of actual product 100 Guaranteed Delivery. SHIPPING. Orders shipped Monday to Friday. Cut off time 300 PM 10 timezone. Address Format. Walter White 123 High St SYDNEY NSW 2000. PLEASE USE THE CORRECT ADDRESS FORMAT AS WE COPY AND PASTE IT. REFUND POLICY. Order 112 g 100 delivery guaranteed or your money back or 100 reship to different address. Order 112g these will be handled by case basis. No Refund \/ Reship if your package is returned due to improper address \/ fake address so please check carefully. IMPORTANT NEGATIVE FEEDBACK before even trying to contact us to resolve issue NO REFUND \/ SUPPORT.",
+  "dream_id": 377211,
+  "golden": false,
+  "name": " 1lb  PREMIUM WEED  FREESHIP",
+  "p_id": 280
+ },
+ "id": 798
+}
